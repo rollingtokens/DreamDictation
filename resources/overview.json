@@ -1,0 +1,34 @@
+{
+  "baseURL": "https://raw.githubusercontent.com/rollingtokens/DreamDictation/main/resources",
+  "regions": [
+    {
+      "id": "zh_CN",
+      "displayName": "中国大陆",
+      "subjects": [
+        {
+          "id": "English",
+          "displayName": "英语",
+          "grades": [
+            {
+              "id": "小学",
+              "displayName": "小学",
+              "publishers": [
+                {
+                  "id": "沪教版",
+                  "displayName": "沪教版",
+                  "books": [
+                    {
+                      "id": "3年级上册",
+                      "displayName": "3年级上册",
+                      "path": "zh_CN/English/小学/沪教版/3年级上册.json"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

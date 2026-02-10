@@ -1,0 +1,936 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "How do we feel?",
+      "order": 1,
+      "words": [
+        {
+          "text": "happy",
+          "translations": {
+            "zh-CN": "开心的"
+          }
+        },
+        {
+          "text": "sad",
+          "translations": {
+            "zh-CN": "难过的"
+          }
+        },
+        {
+          "text": "angry",
+          "translations": {
+            "zh-CN": "生气的"
+          }
+        },
+        {
+          "text": "tired",
+          "translations": {
+            "zh-CN": "疲倦的"
+          }
+        },
+        {
+          "text": "boy",
+          "translations": {
+            "zh-CN": "男孩"
+          }
+        },
+        {
+          "text": "girl",
+          "translations": {
+            "zh-CN": "女孩"
+          }
+        },
+        {
+          "text": "you",
+          "translations": {
+            "zh-CN": "你；你们"
+          }
+        },
+        {
+          "text": "are",
+          "translations": {
+            "zh-CN": "是"
+          }
+        },
+        {
+          "text": "not",
+          "translations": {
+            "zh-CN": "不"
+          }
+        },
+        {
+          "text": "I",
+          "translations": {
+            "zh-CN": "我"
+          }
+        },
+        {
+          "text": "am",
+          "translations": {
+            "zh-CN": "是"
+          }
+        },
+        {
+          "text": "cold",
+          "translations": {
+            "zh-CN": "冷的"
+          }
+        },
+        {
+          "text": "OK",
+          "translations": {
+            "zh-CN": "好；可以"
+          }
+        },
+        {
+          "text": "let",
+          "translations": {
+            "zh-CN": "让"
+          }
+        },
+        {
+          "text": "find",
+          "translations": {
+            "zh-CN": "找到"
+          }
+        },
+        {
+          "text": "pencil",
+          "translations": {
+            "zh-CN": "铅笔"
+          }
+        },
+        {
+          "text": "a (an)",
+          "translations": {
+            "zh-CN": "一（个；只等）"
+          }
+        },
+        {
+          "text": "too",
+          "translations": {
+            "zh-CN": "也"
+          }
+        },
+        {
+          "text": "start",
+          "translations": {
+            "zh-CN": "开始"
+          }
+        },
+        {
+          "text": "again",
+          "translations": {
+            "zh-CN": "再；又"
+          }
+        },
+        {
+          "text": "evening",
+          "translations": {
+            "zh-CN": "晚上"
+          }
+        },
+        {
+          "text": "close the window",
+          "translations": {
+            "zh-CN": "关窗户"
+          }
+        },
+        {
+          "text": "look at the blackboard",
+          "translations": {
+            "zh-CN": "看黑板"
+          }
+        },
+        {
+          "text": "Good morning.",
+          "translations": {
+            "zh-CN": "早上好。"
+          }
+        },
+        {
+          "text": "How are you?",
+          "translations": {
+            "zh-CN": "你好吗？"
+          }
+        },
+        {
+          "text": "Fine, thank you.",
+          "translations": {
+            "zh-CN": "很好，谢谢。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "What’s interesting about families?",
+      "order": 2,
+      "words": [
+        {
+          "text": "grandfather (grandpa)",
+          "translations": {
+            "zh-CN": "外公"
+          }
+        },
+        {
+          "text": "grandmother (grandma)",
+          "translations": {
+            "zh-CN": "外婆"
+          }
+        },
+        {
+          "text": "father",
+          "translations": {
+            "zh-CN": "爸爸"
+          }
+        },
+        {
+          "text": "mother",
+          "translations": {
+            "zh-CN": "妈妈"
+          }
+        },
+        {
+          "text": "sister",
+          "translations": {
+            "zh-CN": "姐妹"
+          }
+        },
+        {
+          "text": "brother",
+          "translations": {
+            "zh-CN": "兄弟"
+          }
+        },
+        {
+          "text": "me",
+          "translations": {
+            "zh-CN": "我"
+          }
+        },
+        {
+          "text": "family",
+          "translations": {
+            "zh-CN": "家庭"
+          }
+        },
+        {
+          "text": "my",
+          "translations": {
+            "zh-CN": "我的"
+          }
+        },
+        {
+          "text": "this",
+          "translations": {
+            "zh-CN": "这；这个"
+          }
+        },
+        {
+          "text": "and",
+          "translations": {
+            "zh-CN": "和"
+          }
+        },
+        {
+          "text": "she",
+          "translations": {
+            "zh-CN": "她"
+          }
+        },
+        {
+          "text": "he",
+          "translations": {
+            "zh-CN": "他"
+          }
+        },
+        {
+          "text": "who",
+          "translations": {
+            "zh-CN": "谁"
+          }
+        },
+        {
+          "text": "twin",
+          "translations": {
+            "zh-CN": "双胞胎的"
+          }
+        },
+        {
+          "text": "small",
+          "translations": {
+            "zh-CN": "小的"
+          }
+        },
+        {
+          "text": "big",
+          "translations": {
+            "zh-CN": "大的"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "What do we look like?",
+      "order": 3,
+      "words": [
+        {
+          "text": "head",
+          "translations": {
+            "zh-CN": "头"
+          }
+        },
+        {
+          "text": "eye",
+          "translations": {
+            "zh-CN": "眼睛"
+          }
+        },
+        {
+          "text": "ear",
+          "translations": {
+            "zh-CN": "耳朵"
+          }
+        },
+        {
+          "text": "mouth",
+          "translations": {
+            "zh-CN": "嘴"
+          }
+        },
+        {
+          "text": "hair",
+          "translations": {
+            "zh-CN": "头发"
+          }
+        },
+        {
+          "text": "nose",
+          "translations": {
+            "zh-CN": "鼻子"
+          }
+        },
+        {
+          "text": "face",
+          "translations": {
+            "zh-CN": "脸"
+          }
+        },
+        {
+          "text": "haircut",
+          "translations": {
+            "zh-CN": "理发"
+          }
+        },
+        {
+          "text": "long",
+          "translations": {
+            "zh-CN": "长的"
+          }
+        },
+        {
+          "text": "but",
+          "translations": {
+            "zh-CN": "但是"
+          }
+        },
+        {
+          "text": "like",
+          "translations": {
+            "zh-CN": "喜欢"
+          }
+        },
+        {
+          "text": "see",
+          "translations": {
+            "zh-CN": "看见"
+          }
+        },
+        {
+          "text": "now",
+          "translations": {
+            "zh-CN": "现在"
+          }
+        },
+        {
+          "text": "sit",
+          "translations": {
+            "zh-CN": "坐"
+          }
+        },
+        {
+          "text": "chair",
+          "translations": {
+            "zh-CN": "椅子"
+          }
+        },
+        {
+          "text": "please",
+          "translations": {
+            "zh-CN": "请"
+          }
+        },
+        {
+          "text": "have",
+          "translations": {
+            "zh-CN": "有；吃；进行"
+          }
+        },
+        {
+          "text": "short",
+          "translations": {
+            "zh-CN": "短的"
+          }
+        },
+        {
+          "text": "mum",
+          "translations": {
+            "zh-CN": "妈妈"
+          }
+        },
+        {
+          "text": "You look great!",
+          "translations": {
+            "zh-CN": "你看起来很棒！"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "How do we have fun?",
+      "order": 4,
+      "words": [
+        {
+          "text": "skip",
+          "translations": {
+            "zh-CN": "跳绳"
+          }
+        },
+        {
+          "text": "run",
+          "translations": {
+            "zh-CN": "跑"
+          }
+        },
+        {
+          "text": "fly a kite",
+          "translations": {
+            "zh-CN": "放风筝"
+          }
+        },
+        {
+          "text": "skateboard",
+          "translations": {
+            "zh-CN": "玩滑板"
+          }
+        },
+        {
+          "text": "ride a bike",
+          "translations": {
+            "zh-CN": "骑自行车"
+          }
+        },
+        {
+          "text": "child (pl. children)",
+          "translations": {
+            "zh-CN": "孩子（复数：孩子们）"
+          }
+        },
+        {
+          "text": "in",
+          "translations": {
+            "zh-CN": "在……里面"
+          }
+        },
+        {
+          "text": "park",
+          "translations": {
+            "zh-CN": "公园"
+          }
+        },
+        {
+          "text": "can",
+          "translations": {
+            "zh-CN": "能；会"
+          }
+        },
+        {
+          "text": "fun",
+          "translations": {
+            "zh-CN": "乐趣；有趣的"
+          }
+        },
+        {
+          "text": "fast",
+          "translations": {
+            "zh-CN": "快地；快的"
+          }
+        },
+        {
+          "text": "help",
+          "translations": {
+            "zh-CN": "帮助"
+          }
+        },
+        {
+          "text": "get",
+          "translations": {
+            "zh-CN": "得到；拿"
+          }
+        },
+        {
+          "text": "bring",
+          "translations": {
+            "zh-CN": "带来"
+          }
+        },
+        {
+          "text": "jump",
+          "translations": {
+            "zh-CN": "跳"
+          }
+        },
+        {
+          "text": "want to (do)",
+          "translations": {
+            "zh-CN": "想要（做）"
+          }
+        },
+        {
+          "text": "Hello.",
+          "translations": {
+            "zh-CN": "你好。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "What do we eat?",
+      "order": 5,
+      "words": [
+        {
+          "text": "milk",
+          "translations": {
+            "zh-CN": "牛奶"
+          }
+        },
+        {
+          "text": "juice",
+          "translations": {
+            "zh-CN": "果汁"
+          }
+        },
+        {
+          "text": "tomato",
+          "translations": {
+            "zh-CN": "西红柿；番茄"
+          }
+        },
+        {
+          "text": "carrot",
+          "translations": {
+            "zh-CN": "胡萝卜"
+          }
+        },
+        {
+          "text": "apple",
+          "translations": {
+            "zh-CN": "苹果"
+          }
+        },
+        {
+          "text": "banana",
+          "translations": {
+            "zh-CN": "香蕉"
+          }
+        },
+        {
+          "text": "grape",
+          "translations": {
+            "zh-CN": "葡萄"
+          }
+        },
+        {
+          "text": "meat",
+          "translations": {
+            "zh-CN": "肉"
+          }
+        },
+        {
+          "text": "fish",
+          "translations": {
+            "zh-CN": "鱼"
+          }
+        },
+        {
+          "text": "food",
+          "translations": {
+            "zh-CN": "食物"
+          }
+        },
+        {
+          "text": "some",
+          "translations": {
+            "zh-CN": "一些"
+          }
+        },
+        {
+          "text": "fruit",
+          "translations": {
+            "zh-CN": "水果"
+          }
+        },
+        {
+          "text": "vegetable",
+          "translations": {
+            "zh-CN": "蔬菜"
+          }
+        },
+        {
+          "text": "cut",
+          "translations": {
+            "zh-CN": "切；剪"
+          }
+        },
+        {
+          "text": "no",
+          "translations": {
+            "zh-CN": "不；没有"
+          }
+        },
+        {
+          "text": "yes",
+          "translations": {
+            "zh-CN": "是的"
+          }
+        },
+        {
+          "text": "chicken",
+          "translations": {
+            "zh-CN": "鸡肉；鸡"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "What do we like about small animals?",
+      "order": 6,
+      "words": [
+        {
+          "text": "squirrel",
+          "translations": {
+            "zh-CN": "松鼠"
+          }
+        },
+        {
+          "text": "rabbit",
+          "translations": {
+            "zh-CN": "兔子"
+          }
+        },
+        {
+          "text": "cat",
+          "translations": {
+            "zh-CN": "猫"
+          }
+        },
+        {
+          "text": "mouse (pl. mice)",
+          "translations": {
+            "zh-CN": "老鼠（复数：老鼠）"
+          }
+        },
+        {
+          "text": "dog",
+          "translations": {
+            "zh-CN": "狗"
+          }
+        },
+        {
+          "text": "frog",
+          "translations": {
+            "zh-CN": "青蛙"
+          }
+        },
+        {
+          "text": "it",
+          "translations": {
+            "zh-CN": "它"
+          }
+        },
+        {
+          "text": "nice",
+          "translations": {
+            "zh-CN": "美好的；令人愉快的"
+          }
+        },
+        {
+          "text": "has",
+          "translations": {
+            "zh-CN": "有（have的第三人称单数）"
+          }
+        },
+        {
+          "text": "cute",
+          "translations": {
+            "zh-CN": "可爱的"
+          }
+        },
+        {
+          "text": "that",
+          "translations": {
+            "zh-CN": "那；那个"
+          }
+        },
+        {
+          "text": "they",
+          "translations": {
+            "zh-CN": "他们；她们；它们"
+          }
+        },
+        {
+          "text": "tail",
+          "translations": {
+            "zh-CN": "尾巴"
+          }
+        },
+        {
+          "text": "animal",
+          "translations": {
+            "zh-CN": "动物"
+          }
+        },
+        {
+          "text": "bad",
+          "translations": {
+            "zh-CN": "坏的"
+          }
+        },
+        {
+          "text": "bug",
+          "translations": {
+            "zh-CN": "虫子"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "What do we know about weather?",
+      "order": 7,
+      "words": [
+        {
+          "text": "sunny",
+          "translations": {
+            "zh-CN": "晴朗的"
+          }
+        },
+        {
+          "text": "sun",
+          "translations": {
+            "zh-CN": "太阳"
+          }
+        },
+        {
+          "text": "windy",
+          "translations": {
+            "zh-CN": "有风的"
+          }
+        },
+        {
+          "text": "wind",
+          "translations": {
+            "zh-CN": "风"
+          }
+        },
+        {
+          "text": "rainy",
+          "translations": {
+            "zh-CN": "下雨的"
+          }
+        },
+        {
+          "text": "rain",
+          "translations": {
+            "zh-CN": "雨；下雨"
+          }
+        },
+        {
+          "text": "cloudy",
+          "translations": {
+            "zh-CN": "多云的"
+          }
+        },
+        {
+          "text": "cloud",
+          "translations": {
+            "zh-CN": "云"
+          }
+        },
+        {
+          "text": "weather",
+          "translations": {
+            "zh-CN": "天气"
+          }
+        },
+        {
+          "text": "today",
+          "translations": {
+            "zh-CN": "今天"
+          }
+        },
+        {
+          "text": "hat",
+          "translations": {
+            "zh-CN": "帽子"
+          }
+        },
+        {
+          "text": "plant",
+          "translations": {
+            "zh-CN": "植物"
+          }
+        },
+        {
+          "text": "hot",
+          "translations": {
+            "zh-CN": "热的"
+          }
+        },
+        {
+          "text": "very",
+          "translations": {
+            "zh-CN": "非常"
+          }
+        },
+        {
+          "text": "have a big harvest",
+          "translations": {
+            "zh-CN": "获得大丰收"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Why do we like birthdays?",
+      "order": 8,
+      "words": [
+        {
+          "text": "cake",
+          "translations": {
+            "zh-CN": "蛋糕"
+          }
+        },
+        {
+          "text": "candle",
+          "translations": {
+            "zh-CN": "蜡烛"
+          }
+        },
+        {
+          "text": "gift",
+          "translations": {
+            "zh-CN": "礼物"
+          }
+        },
+        {
+          "text": "noodles",
+          "translations": {
+            "zh-CN": "面条"
+          }
+        },
+        {
+          "text": "toy plane",
+          "translations": {
+            "zh-CN": "玩具飞机"
+          }
+        },
+        {
+          "text": "doll",
+          "translations": {
+            "zh-CN": "洋娃娃"
+          }
+        },
+        {
+          "text": "card",
+          "translations": {
+            "zh-CN": "卡片"
+          }
+        },
+        {
+          "text": "come",
+          "translations": {
+            "zh-CN": "来"
+          }
+        },
+        {
+          "text": "love",
+          "translations": {
+            "zh-CN": "爱；喜爱"
+          }
+        },
+        {
+          "text": "meet",
+          "translations": {
+            "zh-CN": "遇见；见面"
+          }
+        },
+        {
+          "text": "box",
+          "translations": {
+            "zh-CN": "盒子"
+          }
+        },
+        {
+          "text": "book",
+          "translations": {
+            "zh-CN": "书"
+          }
+        },
+        {
+          "text": "ball",
+          "translations": {
+            "zh-CN": "球"
+          }
+        },
+        {
+          "text": "share",
+          "translations": {
+            "zh-CN": "分享"
+          }
+        },
+        {
+          "text": "go out",
+          "translations": {
+            "zh-CN": "出去"
+          }
+        },
+        {
+          "text": "Happy birthday!",
+          "translations": {
+            "zh-CN": "生日快乐！"
+          }
+        },
+        {
+          "text": "What a lovely picture!",
+          "translations": {
+            "zh-CN": "多么可爱的画啊！"
+          }
+        },
+        {
+          "text": "Good afternoon.",
+          "translations": {
+            "zh-CN": "下午好。"
+          }
+        }
+      ]
+    }
+  ]
+}
