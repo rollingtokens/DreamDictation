@@ -1,0 +1,1489 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Unit 1",
+      "order": 1,
+      "words": [
+        {
+          "text": "future",
+          "translations": {
+            "zh-CN": "将来；未来"
+          }
+        },
+        {
+          "text": "want",
+          "translations": {
+            "zh-CN": "想要"
+          }
+        },
+        {
+          "text": "pilot",
+          "translations": {
+            "zh-CN": "飞行员"
+          }
+        },
+        {
+          "text": "teach",
+          "translations": {
+            "zh-CN": "教（课）"
+          }
+        },
+        {
+          "text": "cook",
+          "translations": {
+            "zh-CN": "厨师；烹饪"
+          }
+        },
+        {
+          "text": "taxi driver",
+          "translations": {
+            "zh-CN": "出租车司机"
+          }
+        },
+        {
+          "text": "job",
+          "translations": {
+            "zh-CN": "工作；职业"
+          }
+        },
+        {
+          "text": "singer",
+          "translations": {
+            "zh-CN": "歌手"
+          }
+        },
+        {
+          "text": "fall",
+          "translations": {
+            "zh-CN": "掉落；落下"
+          }
+        },
+        {
+          "text": "lifeguard",
+          "translations": {
+            "zh-CN": "救生员"
+          }
+        },
+        {
+          "text": "save",
+          "translations": {
+            "zh-CN": "救；救助；节约"
+          }
+        },
+        {
+          "text": "become",
+          "translations": {
+            "zh-CN": "变成；变得"
+          }
+        },
+        {
+          "text": "(be) good at",
+          "translations": {
+            "zh-CN": "擅长"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Unit 2",
+      "order": 2,
+      "words": [
+        {
+          "text": "by",
+          "translations": {
+            "zh-CN": "（表示方式）；靠近"
+          }
+        },
+        {
+          "text": "walk",
+          "translations": {
+            "zh-CN": "走；步行"
+          }
+        },
+        {
+          "text": "Ms",
+          "translations": {
+            "zh-CN": "女士"
+          }
+        },
+        {
+          "text": "journey",
+          "translations": {
+            "zh-CN": "旅程，旅行"
+          }
+        },
+        {
+          "text": "primary school",
+          "translations": {
+            "zh-CN": "小学"
+          }
+        },
+        {
+          "text": "underground",
+          "translations": {
+            "zh-CN": "地铁"
+          }
+        },
+        {
+          "text": "station",
+          "translations": {
+            "zh-CN": "车站"
+          }
+        },
+        {
+          "text": "take",
+          "translations": {
+            "zh-CN": "乘坐（交通工具）；带领"
+          }
+        },
+        {
+          "text": "after",
+          "translations": {
+            "zh-CN": "在……后"
+          }
+        },
+        {
+          "text": "hour",
+          "translations": {
+            "zh-CN": "小时"
+          }
+        },
+        {
+          "text": "bus stop",
+          "translations": {
+            "zh-CN": "公共汽车站"
+          }
+        },
+        {
+          "text": "by bus",
+          "translations": {
+            "zh-CN": "乘公共汽车"
+          }
+        },
+        {
+          "text": "far from",
+          "translations": {
+            "zh-CN": "离……远"
+          }
+        },
+        {
+          "text": "on foot",
+          "translations": {
+            "zh-CN": "步行"
+          }
+        },
+        {
+          "text": "by bike",
+          "translations": {
+            "zh-CN": "骑自行车"
+          }
+        },
+        {
+          "text": "by car",
+          "translations": {
+            "zh-CN": "乘小汽车"
+          }
+        },
+        {
+          "text": "get off",
+          "translations": {
+            "zh-CN": "下车"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Unit 3",
+      "order": 3,
+      "words": [
+        {
+          "text": "party",
+          "translations": {
+            "zh-CN": "聚会"
+          }
+        },
+        {
+          "text": "when",
+          "translations": {
+            "zh-CN": "什么时候"
+          }
+        },
+        {
+          "text": "begin",
+          "translations": {
+            "zh-CN": "开始"
+          }
+        },
+        {
+          "text": "bring",
+          "translations": {
+            "zh-CN": "带来"
+          }
+        },
+        {
+          "text": "thing",
+          "translations": {
+            "zh-CN": "东西；事物"
+          }
+        },
+        {
+          "text": "favourite",
+          "translations": {
+            "zh-CN": "最喜欢的"
+          }
+        },
+        {
+          "text": "interesting",
+          "translations": {
+            "zh-CN": "有趣的"
+          }
+        },
+        {
+          "text": "hat",
+          "translations": {
+            "zh-CN": "帽子"
+          }
+        },
+        {
+          "text": "have fun",
+          "translations": {
+            "zh-CN": "尽情玩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Unit 4",
+      "order": 4,
+      "words": [
+        {
+          "text": "usually",
+          "translations": {
+            "zh-CN": "通常"
+          }
+        },
+        {
+          "text": "often",
+          "translations": {
+            "zh-CN": "经常"
+          }
+        },
+        {
+          "text": "visit",
+          "translations": {
+            "zh-CN": "看望；拜访；参观"
+          }
+        },
+        {
+          "text": "sometimes",
+          "translations": {
+            "zh-CN": "有时"
+          }
+        },
+        {
+          "text": "always",
+          "translations": {
+            "zh-CN": "总是；一直"
+          }
+        },
+        {
+          "text": "never",
+          "translations": {
+            "zh-CN": "从不"
+          }
+        },
+        {
+          "text": "play sport",
+          "translations": {
+            "zh-CN": "做运动"
+          }
+        },
+        {
+          "text": "go shopping",
+          "translations": {
+            "zh-CN": "去购物"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Unit 5",
+      "order": 5,
+      "words": [
+        {
+          "text": "clever",
+          "translations": {
+            "zh-CN": "聪明的"
+          }
+        },
+        {
+          "text": "same",
+          "translations": {
+            "zh-CN": "相同的"
+          }
+        },
+        {
+          "text": "class",
+          "translations": {
+            "zh-CN": "班；班级"
+          }
+        },
+        {
+          "text": "both",
+          "translations": {
+            "zh-CN": "（两个）都"
+          }
+        },
+        {
+          "text": "cross",
+          "translations": {
+            "zh-CN": "穿越；越过"
+          }
+        },
+        {
+          "text": "carry",
+          "translations": {
+            "zh-CN": "背；提；拿"
+          }
+        },
+        {
+          "text": "heavy",
+          "translations": {
+            "zh-CN": "重的，沉的"
+          }
+        },
+        {
+          "text": "different",
+          "translations": {
+            "zh-CN": "不同的"
+          }
+        },
+        {
+          "text": "bored",
+          "translations": {
+            "zh-CN": "无聊的"
+          }
+        },
+        {
+          "text": "word",
+          "translations": {
+            "zh-CN": "单词"
+          }
+        },
+        {
+          "text": "easy",
+          "translations": {
+            "zh-CN": "容易的"
+          }
+        },
+        {
+          "text": "say",
+          "translations": {
+            "zh-CN": "说"
+          }
+        },
+        {
+          "text": "then",
+          "translations": {
+            "zh-CN": "然后；那么"
+          }
+        },
+        {
+          "text": "ask",
+          "translations": {
+            "zh-CN": "问"
+          }
+        },
+        {
+          "text": "answer",
+          "translations": {
+            "zh-CN": "回答"
+          }
+        },
+        {
+          "text": "soon",
+          "translations": {
+            "zh-CN": "很快；不久"
+          }
+        },
+        {
+          "text": "each other",
+          "translations": {
+            "zh-CN": "互相"
+          }
+        },
+        {
+          "text": "make phone calls",
+          "translations": {
+            "zh-CN": "打电话"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Unit 6",
+      "order": 6,
+      "words": [
+        {
+          "text": "life",
+          "translations": {
+            "zh-CN": "生活"
+          }
+        },
+        {
+          "text": "living room",
+          "translations": {
+            "zh-CN": "客厅"
+          }
+        },
+        {
+          "text": "bedroom",
+          "translations": {
+            "zh-CN": "卧室"
+          }
+        },
+        {
+          "text": "model plane",
+          "translations": {
+            "zh-CN": "飞机模型"
+          }
+        },
+        {
+          "text": "kitchen",
+          "translations": {
+            "zh-CN": "厨房"
+          }
+        },
+        {
+          "text": "bathroom",
+          "translations": {
+            "zh-CN": "浴室；卫生间"
+          }
+        },
+        {
+          "text": "their",
+          "translations": {
+            "zh-CN": "他们的，她们的，它们的"
+          }
+        },
+        {
+          "text": "light",
+          "translations": {
+            "zh-CN": "灯；光"
+          }
+        },
+        {
+          "text": "watch",
+          "translations": {
+            "zh-CN": "观看；观察"
+          }
+        },
+        {
+          "text": "TV",
+          "translations": {
+            "zh-CN": "电视，电视机"
+          }
+        },
+        {
+          "text": "before",
+          "translations": {
+            "zh-CN": "在……以前"
+          }
+        },
+        {
+          "text": "bedtime",
+          "translations": {
+            "zh-CN": "就寝时间"
+          }
+        },
+        {
+          "text": "do...homework",
+          "translations": {
+            "zh-CN": "做家庭作业"
+          }
+        },
+        {
+          "text": "turn off",
+          "translations": {
+            "zh-CN": "关掉"
+          }
+        },
+        {
+          "text": "watch TV",
+          "translations": {
+            "zh-CN": "看电视"
+          }
+        },
+        {
+          "text": "tell a story",
+          "translations": {
+            "zh-CN": "讲故事"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "Unit 7",
+      "order": 7,
+      "words": [
+        {
+          "text": "beach",
+          "translations": {
+            "zh-CN": "海滩"
+          }
+        },
+        {
+          "text": "enjoy",
+          "translations": {
+            "zh-CN": "享受……的乐趣"
+          }
+        },
+        {
+          "text": "sunshine",
+          "translations": {
+            "zh-CN": "阳光"
+          }
+        },
+        {
+          "text": "collect",
+          "translations": {
+            "zh-CN": "收集"
+          }
+        },
+        {
+          "text": "shell",
+          "translations": {
+            "zh-CN": "贝壳"
+          }
+        },
+        {
+          "text": "sea",
+          "translations": {
+            "zh-CN": "海"
+          }
+        },
+        {
+          "text": "letter",
+          "translations": {
+            "zh-CN": "信"
+          }
+        },
+        {
+          "text": "put",
+          "translations": {
+            "zh-CN": "放；安置"
+          }
+        },
+        {
+          "text": "know",
+          "translations": {
+            "zh-CN": "知道"
+          }
+        },
+        {
+          "text": "year",
+          "translations": {
+            "zh-CN": "年岁；年"
+          }
+        },
+        {
+          "text": "on holiday",
+          "translations": {
+            "zh-CN": "度假"
+          }
+        },
+        {
+          "text": "have a good time",
+          "translations": {
+            "zh-CN": "玩得高兴"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Unit 8",
+      "order": 8,
+      "words": [
+        {
+          "text": "outing",
+          "translations": {
+            "zh-CN": "远足"
+          }
+        },
+        {
+          "text": "map",
+          "translations": {
+            "zh-CN": "地图"
+          }
+        },
+        {
+          "text": "hill",
+          "translations": {
+            "zh-CN": "小山"
+          }
+        },
+        {
+          "text": "find",
+          "translations": {
+            "zh-CN": "发现；找到"
+          }
+        },
+        {
+          "text": "diamond",
+          "translations": {
+            "zh-CN": "钻石"
+          }
+        },
+        {
+          "text": "another",
+          "translations": {
+            "zh-CN": "另一个"
+          }
+        },
+        {
+          "text": "lake",
+          "translations": {
+            "zh-CN": "湖"
+          }
+        },
+        {
+          "text": "funny",
+          "translations": {
+            "zh-CN": "滑稽的，好笑的"
+          }
+        },
+        {
+          "text": "hole",
+          "translations": {
+            "zh-CN": "洞"
+          }
+        },
+        {
+          "text": "key",
+          "translations": {
+            "zh-CN": "钥匙"
+          }
+        },
+        {
+          "text": "think",
+          "translations": {
+            "zh-CN": "想"
+          }
+        },
+        {
+          "text": "at the top of",
+          "translations": {
+            "zh-CN": "在……顶部"
+          }
+        },
+        {
+          "text": "get through",
+          "translations": {
+            "zh-CN": "通过"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-9",
+      "name": "Unit 9",
+      "order": 9,
+      "words": [
+        {
+          "text": "post office",
+          "translations": {
+            "zh-CN": "邮局"
+          }
+        },
+        {
+          "text": "quite",
+          "translations": {
+            "zh-CN": "相当；十分"
+          }
+        },
+        {
+          "text": "along",
+          "translations": {
+            "zh-CN": "沿着；顺着"
+          }
+        },
+        {
+          "text": "turn",
+          "translations": {
+            "zh-CN": "转向；转弯"
+          }
+        },
+        {
+          "text": "left",
+          "translations": {
+            "zh-CN": "左边"
+          }
+        },
+        {
+          "text": "straight",
+          "translations": {
+            "zh-CN": "笔直地"
+          }
+        },
+        {
+          "text": "right",
+          "translations": {
+            "zh-CN": "右边；正确的"
+          }
+        },
+        {
+          "text": "between",
+          "translations": {
+            "zh-CN": "在……中间"
+          }
+        },
+        {
+          "text": "flower shop",
+          "translations": {
+            "zh-CN": "花店"
+          }
+        },
+        {
+          "text": "hospital",
+          "translations": {
+            "zh-CN": "医院"
+          }
+        },
+        {
+          "text": "toy shop",
+          "translations": {
+            "zh-CN": "玩具店"
+          }
+        },
+        {
+          "text": "road",
+          "translations": {
+            "zh-CN": "路；马路"
+          }
+        },
+        {
+          "text": "get to",
+          "translations": {
+            "zh-CN": "到达"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "name": "Unit 10",
+      "order": 10,
+      "words": [
+        {
+          "text": "blow",
+          "translations": {
+            "zh-CN": "刮，吹"
+          }
+        },
+        {
+          "text": "gently",
+          "translations": {
+            "zh-CN": "和缓地；温柔地"
+          }
+        },
+        {
+          "text": "softly",
+          "translations": {
+            "zh-CN": "轻柔地"
+          }
+        },
+        {
+          "text": "strongly",
+          "translations": {
+            "zh-CN": "强劲地"
+          }
+        },
+        {
+          "text": "happily",
+          "translations": {
+            "zh-CN": "快乐地"
+          }
+        },
+        {
+          "text": "windmill",
+          "translations": {
+            "zh-CN": "风车"
+          }
+        },
+        {
+          "text": "move",
+          "translations": {
+            "zh-CN": "（使）改变位置；移动"
+          }
+        },
+        {
+          "text": "slowly",
+          "translations": {
+            "zh-CN": "缓慢地"
+          }
+        },
+        {
+          "text": "quickly",
+          "translations": {
+            "zh-CN": "快地；迅速地"
+          }
+        },
+        {
+          "text": "sound",
+          "translations": {
+            "zh-CN": "声音；听起来好像"
+          }
+        },
+        {
+          "text": "wind-bell",
+          "translations": {
+            "zh-CN": "风铃"
+          }
+        },
+        {
+          "text": "cut",
+          "translations": {
+            "zh-CN": "剪；砍；切"
+          }
+        },
+        {
+          "text": "paper",
+          "translations": {
+            "zh-CN": "纸；纸张"
+          }
+        },
+        {
+          "text": "quiet",
+          "translations": {
+            "zh-CN": "轻声的，安静的"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-11",
+      "name": "Unit 11",
+      "order": 11,
+      "words": [
+        {
+          "text": "tap",
+          "translations": {
+            "zh-CN": "水龙头"
+          }
+        },
+        {
+          "text": "use",
+          "translations": {
+            "zh-CN": "使用"
+          }
+        },
+        {
+          "text": "vegetable",
+          "translations": {
+            "zh-CN": "蔬菜"
+          }
+        },
+        {
+          "text": "clothes",
+          "translations": {
+            "zh-CN": "衣服；服装"
+          }
+        },
+        {
+          "text": "farmer",
+          "translations": {
+            "zh-CN": "农民"
+          }
+        },
+        {
+          "text": "useful",
+          "translations": {
+            "zh-CN": "有用的"
+          }
+        },
+        {
+          "text": "drop",
+          "translations": {
+            "zh-CN": "滴；水珠"
+          }
+        },
+        {
+          "text": "up",
+          "translations": {
+            "zh-CN": "向上；在上面"
+          }
+        },
+        {
+          "text": "shine",
+          "translations": {
+            "zh-CN": "照耀"
+          }
+        },
+        {
+          "text": "over",
+          "translations": {
+            "zh-CN": "在……上方"
+          }
+        },
+        {
+          "text": "mountain",
+          "translations": {
+            "zh-CN": "山，山脉"
+          }
+        },
+        {
+          "text": "tree",
+          "translations": {
+            "zh-CN": "树"
+          }
+        },
+        {
+          "text": "ground",
+          "translations": {
+            "zh-CN": "地面"
+          }
+        },
+        {
+          "text": "inside",
+          "translations": {
+            "zh-CN": "在……里面"
+          }
+        },
+        {
+          "text": "grow crops",
+          "translations": {
+            "zh-CN": "种庄稼"
+          }
+        },
+        {
+          "text": "put out fires",
+          "translations": {
+            "zh-CN": "灭火"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-12",
+      "name": "Unit 12",
+      "order": 12,
+      "words": [
+        {
+          "text": "fire",
+          "translations": {
+            "zh-CN": "火；火灾"
+          }
+        },
+        {
+          "text": "burn",
+          "translations": {
+            "zh-CN": "燃烧；烧"
+          }
+        },
+        {
+          "text": "hurt",
+          "translations": {
+            "zh-CN": "（使）受伤"
+          }
+        },
+        {
+          "text": "must",
+          "translations": {
+            "zh-CN": "必须"
+          }
+        },
+        {
+          "text": "careful",
+          "translations": {
+            "zh-CN": "小心的"
+          }
+        },
+        {
+          "text": "safety",
+          "translations": {
+            "zh-CN": "安全"
+          }
+        },
+        {
+          "text": "smoke",
+          "translations": {
+            "zh-CN": "吸烟"
+          }
+        },
+        {
+          "text": "match",
+          "translations": {
+            "zh-CN": "火柴"
+          }
+        },
+        {
+          "text": "heat",
+          "translations": {
+            "zh-CN": "热；高温"
+          }
+        },
+        {
+          "text": "hate",
+          "translations": {
+            "zh-CN": "讨厌"
+          }
+        },
+        {
+          "text": "burn down",
+          "translations": {
+            "zh-CN": "烧毁"
+          }
+        },
+        {
+          "text": "(be) careful with",
+          "translations": {
+            "zh-CN": "当心……"
+          }
+        },
+        {
+          "text": "not...at all",
+          "translations": {
+            "zh-CN": "一点也不……"
+          }
+        }
+      ]
+    },
+    {
+      "id": "daily-expressions",
+      "name": "Daily expressions",
+      "order": 13,
+      "words": [
+        {
+          "text": "That sounds interesting.",
+          "translations": {
+            "zh-CN": "听起来很有意思。"
+          }
+        },
+        {
+          "text": "I can't wait!",
+          "translations": {
+            "zh-CN": "我等不及了！"
+          }
+        },
+        {
+          "text": "Thank you so much.",
+          "translations": {
+            "zh-CN": "非常感谢。"
+          }
+        },
+        {
+          "text": "Let's have some fun!",
+          "translations": {
+            "zh-CN": "我们一起玩吧！"
+          }
+        },
+        {
+          "text": "This is Mary.",
+          "translations": {
+            "zh-CN": "我是玛丽。（电话用语）"
+          }
+        },
+        {
+          "text": "Come with me!",
+          "translations": {
+            "zh-CN": "跟我来！"
+          }
+        },
+        {
+          "text": "I'm bored.",
+          "translations": {
+            "zh-CN": "我觉得无聊。"
+          }
+        },
+        {
+          "text": "I don't know.",
+          "translations": {
+            "zh-CN": "我不知道。"
+          }
+        },
+        {
+          "text": "Is that Ken?",
+          "translations": {
+            "zh-CN": "你是肯吗？（电话用语）"
+          }
+        },
+        {
+          "text": "It's fun.",
+          "translations": {
+            "zh-CN": "很好玩。"
+          }
+        },
+        {
+          "text": "Excuse me.",
+          "translations": {
+            "zh-CN": "劳驾。"
+          }
+        },
+        {
+          "text": "Is that right?",
+          "translations": {
+            "zh-CN": "对吗？"
+          }
+        },
+        {
+          "text": "Let's go!",
+          "translations": {
+            "zh-CN": "我们走吧！"
+          }
+        },
+        {
+          "text": "Me too.",
+          "translations": {
+            "zh-CN": "我也是。"
+          }
+        },
+        {
+          "text": "Why?",
+          "translations": {
+            "zh-CN": "为什么？"
+          }
+        },
+        {
+          "text": "Safety first.",
+          "translations": {
+            "zh-CN": "安全第一。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proper-nouns",
+      "name": "Proper nouns",
+      "order": 14,
+      "words": [
+        {
+          "text": "Smith",
+          "translations": {
+            "zh-CN": "史密斯（姓）"
+          }
+        },
+        {
+          "text": "Green",
+          "translations": {
+            "zh-CN": "格林（姓）"
+          }
+        },
+        {
+          "text": "Jones",
+          "translations": {
+            "zh-CN": "琼斯（姓）"
+          }
+        },
+        {
+          "text": "Billy",
+          "translations": {
+            "zh-CN": "比利（男名）"
+          }
+        },
+        {
+          "text": "Mark",
+          "translations": {
+            "zh-CN": "马克（男名）"
+          }
+        },
+        {
+          "text": "Lucy",
+          "translations": {
+            "zh-CN": "露西（女名）"
+          }
+        },
+        {
+          "text": "Anna",
+          "translations": {
+            "zh-CN": "安娜（女名）"
+          }
+        },
+        {
+          "text": "UK",
+          "translations": {
+            "zh-CN": "英国"
+          }
+        },
+        {
+          "text": "Mary",
+          "translations": {
+            "zh-CN": "玛丽（女名）"
+          }
+        },
+        {
+          "text": "Double Ninth Festival",
+          "translations": {
+            "zh-CN": "重阳节"
+          }
+        },
+        {
+          "text": "US",
+          "translations": {
+            "zh-CN": "美国"
+          }
+        },
+        {
+          "text": "Grandparents' Day",
+          "translations": {
+            "zh-CN": "（美国）祖父母节"
+          }
+        },
+        {
+          "text": "Oliver",
+          "translations": {
+            "zh-CN": "奥利弗（男名）"
+          }
+        },
+        {
+          "text": "Ken",
+          "translations": {
+            "zh-CN": "肯（男名）"
+          }
+        },
+        {
+          "text": "May",
+          "translations": {
+            "zh-CN": "梅（女名）"
+          }
+        },
+        {
+          "text": "Earth Hour",
+          "translations": {
+            "zh-CN": "地球一小时"
+          }
+        },
+        {
+          "text": "the Browns",
+          "translations": {
+            "zh-CN": "布朗一家"
+          }
+        },
+        {
+          "text": "Alice in Wonderland",
+          "translations": {
+            "zh-CN": "《爱丽丝梦游仙境》"
+          }
+        },
+        {
+          "text": "Water Festival",
+          "translations": {
+            "zh-CN": "泼水节"
+          }
+        },
+        {
+          "text": "Stone Age",
+          "translations": {
+            "zh-CN": "石器时代"
+          }
+        },
+        {
+          "text": "Jim",
+          "translations": {
+            "zh-CN": "吉姆（男名）"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ordinal-numbers",
+      "name": "Ordinal numbers",
+      "order": 15,
+      "words": [
+        {
+          "text": "first",
+          "translations": {
+            "zh-CN": "第一"
+          }
+        },
+        {
+          "text": "second",
+          "translations": {
+            "zh-CN": "第二"
+          }
+        },
+        {
+          "text": "third",
+          "translations": {
+            "zh-CN": "第三"
+          }
+        },
+        {
+          "text": "fourth",
+          "translations": {
+            "zh-CN": "第四"
+          }
+        },
+        {
+          "text": "fifth",
+          "translations": {
+            "zh-CN": "第五"
+          }
+        },
+        {
+          "text": "sixth",
+          "translations": {
+            "zh-CN": "第六"
+          }
+        },
+        {
+          "text": "seventh",
+          "translations": {
+            "zh-CN": "第七"
+          }
+        },
+        {
+          "text": "eighth",
+          "translations": {
+            "zh-CN": "第八"
+          }
+        },
+        {
+          "text": "ninth",
+          "translations": {
+            "zh-CN": "第九"
+          }
+        },
+        {
+          "text": "tenth",
+          "translations": {
+            "zh-CN": "第十"
+          }
+        },
+        {
+          "text": "eleventh",
+          "translations": {
+            "zh-CN": "第十一"
+          }
+        },
+        {
+          "text": "twelfth",
+          "translations": {
+            "zh-CN": "第十二"
+          }
+        },
+        {
+          "text": "thirteenth",
+          "translations": {
+            "zh-CN": "第十三"
+          }
+        },
+        {
+          "text": "fourteenth",
+          "translations": {
+            "zh-CN": "第十四"
+          }
+        },
+        {
+          "text": "fifteenth",
+          "translations": {
+            "zh-CN": "第十五"
+          }
+        },
+        {
+          "text": "sixteenth",
+          "translations": {
+            "zh-CN": "第十六"
+          }
+        },
+        {
+          "text": "seventeenth",
+          "translations": {
+            "zh-CN": "第十七"
+          }
+        },
+        {
+          "text": "eighteenth",
+          "translations": {
+            "zh-CN": "第十八"
+          }
+        },
+        {
+          "text": "nineteenth",
+          "translations": {
+            "zh-CN": "第十九"
+          }
+        },
+        {
+          "text": "twentieth",
+          "translations": {
+            "zh-CN": "第二十"
+          }
+        },
+        {
+          "text": "twenty-first",
+          "translations": {
+            "zh-CN": "第二十一"
+          }
+        },
+        {
+          "text": "twenty-second",
+          "translations": {
+            "zh-CN": "第二十二"
+          }
+        },
+        {
+          "text": "twenty-third",
+          "translations": {
+            "zh-CN": "第二十三"
+          }
+        },
+        {
+          "text": "twenty-fourth",
+          "translations": {
+            "zh-CN": "第二十四"
+          }
+        },
+        {
+          "text": "twenty-fifth",
+          "translations": {
+            "zh-CN": "第二十五"
+          }
+        },
+        {
+          "text": "twenty-sixth",
+          "translations": {
+            "zh-CN": "第二十六"
+          }
+        },
+        {
+          "text": "twenty-seventh",
+          "translations": {
+            "zh-CN": "第二十七"
+          }
+        },
+        {
+          "text": "twenty-eighth",
+          "translations": {
+            "zh-CN": "第二十八"
+          }
+        },
+        {
+          "text": "twenty-ninth",
+          "translations": {
+            "zh-CN": "第二十九"
+          }
+        },
+        {
+          "text": "thirtieth",
+          "translations": {
+            "zh-CN": "第三十"
+          }
+        },
+        {
+          "text": "thirty-first",
+          "translations": {
+            "zh-CN": "第三十一"
+          }
+        }
+      ]
+    }
+  ]
+}

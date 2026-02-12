@@ -1,0 +1,1128 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Unit 1",
+      "order": 1,
+      "words": [
+        {
+          "text": "touch",
+          "translations": {
+            "zh-CN": "碰；触摸"
+          }
+        },
+        {
+          "text": "feel",
+          "translations": {
+            "zh-CN": "摸起来；感到"
+          }
+        },
+        {
+          "text": "soft",
+          "translations": {
+            "zh-CN": "柔软的"
+          }
+        },
+        {
+          "text": "hard",
+          "translations": {
+            "zh-CN": "坚硬的"
+          }
+        },
+        {
+          "text": "thick",
+          "translations": {
+            "zh-CN": "厚的；粗的"
+          }
+        },
+        {
+          "text": "thin",
+          "translations": {
+            "zh-CN": "薄的；细的"
+          }
+        },
+        {
+          "text": "blind",
+          "translations": {
+            "zh-CN": "瞎的；失明的"
+          }
+        },
+        {
+          "text": "noise",
+          "translations": {
+            "zh-CN": "响声；吵闹声"
+          }
+        },
+        {
+          "text": "young",
+          "translations": {
+            "zh-CN": "年轻的"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Unit 2",
+      "order": 2,
+      "words": [
+        {
+          "text": "smell",
+          "translations": {
+            "zh-CN": "闻；嗅"
+          }
+        },
+        {
+          "text": "strawberry",
+          "translations": {
+            "zh-CN": "草莓"
+          }
+        },
+        {
+          "text": "or",
+          "translations": {
+            "zh-CN": "或者；还是"
+          }
+        },
+        {
+          "text": "watermelon",
+          "translations": {
+            "zh-CN": "西瓜"
+          }
+        },
+        {
+          "text": "grape",
+          "translations": {
+            "zh-CN": "葡萄"
+          }
+        },
+        {
+          "text": "fox",
+          "translations": {
+            "zh-CN": "狐狸"
+          }
+        },
+        {
+          "text": "round",
+          "translations": {
+            "zh-CN": "圆的"
+          }
+        },
+        {
+          "text": "purple",
+          "translations": {
+            "zh-CN": "紫色的"
+          }
+        },
+        {
+          "text": "wait",
+          "translations": {
+            "zh-CN": "等待；等候"
+          }
+        },
+        {
+          "text": "minute",
+          "translations": {
+            "zh-CN": "一会儿；分钟"
+          }
+        },
+        {
+          "text": "get",
+          "translations": {
+            "zh-CN": "得到"
+          }
+        },
+        {
+          "text": "those",
+          "translations": {
+            "zh-CN": "那些"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Unit 3",
+      "order": 3,
+      "words": [
+        {
+          "text": "rise",
+          "translations": {
+            "zh-CN": "升起"
+          }
+        },
+        {
+          "text": "shadow",
+          "translations": {
+            "zh-CN": "影子"
+          }
+        },
+        {
+          "text": "noon",
+          "translations": {
+            "zh-CN": "中午"
+          }
+        },
+        {
+          "text": "high",
+          "translations": {
+            "zh-CN": "高的"
+          }
+        },
+        {
+          "text": "sky",
+          "translations": {
+            "zh-CN": "天空"
+          }
+        },
+        {
+          "text": "evening",
+          "translations": {
+            "zh-CN": "傍晚；晚上"
+          }
+        },
+        {
+          "text": "again",
+          "translations": {
+            "zh-CN": "再；又"
+          }
+        },
+        {
+          "text": "night",
+          "translations": {
+            "zh-CN": "夜晚"
+          }
+        },
+        {
+          "text": "moon",
+          "translations": {
+            "zh-CN": "月亮"
+          }
+        },
+        {
+          "text": "him",
+          "translations": {
+            "zh-CN": "他"
+          }
+        },
+        {
+          "text": "stop",
+          "translations": {
+            "zh-CN": "停下"
+          }
+        },
+        {
+          "text": "at noon",
+          "translations": {
+            "zh-CN": "在中午"
+          }
+        },
+        {
+          "text": "go down",
+          "translations": {
+            "zh-CN": "落下"
+          }
+        },
+        {
+          "text": "at night",
+          "translations": {
+            "zh-CN": "在夜晚"
+          }
+        },
+        {
+          "text": "take a walk",
+          "translations": {
+            "zh-CN": "散步"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Unit 4",
+      "order": 4,
+      "words": [
+        {
+          "text": "subject",
+          "translations": {
+            "zh-CN": "学科，科目"
+          }
+        },
+        {
+          "text": "lesson",
+          "translations": {
+            "zh-CN": "课"
+          }
+        },
+        {
+          "text": "Chinese",
+          "translations": {
+            "zh-CN": "（学科）语文"
+          }
+        },
+        {
+          "text": "Maths",
+          "translations": {
+            "zh-CN": "（学科）数学"
+          }
+        },
+        {
+          "text": "English",
+          "translations": {
+            "zh-CN": "（学科）英语"
+          }
+        },
+        {
+          "text": "Science",
+          "translations": {
+            "zh-CN": "（学科）科学"
+          }
+        },
+        {
+          "text": "PE",
+          "translations": {
+            "zh-CN": "（学科）体育"
+          }
+        },
+        {
+          "text": "Music",
+          "translations": {
+            "zh-CN": "（学科）音乐"
+          }
+        },
+        {
+          "text": "Art",
+          "translations": {
+            "zh-CN": "（学科）美术"
+          }
+        },
+        {
+          "text": "timetable",
+          "translations": {
+            "zh-CN": "课程表；时间表"
+          }
+        },
+        {
+          "text": "from",
+          "translations": {
+            "zh-CN": "从；来自"
+          }
+        },
+        {
+          "text": "a.m.",
+          "translations": {
+            "zh-CN": "上午"
+          }
+        },
+        {
+          "text": "p.m.",
+          "translations": {
+            "zh-CN": "下午"
+          }
+        },
+        {
+          "text": "break",
+          "translations": {
+            "zh-CN": "休息"
+          }
+        },
+        {
+          "text": "from...to...",
+          "translations": {
+            "zh-CN": "从……到……"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Unit 5",
+      "order": 5,
+      "words": [
+        {
+          "text": "sport",
+          "translations": {
+            "zh-CN": "体育运动"
+          }
+        },
+        {
+          "text": "football",
+          "translations": {
+            "zh-CN": "足球"
+          }
+        },
+        {
+          "text": "club",
+          "translations": {
+            "zh-CN": "俱乐部；兴趣小组"
+          }
+        },
+        {
+          "text": "join",
+          "translations": {
+            "zh-CN": "参加；加入"
+          }
+        },
+        {
+          "text": "tell",
+          "translations": {
+            "zh-CN": "告诉"
+          }
+        },
+        {
+          "text": "about",
+          "translations": {
+            "zh-CN": "关于"
+          }
+        },
+        {
+          "text": "basketball",
+          "translations": {
+            "zh-CN": "篮球"
+          }
+        },
+        {
+          "text": "volleyball",
+          "translations": {
+            "zh-CN": "排球"
+          }
+        },
+        {
+          "text": "us",
+          "translations": {
+            "zh-CN": "我们"
+          }
+        },
+        {
+          "text": "table tennis",
+          "translations": {
+            "zh-CN": "乒乓球运动"
+          }
+        },
+        {
+          "text": "play football",
+          "translations": {
+            "zh-CN": "踢足球"
+          }
+        },
+        {
+          "text": "play basketball",
+          "translations": {
+            "zh-CN": "打篮球"
+          }
+        },
+        {
+          "text": "play volleyball",
+          "translations": {
+            "zh-CN": "打排球"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Unit 6",
+      "order": 6,
+      "words": [
+        {
+          "text": "wonderful",
+          "translations": {
+            "zh-CN": "使人愉悦的；绝妙的"
+          }
+        },
+        {
+          "text": "violin",
+          "translations": {
+            "zh-CN": "小提琴"
+          }
+        },
+        {
+          "text": "guitar",
+          "translations": {
+            "zh-CN": "吉他"
+          }
+        },
+        {
+          "text": "whose",
+          "translations": {
+            "zh-CN": "谁的"
+          }
+        },
+        {
+          "text": "piano",
+          "translations": {
+            "zh-CN": "钢琴"
+          }
+        },
+        {
+          "text": "city",
+          "translations": {
+            "zh-CN": "城市"
+          }
+        },
+        {
+          "text": "bag",
+          "translations": {
+            "zh-CN": "袋子"
+          }
+        },
+        {
+          "text": "gold",
+          "translations": {
+            "zh-CN": "金子"
+          }
+        },
+        {
+          "text": "all",
+          "translations": {
+            "zh-CN": "全部；所有"
+          }
+        },
+        {
+          "text": "play the violin",
+          "translations": {
+            "zh-CN": "拉小提琴"
+          }
+        },
+        {
+          "text": "play the guitar",
+          "translations": {
+            "zh-CN": "弹吉他"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "Unit 7",
+      "order": 7,
+      "words": [
+        {
+          "text": "o'clock",
+          "translations": {
+            "zh-CN": "……点钟"
+          }
+        },
+        {
+          "text": "quarter",
+          "translations": {
+            "zh-CN": "一刻钟"
+          }
+        },
+        {
+          "text": "time",
+          "translations": {
+            "zh-CN": "时间"
+          }
+        },
+        {
+          "text": "half",
+          "translations": {
+            "zh-CN": "半；一半"
+          }
+        },
+        {
+          "text": "wash",
+          "translations": {
+            "zh-CN": "洗"
+          }
+        },
+        {
+          "text": "dinner",
+          "translations": {
+            "zh-CN": "晚餐；正餐"
+          }
+        },
+        {
+          "text": "start",
+          "translations": {
+            "zh-CN": "开始"
+          }
+        },
+        {
+          "text": "catch",
+          "translations": {
+            "zh-CN": "捉住"
+          }
+        },
+        {
+          "text": "get up",
+          "translations": {
+            "zh-CN": "起床"
+          }
+        },
+        {
+          "text": "brush ... teeth",
+          "translations": {
+            "zh-CN": "刷牙"
+          }
+        },
+        {
+          "text": "half past",
+          "translations": {
+            "zh-CN": "……点半"
+          }
+        },
+        {
+          "text": "have breakfast",
+          "translations": {
+            "zh-CN": "吃早餐"
+          }
+        },
+        {
+          "text": "go to school",
+          "translations": {
+            "zh-CN": "去上学"
+          }
+        },
+        {
+          "text": "wash... face",
+          "translations": {
+            "zh-CN": "洗脸"
+          }
+        },
+        {
+          "text": "have lunch",
+          "translations": {
+            "zh-CN": "吃午餐"
+          }
+        },
+        {
+          "text": "have dinner",
+          "translations": {
+            "zh-CN": "吃晚餐"
+          }
+        },
+        {
+          "text": "go to bed",
+          "translations": {
+            "zh-CN": "上床睡觉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Unit 8",
+      "order": 8,
+      "words": [
+        {
+          "text": "week",
+          "translations": {
+            "zh-CN": "星期"
+          }
+        },
+        {
+          "text": "Monday",
+          "translations": {
+            "zh-CN": "星期一"
+          }
+        },
+        {
+          "text": "with",
+          "translations": {
+            "zh-CN": "和……一起"
+          }
+        },
+        {
+          "text": "Tuesday",
+          "translations": {
+            "zh-CN": "星期二"
+          }
+        },
+        {
+          "text": "Wednesday",
+          "translations": {
+            "zh-CN": "星期三"
+          }
+        },
+        {
+          "text": "Thursday",
+          "translations": {
+            "zh-CN": "星期四"
+          }
+        },
+        {
+          "text": "Friday",
+          "translations": {
+            "zh-CN": "星期五"
+          }
+        },
+        {
+          "text": "game",
+          "translations": {
+            "zh-CN": "游戏"
+          }
+        },
+        {
+          "text": "Saturday",
+          "translations": {
+            "zh-CN": "星期六"
+          }
+        },
+        {
+          "text": "Sunday",
+          "translations": {
+            "zh-CN": "星期天"
+          }
+        },
+        {
+          "text": "clock",
+          "translations": {
+            "zh-CN": "时钟；钟"
+          }
+        },
+        {
+          "text": "play chess",
+          "translations": {
+            "zh-CN": "下国际象棋"
+          }
+        },
+        {
+          "text": "at the weekend",
+          "translations": {
+            "zh-CN": "在周末"
+          }
+        },
+        {
+          "text": "(be) late for",
+          "translations": {
+            "zh-CN": "迟到"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-9",
+      "name": "Unit 9",
+      "order": 9,
+      "words": [
+        {
+          "text": "China",
+          "translations": {
+            "zh-CN": "中国"
+          }
+        },
+        {
+          "text": "talk",
+          "translations": {
+            "zh-CN": "谈话；说话"
+          }
+        },
+        {
+          "text": "May",
+          "translations": {
+            "zh-CN": "五月"
+          }
+        },
+        {
+          "text": "June",
+          "translations": {
+            "zh-CN": "六月"
+          }
+        },
+        {
+          "text": "January",
+          "translations": {
+            "zh-CN": "一月"
+          }
+        },
+        {
+          "text": "February",
+          "translations": {
+            "zh-CN": "二月"
+          }
+        },
+        {
+          "text": "March",
+          "translations": {
+            "zh-CN": "三月"
+          }
+        },
+        {
+          "text": "April",
+          "translations": {
+            "zh-CN": "四月"
+          }
+        },
+        {
+          "text": "July",
+          "translations": {
+            "zh-CN": "七月"
+          }
+        },
+        {
+          "text": "August",
+          "translations": {
+            "zh-CN": "八月"
+          }
+        },
+        {
+          "text": "September",
+          "translations": {
+            "zh-CN": "九月"
+          }
+        },
+        {
+          "text": "October",
+          "translations": {
+            "zh-CN": "十月"
+          }
+        },
+        {
+          "text": "November",
+          "translations": {
+            "zh-CN": "十一月"
+          }
+        },
+        {
+          "text": "December",
+          "translations": {
+            "zh-CN": "十二月"
+          }
+        },
+        {
+          "text": "email",
+          "translations": {
+            "zh-CN": "电子邮件"
+          }
+        },
+        {
+          "text": "hat",
+          "translations": {
+            "zh-CN": "帽子"
+          }
+        },
+        {
+          "text": "wear",
+          "translations": {
+            "zh-CN": "穿；戴"
+          }
+        },
+        {
+          "text": "yours",
+          "translations": {
+            "zh-CN": "你的，你们的"
+          }
+        },
+        {
+          "text": "every year",
+          "translations": {
+            "zh-CN": "每年"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "name": "Unit 10",
+      "order": 10,
+      "words": [
+        {
+          "text": "garden",
+          "translations": {
+            "zh-CN": "花园"
+          }
+        },
+        {
+          "text": "plant",
+          "translations": {
+            "zh-CN": "植物"
+          }
+        },
+        {
+          "text": "leaf",
+          "translations": {
+            "zh-CN": "叶子（复数leaves）"
+          }
+        },
+        {
+          "text": "water",
+          "translations": {
+            "zh-CN": "给……浇水"
+          }
+        },
+        {
+          "text": "them",
+          "translations": {
+            "zh-CN": "它们，他们；她们"
+          }
+        },
+        {
+          "text": "grow",
+          "translations": {
+            "zh-CN": "（使）生长；成长"
+          }
+        },
+        {
+          "text": "seed",
+          "translations": {
+            "zh-CN": "种子"
+          }
+        },
+        {
+          "text": "every day",
+          "translations": {
+            "zh-CN": "每天"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-11",
+      "name": "Unit 11",
+      "order": 11,
+      "words": [
+        {
+          "text": "song",
+          "translations": {
+            "zh-CN": "歌曲"
+          }
+        },
+        {
+          "text": "zoo",
+          "translations": {
+            "zh-CN": "动物园"
+          }
+        },
+        {
+          "text": "cinema",
+          "translations": {
+            "zh-CN": "电影院"
+          }
+        },
+        {
+          "text": "museum",
+          "translations": {
+            "zh-CN": "博物馆"
+          }
+        },
+        {
+          "text": "also",
+          "translations": {
+            "zh-CN": "也；还"
+          }
+        },
+        {
+          "text": "have a party",
+          "translations": {
+            "zh-CN": "举办聚会"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-12",
+      "name": "Unit 12",
+      "order": 12,
+      "words": [
+        {
+          "text": "ugly",
+          "translations": {
+            "zh-CN": "丑的，丑陋的"
+          }
+        },
+        {
+          "text": "duckling",
+          "translations": {
+            "zh-CN": "小鸭"
+          }
+        },
+        {
+          "text": "duck",
+          "translations": {
+            "zh-CN": "鸭子"
+          }
+        },
+        {
+          "text": "river",
+          "translations": {
+            "zh-CN": "河；江"
+          }
+        },
+        {
+          "text": "baby",
+          "translations": {
+            "zh-CN": "宝宝；婴儿"
+          }
+        },
+        {
+          "text": "later",
+          "translations": {
+            "zh-CN": "后来；以后"
+          }
+        },
+        {
+          "text": "quack",
+          "translations": {
+            "zh-CN": "（鸭叫声）嘎嘎"
+          }
+        },
+        {
+          "text": "back",
+          "translations": {
+            "zh-CN": "背；背部"
+          }
+        },
+        {
+          "text": "away",
+          "translations": {
+            "zh-CN": "去别处，朝另一个方向"
+          }
+        },
+        {
+          "text": "swan",
+          "translations": {
+            "zh-CN": "天鹅"
+          }
+        },
+        {
+          "text": "into",
+          "translations": {
+            "zh-CN": "朝；向；到……里面"
+          }
+        }
+      ]
+    },
+    {
+      "id": "daily-expressions",
+      "name": "Daily expressions",
+      "order": 13,
+      "words": [
+        {
+          "text": "You're right.",
+          "translations": {
+            "zh-CN": "你答对了。"
+          }
+        },
+        {
+          "text": "It's yummy!",
+          "translations": {
+            "zh-CN": "味道真好！"
+          }
+        },
+        {
+          "text": "Wait a minute.",
+          "translations": {
+            "zh-CN": "等一会儿。"
+          }
+        },
+        {
+          "text": "Would you like to come with us?",
+          "translations": {
+            "zh-CN": "你愿意和我们一起（参加）吗？"
+          }
+        },
+        {
+          "text": "Sure.",
+          "translations": {
+            "zh-CN": "当然了。"
+          }
+        },
+        {
+          "text": "How about Kitty?",
+          "translations": {
+            "zh-CN": "（打听消息）基蒂如何？"
+          }
+        },
+        {
+          "text": "What time is it?",
+          "translations": {
+            "zh-CN": "几点了？"
+          }
+        },
+        {
+          "text": "Merry Christmas!",
+          "translations": {
+            "zh-CN": "圣诞节快乐！"
+          }
+        },
+        {
+          "text": "Fine,thanks.",
+          "translations": {
+            "zh-CN": "很好，谢谢。"
+          }
+        },
+        {
+          "text": "Happy Children's Day!",
+          "translations": {
+            "zh-CN": "儿童节快乐！"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proper-nouns",
+      "name": "Proper nouns",
+      "order": 14,
+      "words": [
+        {
+          "text": "Australia",
+          "translations": {
+            "zh-CN": "澳大利亚"
+          }
+        },
+        {
+          "text": "Amy",
+          "translations": {
+            "zh-CN": "艾米（女名）"
+          }
+        },
+        {
+          "text": "Sydney",
+          "translations": {
+            "zh-CN": "悉尼"
+          }
+        },
+        {
+          "text": "Christmas (Christmas Day)",
+          "translations": {
+            "zh-CN": "圣诞节"
+          }
+        },
+        {
+          "text": "Father Christmas",
+          "translations": {
+            "zh-CN": "圣诞老人"
+          }
+        },
+        {
+          "text": "New Year",
+          "translations": {
+            "zh-CN": "新年"
+          }
+        },
+        {
+          "text": "Children's Day",
+          "translations": {
+            "zh-CN": "儿童节"
+          }
+        },
+        {
+          "text": "Canada",
+          "translations": {
+            "zh-CN": "加拿大"
+          }
+        },
+        {
+          "text": "India",
+          "translations": {
+            "zh-CN": "印度"
+          }
+        },
+        {
+          "text": "Thailand",
+          "translations": {
+            "zh-CN": "泰国"
+          }
+        },
+        {
+          "text": "The ugly duckling",
+          "translations": {
+            "zh-CN": "《丑小鸭》"
+          }
+        }
+      ]
+    }
+  ]
+}

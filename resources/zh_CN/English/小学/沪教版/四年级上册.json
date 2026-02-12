@@ -1,0 +1,1335 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Unit 1",
+      "order": 1,
+      "words": [
+        {
+          "text": "city",
+          "translations": {
+            "zh-CN": "城市"
+          }
+        },
+        {
+          "text": "building",
+          "translations": {
+            "zh-CN": "建筑物；楼房"
+          }
+        },
+        {
+          "text": "flat",
+          "translations": {
+            "zh-CN": "公寓"
+          }
+        },
+        {
+          "text": "street",
+          "translations": {
+            "zh-CN": "街道"
+          }
+        },
+        {
+          "text": "country",
+          "translations": {
+            "zh-CN": "乡村；国家"
+          }
+        },
+        {
+          "text": "farm",
+          "translations": {
+            "zh-CN": "农场"
+          }
+        },
+        {
+          "text": "house",
+          "translations": {
+            "zh-CN": "房子"
+          }
+        },
+        {
+          "text": "people",
+          "translations": {
+            "zh-CN": "人；人们"
+          }
+        },
+        {
+          "text": "live",
+          "translations": {
+            "zh-CN": "居住；生活"
+          }
+        },
+        {
+          "text": "many",
+          "translations": {
+            "zh-CN": "许多的"
+          }
+        },
+        {
+          "text": "place",
+          "translations": {
+            "zh-CN": "地方"
+          }
+        },
+        {
+          "text": "quiet",
+          "translations": {
+            "zh-CN": "安静的"
+          }
+        },
+        {
+          "text": "all kinds of",
+          "translations": {
+            "zh-CN": "各种各样的"
+          }
+        },
+        {
+          "text": "a lot of",
+          "translations": {
+            "zh-CN": "许多；大量"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Unit 2",
+      "order": 2,
+      "words": [
+        {
+          "text": "eagle",
+          "translations": {
+            "zh-CN": "鹰"
+          }
+        },
+        {
+          "text": "owl",
+          "translations": {
+            "zh-CN": "猫头鹰"
+          }
+        },
+        {
+          "text": "honeybee",
+          "translations": {
+            "zh-CN": "蜜蜂"
+          }
+        },
+        {
+          "text": "nest",
+          "translations": {
+            "zh-CN": "巢；窝"
+          }
+        },
+        {
+          "text": "their",
+          "translations": {
+            "zh-CN": "他/她/它们的"
+          }
+        },
+        {
+          "text": "tree hole",
+          "translations": {
+            "zh-CN": "树洞"
+          }
+        },
+        {
+          "text": "safe",
+          "translations": {
+            "zh-CN": "安全的"
+          }
+        },
+        {
+          "text": "there",
+          "translations": {
+            "zh-CN": "在那里；那里"
+          }
+        },
+        {
+          "text": "snake",
+          "translations": {
+            "zh-CN": "蛇"
+          }
+        },
+        {
+          "text": "hive",
+          "translations": {
+            "zh-CN": "蜂巢"
+          }
+        },
+        {
+          "text": "under",
+          "translations": {
+            "zh-CN": "在……下面"
+          }
+        },
+        {
+          "text": "at night",
+          "translations": {
+            "zh-CN": "在晚上"
+          }
+        },
+        {
+          "text": "make honey",
+          "translations": {
+            "zh-CN": "酿蜜"
+          }
+        },
+        {
+          "text": "plus",
+          "translations": {
+            "zh-CN": "加；加上"
+          }
+        },
+        {
+          "text": "equal",
+          "translations": {
+            "zh-CN": "等于"
+          }
+        },
+        {
+          "text": "answer",
+          "translations": {
+            "zh-CN": "答案；回答"
+          }
+        },
+        {
+          "text": "minus",
+          "translations": {
+            "zh-CN": "减；减去"
+          }
+        },
+        {
+          "text": "odd numbers",
+          "translations": {
+            "zh-CN": "奇数"
+          }
+        },
+        {
+          "text": "even numbers",
+          "translations": {
+            "zh-CN": "偶数"
+          }
+        },
+        {
+          "text": "use",
+          "translations": {
+            "zh-CN": "使用"
+          }
+        },
+        {
+          "text": "help",
+          "translations": {
+            "zh-CN": "帮助；帮忙"
+          }
+        },
+        {
+          "text": "count",
+          "translations": {
+            "zh-CN": "数；计数"
+          }
+        },
+        {
+          "text": "thing",
+          "translations": {
+            "zh-CN": "东西；事物"
+          }
+        },
+        {
+          "text": "say",
+          "translations": {
+            "zh-CN": "说；讲"
+          }
+        },
+        {
+          "text": "every day",
+          "translations": {
+            "zh-CN": "每天"
+          }
+        },
+        {
+          "text": "how many",
+          "translations": {
+            "zh-CN": "多少"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Unit 3",
+      "order": 3,
+      "words": []
+    },
+    {
+      "id": "unit-4",
+      "name": "Unit 4",
+      "order": 4,
+      "words": [
+        {
+          "text": "supermarket",
+          "translations": {
+            "zh-CN": "超市"
+          }
+        },
+        {
+          "text": "a bag of rice",
+          "translations": {
+            "zh-CN": "一袋大米"
+          }
+        },
+        {
+          "text": "a box of eggs",
+          "translations": {
+            "zh-CN": "一盒鸡蛋"
+          }
+        },
+        {
+          "text": "a bottle of juice",
+          "translations": {
+            "zh-CN": "一瓶果汁"
+          }
+        },
+        {
+          "text": "buy",
+          "translations": {
+            "zh-CN": "买；购买"
+          }
+        },
+        {
+          "text": "sell",
+          "translations": {
+            "zh-CN": "卖；销售"
+          }
+        },
+        {
+          "text": "need",
+          "translations": {
+            "zh-CN": "需要"
+          }
+        },
+        {
+          "text": "shopping list",
+          "translations": {
+            "zh-CN": "购物清单"
+          }
+        },
+        {
+          "text": "each",
+          "translations": {
+            "zh-CN": "每个；各自"
+          }
+        },
+        {
+          "text": "team",
+          "translations": {
+            "zh-CN": "团队；小组"
+          }
+        },
+        {
+          "text": "faster",
+          "translations": {
+            "zh-CN": "更快地"
+          }
+        },
+        {
+          "text": "candy",
+          "translations": {
+            "zh-CN": "糖果"
+          }
+        },
+        {
+          "text": "bread",
+          "translations": {
+            "zh-CN": "面包"
+          }
+        },
+        {
+          "text": "win",
+          "translations": {
+            "zh-CN": "赢；获胜"
+          }
+        },
+        {
+          "text": "still",
+          "translations": {
+            "zh-CN": "仍然；还"
+          }
+        },
+        {
+          "text": "share",
+          "translations": {
+            "zh-CN": "分享"
+          }
+        },
+        {
+          "text": "water",
+          "translations": {
+            "zh-CN": "水；浇水"
+          }
+        },
+        {
+          "text": "how much",
+          "translations": {
+            "zh-CN": "多少（钱）；多少"
+          }
+        },
+        {
+          "text": "a bar of chocolate",
+          "translations": {
+            "zh-CN": "一块巧克力"
+          }
+        },
+        {
+          "text": "Here they are.",
+          "translations": {
+            "zh-CN": "它们在这儿。"
+          }
+        },
+        {
+          "text": "All right.",
+          "translations": {
+            "zh-CN": "好的。"
+          }
+        },
+        {
+          "text": "What would you like?",
+          "translations": {
+            "zh-CN": "你想要什么？"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Unit 5",
+      "order": 5,
+      "words": [
+        {
+          "text": "spring",
+          "translations": {
+            "zh-CN": "春天；春季"
+          }
+        },
+        {
+          "text": "warm",
+          "translations": {
+            "zh-CN": "温暖的；暖和的"
+          }
+        },
+        {
+          "text": "summer",
+          "translations": {
+            "zh-CN": "夏天；夏季"
+          }
+        },
+        {
+          "text": "hot",
+          "translations": {
+            "zh-CN": "热的；炎热的"
+          }
+        },
+        {
+          "text": "autumn",
+          "translations": {
+            "zh-CN": "秋天；秋季"
+          }
+        },
+        {
+          "text": "cool",
+          "translations": {
+            "zh-CN": "凉爽的；凉快的"
+          }
+        },
+        {
+          "text": "winter",
+          "translations": {
+            "zh-CN": "冬天；冬季"
+          }
+        },
+        {
+          "text": "cold",
+          "translations": {
+            "zh-CN": "冷的；寒冷的"
+          }
+        },
+        {
+          "text": "parent",
+          "translations": {
+            "zh-CN": "父亲；母亲；家长"
+          }
+        },
+        {
+          "text": "season",
+          "translations": {
+            "zh-CN": "季节"
+          }
+        },
+        {
+          "text": "year",
+          "translations": {
+            "zh-CN": "年"
+          }
+        },
+        {
+          "text": "grow",
+          "translations": {
+            "zh-CN": "生长；种植"
+          }
+        },
+        {
+          "text": "get",
+          "translations": {
+            "zh-CN": "变得；得到；拿到"
+          }
+        },
+        {
+          "text": "usually",
+          "translations": {
+            "zh-CN": "通常；常常"
+          }
+        },
+        {
+          "text": "after",
+          "translations": {
+            "zh-CN": "在……之后"
+          }
+        },
+        {
+          "text": "fall",
+          "translations": {
+            "zh-CN": "落下；掉落；秋天"
+          }
+        },
+        {
+          "text": "turn",
+          "translations": {
+            "zh-CN": "变得；转动；转弯"
+          }
+        },
+        {
+          "text": "often",
+          "translations": {
+            "zh-CN": "经常；常常"
+          }
+        },
+        {
+          "text": "snow",
+          "translations": {
+            "zh-CN": "下雪；雪"
+          }
+        },
+        {
+          "text": "then",
+          "translations": {
+            "zh-CN": "然后；那时"
+          }
+        },
+        {
+          "text": "begin",
+          "translations": {
+            "zh-CN": "开始"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Unit 6",
+      "order": 6,
+      "words": [
+        {
+          "text": "flower",
+          "translations": {
+            "zh-CN": "花；花朵"
+          }
+        },
+        {
+          "text": "fruit",
+          "translations": {
+            "zh-CN": "水果"
+          }
+        },
+        {
+          "text": "leaf",
+          "translations": {
+            "zh-CN": "叶子"
+          }
+        },
+        {
+          "text": "soil",
+          "translations": {
+            "zh-CN": "土壤；泥土"
+          }
+        },
+        {
+          "text": "sunflower",
+          "translations": {
+            "zh-CN": "向日葵"
+          }
+        },
+        {
+          "text": "seed",
+          "translations": {
+            "zh-CN": "种子"
+          }
+        },
+        {
+          "text": "put",
+          "translations": {
+            "zh-CN": "放；放置"
+          }
+        },
+        {
+          "text": "plant",
+          "translations": {
+            "zh-CN": "种植；植物"
+          }
+        },
+        {
+          "text": "root",
+          "translations": {
+            "zh-CN": "根；根部"
+          }
+        },
+        {
+          "text": "tall",
+          "translations": {
+            "zh-CN": "高的"
+          }
+        },
+        {
+          "text": "round",
+          "translations": {
+            "zh-CN": "圆的；圆形的"
+          }
+        },
+        {
+          "text": "oil",
+          "translations": {
+            "zh-CN": "油"
+          }
+        },
+        {
+          "text": "amazing",
+          "translations": {
+            "zh-CN": "令人惊奇的；惊人的"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "Unit 7",
+      "order": 7,
+      "words": [
+        {
+          "text": "green light",
+          "translations": {
+            "zh-CN": "绿灯"
+          }
+        },
+        {
+          "text": "red light",
+          "translations": {
+            "zh-CN": "红灯"
+          }
+        },
+        {
+          "text": "wait",
+          "translations": {
+            "zh-CN": "等；等待"
+          }
+        },
+        {
+          "text": "cross",
+          "translations": {
+            "zh-CN": "穿过；横过"
+          }
+        },
+        {
+          "text": "Mr",
+          "translations": {
+            "zh-CN": "先生"
+          }
+        },
+        {
+          "text": "way",
+          "translations": {
+            "zh-CN": "路；道路；方式"
+          }
+        },
+        {
+          "text": "road",
+          "translations": {
+            "zh-CN": "路；公路"
+          }
+        },
+        {
+          "text": "should",
+          "translations": {
+            "zh-CN": "应该"
+          }
+        },
+        {
+          "text": "first",
+          "translations": {
+            "zh-CN": "首先；第一"
+          }
+        },
+        {
+          "text": "left",
+          "translations": {
+            "zh-CN": "左边；向左"
+          }
+        },
+        {
+          "text": "car",
+          "translations": {
+            "zh-CN": "小汽车；汽车"
+          }
+        },
+        {
+          "text": "right",
+          "translations": {
+            "zh-CN": "右边；向右；正确的"
+          }
+        },
+        {
+          "text": "skate",
+          "translations": {
+            "zh-CN": "滑冰；滑旱冰"
+          }
+        },
+        {
+          "text": "sorry",
+          "translations": {
+            "zh-CN": "对不起；抱歉"
+          }
+        },
+        {
+          "text": "kid",
+          "translations": {
+            "zh-CN": "小孩；孩子"
+          }
+        },
+        {
+          "text": "late",
+          "translations": {
+            "zh-CN": "晚的；迟到的"
+          }
+        },
+        {
+          "text": "Good job!",
+          "translations": {
+            "zh-CN": "干得好！"
+          }
+        },
+        {
+          "text": "Hurry up!",
+          "translations": {
+            "zh-CN": "快点！"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Unit 8",
+      "order": 8,
+      "words": [
+        {
+          "text": "go shopping",
+          "translations": {
+            "zh-CN": "去购物"
+          }
+        },
+        {
+          "text": "go for a walk",
+          "translations": {
+            "zh-CN": "去散步"
+          }
+        },
+        {
+          "text": "use the internet",
+          "translations": {
+            "zh-CN": "上网；使用互联网"
+          }
+        },
+        {
+          "text": "always",
+          "translations": {
+            "zh-CN": "总是"
+          }
+        },
+        {
+          "text": "do exercise",
+          "translations": {
+            "zh-CN": "做运动；锻炼"
+          }
+        },
+        {
+          "text": "vlog",
+          "translations": {
+            "zh-CN": "视频博客；拍视频博客"
+          }
+        },
+        {
+          "text": "do housework",
+          "translations": {
+            "zh-CN": "做家务"
+          }
+        },
+        {
+          "text": "do gardening",
+          "translations": {
+            "zh-CN": "做园艺工作"
+          }
+        },
+        {
+          "text": "watch",
+          "translations": {
+            "zh-CN": "看；观看"
+          }
+        },
+        {
+          "text": "grandparent",
+          "translations": {
+            "zh-CN": "祖父；祖母；外祖父；外祖母"
+          }
+        },
+        {
+          "text": "do tai chi",
+          "translations": {
+            "zh-CN": "打太极"
+          }
+        },
+        {
+          "text": "tidy up",
+          "translations": {
+            "zh-CN": "整理；收拾"
+          }
+        },
+        {
+          "text": "week",
+          "translations": {
+            "zh-CN": "星期；周"
+          }
+        },
+        {
+          "text": "work",
+          "translations": {
+            "zh-CN": "工作；干活"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proper-nouns",
+      "name": "Proper nouns",
+      "order": 9,
+      "words": [
+        {
+          "text": "Shenzhen",
+          "translations": {
+            "zh-CN": "深圳"
+          }
+        },
+        {
+          "text": "New York",
+          "translations": {
+            "zh-CN": "纽约"
+          }
+        },
+        {
+          "text": "Star Village",
+          "translations": {
+            "zh-CN": "星星村"
+          }
+        },
+        {
+          "text": "Singapore",
+          "translations": {
+            "zh-CN": "新加坡"
+          }
+        },
+        {
+          "text": "Green Farm",
+          "translations": {
+            "zh-CN": "绿色农场"
+          }
+        },
+        {
+          "text": "the Double Ninth Festival",
+          "translations": {
+            "zh-CN": "重阳节"
+          }
+        }
+      ]
+    },
+    {
+      "id": "months",
+      "name": "Months",
+      "order": 10,
+      "words": [
+        {
+          "text": "January",
+          "translations": {
+            "zh-CN": "一月"
+          }
+        },
+        {
+          "text": "February",
+          "translations": {
+            "zh-CN": "二月"
+          }
+        },
+        {
+          "text": "March",
+          "translations": {
+            "zh-CN": "三月"
+          }
+        },
+        {
+          "text": "April",
+          "translations": {
+            "zh-CN": "四月"
+          }
+        },
+        {
+          "text": "May",
+          "translations": {
+            "zh-CN": "五月"
+          }
+        },
+        {
+          "text": "June",
+          "translations": {
+            "zh-CN": "六月"
+          }
+        },
+        {
+          "text": "July",
+          "translations": {
+            "zh-CN": "七月"
+          }
+        },
+        {
+          "text": "August",
+          "translations": {
+            "zh-CN": "八月"
+          }
+        },
+        {
+          "text": "September",
+          "translations": {
+            "zh-CN": "九月"
+          }
+        },
+        {
+          "text": "October",
+          "translations": {
+            "zh-CN": "十月"
+          }
+        },
+        {
+          "text": "November",
+          "translations": {
+            "zh-CN": "十一月"
+          }
+        },
+        {
+          "text": "December",
+          "translations": {
+            "zh-CN": "十二月"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardinal-numbers",
+      "name": "Cardinal numbers",
+      "order": 11,
+      "words": [
+        {
+          "text": "one",
+          "translations": {
+            "zh-CN": "一"
+          }
+        },
+        {
+          "text": "two",
+          "translations": {
+            "zh-CN": "二"
+          }
+        },
+        {
+          "text": "three",
+          "translations": {
+            "zh-CN": "三"
+          }
+        },
+        {
+          "text": "four",
+          "translations": {
+            "zh-CN": "四"
+          }
+        },
+        {
+          "text": "five",
+          "translations": {
+            "zh-CN": "五"
+          }
+        },
+        {
+          "text": "six",
+          "translations": {
+            "zh-CN": "六"
+          }
+        },
+        {
+          "text": "seven",
+          "translations": {
+            "zh-CN": "七"
+          }
+        },
+        {
+          "text": "eight",
+          "translations": {
+            "zh-CN": "八"
+          }
+        },
+        {
+          "text": "nine",
+          "translations": {
+            "zh-CN": "九"
+          }
+        },
+        {
+          "text": "ten",
+          "translations": {
+            "zh-CN": "十"
+          }
+        },
+        {
+          "text": "eleven",
+          "translations": {
+            "zh-CN": "十一"
+          }
+        },
+        {
+          "text": "twelve",
+          "translations": {
+            "zh-CN": "十二"
+          }
+        },
+        {
+          "text": "thirteen",
+          "translations": {
+            "zh-CN": "十三"
+          }
+        },
+        {
+          "text": "fourteen",
+          "translations": {
+            "zh-CN": "十四"
+          }
+        },
+        {
+          "text": "fifteen",
+          "translations": {
+            "zh-CN": "十五"
+          }
+        },
+        {
+          "text": "sixteen",
+          "translations": {
+            "zh-CN": "十六"
+          }
+        },
+        {
+          "text": "seventeen",
+          "translations": {
+            "zh-CN": "十七"
+          }
+        },
+        {
+          "text": "eighteen",
+          "translations": {
+            "zh-CN": "十八"
+          }
+        },
+        {
+          "text": "nineteen",
+          "translations": {
+            "zh-CN": "十九"
+          }
+        },
+        {
+          "text": "twenty",
+          "translations": {
+            "zh-CN": "二十"
+          }
+        },
+        {
+          "text": "twenty-one",
+          "translations": {
+            "zh-CN": "二十一"
+          }
+        },
+        {
+          "text": "twenty-two",
+          "translations": {
+            "zh-CN": "二十二"
+          }
+        },
+        {
+          "text": "twenty-three",
+          "translations": {
+            "zh-CN": "二十三"
+          }
+        },
+        {
+          "text": "thirty",
+          "translations": {
+            "zh-CN": "三十"
+          }
+        },
+        {
+          "text": "forty",
+          "translations": {
+            "zh-CN": "四十"
+          }
+        },
+        {
+          "text": "fifty",
+          "translations": {
+            "zh-CN": "五十"
+          }
+        },
+        {
+          "text": "sixty",
+          "translations": {
+            "zh-CN": "六十"
+          }
+        },
+        {
+          "text": "seventy",
+          "translations": {
+            "zh-CN": "七十"
+          }
+        },
+        {
+          "text": "eighty",
+          "translations": {
+            "zh-CN": "八十"
+          }
+        },
+        {
+          "text": "ninety",
+          "translations": {
+            "zh-CN": "九十"
+          }
+        },
+        {
+          "text": "one hundred",
+          "translations": {
+            "zh-CN": "一百"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ordinal-numbers",
+      "name": "Ordinal numbers",
+      "order": 12,
+      "words": [
+        {
+          "text": "first",
+          "translations": {
+            "zh-CN": "第一"
+          }
+        },
+        {
+          "text": "second",
+          "translations": {
+            "zh-CN": "第二"
+          }
+        },
+        {
+          "text": "third",
+          "translations": {
+            "zh-CN": "第三"
+          }
+        },
+        {
+          "text": "fourth",
+          "translations": {
+            "zh-CN": "第四"
+          }
+        },
+        {
+          "text": "fifth",
+          "translations": {
+            "zh-CN": "第五"
+          }
+        },
+        {
+          "text": "sixth",
+          "translations": {
+            "zh-CN": "第六"
+          }
+        },
+        {
+          "text": "seventh",
+          "translations": {
+            "zh-CN": "第七"
+          }
+        },
+        {
+          "text": "eighth",
+          "translations": {
+            "zh-CN": "第八"
+          }
+        },
+        {
+          "text": "ninth",
+          "translations": {
+            "zh-CN": "第九"
+          }
+        },
+        {
+          "text": "tenth",
+          "translations": {
+            "zh-CN": "第十"
+          }
+        },
+        {
+          "text": "eleventh",
+          "translations": {
+            "zh-CN": "第十一"
+          }
+        },
+        {
+          "text": "twelfth",
+          "translations": {
+            "zh-CN": "第十二"
+          }
+        },
+        {
+          "text": "thirteenth",
+          "translations": {
+            "zh-CN": "第十三"
+          }
+        },
+        {
+          "text": "fourteenth",
+          "translations": {
+            "zh-CN": "第十四"
+          }
+        },
+        {
+          "text": "fifteenth",
+          "translations": {
+            "zh-CN": "第十五"
+          }
+        },
+        {
+          "text": "sixteenth",
+          "translations": {
+            "zh-CN": "第十六"
+          }
+        },
+        {
+          "text": "seventeenth",
+          "translations": {
+            "zh-CN": "第十七"
+          }
+        },
+        {
+          "text": "eighteenth",
+          "translations": {
+            "zh-CN": "第十八"
+          }
+        },
+        {
+          "text": "nineteenth",
+          "translations": {
+            "zh-CN": "第十九"
+          }
+        },
+        {
+          "text": "twentieth",
+          "translations": {
+            "zh-CN": "第二十"
+          }
+        },
+        {
+          "text": "twenty-first",
+          "translations": {
+            "zh-CN": "第二十一"
+          }
+        },
+        {
+          "text": "twenty-second",
+          "translations": {
+            "zh-CN": "第二十二"
+          }
+        },
+        {
+          "text": "twenty-third",
+          "translations": {
+            "zh-CN": "第二十三"
+          }
+        },
+        {
+          "text": "twenty-fourth",
+          "translations": {
+            "zh-CN": "第二十四"
+          }
+        },
+        {
+          "text": "twenty-fifth",
+          "translations": {
+            "zh-CN": "第二十五"
+          }
+        },
+        {
+          "text": "twenty-sixth",
+          "translations": {
+            "zh-CN": "第二十六"
+          }
+        },
+        {
+          "text": "twenty-seventh",
+          "translations": {
+            "zh-CN": "第二十七"
+          }
+        },
+        {
+          "text": "twenty-eighth",
+          "translations": {
+            "zh-CN": "第二十八"
+          }
+        },
+        {
+          "text": "twenty-ninth",
+          "translations": {
+            "zh-CN": "第二十九"
+          }
+        },
+        {
+          "text": "thirtieth",
+          "translations": {
+            "zh-CN": "第三十"
+          }
+        },
+        {
+          "text": "thirty-first",
+          "translations": {
+            "zh-CN": "第三十一"
+          }
+        }
+      ]
+    }
+  ]
+}

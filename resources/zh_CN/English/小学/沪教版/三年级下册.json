@@ -1,0 +1,1158 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "How do we spend our free time?",
+      "order": 1,
+      "words": [
+        {
+          "text": "read",
+          "translations": {
+            "zh-CN": "阅读"
+          }
+        },
+        {
+          "text": "sing",
+          "translations": {
+            "zh-CN": "唱歌"
+          }
+        },
+        {
+          "text": "paint",
+          "translations": {
+            "zh-CN": "用颜料画"
+          }
+        },
+        {
+          "text": "dance",
+          "translations": {
+            "zh-CN": "跳舞"
+          }
+        },
+        {
+          "text": "swim",
+          "translations": {
+            "zh-CN": "游泳"
+          }
+        },
+        {
+          "text": "play basketball",
+          "translations": {
+            "zh-CN": "打篮球"
+          }
+        },
+        {
+          "text": "play ping-pong",
+          "translations": {
+            "zh-CN": "打乒乓球"
+          }
+        },
+        {
+          "text": "play football",
+          "translations": {
+            "zh-CN": "踢足球"
+          }
+        },
+        {
+          "text": "centre",
+          "translations": {
+            "zh-CN": "中心"
+          }
+        },
+        {
+          "text": "Ms",
+          "translations": {
+            "zh-CN": "女士"
+          }
+        },
+        {
+          "text": "our",
+          "translations": {
+            "zh-CN": "我们的"
+          }
+        },
+        {
+          "text": "talk",
+          "translations": {
+            "zh-CN": "讨论；谈论"
+          }
+        },
+        {
+          "text": "hobby",
+          "translations": {
+            "zh-CN": "业余爱好"
+          }
+        },
+        {
+          "text": "do",
+          "translations": {
+            "zh-CN": "做，干，办（某事）"
+          }
+        },
+        {
+          "text": "free",
+          "translations": {
+            "zh-CN": "空闲的"
+          }
+        },
+        {
+          "text": "us",
+          "translations": {
+            "zh-CN": "我们"
+          }
+        },
+        {
+          "text": "favourite",
+          "translations": {
+            "zh-CN": "最喜欢的"
+          }
+        },
+        {
+          "text": "sport",
+          "translations": {
+            "zh-CN": "体育运动"
+          }
+        },
+        {
+          "text": "basketball court",
+          "translations": {
+            "zh-CN": "篮球场"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "How do we make friends?",
+      "order": 2,
+      "words": [
+        {
+          "text": "play a game",
+          "translations": {
+            "zh-CN": "做游戏"
+          }
+        },
+        {
+          "text": "take a photo",
+          "translations": {
+            "zh-CN": "拍照"
+          }
+        },
+        {
+          "text": "row a boat",
+          "translations": {
+            "zh-CN": "划船"
+          }
+        },
+        {
+          "text": "climb a mountain",
+          "translations": {
+            "zh-CN": "爬山"
+          }
+        },
+        {
+          "text": "tell a story",
+          "translations": {
+            "zh-CN": "讲故事"
+          }
+        },
+        {
+          "text": "sandcastle",
+          "translations": {
+            "zh-CN": "沙堡"
+          }
+        },
+        {
+          "text": "great",
+          "translations": {
+            "zh-CN": "好极的"
+          }
+        },
+        {
+          "text": "sand",
+          "translations": {
+            "zh-CN": "沙子"
+          }
+        },
+        {
+          "text": "join",
+          "translations": {
+            "zh-CN": "参与；加入到……之中"
+          }
+        },
+        {
+          "text": "meet",
+          "translations": {
+            "zh-CN": "（与……）见面"
+          }
+        },
+        {
+          "text": "her",
+          "translations": {
+            "zh-CN": "她的"
+          }
+        },
+        {
+          "text": "we",
+          "translations": {
+            "zh-CN": "我们"
+          }
+        },
+        {
+          "text": "play beach volleyball",
+          "translations": {
+            "zh-CN": "玩沙滩排球"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "What do we wear?",
+      "order": 3,
+      "words": [
+        {
+          "text": "sweater",
+          "translations": {
+            "zh-CN": "毛衣"
+          }
+        },
+        {
+          "text": "T-shirt",
+          "translations": {
+            "zh-CN": "T恤衫；短袖汗衫"
+          }
+        },
+        {
+          "text": "skirt",
+          "translations": {
+            "zh-CN": "女裙"
+          }
+        },
+        {
+          "text": "dress",
+          "translations": {
+            "zh-CN": "连衣裙"
+          }
+        },
+        {
+          "text": "shirt",
+          "translations": {
+            "zh-CN": "衬衫"
+          }
+        },
+        {
+          "text": "trousers",
+          "translations": {
+            "zh-CN": "裤子"
+          }
+        },
+        {
+          "text": "shorts",
+          "translations": {
+            "zh-CN": "短裤"
+          }
+        },
+        {
+          "text": "coat",
+          "translations": {
+            "zh-CN": "外套；外衣；大衣"
+          }
+        },
+        {
+          "text": "cap",
+          "translations": {
+            "zh-CN": "便帽"
+          }
+        },
+        {
+          "text": "shoes",
+          "translations": {
+            "zh-CN": "鞋子"
+          }
+        },
+        {
+          "text": "wear",
+          "translations": {
+            "zh-CN": "穿；戴；佩戴"
+          }
+        },
+        {
+          "text": "school",
+          "translations": {
+            "zh-CN": "（中、小）学校"
+          }
+        },
+        {
+          "text": "different",
+          "translations": {
+            "zh-CN": "不同的"
+          }
+        },
+        {
+          "text": "clothes",
+          "translations": {
+            "zh-CN": "衣服；服装"
+          }
+        },
+        {
+          "text": "uniform",
+          "translations": {
+            "zh-CN": "制服；校服"
+          }
+        },
+        {
+          "text": "whose",
+          "translations": {
+            "zh-CN": "谁的"
+          }
+        },
+        {
+          "text": "around the world",
+          "translations": {
+            "zh-CN": "在世界各地"
+          }
+        },
+        {
+          "text": "take a look",
+          "translations": {
+            "zh-CN": "看一看"
+          }
+        },
+        {
+          "text": "of course",
+          "translations": {
+            "zh-CN": "当然"
+          }
+        },
+        {
+          "text": "a pair of",
+          "translations": {
+            "zh-CN": "一条；一双；一对"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "What sounds can we hear?",
+      "order": 4,
+      "words": [
+        {
+          "text": "grass",
+          "translations": {
+            "zh-CN": "草；青草"
+          }
+        },
+        {
+          "text": "river",
+          "translations": {
+            "zh-CN": "河；江"
+          }
+        },
+        {
+          "text": "hear",
+          "translations": {
+            "zh-CN": "听见；听到"
+          }
+        },
+        {
+          "text": "bird",
+          "translations": {
+            "zh-CN": "鸟"
+          }
+        },
+        {
+          "text": "duck",
+          "translations": {
+            "zh-CN": "鸭子"
+          }
+        },
+        {
+          "text": "bee",
+          "translations": {
+            "zh-CN": "蜜蜂"
+          }
+        },
+        {
+          "text": "lake",
+          "translations": {
+            "zh-CN": "湖；湖泊"
+          }
+        },
+        {
+          "text": "chirp",
+          "translations": {
+            "zh-CN": "（鸟叫声）"
+          }
+        },
+        {
+          "text": "buzz",
+          "translations": {
+            "zh-CN": "（蜜蜂声）"
+          }
+        },
+        {
+          "text": "by",
+          "translations": {
+            "zh-CN": "在……旁边"
+          }
+        },
+        {
+          "text": "swish",
+          "translations": {
+            "zh-CN": "（风声）"
+          }
+        },
+        {
+          "text": "blow",
+          "translations": {
+            "zh-CN": "刮；吹"
+          }
+        },
+        {
+          "text": "quack",
+          "translations": {
+            "zh-CN": "（鸭子叫声）"
+          }
+        },
+        {
+          "text": "past",
+          "translations": {
+            "zh-CN": "经过"
+          }
+        },
+        {
+          "text": "walk",
+          "translations": {
+            "zh-CN": "走；行走"
+          }
+        },
+        {
+          "text": "along",
+          "translations": {
+            "zh-CN": "沿着；顺着"
+          }
+        },
+        {
+          "text": "path",
+          "translations": {
+            "zh-CN": "小路；小径"
+          }
+        },
+        {
+          "text": "pitter-patter",
+          "translations": {
+            "zh-CN": "（雨声）"
+          }
+        },
+        {
+          "text": "time",
+          "translations": {
+            "zh-CN": "时间"
+          }
+        },
+        {
+          "text": "again",
+          "translations": {
+            "zh-CN": "再一次；又一次"
+          }
+        },
+        {
+          "text": "sound",
+          "translations": {
+            "zh-CN": "声音"
+          }
+        },
+        {
+          "text": "go outside",
+          "translations": {
+            "zh-CN": "去外面"
+          }
+        },
+        {
+          "text": "go home",
+          "translations": {
+            "zh-CN": "回家"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Where can we see colours?",
+      "order": 5,
+      "words": [
+        {
+          "text": "where",
+          "translations": {
+            "zh-CN": "哪里"
+          }
+        },
+        {
+          "text": "colour",
+          "translations": {
+            "zh-CN": "颜色"
+          }
+        },
+        {
+          "text": "pink",
+          "translations": {
+            "zh-CN": "粉红色；粉红色的"
+          }
+        },
+        {
+          "text": "blue",
+          "translations": {
+            "zh-CN": "蓝色；蓝色的"
+          }
+        },
+        {
+          "text": "red",
+          "translations": {
+            "zh-CN": "红色；红色的"
+          }
+        },
+        {
+          "text": "brown",
+          "translations": {
+            "zh-CN": "棕色；棕色的"
+          }
+        },
+        {
+          "text": "black",
+          "translations": {
+            "zh-CN": "黑色；黑色的"
+          }
+        },
+        {
+          "text": "white",
+          "translations": {
+            "zh-CN": "白色；白色的"
+          }
+        },
+        {
+          "text": "purple",
+          "translations": {
+            "zh-CN": "紫色；紫色的"
+          }
+        },
+        {
+          "text": "green",
+          "translations": {
+            "zh-CN": "绿色；绿色的"
+          }
+        },
+        {
+          "text": "orange",
+          "translations": {
+            "zh-CN": "橘黄色；橘黄色的"
+          }
+        },
+        {
+          "text": "yellow",
+          "translations": {
+            "zh-CN": "黄色；黄色的"
+          }
+        },
+        {
+          "text": "tree",
+          "translations": {
+            "zh-CN": "树；树木"
+          }
+        },
+        {
+          "text": "out",
+          "translations": {
+            "zh-CN": "在室外"
+          }
+        },
+        {
+          "text": "garden",
+          "translations": {
+            "zh-CN": "花园"
+          }
+        },
+        {
+          "text": "up",
+          "translations": {
+            "zh-CN": "向（或在）较高位置；向上；在上面"
+          }
+        },
+        {
+          "text": "there",
+          "translations": {
+            "zh-CN": "（表示存在或发生）"
+          }
+        },
+        {
+          "text": "butterfly",
+          "translations": {
+            "zh-CN": "蝴蝶"
+          }
+        },
+        {
+          "text": "lizard",
+          "translations": {
+            "zh-CN": "蜥蜴"
+          }
+        },
+        {
+          "text": "now",
+          "translations": {
+            "zh-CN": "现在"
+          }
+        },
+        {
+          "text": "problem",
+          "translations": {
+            "zh-CN": "难题；困难"
+          }
+        },
+        {
+          "text": "sky",
+          "translations": {
+            "zh-CN": "天；天空"
+          }
+        },
+        {
+          "text": "dark",
+          "translations": {
+            "zh-CN": "黑暗的；昏暗的"
+          }
+        },
+        {
+          "text": "colourful",
+          "translations": {
+            "zh-CN": "五彩缤纷的"
+          }
+        },
+        {
+          "text": "firework",
+          "translations": {
+            "zh-CN": "烟花"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "What are our homes like?",
+      "order": 6,
+      "words": [
+        {
+          "text": "kitchen",
+          "translations": {
+            "zh-CN": "厨房"
+          }
+        },
+        {
+          "text": "bathroom",
+          "translations": {
+            "zh-CN": "浴室；盥洗室"
+          }
+        },
+        {
+          "text": "bedroom",
+          "translations": {
+            "zh-CN": "卧室"
+          }
+        },
+        {
+          "text": "dining room",
+          "translations": {
+            "zh-CN": "餐厅"
+          }
+        },
+        {
+          "text": "living room",
+          "translations": {
+            "zh-CN": "客厅；起居室"
+          }
+        },
+        {
+          "text": "study",
+          "translations": {
+            "zh-CN": "书房"
+          }
+        },
+        {
+          "text": "desk",
+          "translations": {
+            "zh-CN": "书桌"
+          }
+        },
+        {
+          "text": "chair",
+          "translations": {
+            "zh-CN": "椅子"
+          }
+        },
+        {
+          "text": "sofa",
+          "translations": {
+            "zh-CN": "长沙发"
+          }
+        },
+        {
+          "text": "from",
+          "translations": {
+            "zh-CN": "寄自；来自"
+          }
+        },
+        {
+          "text": "new",
+          "translations": {
+            "zh-CN": "新的"
+          }
+        },
+        {
+          "text": "dear",
+          "translations": {
+            "zh-CN": "亲爱的"
+          }
+        },
+        {
+          "text": "show",
+          "translations": {
+            "zh-CN": "给……看；展示"
+          }
+        },
+        {
+          "text": "write",
+          "translations": {
+            "zh-CN": "写字；写作"
+          }
+        },
+        {
+          "text": "window",
+          "translations": {
+            "zh-CN": "窗；窗户"
+          }
+        },
+        {
+          "text": "wish",
+          "translations": {
+            "zh-CN": "祝愿"
+          }
+        },
+        {
+          "text": "because",
+          "translations": {
+            "zh-CN": "因为"
+          }
+        },
+        {
+          "text": "boat",
+          "translations": {
+            "zh-CN": "小船"
+          }
+        },
+        {
+          "text": "in front of",
+          "translations": {
+            "zh-CN": "位于……之前"
+          }
+        },
+        {
+          "text": "look out of",
+          "translations": {
+            "zh-CN": "向……外看"
+          }
+        },
+        {
+          "text": "teddy bear",
+          "translations": {
+            "zh-CN": "泰迪熊"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "What do we do at school?",
+      "order": 7,
+      "words": [
+        {
+          "text": "welcome",
+          "translations": {
+            "zh-CN": "欢迎"
+          }
+        },
+        {
+          "text": "classroom",
+          "translations": {
+            "zh-CN": "教室"
+          }
+        },
+        {
+          "text": "computer room",
+          "translations": {
+            "zh-CN": "电脑室"
+          }
+        },
+        {
+          "text": "toilet",
+          "translations": {
+            "zh-CN": "厕所；卫生间；盥洗室"
+          }
+        },
+        {
+          "text": "sports ground",
+          "translations": {
+            "zh-CN": "操场"
+          }
+        },
+        {
+          "text": "library",
+          "translations": {
+            "zh-CN": "图书馆"
+          }
+        },
+        {
+          "text": "office",
+          "translations": {
+            "zh-CN": "办公室"
+          }
+        },
+        {
+          "text": "picture",
+          "translations": {
+            "zh-CN": "图画"
+          }
+        },
+        {
+          "text": "tomorrow",
+          "translations": {
+            "zh-CN": "明天"
+          }
+        },
+        {
+          "text": "also",
+          "translations": {
+            "zh-CN": "也"
+          }
+        },
+        {
+          "text": "schoolbag",
+          "translations": {
+            "zh-CN": "书包"
+          }
+        },
+        {
+          "text": "ruler",
+          "translations": {
+            "zh-CN": "直尺"
+          }
+        },
+        {
+          "text": "pencil",
+          "translations": {
+            "zh-CN": "铅笔"
+          }
+        },
+        {
+          "text": "pen",
+          "translations": {
+            "zh-CN": "钢笔"
+          }
+        },
+        {
+          "text": "eraser",
+          "translations": {
+            "zh-CN": "橡皮"
+          }
+        },
+        {
+          "text": "show ... around ...",
+          "translations": {
+            "zh-CN": "带领……参观……"
+          }
+        },
+        {
+          "text": "art room",
+          "translations": {
+            "zh-CN": "美术教室"
+          }
+        },
+        {
+          "text": "swimming pool",
+          "translations": {
+            "zh-CN": "游泳池"
+          }
+        },
+        {
+          "text": "lots of",
+          "translations": {
+            "zh-CN": "大量的；很多的"
+          }
+        },
+        {
+          "text": "Come and see!",
+          "translations": {
+            "zh-CN": "来看一看！"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "What do you do on Children’s Day?",
+      "order": 8,
+      "words": [
+        {
+          "text": "Children’s Day",
+          "translations": {
+            "zh-CN": "儿童节"
+          }
+        },
+        {
+          "text": "go to the beach",
+          "translations": {
+            "zh-CN": "去海滩"
+          }
+        },
+        {
+          "text": "go to the cinema",
+          "translations": {
+            "zh-CN": "去电影院"
+          }
+        },
+        {
+          "text": "go to the park",
+          "translations": {
+            "zh-CN": "去公园"
+          }
+        },
+        {
+          "text": "go to the zoo",
+          "translations": {
+            "zh-CN": "去动物园"
+          }
+        },
+        {
+          "text": "go to the museum",
+          "translations": {
+            "zh-CN": "去博物馆"
+          }
+        },
+        {
+          "text": "survey",
+          "translations": {
+            "zh-CN": "调查"
+          }
+        },
+        {
+          "text": "elephant",
+          "translations": {
+            "zh-CN": "象"
+          }
+        },
+        {
+          "text": "film",
+          "translations": {
+            "zh-CN": "电影"
+          }
+        },
+        {
+          "text": "pizza",
+          "translations": {
+            "zh-CN": "比萨饼；意大利饼"
+          }
+        },
+        {
+          "text": "shop",
+          "translations": {
+            "zh-CN": "店铺"
+          }
+        },
+        {
+          "text": "eat",
+          "translations": {
+            "zh-CN": "吃"
+          }
+        },
+        {
+          "text": "classmate",
+          "translations": {
+            "zh-CN": "同班同学"
+          }
+        },
+        {
+          "text": "song",
+          "translations": {
+            "zh-CN": "歌；歌曲"
+          }
+        },
+        {
+          "text": "science museum",
+          "translations": {
+            "zh-CN": "科技馆"
+          }
+        },
+        {
+          "text": "Monday",
+          "translations": {
+            "zh-CN": "星期一"
+          }
+        },
+        {
+          "text": "Tuesday",
+          "translations": {
+            "zh-CN": "星期二"
+          }
+        },
+        {
+          "text": "Wednesday",
+          "translations": {
+            "zh-CN": "星期三"
+          }
+        },
+        {
+          "text": "Thursday",
+          "translations": {
+            "zh-CN": "星期四"
+          }
+        },
+        {
+          "text": "Friday",
+          "translations": {
+            "zh-CN": "星期五"
+          }
+        },
+        {
+          "text": "Saturday",
+          "translations": {
+            "zh-CN": "星期六"
+          }
+        },
+        {
+          "text": "Sunday",
+          "translations": {
+            "zh-CN": "星期日"
+          }
+        },
+        {
+          "text": "one",
+          "translations": {
+            "zh-CN": "一"
+          }
+        },
+        {
+          "text": "two",
+          "translations": {
+            "zh-CN": "二"
+          }
+        },
+        {
+          "text": "three",
+          "translations": {
+            "zh-CN": "三"
+          }
+        },
+        {
+          "text": "four",
+          "translations": {
+            "zh-CN": "四"
+          }
+        },
+        {
+          "text": "five",
+          "translations": {
+            "zh-CN": "五"
+          }
+        },
+        {
+          "text": "six",
+          "translations": {
+            "zh-CN": "六"
+          }
+        },
+        {
+          "text": "seven",
+          "translations": {
+            "zh-CN": "七"
+          }
+        },
+        {
+          "text": "eight",
+          "translations": {
+            "zh-CN": "八"
+          }
+        },
+        {
+          "text": "nine",
+          "translations": {
+            "zh-CN": "九"
+          }
+        },
+        {
+          "text": "ten",
+          "translations": {
+            "zh-CN": "十"
+          }
+        },
+        {
+          "text": "eleven",
+          "translations": {
+            "zh-CN": "十一"
+          }
+        },
+        {
+          "text": "twelve",
+          "translations": {
+            "zh-CN": "十二"
+          }
+        },
+        {
+          "text": "thirteen",
+          "translations": {
+            "zh-CN": "十三"
+          }
+        },
+        {
+          "text": "fourteen",
+          "translations": {
+            "zh-CN": "十四"
+          }
+        },
+        {
+          "text": "fifteen",
+          "translations": {
+            "zh-CN": "十五"
+          }
+        },
+        {
+          "text": "sixteen",
+          "translations": {
+            "zh-CN": "十六"
+          }
+        },
+        {
+          "text": "seventeen",
+          "translations": {
+            "zh-CN": "十七"
+          }
+        },
+        {
+          "text": "eighteen",
+          "translations": {
+            "zh-CN": "十八"
+          }
+        },
+        {
+          "text": "nineteen",
+          "translations": {
+            "zh-CN": "十九"
+          }
+        },
+        {
+          "text": "twenty",
+          "translations": {
+            "zh-CN": "二十"
+          }
+        }
+      ]
+    }
+  ]
+}

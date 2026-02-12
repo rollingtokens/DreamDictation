@@ -1,0 +1,1161 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Unit 1",
+      "order": 1,
+      "words": [
+        {
+          "text": "weigh",
+          "translations": {
+            "zh-CN": "有……重；重"
+          }
+        },
+        {
+          "text": "kilogram",
+          "translations": {
+            "zh-CN": "千克；公斤(缩略形式kg)"
+          }
+        },
+        {
+          "text": "centimetre",
+          "translations": {
+            "zh-CN": "厘米(缩略形式cm)"
+          }
+        },
+        {
+          "text": "taller",
+          "translations": {
+            "zh-CN": "更高的"
+          }
+        },
+        {
+          "text": "fan",
+          "translations": {
+            "zh-CN": "(足球、电影等)迷；爱好者"
+          }
+        },
+        {
+          "text": "fantastic",
+          "translations": {
+            "zh-CN": "极好的"
+          }
+        },
+        {
+          "text": "themselves",
+          "translations": {
+            "zh-CN": "他们自己，她们自己，它们自己"
+          }
+        },
+        {
+          "text": "theatre",
+          "translations": {
+            "zh-CN": "剧院"
+          }
+        },
+        {
+          "text": "go fishing",
+          "translations": {
+            "zh-CN": "去钓鱼"
+          }
+        },
+        {
+          "text": "enjoy oneself",
+          "translations": {
+            "zh-CN": "玩得愉快，得到乐趣"
+          }
+        },
+        {
+          "text": "get...in",
+          "translations": {
+            "zh-CN": "收割"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Unit 2",
+      "order": 2,
+      "words": [
+        {
+          "text": "life",
+          "translations": {
+            "zh-CN": "生活"
+          }
+        },
+        {
+          "text": "writer",
+          "translations": {
+            "zh-CN": "作家"
+          }
+        },
+        {
+          "text": "photographer",
+          "translations": {
+            "zh-CN": "摄影师"
+          }
+        },
+        {
+          "text": "film",
+          "translations": {
+            "zh-CN": "胶卷"
+          }
+        },
+        {
+          "text": "digital",
+          "translations": {
+            "zh-CN": "数码的"
+          }
+        },
+        {
+          "text": "street cleaner",
+          "translations": {
+            "zh-CN": "环卫工人"
+          }
+        },
+        {
+          "text": "sweep",
+          "translations": {
+            "zh-CN": "扫地"
+          }
+        },
+        {
+          "text": "broom",
+          "translations": {
+            "zh-CN": "扫帚"
+          }
+        },
+        {
+          "text": "drive",
+          "translations": {
+            "zh-CN": "驾驶"
+          }
+        },
+        {
+          "text": "street sweeper",
+          "translations": {
+            "zh-CN": "扫地车"
+          }
+        },
+        {
+          "text": "wife",
+          "translations": {
+            "zh-CN": "妻子"
+          }
+        },
+        {
+          "text": "poor",
+          "translations": {
+            "zh-CN": "贫穷的，差的，次的"
+          }
+        },
+        {
+          "text": "fairy",
+          "translations": {
+            "zh-CN": "仙子，小精灵"
+          }
+        },
+        {
+          "text": "wish",
+          "translations": {
+            "zh-CN": "愿望；祝愿"
+          }
+        },
+        {
+          "text": "by hand",
+          "translations": {
+            "zh-CN": "用手"
+          }
+        },
+        {
+          "text": "right away",
+          "translations": {
+            "zh-CN": "立即，马上"
+          }
+        },
+        {
+          "text": "in a short time",
+          "translations": {
+            "zh-CN": "很快"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Unit 3",
+      "order": 3,
+      "words": [
+        {
+          "text": "carry",
+          "translations": {
+            "zh-CN": "背；提；拿"
+          }
+        },
+        {
+          "text": "online",
+          "translations": {
+            "zh-CN": "在线地；在线的"
+          }
+        },
+        {
+          "text": "head teacher",
+          "translations": {
+            "zh-CN": "校长"
+          }
+        },
+        {
+          "text": "PS",
+          "translations": {
+            "zh-CN": "附言(用于信末)"
+          }
+        },
+        {
+          "text": "mountain",
+          "translations": {
+            "zh-CN": "山，山脉"
+          }
+        },
+        {
+          "text": "even",
+          "translations": {
+            "zh-CN": "甚至"
+          }
+        },
+        {
+          "text": "space",
+          "translations": {
+            "zh-CN": "太空"
+          }
+        },
+        {
+          "text": "dinosaur",
+          "translations": {
+            "zh-CN": "恐龙"
+          }
+        },
+        {
+          "text": "a piece of",
+          "translations": {
+            "zh-CN": "一张，一片"
+          }
+        },
+        {
+          "text": "have a picnic",
+          "translations": {
+            "zh-CN": "去野餐"
+          }
+        },
+        {
+          "text": "better and better",
+          "translations": {
+            "zh-CN": "越来越好"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Unit 4",
+      "order": 4,
+      "words": [
+        {
+          "text": "oil",
+          "translations": {
+            "zh-CN": "油"
+          }
+        },
+        {
+          "text": "oil painting",
+          "translations": {
+            "zh-CN": "油画"
+          }
+        },
+        {
+          "text": "powerful",
+          "translations": {
+            "zh-CN": "强有力的，力量大的"
+          }
+        },
+        {
+          "text": "ink",
+          "translations": {
+            "zh-CN": "墨水，墨汁"
+          }
+        },
+        {
+          "text": "Chinese ink painting",
+          "translations": {
+            "zh-CN": "中国水墨画"
+          }
+        },
+        {
+          "text": "brush",
+          "translations": {
+            "zh-CN": "画笔，刷子，刷"
+          }
+        },
+        {
+          "text": "paints",
+          "translations": {
+            "zh-CN": "绘画颜料"
+          }
+        },
+        {
+          "text": "artist",
+          "translations": {
+            "zh-CN": "艺术家；(尤指)画家"
+          }
+        },
+        {
+          "text": "unhappy",
+          "translations": {
+            "zh-CN": "不高兴的"
+          }
+        },
+        {
+          "text": "carefully",
+          "translations": {
+            "zh-CN": "仔细地"
+          }
+        },
+        {
+          "text": "on the left",
+          "translations": {
+            "zh-CN": "在左边"
+          }
+        },
+        {
+          "text": "on the right",
+          "translations": {
+            "zh-CN": "在右边"
+          }
+        },
+        {
+          "text": "all the time",
+          "translations": {
+            "zh-CN": "一直；始终"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Unit 5",
+      "order": 5,
+      "words": [
+        {
+          "text": "craft",
+          "translations": {
+            "zh-CN": "手艺；工艺"
+          }
+        },
+        {
+          "text": "crown",
+          "translations": {
+            "zh-CN": "王冠；皇冠"
+          }
+        },
+        {
+          "text": "scissors",
+          "translations": {
+            "zh-CN": "剪刀"
+          }
+        },
+        {
+          "text": "tape",
+          "translations": {
+            "zh-CN": "胶带"
+          }
+        },
+        {
+          "text": "glue",
+          "translations": {
+            "zh-CN": "胶水"
+          }
+        },
+        {
+          "text": "saw",
+          "translations": {
+            "zh-CN": "锯"
+          }
+        },
+        {
+          "text": "craftsman",
+          "translations": {
+            "zh-CN": "工匠；手艺人(复数craftsmen)"
+          }
+        },
+        {
+          "text": "tool",
+          "translations": {
+            "zh-CN": "工具"
+          }
+        },
+        {
+          "text": "easily",
+          "translations": {
+            "zh-CN": "容易地"
+          }
+        },
+        {
+          "text": "himself",
+          "translations": {
+            "zh-CN": "他自己"
+          }
+        },
+        {
+          "text": "still",
+          "translations": {
+            "zh-CN": "仍然"
+          }
+        },
+        {
+          "text": "model house",
+          "translations": {
+            "zh-CN": "房子模型"
+          }
+        },
+        {
+          "text": "a long time ago",
+          "translations": {
+            "zh-CN": "很久以前"
+          }
+        },
+        {
+          "text": "at work",
+          "translations": {
+            "zh-CN": "忙着(做事情)"
+          }
+        },
+        {
+          "text": "say to oneself",
+          "translations": {
+            "zh-CN": "自言自语"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Unit 6",
+      "order": 6,
+      "words": [
+        {
+          "text": "long race",
+          "translations": {
+            "zh-CN": "长跑"
+          }
+        },
+        {
+          "text": "short race",
+          "translations": {
+            "zh-CN": "短跑"
+          }
+        },
+        {
+          "text": "win",
+          "translations": {
+            "zh-CN": "获胜，赢"
+          }
+        },
+        {
+          "text": "long jump",
+          "translations": {
+            "zh-CN": "跳远"
+          }
+        },
+        {
+          "text": "high jump",
+          "translations": {
+            "zh-CN": "跳高"
+          }
+        },
+        {
+          "text": "swimsuit",
+          "translations": {
+            "zh-CN": "(尤指女式的)游泳衣"
+          }
+        },
+        {
+          "text": "swimming cap",
+          "translations": {
+            "zh-CN": "游泳帽"
+          }
+        },
+        {
+          "text": "swimming pool",
+          "translations": {
+            "zh-CN": "游泳池"
+          }
+        },
+        {
+          "text": "warm-up",
+          "translations": {
+            "zh-CN": "准备活动；热身练习"
+          }
+        },
+        {
+          "text": "fit",
+          "translations": {
+            "zh-CN": "健壮的"
+          }
+        },
+        {
+          "text": "swimming goggles",
+          "translations": {
+            "zh-CN": "游泳镜"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "Unit 7",
+      "order": 7,
+      "words": [
+        {
+          "text": "bell",
+          "translations": {
+            "zh-CN": "铃铛"
+          }
+        },
+        {
+          "text": "neck",
+          "translations": {
+            "zh-CN": "脖子"
+          }
+        },
+        {
+          "text": "ago",
+          "translations": {
+            "zh-CN": "以前"
+          }
+        },
+        {
+          "text": "gatekeeper",
+          "translations": {
+            "zh-CN": "门卫"
+          }
+        },
+        {
+          "text": "praise",
+          "translations": {
+            "zh-CN": "赞扬；称赞"
+          }
+        },
+        {
+          "text": "praise ... for...",
+          "translations": {
+            "zh-CN": "因……而表扬……"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Unit 8",
+      "order": 8,
+      "words": [
+        {
+          "text": "sign",
+          "translations": {
+            "zh-CN": "标识"
+          }
+        },
+        {
+          "text": "middle",
+          "translations": {
+            "zh-CN": "中间，中部，中心"
+          }
+        },
+        {
+          "text": "special",
+          "translations": {
+            "zh-CN": "特别的"
+          }
+        },
+        {
+          "text": "path",
+          "translations": {
+            "zh-CN": "小路，小径"
+          }
+        },
+        {
+          "text": "may",
+          "translations": {
+            "zh-CN": "可能，可以"
+          }
+        },
+        {
+          "text": "lost",
+          "translations": {
+            "zh-CN": "迷路的，迷失的"
+          }
+        },
+        {
+          "text": "worry",
+          "translations": {
+            "zh-CN": "担心"
+          }
+        },
+        {
+          "text": "follow",
+          "translations": {
+            "zh-CN": "跟随；跟着"
+          }
+        },
+        {
+          "text": "in the middle",
+          "translations": {
+            "zh-CN": "在中间"
+          }
+        },
+        {
+          "text": "look out",
+          "translations": {
+            "zh-CN": "小心，当心"
+          }
+        },
+        {
+          "text": "no smoking",
+          "translations": {
+            "zh-CN": "禁止吸烟"
+          }
+        },
+        {
+          "text": "no swimming",
+          "translations": {
+            "zh-CN": "禁止游泳"
+          }
+        },
+        {
+          "text": "get lost",
+          "translations": {
+            "zh-CN": "迷路"
+          }
+        },
+        {
+          "text": "some time",
+          "translations": {
+            "zh-CN": "一段时间"
+          }
+        },
+        {
+          "text": "on the way",
+          "translations": {
+            "zh-CN": "在路上"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-9",
+      "name": "Unit 9",
+      "order": 9,
+      "words": [
+        {
+          "text": "reuse",
+          "translations": {
+            "zh-CN": "重新利用"
+          }
+        },
+        {
+          "text": "can",
+          "translations": {
+            "zh-CN": "金属罐"
+          }
+        },
+        {
+          "text": "rubber",
+          "translations": {
+            "zh-CN": "橡皮"
+          }
+        },
+        {
+          "text": "vase",
+          "translations": {
+            "zh-CN": "花瓶"
+          }
+        },
+        {
+          "text": "pen holder",
+          "translations": {
+            "zh-CN": "笔筒"
+          }
+        },
+        {
+          "text": "envelope",
+          "translations": {
+            "zh-CN": "信封"
+          }
+        },
+        {
+          "text": "plastic",
+          "translations": {
+            "zh-CN": "塑料制的，塑料的"
+          }
+        },
+        {
+          "text": "rubbish bin",
+          "translations": {
+            "zh-CN": "垃圾桶"
+          }
+        },
+        {
+          "text": "truck",
+          "translations": {
+            "zh-CN": "卡车"
+          }
+        },
+        {
+          "text": "piece",
+          "translations": {
+            "zh-CN": "碎片；碎块"
+          }
+        },
+        {
+          "text": "cloth",
+          "translations": {
+            "zh-CN": "布，布料"
+          }
+        },
+        {
+          "text": "throw away",
+          "translations": {
+            "zh-CN": "扔掉"
+          }
+        },
+        {
+          "text": "take off",
+          "translations": {
+            "zh-CN": "脱掉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-11",
+      "name": "Unit 11",
+      "order": 11,
+      "words": [
+        {
+          "text": "Western",
+          "translations": {
+            "zh-CN": "西方的"
+          }
+        },
+        {
+          "text": "turkey",
+          "translations": {
+            "zh-CN": "火鸡"
+          }
+        },
+        {
+          "text": "bright",
+          "translations": {
+            "zh-CN": "明亮的，鲜艳的"
+          }
+        },
+        {
+          "text": "laugh at",
+          "translations": {
+            "zh-CN": "嘲笑"
+          }
+        },
+        {
+          "text": "jack-o'-lantern",
+          "translations": {
+            "zh-CN": "南瓜灯"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-12",
+      "name": "Unit 12",
+      "order": 12,
+      "words": [
+        {
+          "text": "pea",
+          "translations": {
+            "zh-CN": "豌豆"
+          }
+        },
+        {
+          "text": "hit",
+          "translations": {
+            "zh-CN": "碰撞；撞击"
+          }
+        },
+        {
+          "text": "see the world",
+          "translations": {
+            "zh-CN": "见世面"
+          }
+        },
+        {
+          "text": "one by one",
+          "translations": {
+            "zh-CN": "一个接一个地"
+          }
+        },
+        {
+          "text": "look out of",
+          "translations": {
+            "zh-CN": "往外看"
+          }
+        },
+        {
+          "text": "adult",
+          "translations": {
+            "zh-CN": "成年人"
+          }
+        },
+        {
+          "text": "blow off",
+          "translations": {
+            "zh-CN": "吹掉"
+          }
+        },
+        {
+          "text": "fairy tale",
+          "translations": {
+            "zh-CN": "童话(故事)"
+          }
+        },
+        {
+          "text": "excited",
+          "translations": {
+            "zh-CN": "兴奋的"
+          }
+        },
+        {
+          "text": "forever",
+          "translations": {
+            "zh-CN": "永远"
+          }
+        },
+        {
+          "text": "bigger",
+          "translations": {
+            "zh-CN": "更大的"
+          }
+        },
+        {
+          "text": "bullet",
+          "translations": {
+            "zh-CN": "子弹"
+          }
+        },
+        {
+          "text": "lazy",
+          "translations": {
+            "zh-CN": "懒惰的"
+          }
+        },
+        {
+          "text": "roof",
+          "translations": {
+            "zh-CN": "屋顶"
+          }
+        },
+        {
+          "text": "pod",
+          "translations": {
+            "zh-CN": "豆荚"
+          }
+        },
+        {
+          "text": "scarf",
+          "translations": {
+            "zh-CN": "围巾(复数scarves或scarfs)"
+          }
+        },
+        {
+          "text": "stronger",
+          "translations": {
+            "zh-CN": "更强大的"
+          }
+        },
+        {
+          "text": "than",
+          "translations": {
+            "zh-CN": "比"
+          }
+        },
+        {
+          "text": "well-known",
+          "translations": {
+            "zh-CN": "众所周知的，著名的"
+          }
+        },
+        {
+          "text": "yard",
+          "translations": {
+            "zh-CN": "院子"
+          }
+        }
+      ]
+    }
+  ],
+  "daily_expressions": {
+    "id": "daily-expressions",
+    "name": "Daily expressions",
+    "words": [
+      {
+        "text": "That's fantastic!",
+        "translations": {
+          "zh-CN": "妙极了！"
+        }
+      },
+      {
+        "text": "That's easy!",
+        "translations": {
+          "zh-CN": "那容易！"
+        }
+      },
+      {
+        "text": "Look carefully!",
+        "translations": {
+          "zh-CN": "仔细看！"
+        }
+      },
+      {
+        "text": "I hope so.",
+        "translations": {
+          "zh-CN": "我希望如此。"
+        }
+      },
+      {
+        "text": "Who is it for?",
+        "translations": {
+          "zh-CN": "它是给谁的？"
+        }
+      },
+      {
+        "text": "That's good.",
+        "translations": {
+          "zh-CN": "那不错。"
+        }
+      },
+      {
+        "text": "Enjoy your swimming lessons!",
+        "translations": {
+          "zh-CN": "游泳课上玩得愉快！"
+        }
+      },
+      {
+        "text": "Of course.",
+        "translations": {
+          "zh-CN": "当然可以。"
+        }
+      },
+      {
+        "text": "Please go ahead.",
+        "translations": {
+          "zh-CN": "请说吧。"
+        }
+      },
+      {
+        "text": "I see.",
+        "translations": {
+          "zh-CN": "我知道了。"
+        }
+      },
+      {
+        "text": "It's the right size!",
+        "translations": {
+          "zh-CN": "它大小正合适！"
+        }
+      },
+      {
+        "text": "Let's see.",
+        "translations": {
+          "zh-CN": "我们等着瞧吧。"
+        }
+      },
+      {
+        "text": "Your turn.",
+        "translations": {
+          "zh-CN": "轮到你了。"
+        }
+      },
+      {
+        "text": "Trick or treat?",
+        "translations": {
+          "zh-CN": "请吃糖，还是想遭殃？"
+        }
+      },
+      {
+        "text": "Is that you?",
+        "translations": {
+          "zh-CN": "是你吗？"
+        }
+      }
+    ]
+  },
+  "proper_nouns": {
+    "id": "proper-nouns",
+    "name": "Proper nouns",
+    "words": [
+      {
+        "text": "Africa",
+        "translations": {
+          "zh-CN": "非洲"
+        }
+      },
+      {
+        "text": "Asia",
+        "translations": {
+          "zh-CN": "亚洲"
+        }
+      },
+      {
+        "text": "Europe",
+        "translations": {
+          "zh-CN": "欧洲"
+        }
+      },
+      {
+        "text": "North America",
+        "translations": {
+          "zh-CN": "北美洲"
+        }
+      },
+      {
+        "text": "South America",
+        "translations": {
+          "zh-CN": "南美洲"
+        }
+      },
+      {
+        "text": "Fred",
+        "translations": {
+          "zh-CN": "弗雷德(男名)"
+        }
+      },
+      {
+        "text": "Doris",
+        "translations": {
+          "zh-CN": "多丽丝(女名)"
+        }
+      },
+      {
+        "text": "Vincent van Gogh",
+        "translations": {
+          "zh-CN": "文森特·梵高"
+        }
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "translations": {
+          "zh-CN": "莱昂纳多·达·芬奇"
+        }
+      },
+      {
+        "text": "Jack",
+        "translations": {
+          "zh-CN": "杰克(男名)"
+        }
+      },
+      {
+        "text": "Andersen",
+        "translations": {
+          "zh-CN": "安徒生"
+        }
+      },
+      {
+        "text": "Danish",
+        "translations": {
+          "zh-CN": "丹麦的"
+        }
+      },
+      {
+        "text": "Little Red Riding Hood",
+        "translations": {
+          "zh-CN": "《小红帽》"
+        }
+      },
+      {
+        "text": "Cinderella",
+        "translations": {
+          "zh-CN": "《灰姑娘》"
+        }
+      },
+      {
+        "text": "Grimms' Fairy Tales",
+        "translations": {
+          "zh-CN": "《格林童话》"
+        }
+      },
+      {
+        "text": "the Grimm brothers",
+        "translations": {
+          "zh-CN": "格林兄弟(德国作家)"
+        }
+      },
+      {
+        "text": "German",
+        "translations": {
+          "zh-CN": "德国的"
+        }
+      },
+      {
+        "text": "Aesop's Fables",
+        "translations": {
+          "zh-CN": "《伊索寓言》"
+        }
+      },
+      {
+        "text": "The farmer and the snake",
+        "translations": {
+          "zh-CN": "《农夫与蛇》"
+        }
+      },
+      {
+        "text": "Andersen's Fairy Tales",
+        "translations": {
+          "zh-CN": "《安徒生童话》"
+        }
+      },
+      {
+        "text": "Easter",
+        "translations": {
+          "zh-CN": "复活节"
+        }
+      },
+      {
+        "text": "Thanksgiving",
+        "translations": {
+          "zh-CN": "感恩节"
+        }
+      },
+      {
+        "text": "Halloween",
+        "translations": {
+          "zh-CN": "万圣节前夕"
+        }
+      },
+      {
+        "text": "Christmas Eve",
+        "translations": {
+          "zh-CN": "平安夜"
+        }
+      },
+      {
+        "text": "Rudolf",
+        "translations": {
+          "zh-CN": "鲁道夫"
+        }
+      },
+      {
+        "text": "The five peas",
+        "translations": {
+          "zh-CN": "《五颗豌豆》"
+        }
+      }
+    ]
+  }
+}
