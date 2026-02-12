@@ -18,9 +18,44 @@
                   "displayName": "沪教版",
                   "books": [
                     {
-                      "id": "3年级上册",
-                      "displayName": "3年级上册",
-                      "path": "zh_CN/English/小学/沪教版/3年级上册.json"
+                      "id": "三年级上册",
+                      "displayName": "三年级上册",
+                      "path": "zh_CN/English/小学/沪教版/三年级上册.json"
+                    },
+                    {
+                      "id": "三年级下册",
+                      "displayName": "三年级下册",
+                      "path": "zh_CN/English/小学/沪教版/三年级下册.json"
+                    },
+                    {
+                      "id": "四年级上册",
+                      "displayName": "四年级上册",
+                      "path": "zh_CN/English/小学/沪教版/四年级上册.json"
+                    },
+                    {
+                      "id": "四年级下册",
+                      "displayName": "四年级下册",
+                      "path": "zh_CN/English/小学/沪教版/四年级下册.json"
+                    },
+                    {
+                      "id": "五年级上册",
+                      "displayName": "五年级上册",
+                      "path": "zh_CN/English/小学/沪教版/五年级上册.json"
+                    },
+                    {
+                      "id": "五年级下册",
+                      "displayName": "五年级下册",
+                      "path": "zh_CN/English/小学/沪教版/五年级下册.json"
+                    },
+                    {
+                      "id": "六年级上册",
+                      "displayName": "六年级上册",
+                      "path": "zh_CN/English/小学/沪教版/六年级上册.json"
+                    },
+                    {
+                      "id": "六年级下册",
+                      "displayName": "六年级下册",
+                      "path": "zh_CN/English/小学/沪教版/六年级下册.json"
                     }
                   ]
                 }
