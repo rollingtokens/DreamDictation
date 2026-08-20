@@ -1,0 +1,949 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "What's he like?",
+      "order": 1,
+      "words": [
+        {
+          "text": "old",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "老的；年纪大的"
+          }
+        },
+        {
+          "text": "young",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "年轻的；岁数不大的"
+          }
+        },
+        {
+          "text": "funny",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "滑稽的；可笑的"
+          }
+        },
+        {
+          "text": "kind",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "体贴的；慈祥的；宽容的"
+          }
+        },
+        {
+          "text": "strict",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "要求严格的；严厉的"
+          }
+        },
+        {
+          "text": "polite",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "有礼貌的；客气的"
+          }
+        },
+        {
+          "text": "hard-working",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "工作努力的；辛勤的"
+          }
+        },
+        {
+          "text": "helpful",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "有用的；愿意帮忙的"
+          }
+        },
+        {
+          "text": "clever",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "聪明的；聪颖的"
+          }
+        },
+        {
+          "text": "shy",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "羞怯的；腼腆的；怕生的"
+          }
+        },
+        {
+          "text": "know",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "知道；了解"
+          }
+        },
+        {
+          "text": "our",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "我们的"
+          }
+        },
+        {
+          "text": "Ms",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用于女子的姓氏或姓名前，不指明婚否）女士"
+          }
+        },
+        {
+          "text": "will",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（谈及将来）将要"
+          }
+        },
+        {
+          "text": "sometimes",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有时；间或"
+          }
+        },
+        {
+          "text": "robot",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "机器人"
+          }
+        },
+        {
+          "text": "him",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用作宾语或表语）他"
+          }
+        },
+        {
+          "text": "speak",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "会说；会讲（某种语言）；用（某种语言）说话"
+          }
+        },
+        {
+          "text": "finish",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "完成；做好"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "My week",
+      "order": 2,
+      "words": [
+        {
+          "text": "Monday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期一"
+          }
+        },
+        {
+          "text": "Tuesday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期二"
+          }
+        },
+        {
+          "text": "Wednesday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期三"
+          }
+        },
+        {
+          "text": "Thursday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期四"
+          }
+        },
+        {
+          "text": "Friday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期五"
+          }
+        },
+        {
+          "text": "Saturday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期六"
+          }
+        },
+        {
+          "text": "Sunday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "星期日"
+          }
+        },
+        {
+          "text": "weekend",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "周末"
+          }
+        },
+        {
+          "text": "wash",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "洗"
+          }
+        },
+        {
+          "text": "wash my clothes",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "洗我的衣服"
+          }
+        },
+        {
+          "text": "watch",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看"
+          }
+        },
+        {
+          "text": "watch TV",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看电视"
+          }
+        },
+        {
+          "text": "do",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "；做；干"
+          }
+        },
+        {
+          "text": "do homework",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "做作业"
+          }
+        },
+        {
+          "text": "read",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看；读"
+          }
+        },
+        {
+          "text": "read books",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看书"
+          }
+        },
+        {
+          "text": "play",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "踢；玩；参加（体育运动）"
+          }
+        },
+        {
+          "text": "play football",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "踢足球"
+          }
+        },
+        {
+          "text": "cooking",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "烹饪；烹调"
+          }
+        },
+        {
+          "text": "often",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "时常；常常"
+          }
+        },
+        {
+          "text": "park",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "公园"
+          }
+        },
+        {
+          "text": "tired",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疲倦的"
+          }
+        },
+        {
+          "text": "sport",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "体育运动"
+          }
+        },
+        {
+          "text": "play sports",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "做体育运动"
+          }
+        },
+        {
+          "text": "should",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（常用于纠正别人）应该，应当"
+          }
+        },
+        {
+          "text": "every",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "每一个，每个"
+          }
+        },
+        {
+          "text": "day",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一天；一日"
+          }
+        },
+        {
+          "text": "schedule",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "工作计划；日程安排"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "What would you like?",
+      "order": 3,
+      "words": [
+        {
+          "text": "sandwich",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "三明治"
+          }
+        },
+        {
+          "text": "salad",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "蔬菜沙拉；混合沙拉"
+          }
+        },
+        {
+          "text": "hamburger",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "汉堡包"
+          }
+        },
+        {
+          "text": "ice cream",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "冰激凌"
+          }
+        },
+        {
+          "text": "tea",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "茶；茶水"
+          }
+        },
+        {
+          "text": "fresh",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "新鲜的；刚摘的"
+          }
+        },
+        {
+          "text": "healthy",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "健康的"
+          }
+        },
+        {
+          "text": "delicious",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "美味的；可口的"
+          }
+        },
+        {
+          "text": "hot",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "辣的；辛辣的"
+          }
+        },
+        {
+          "text": "sweet",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "含糖的；甜的"
+          }
+        },
+        {
+          "text": "drink",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "喝；饮"
+          }
+        },
+        {
+          "text": "thirsty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "渴的；口渴的"
+          }
+        },
+        {
+          "text": "favourite",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "特别喜爱的"
+          }
+        },
+        {
+          "text": "food",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "食物"
+          }
+        },
+        {
+          "text": "Dear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用于信函抬头的名字或头衔前）亲爱的"
+          }
+        },
+        {
+          "text": "onion",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "洋葱；葱头"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "What can you do?",
+      "order": 4,
+      "words": [
+        {
+          "text": "sing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "唱；唱歌"
+          }
+        },
+        {
+          "text": "song",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "歌曲"
+          }
+        },
+        {
+          "text": "sing English songs",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "唱英文歌曲"
+          }
+        },
+        {
+          "text": "play the pipa",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "弹琵琶"
+          }
+        },
+        {
+          "text": "kung fu",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "功夫；武术"
+          }
+        },
+        {
+          "text": "do kung fu",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "练武术"
+          }
+        },
+        {
+          "text": "dance",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "跳舞"
+          }
+        },
+        {
+          "text": "draw",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "画"
+          }
+        },
+        {
+          "text": "cartoon",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "漫画"
+          }
+        },
+        {
+          "text": "draw cartoons",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "画漫画"
+          }
+        },
+        {
+          "text": "cook",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "烹调；烹饪"
+          }
+        },
+        {
+          "text": "swim",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "游泳"
+          }
+        },
+        {
+          "text": "play basketball",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "打篮球"
+          }
+        },
+        {
+          "text": "ping-pong",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "乒乓球"
+          }
+        },
+        {
+          "text": "play ping-pong",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "打乒乓球"
+          }
+        },
+        {
+          "text": "speak English",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "说英语"
+          }
+        },
+        {
+          "text": "party",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "聚会；派对"
+          }
+        },
+        {
+          "text": "next",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "下一个的；紧接着的；接下来的"
+          }
+        },
+        {
+          "text": "wonderful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "极好的；了不起的"
+          }
+        },
+        {
+          "text": "learn",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "学；学习；学会"
+          }
+        },
+        {
+          "text": "any",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "任何的；任一的"
+          }
+        },
+        {
+          "text": "problem",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "问题"
+          }
+        },
+        {
+          "text": "no problem",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "没问题"
+          }
+        },
+        {
+          "text": "want",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "要；想要"
+          }
+        },
+        {
+          "text": "send",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "邮寄；发送"
+          }
+        },
+        {
+          "text": "email",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "电子邮件"
+          }
+        },
+        {
+          "text": "at",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（后面接邮件地址）"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "There is a big bed",
+      "order": 5,
+      "words": [
+        {
+          "text": "clock",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "时钟；钟"
+          }
+        },
+        {
+          "text": "plant",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "植物"
+          }
+        },
+        {
+          "text": "bottle",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "瓶子"
+          }
+        },
+        {
+          "text": "water bottle",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "水瓶"
+          }
+        },
+        {
+          "text": "bike",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "自行车；脚踏车"
+          }
+        },
+        {
+          "text": "photo",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "照片；相片"
+          }
+        },
+        {
+          "text": "front",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "正面"
+          }
+        },
+        {
+          "text": "in front of",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在⋯⋯前面"
+          }
+        },
+        {
+          "text": "between",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在⋯⋯中间"
+          }
+        },
+        {
+          "text": "above",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在（或向）⋯⋯上面"
+          }
+        },
+        {
+          "text": "beside",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在旁边（附近）"
+          }
+        },
+        {
+          "text": "behind",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在（或向）⋯⋯后面"
+          }
+        },
+        {
+          "text": "there",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（表示存在或发生）"
+          }
+        },
+        {
+          "text": "grandparent",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "祖父；祖母；外祖父；外祖母"
+          }
+        },
+        {
+          "text": "their",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "他们的；她们的；它们的"
+          }
+        },
+        {
+          "text": "house",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "房屋；房子；住宅"
+          }
+        },
+        {
+          "text": "lot",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大量；许多"
+          }
+        },
+        {
+          "text": "lots of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大量；许多"
+          }
+        },
+        {
+          "text": "flower",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "花；花朵"
+          }
+        },
+        {
+          "text": "move",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "搬家"
+          }
+        },
+        {
+          "text": "dirty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "肮脏的"
+          }
+        },
+        {
+          "text": "everywhere",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "处处；到处"
+          }
+        },
+        {
+          "text": "mouse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "老鼠"
+          }
+        },
+        {
+          "text": "live",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "住；居住"
+          }
+        },
+        {
+          "text": "nature",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自然界；大自然"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "In a nature park",
+      "order": 6,
+      "words": [
+        {
+          "text": "forest",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "森林；林区"
+          }
+        },
+        {
+          "text": "river",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "河；江"
+          }
+        },
+        {
+          "text": "lake",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "湖；湖泊"
+          }
+        },
+        {
+          "text": "mountain",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "高山；山岳"
+          }
+        },
+        {
+          "text": "hill",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "山丘；小山"
+          }
+        },
+        {
+          "text": "tree",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "树；树木；乔木"
+          }
+        },
+        {
+          "text": "bridge",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "桥"
+          }
+        },
+        {
+          "text": "building",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "建筑物；房子；楼房"
+          }
+        },
+        {
+          "text": "village",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "村庄；村镇"
+          }
+        },
+        {
+          "text": "house",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "房屋；房子；住宅"
+          }
+        },
+        {
+          "text": "boating",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "划船"
+          }
+        },
+        {
+          "text": "go boating",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "去划船"
+          }
+        },
+        {
+          "text": "rabbit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "兔；野兔"
+          }
+        },
+        {
+          "text": "high",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "高的"
+          }
+        }
+      ]
+    }
+  ]
+}

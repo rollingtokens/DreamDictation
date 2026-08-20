@@ -58,6 +58,52 @@
                       "path": "zh_CN/English/小学/沪教版/六年级下册.json"
                     }
                   ]
+                },
+                {
+                  "id": "人教版",
+                  "displayName": "人教版",
+                  "books": [
+                    {
+                      "id": "三年级上册",
+                      "displayName": "三年级上册",
+                      "path": "zh_CN/English/小学/人教版/三年级上册.json"
+                    },
+                    {
+                      "id": "三年级下册",
+                      "displayName": "三年级下册",
+                      "path": "zh_CN/English/小学/人教版/三年级下册.json"
+                    },
+                    {
+                      "id": "四年级上册",
+                      "displayName": "四年级上册",
+                      "path": "zh_CN/English/小学/人教版/四年级上册.json"
+                    },
+                    {
+                      "id": "四年级下册",
+                      "displayName": "四年级下册",
+                      "path": "zh_CN/English/小学/人教版/四年级下.json"
+                    },
+                    {
+                      "id": "五年级上册",
+                      "displayName": "五年级上册",
+                      "path": "zh_CN/English/小学/人教版/五年级上.json"
+                    },
+                    {
+                      "id": "五年级下册",
+                      "displayName": "五年级下册",
+                      "path": "zh_CN/English/小学/人教版/五年级下.json"
+                    },
+                    {
+                      "id": "六年级上册",
+                      "displayName": "六年级上册",
+                      "path": "zh_CN/English/小学/人教版/六年级上.json"
+                    },
+                    {
+                      "id": "六年级下册",
+                      "displayName": "六年级下册",
+                      "path": "zh_CN/English/小学/人教版/六年级下.json"
+                    }
+                  ]
                 }
               ]
             }

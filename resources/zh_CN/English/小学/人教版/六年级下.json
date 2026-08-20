@@ -1,0 +1,662 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "How tall are you?",
+      "order": 1,
+      "words": [
+        {
+          "text": "younger",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（young 的比较级）更年轻的"
+          }
+        },
+        {
+          "text": "older",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（old 的比较级）更年长的"
+          }
+        },
+        {
+          "text": "taller",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（tall 的比较级）更高的"
+          }
+        },
+        {
+          "text": "shorter",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（short 的比较级）更矮的；更短的"
+          }
+        },
+        {
+          "text": "longer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（long 的比较级）更长的"
+          }
+        },
+        {
+          "text": "thinner",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（thin 的比较级）更瘦的"
+          }
+        },
+        {
+          "text": "heavier",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（heavy 的比较级）更重的"
+          }
+        },
+        {
+          "text": "bigger",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（big 的比较级）更大的"
+          }
+        },
+        {
+          "text": "smaller",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（small 的比较级）更小的"
+          }
+        },
+        {
+          "text": "stronger",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（strong 的比较级）更强壮的"
+          }
+        },
+        {
+          "text": "dinosaur",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "恐龙"
+          }
+        },
+        {
+          "text": "hall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大厅"
+          }
+        },
+        {
+          "text": "metre",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "米（美式英语：meter）"
+          }
+        },
+        {
+          "text": "than",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "比"
+          }
+        },
+        {
+          "text": "both",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "两个都"
+          }
+        },
+        {
+          "text": "kilogram",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "千克；公斤"
+          }
+        },
+        {
+          "text": "countryside",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "乡村"
+          }
+        },
+        {
+          "text": "lower",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（low 的比较级）更低"
+          }
+        },
+        {
+          "text": "shadow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阴影；影子"
+          }
+        },
+        {
+          "text": "smarter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（smart 的比较级）更聪明的"
+          }
+        },
+        {
+          "text": "become",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "开始变得；变成"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Last weekend",
+      "order": 2,
+      "words": [
+        {
+          "text": "cleaned",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（clean 的过去式）打扫"
+          }
+        },
+        {
+          "text": "stayed",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（stay 的过去式）停留；待"
+          }
+        },
+        {
+          "text": "washed",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（wash 的过去式）洗"
+          }
+        },
+        {
+          "text": "watched",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（watch 的过去式）看"
+          }
+        },
+        {
+          "text": "had",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（have 的过去式）患病；得病"
+          }
+        },
+        {
+          "text": "had a cold",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "感冒"
+          }
+        },
+        {
+          "text": "slept",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（sleep 的过去式）睡觉"
+          }
+        },
+        {
+          "text": "read",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（read 的过去式）读"
+          }
+        },
+        {
+          "text": "saw",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（see 的过去式）看见"
+          }
+        },
+        {
+          "text": "last",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "最近的；上一个的"
+          }
+        },
+        {
+          "text": "yesterday",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "昨天"
+          }
+        },
+        {
+          "text": "before",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在……之前"
+          }
+        },
+        {
+          "text": "drank",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（drink 的过去式）喝"
+          }
+        },
+        {
+          "text": "show",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "演出"
+          }
+        },
+        {
+          "text": "magazine",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "杂志"
+          }
+        },
+        {
+          "text": "better",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（well 的比较级）更好的"
+          }
+        },
+        {
+          "text": "faster",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（fast 的比较级）更快的"
+          }
+        },
+        {
+          "text": "hotel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "旅馆"
+          }
+        },
+        {
+          "text": "fixed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（fix 的过去式）修理"
+          }
+        },
+        {
+          "text": "broken",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "破损的"
+          }
+        },
+        {
+          "text": "lamp",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "台灯"
+          }
+        },
+        {
+          "text": "loud",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "喧闹的；大声的"
+          }
+        },
+        {
+          "text": "enjoy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "享受……乐趣；喜爱"
+          }
+        },
+        {
+          "text": "stay",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "暂住；逗留"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Where did you go?",
+      "order": 3,
+      "words": [
+        {
+          "text": "went",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（go 的过去式）去"
+          }
+        },
+        {
+          "text": "camp",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "野营"
+          }
+        },
+        {
+          "text": "went camping",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（尤指在假日）野营"
+          }
+        },
+        {
+          "text": "fish",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "钓鱼；捕鱼"
+          }
+        },
+        {
+          "text": "went fishing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去钓鱼"
+          }
+        },
+        {
+          "text": "rode",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（ride 的过去式）骑（马；自行车）"
+          }
+        },
+        {
+          "text": "hurt",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（hurt 的过去式）（使）受伤"
+          }
+        },
+        {
+          "text": "ate",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（eat 的过去式）吃"
+          }
+        },
+        {
+          "text": "took",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（take 的过去式）拍照"
+          }
+        },
+        {
+          "text": "took pictures",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "照相"
+          }
+        },
+        {
+          "text": "bought",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（buy 的过去式）买"
+          }
+        },
+        {
+          "text": "gift",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "礼物"
+          }
+        },
+        {
+          "text": "fell",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（fall 的过去式）摔倒"
+          }
+        },
+        {
+          "text": "off",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "从（某处）落下"
+          }
+        },
+        {
+          "text": "mule",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "骡子"
+          }
+        },
+        {
+          "text": "Turpan",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "吐鲁番"
+          }
+        },
+        {
+          "text": "could",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（can 的过去式）能"
+          }
+        },
+        {
+          "text": "till",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "直到"
+          }
+        },
+        {
+          "text": "beach",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "海滩；沙滩"
+          }
+        },
+        {
+          "text": "basket",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "篮；筐"
+          }
+        },
+        {
+          "text": "part",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "角色"
+          }
+        },
+        {
+          "text": "licked",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（lick 的过去式）舔"
+          }
+        },
+        {
+          "text": "laughed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（laugh 的过去式）笑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Then and now",
+      "order": 4,
+      "words": [
+        {
+          "text": "dining hall",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "饭厅"
+          }
+        },
+        {
+          "text": "grass",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "草坪"
+          }
+        },
+        {
+          "text": "gym",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "体育馆"
+          }
+        },
+        {
+          "text": "ago",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "以前"
+          }
+        },
+        {
+          "text": "cycling",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "骑自行车运动（或活动）"
+          }
+        },
+        {
+          "text": "go cycling",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去骑自行车"
+          }
+        },
+        {
+          "text": "ice-skate",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "滑冰"
+          }
+        },
+        {
+          "text": "badminton",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "羽毛球运动"
+          }
+        },
+        {
+          "text": "star",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "星"
+          }
+        },
+        {
+          "text": "easy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "容易的"
+          }
+        },
+        {
+          "text": "look up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（在词典中或通过电脑）查阅"
+          }
+        },
+        {
+          "text": "Internet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "互联网"
+          }
+        },
+        {
+          "text": "different",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不同的"
+          }
+        },
+        {
+          "text": "active",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "积极的；活跃的"
+          }
+        },
+        {
+          "text": "race",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "赛跑"
+          }
+        },
+        {
+          "text": "nothing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "没有什么"
+          }
+        },
+        {
+          "text": "thought",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（think 的过去式）想"
+          }
+        },
+        {
+          "text": "felt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（feel 的过去式）感觉"
+          }
+        },
+        {
+          "text": "cheetah",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "猎豹"
+          }
+        },
+        {
+          "text": "trip",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "绊倒"
+          }
+        },
+        {
+          "text": "woke",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（wake 的过去式）醒"
+          }
+        },
+        {
+          "text": "dream",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "梦"
+          }
+        }
+      ]
+    }
+  ]
+}

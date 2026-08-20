@@ -1,0 +1,1026 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Class rules",
+      "order": 1,
+      "words": [
+        {
+          "text": "sorry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "对不起"
+          }
+        },
+        {
+          "text": "hurry up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "快点；赶快"
+          }
+        },
+        {
+          "text": "late",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "迟到；迟发生"
+          }
+        },
+        {
+          "text": "class",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "课；课程；班；班级"
+          }
+        },
+        {
+          "text": "ready",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "准备好"
+          }
+        },
+        {
+          "text": "rule",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "规则；规章"
+          }
+        },
+        {
+          "text": "classroom",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "教室"
+          }
+        },
+        {
+          "text": "turn off",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "关掉"
+          }
+        },
+        {
+          "text": "light",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "灯；光"
+          }
+        },
+        {
+          "text": "blackboard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "黑板"
+          }
+        },
+        {
+          "text": "desk",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "书桌；办公桌"
+          }
+        },
+        {
+          "text": "chair",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "椅子"
+          }
+        },
+        {
+          "text": "tidy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "整洁的；整齐的；使整洁；整理"
+          }
+        },
+        {
+          "text": "music",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "音乐"
+          }
+        },
+        {
+          "text": "door",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "门"
+          }
+        },
+        {
+          "text": "window",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "窗"
+          }
+        },
+        {
+          "text": "fan",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "风扇"
+          }
+        },
+        {
+          "text": "when",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "当⋯⋯时；什么时候"
+          }
+        },
+        {
+          "text": "understand",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "懂；理解"
+          }
+        },
+        {
+          "text": "wall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "墙；壁"
+          }
+        },
+        {
+          "text": "newspaper",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "报纸"
+          }
+        },
+        {
+          "text": "hand out",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分发"
+          }
+        },
+        {
+          "text": "workbook",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "练习册；作业本"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Family rules",
+      "order": 2,
+      "words": [
+        {
+          "text": "watch",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "看"
+          }
+        },
+        {
+          "text": "TV",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "电视"
+          }
+        },
+        {
+          "text": "homework",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "家庭作业"
+          }
+        },
+        {
+          "text": "first",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "首先；首次；第一"
+          }
+        },
+        {
+          "text": "wet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "湿的；未干的"
+          }
+        },
+        {
+          "text": "run",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "跑；奔跑"
+          }
+        },
+        {
+          "text": "living room",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "客厅；起居室"
+          }
+        },
+        {
+          "text": "safe",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "安全的"
+          }
+        },
+        {
+          "text": "word",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "言语；单词；字"
+          }
+        },
+        {
+          "text": "wash",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "洗"
+          }
+        },
+        {
+          "text": "helpful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有帮助的；有用的"
+          }
+        },
+        {
+          "text": "loud",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "说话太大声的；吵闹的"
+          }
+        },
+        {
+          "text": "sleep",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "睡觉"
+          }
+        },
+        {
+          "text": "bedroom",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "卧室"
+          }
+        },
+        {
+          "text": "kitchen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "厨房"
+          }
+        },
+        {
+          "text": "study",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "书房"
+          }
+        },
+        {
+          "text": "bathroom",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "浴室；洗手间"
+          }
+        },
+        {
+          "text": "think",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "想；思考"
+          }
+        },
+        {
+          "text": "work",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（花费时间和精力）做（某事）；工作"
+          }
+        },
+        {
+          "text": "hard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "努力地；费力地"
+          }
+        },
+        {
+          "text": "follow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "遵循，听从（忠告、指示等）"
+          }
+        },
+        {
+          "text": "feel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "觉得；感到"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Time for school",
+      "order": 3,
+      "words": [
+        {
+          "text": "over",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "结束（的）"
+          }
+        },
+        {
+          "text": "kid",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "小孩"
+          }
+        },
+        {
+          "text": "dinner",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（中午或晚上吃的）正餐"
+          }
+        },
+        {
+          "text": "art",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "美术；艺术"
+          }
+        },
+        {
+          "text": "lunch",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "午餐"
+          }
+        },
+        {
+          "text": "maths",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "数学"
+          }
+        },
+        {
+          "text": "get up",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "起床"
+          }
+        },
+        {
+          "text": "go to school",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "上学"
+          }
+        },
+        {
+          "text": "go home",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "回家"
+          }
+        },
+        {
+          "text": "go to bed",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "上床睡觉"
+          }
+        },
+        {
+          "text": "want",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "想要"
+          }
+        },
+        {
+          "text": "clock",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "时钟"
+          }
+        },
+        {
+          "text": "just",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "只是；仅仅；正要"
+          }
+        },
+        {
+          "text": "minute",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分钟"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Going shopping",
+      "order": 4,
+      "words": [
+        {
+          "text": "trousers",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "裤子"
+          }
+        },
+        {
+          "text": "pair",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（由连在一起的相似两部分构成的）一条，一副"
+          }
+        },
+        {
+          "text": "clothes",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "衣服；服装"
+          }
+        },
+        {
+          "text": "those",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（指较远的人或事物）那些"
+          }
+        },
+        {
+          "text": "shorts",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "短裤"
+          }
+        },
+        {
+          "text": "jacket",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "夹克衫；短上衣"
+          }
+        },
+        {
+          "text": "skirt",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "裙子"
+          }
+        },
+        {
+          "text": "dear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "亲爱的"
+          }
+        },
+        {
+          "text": "expensive",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "昂贵的；价格高的"
+          }
+        },
+        {
+          "text": "take",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "买下"
+          }
+        },
+        {
+          "text": "cheap",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "便宜的"
+          }
+        },
+        {
+          "text": "shoe",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "鞋"
+          }
+        },
+        {
+          "text": "beautiful",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "美丽的"
+          }
+        },
+        {
+          "text": "hat",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "帽子"
+          }
+        },
+        {
+          "text": "sunglasses",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "太阳镜；墨镜"
+          }
+        },
+        {
+          "text": "free",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "免费的"
+          }
+        },
+        {
+          "text": "large",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（服装、食物、日用品等）大型号的"
+          }
+        },
+        {
+          "text": "size",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尺码；号"
+          }
+        },
+        {
+          "text": "list",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "清单；目录"
+          }
+        },
+        {
+          "text": "try on",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "试穿"
+          }
+        },
+        {
+          "text": "any",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "任何的；任一的"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Farms and us",
+      "order": 5,
+      "words": [
+        {
+          "text": "cow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "奶牛"
+          }
+        },
+        {
+          "text": "horse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "马"
+          }
+        },
+        {
+          "text": "sheep",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "羊；绵羊"
+          }
+        },
+        {
+          "text": "pig",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "猪"
+          }
+        },
+        {
+          "text": "chicken",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "鸡；鸡肉"
+          }
+        },
+        {
+          "text": "tomato",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "西红柿"
+          }
+        },
+        {
+          "text": "bee",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "蜜蜂"
+          }
+        },
+        {
+          "text": "mouse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（复数mice）老鼠"
+          }
+        },
+        {
+          "text": "carrot",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "胡萝卜"
+          }
+        },
+        {
+          "text": "potato",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "土豆"
+          }
+        },
+        {
+          "text": "green bean",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "青刀豆；四季豆"
+          }
+        },
+        {
+          "text": "can",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（盛食品或饮料的）金属罐"
+          }
+        },
+        {
+          "text": "a box of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一盒，一箱（东西）"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "From farm to table",
+      "order": 6,
+      "words": [
+        {
+          "text": "feed",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "给（人或动物）食物；饲养"
+          }
+        },
+        {
+          "text": "pass",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "给；递"
+          }
+        },
+        {
+          "text": "pick",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "采；摘"
+          }
+        },
+        {
+          "text": "milk",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "挤奶"
+          }
+        },
+        {
+          "text": "knife",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "刀"
+          }
+        },
+        {
+          "text": "fork",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "餐叉"
+          }
+        },
+        {
+          "text": "chopstick",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（常用复数）筷子"
+          }
+        },
+        {
+          "text": "waste",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "浪费；废品"
+          }
+        },
+        {
+          "text": "food",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "菜肴；食物"
+          }
+        },
+        {
+          "text": "delicious",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "美味的；可口的"
+          }
+        },
+        {
+          "text": "clear the table",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "收拾餐桌"
+          }
+        },
+        {
+          "text": "set the table",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "摆放餐具"
+          }
+        },
+        {
+          "text": "bowl",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "碗"
+          }
+        },
+        {
+          "text": "spoon",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "勺；匙；调羹"
+          }
+        },
+        {
+          "text": "supermarket",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "超市"
+          }
+        },
+        {
+          "text": "herself",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用作女性的反身代词）她自己，自己"
+          }
+        },
+        {
+          "text": "week",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "周；星期"
+          }
+        },
+        {
+          "text": "salad",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "蔬菜沙拉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-numbers",
+      "name": "Numbers 数词",
+      "order": 7,
+      "words": [
+        {
+          "text": "one",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一"
+          }
+        },
+        {
+          "text": "two",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "二"
+          }
+        },
+        {
+          "text": "three",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "三"
+          }
+        },
+        {
+          "text": "four",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "四"
+          }
+        },
+        {
+          "text": "five",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "五"
+          }
+        },
+        {
+          "text": "six",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "六"
+          }
+        },
+        {
+          "text": "seven",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "七"
+          }
+        },
+        {
+          "text": "eight",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "八"
+          }
+        },
+        {
+          "text": "nine",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "九"
+          }
+        },
+        {
+          "text": "ten",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十"
+          }
+        },
+        {
+          "text": "eleven",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十一"
+          }
+        },
+        {
+          "text": "twelve",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十二"
+          }
+        },
+        {
+          "text": "thirteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十三"
+          }
+        },
+        {
+          "text": "fourteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十四"
+          }
+        },
+        {
+          "text": "fifteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十五"
+          }
+        },
+        {
+          "text": "sixteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十六"
+          }
+        },
+        {
+          "text": "seventeen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十七"
+          }
+        },
+        {
+          "text": "eighteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十八"
+          }
+        },
+        {
+          "text": "nineteen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "十九"
+          }
+        },
+        {
+          "text": "twenty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "二十"
+          }
+        },
+        {
+          "text": "thirty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "三十"
+          }
+        },
+        {
+          "text": "forty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "四十"
+          }
+        },
+        {
+          "text": "fifty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "五十"
+          }
+        },
+        {
+          "text": "sixty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "六十"
+          }
+        },
+        {
+          "text": "seventy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "七十"
+          }
+        },
+        {
+          "text": "eighty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "八十"
+          }
+        },
+        {
+          "text": "ninety",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "九十"
+          }
+        },
+        {
+          "text": "hundred",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "百"
+          }
+        }
+      ]
+    }
+  ]
+}

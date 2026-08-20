@@ -1,0 +1,1138 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "My day",
+      "order": 1,
+      "words": [
+        {
+          "text": "eat breakfast",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "吃早饭"
+          }
+        },
+        {
+          "text": "have … class",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "上⋯⋯课"
+          }
+        },
+        {
+          "text": "play sports",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "进行体育运动"
+          }
+        },
+        {
+          "text": "exercise",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "活动；运动"
+          }
+        },
+        {
+          "text": "do morning exercises",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "做早操"
+          }
+        },
+        {
+          "text": "eat dinner",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "吃晚饭"
+          }
+        },
+        {
+          "text": "clean my room",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "打扫我的房间"
+          }
+        },
+        {
+          "text": "go for a walk",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "散步"
+          }
+        },
+        {
+          "text": "go shopping",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去买东西；购物"
+          }
+        },
+        {
+          "text": "take",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "学习；上（课）"
+          }
+        },
+        {
+          "text": "dancing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "跳舞；舞蹈"
+          }
+        },
+        {
+          "text": "take a dancing class",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "上舞蹈课"
+          }
+        },
+        {
+          "text": "when",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "什么时候；何时"
+          }
+        },
+        {
+          "text": "after",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在（时间）后"
+          }
+        },
+        {
+          "text": "start",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "开始"
+          }
+        },
+        {
+          "text": "usually",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "通常地；惯常地"
+          }
+        },
+        {
+          "text": "Spain",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "西班牙"
+          }
+        },
+        {
+          "text": "late",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "晚；迟"
+          }
+        },
+        {
+          "text": "a.m.",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "午前；上午"
+          }
+        },
+        {
+          "text": "p.m.",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "午后；下午"
+          }
+        },
+        {
+          "text": "why",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "为什么"
+          }
+        },
+        {
+          "text": "shop",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "去买东西；购物"
+          }
+        },
+        {
+          "text": "work",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "工作"
+          }
+        },
+        {
+          "text": "last",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "上一个的；刚过去的"
+          }
+        },
+        {
+          "text": "sound",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "听起来好像"
+          }
+        },
+        {
+          "text": "also",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "还；也"
+          }
+        },
+        {
+          "text": "busy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "忙的"
+          }
+        },
+        {
+          "text": "need",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "需要"
+          }
+        },
+        {
+          "text": "play",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "戏剧；剧本"
+          }
+        },
+        {
+          "text": "letter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "信"
+          }
+        },
+        {
+          "text": "live",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "居住"
+          }
+        },
+        {
+          "text": "island",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "岛"
+          }
+        },
+        {
+          "text": "always",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "总是；一直"
+          }
+        },
+        {
+          "text": "cave",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "山洞；洞穴"
+          }
+        },
+        {
+          "text": "go swimming",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "去游泳"
+          }
+        },
+        {
+          "text": "win",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "获胜"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "My favourite season",
+      "order": 2,
+      "words": [
+        {
+          "text": "spring",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "春天"
+          }
+        },
+        {
+          "text": "summer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "夏天"
+          }
+        },
+        {
+          "text": "autumn",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "秋天"
+          }
+        },
+        {
+          "text": "winter",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "冬天"
+          }
+        },
+        {
+          "text": "season",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "季节"
+          }
+        },
+        {
+          "text": "picnic",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "野餐"
+          }
+        },
+        {
+          "text": "go on a picnic",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去野餐"
+          }
+        },
+        {
+          "text": "pick",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "摘；采集"
+          }
+        },
+        {
+          "text": "pick apples",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "摘苹果"
+          }
+        },
+        {
+          "text": "snowman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "雪人"
+          }
+        },
+        {
+          "text": "make a snowman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "堆雪人"
+          }
+        },
+        {
+          "text": "go swimming",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去游泳"
+          }
+        },
+        {
+          "text": "which",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "哪一个"
+          }
+        },
+        {
+          "text": "best",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最；最高程度地"
+          }
+        },
+        {
+          "text": "snow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "雪"
+          }
+        },
+        {
+          "text": "good job",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "做得好"
+          }
+        },
+        {
+          "text": "because",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "因为"
+          }
+        },
+        {
+          "text": "vacation",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "假期"
+          }
+        },
+        {
+          "text": "all",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "全；完全"
+          }
+        },
+        {
+          "text": "pink",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "粉色；粉色的"
+          }
+        },
+        {
+          "text": "lovely",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "可爱的；美丽的"
+          }
+        },
+        {
+          "text": "leaf",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "叶子（复数 leaves）"
+          }
+        },
+        {
+          "text": "fall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "落下；【美】秋天"
+          }
+        },
+        {
+          "text": "paint",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "用颜料绘画"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "My school calendar",
+      "order": 3,
+      "words": [
+        {
+          "text": "January",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "一月"
+          }
+        },
+        {
+          "text": "February",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "二月"
+          }
+        },
+        {
+          "text": "March",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "三月"
+          }
+        },
+        {
+          "text": "April",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "四月"
+          }
+        },
+        {
+          "text": "May",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "五月"
+          }
+        },
+        {
+          "text": "June",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "六月"
+          }
+        },
+        {
+          "text": "July",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "七月"
+          }
+        },
+        {
+          "text": "August",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "八月"
+          }
+        },
+        {
+          "text": "September",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "九月"
+          }
+        },
+        {
+          "text": "October",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十月"
+          }
+        },
+        {
+          "text": "November",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十一月"
+          }
+        },
+        {
+          "text": "December",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十二月"
+          }
+        },
+        {
+          "text": "few",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不多；很少"
+          }
+        },
+        {
+          "text": "a few",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一些"
+          }
+        },
+        {
+          "text": "thing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "事情"
+          }
+        },
+        {
+          "text": "meet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "集会；开会"
+          }
+        },
+        {
+          "text": "sports meet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "运动会"
+          }
+        },
+        {
+          "text": "trip",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "旅行"
+          }
+        },
+        {
+          "text": "year",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "年"
+          }
+        },
+        {
+          "text": "plant",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "种植"
+          }
+        },
+        {
+          "text": "contest",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "比赛；竞赛"
+          }
+        },
+        {
+          "text": "labour",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "劳动"
+          }
+        },
+        {
+          "text": "Labour Day",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "劳动节"
+          }
+        },
+        {
+          "text": "the Great Wall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "长城"
+          }
+        },
+        {
+          "text": "national",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "国家的"
+          }
+        },
+        {
+          "text": "National Day",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "国庆日"
+          }
+        },
+        {
+          "text": "American",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "美国的"
+          }
+        },
+        {
+          "text": "Thanksgiving",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "感恩节"
+          }
+        },
+        {
+          "text": "Christmas",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "圣诞节"
+          }
+        },
+        {
+          "text": "game",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "游戏"
+          }
+        },
+        {
+          "text": "riddle",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "谜；谜语"
+          }
+        },
+        {
+          "text": "act",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "扮演"
+          }
+        },
+        {
+          "text": "act out",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "把……表演出来"
+          }
+        },
+        {
+          "text": "RSVP",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（尤用于请柬）请赐复"
+          }
+        },
+        {
+          "text": "by",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在……之前"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "When is the art show?",
+      "order": 4,
+      "words": [
+        {
+          "text": "first (1st)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第一（的）"
+          }
+        },
+        {
+          "text": "second (2nd)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第二（的）"
+          }
+        },
+        {
+          "text": "third (3rd)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第三（的）"
+          }
+        },
+        {
+          "text": "fourth (4th)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第四（的）"
+          }
+        },
+        {
+          "text": "fifth (5th)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第五（的）"
+          }
+        },
+        {
+          "text": "twelfth (12th)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第十二（的）"
+          }
+        },
+        {
+          "text": "twentieth (20th)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第二十（的）"
+          }
+        },
+        {
+          "text": "twenty-first (21st)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第二十一（的）"
+          }
+        },
+        {
+          "text": "twenty-third (23rd)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第二十三（的）"
+          }
+        },
+        {
+          "text": "thirtieth (30th)",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "第三十（的）"
+          }
+        },
+        {
+          "text": "other",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "其他"
+          }
+        },
+        {
+          "text": "special",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "特殊的；特别的"
+          }
+        },
+        {
+          "text": "show",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "展览"
+          }
+        },
+        {
+          "text": "festival",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "节日"
+          }
+        },
+        {
+          "text": "kitten",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "小猫"
+          }
+        },
+        {
+          "text": "diary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "日记"
+          }
+        },
+        {
+          "text": "still",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "仍然；依旧；还是"
+          }
+        },
+        {
+          "text": "noise",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "声音；响声；噪音"
+          }
+        },
+        {
+          "text": "fur",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（某些动物的）浓密的软毛"
+          }
+        },
+        {
+          "text": "open",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "开着的"
+          }
+        },
+        {
+          "text": "walk",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "行走"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Whose dog is it?",
+      "order": 5,
+      "words": [
+        {
+          "text": "mine",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "我的"
+          }
+        },
+        {
+          "text": "yours",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "你（们）的"
+          }
+        },
+        {
+          "text": "his",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "他的"
+          }
+        },
+        {
+          "text": "hers",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "她的"
+          }
+        },
+        {
+          "text": "theirs",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "他们的；她们的；它们的"
+          }
+        },
+        {
+          "text": "ours",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "我们的"
+          }
+        },
+        {
+          "text": "climbing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（climb 的 -ing 形式）（正在）攀登；攀爬"
+          }
+        },
+        {
+          "text": "eating",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（eat 的 -ing 形式）（正在）吃"
+          }
+        },
+        {
+          "text": "playing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（play 的 -ing 形式）（正在）玩耍"
+          }
+        },
+        {
+          "text": "jumping",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（jump 的 -ing 形式）（正在）跳"
+          }
+        },
+        {
+          "text": "drinking",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（drink 的 -ing 形式）（正在）喝（水）"
+          }
+        },
+        {
+          "text": "sleeping",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（sleep 的 -ing 形式）（正在）睡觉"
+          }
+        },
+        {
+          "text": "each",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "每一；各个"
+          }
+        },
+        {
+          "text": "each other",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "相互"
+          }
+        },
+        {
+          "text": "excited",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "兴奋的；激动的"
+          }
+        },
+        {
+          "text": "like",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "像……那样"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Work quietly!",
+      "order": 6,
+      "words": [
+        {
+          "text": "doing morning exercises",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（正在）做早操"
+          }
+        },
+        {
+          "text": "having … class",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（正在）上……课"
+          }
+        },
+        {
+          "text": "eating lunch",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（正在）吃午饭"
+          }
+        },
+        {
+          "text": "reading a book",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（正在）看书"
+          }
+        },
+        {
+          "text": "listening to music",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（正在）听音乐"
+          }
+        },
+        {
+          "text": "keep",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "保持某种状态"
+          }
+        },
+        {
+          "text": "keep to the right",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "靠右"
+          }
+        },
+        {
+          "text": "keep your desk clean",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "保持你的课桌干净"
+          }
+        },
+        {
+          "text": "talk quietly",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "小声讲话"
+          }
+        },
+        {
+          "text": "turn",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "顺序"
+          }
+        },
+        {
+          "text": "take turns",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "按顺序来"
+          }
+        },
+        {
+          "text": "bamboo",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "竹子"
+          }
+        },
+        {
+          "text": "its",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（指事物、动物或幼儿）它的；他的；她的"
+          }
+        },
+        {
+          "text": "show",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "给人看"
+          }
+        },
+        {
+          "text": "anything",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "任何事物"
+          }
+        },
+        {
+          "text": "else",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "另外；其他"
+          }
+        },
+        {
+          "text": "exhibition",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "展览"
+          }
+        },
+        {
+          "text": "say",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "说；讲"
+          }
+        },
+        {
+          "text": "have a look",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "看一看"
+          }
+        },
+        {
+          "text": "sushi",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "寿司"
+          }
+        },
+        {
+          "text": "teach",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "教"
+          }
+        },
+        {
+          "text": "sure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（表示同意）当然"
+          }
+        },
+        {
+          "text": "Canadian",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "加拿大的"
+          }
+        },
+        {
+          "text": "Spanish",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "西班牙的"
+          }
+        }
+      ]
+    }
+  ]
+}

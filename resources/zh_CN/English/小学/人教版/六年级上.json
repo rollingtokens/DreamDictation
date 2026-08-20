@@ -1,0 +1,1075 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "How can I get there?",
+      "order": 1,
+      "words": [
+        {
+          "text": "science",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "科学"
+          }
+        },
+        {
+          "text": "museum",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "博物馆"
+          }
+        },
+        {
+          "text": "post office",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "邮局"
+          }
+        },
+        {
+          "text": "bookstore",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "书店"
+          }
+        },
+        {
+          "text": "cinema",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "电影院"
+          }
+        },
+        {
+          "text": "hospital",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "医院"
+          }
+        },
+        {
+          "text": "crossing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十字路口"
+          }
+        },
+        {
+          "text": "turn",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "转弯"
+          }
+        },
+        {
+          "text": "left",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "左"
+          }
+        },
+        {
+          "text": "straight",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "笔直地"
+          }
+        },
+        {
+          "text": "right",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "右"
+          }
+        },
+        {
+          "text": "ask",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "问"
+          }
+        },
+        {
+          "text": "sir",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（对男子的礼貌称呼）先生"
+          }
+        },
+        {
+          "text": "interesting",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有趣的"
+          }
+        },
+        {
+          "text": "Italian",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "意大利的"
+          }
+        },
+        {
+          "text": "restaurant",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "餐馆"
+          }
+        },
+        {
+          "text": "pizza",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "比萨饼"
+          }
+        },
+        {
+          "text": "street",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大街；街道"
+          }
+        },
+        {
+          "text": "get",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "到达"
+          }
+        },
+        {
+          "text": "BDS",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "北斗卫星导航系统"
+          }
+        },
+        {
+          "text": "gave",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（give 的过去式）提供；交给"
+          }
+        },
+        {
+          "text": "feature",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "特点"
+          }
+        },
+        {
+          "text": "follow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "跟着"
+          }
+        },
+        {
+          "text": "far",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "远的"
+          }
+        },
+        {
+          "text": "tell",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "告诉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Ways to go to school",
+      "order": 2,
+      "words": [
+        {
+          "text": "on foot",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "步行"
+          }
+        },
+        {
+          "text": "by",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（表示方式）乘"
+          }
+        },
+        {
+          "text": "bus",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "公共汽车"
+          }
+        },
+        {
+          "text": "plane",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "飞机"
+          }
+        },
+        {
+          "text": "taxi",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "出租汽车"
+          }
+        },
+        {
+          "text": "ship",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（大）船"
+          }
+        },
+        {
+          "text": "subway",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "地铁"
+          }
+        },
+        {
+          "text": "train",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "火车"
+          }
+        },
+        {
+          "text": "slow",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（使）放慢速度；慢的"
+          }
+        },
+        {
+          "text": "down",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "减少；降低"
+          }
+        },
+        {
+          "text": "slow down",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "慢下来"
+          }
+        },
+        {
+          "text": "stop",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "停下"
+          }
+        },
+        {
+          "text": "Mrs",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "夫人"
+          }
+        },
+        {
+          "text": "early",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "早到的"
+          }
+        },
+        {
+          "text": "helmet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "头盔"
+          }
+        },
+        {
+          "text": "must",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "必须"
+          }
+        },
+        {
+          "text": "wear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "戴"
+          }
+        },
+        {
+          "text": "attention",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "注意"
+          }
+        },
+        {
+          "text": "pay attention to",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "注意"
+          }
+        },
+        {
+          "text": "traffic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "交通"
+          }
+        },
+        {
+          "text": "traffic lights",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "交通信号灯"
+          }
+        },
+        {
+          "text": "Munich",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "慕尼黑（德国城市）"
+          }
+        },
+        {
+          "text": "Germany",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "德国"
+          }
+        },
+        {
+          "text": "Alaska",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阿拉斯加州（美国州名）"
+          }
+        },
+        {
+          "text": "sled",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "雪橇"
+          }
+        },
+        {
+          "text": "fast",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "快"
+          }
+        },
+        {
+          "text": "ferry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "轮渡"
+          }
+        },
+        {
+          "text": "Papa Westray",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "帕帕韦斯特雷岛"
+          }
+        },
+        {
+          "text": "Scotland",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "苏格兰"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "My weekend plan",
+      "order": 3,
+      "words": [
+        {
+          "text": "visit",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "拜访"
+          }
+        },
+        {
+          "text": "film",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "电影"
+          }
+        },
+        {
+          "text": "see a film",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看电影"
+          }
+        },
+        {
+          "text": "trip",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "旅行"
+          }
+        },
+        {
+          "text": "take a trip",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "去旅行"
+          }
+        },
+        {
+          "text": "supermarket",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "超市"
+          }
+        },
+        {
+          "text": "evening",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "晚上；傍晚"
+          }
+        },
+        {
+          "text": "tonight",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在今晚"
+          }
+        },
+        {
+          "text": "tomorrow",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "明天"
+          }
+        },
+        {
+          "text": "next week",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "下周"
+          }
+        },
+        {
+          "text": "dictionary",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "词典"
+          }
+        },
+        {
+          "text": "comic",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "滑稽的"
+          }
+        },
+        {
+          "text": "comic book",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（儿童的）连环画册"
+          }
+        },
+        {
+          "text": "word",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "单词"
+          }
+        },
+        {
+          "text": "word book",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "单词书"
+          }
+        },
+        {
+          "text": "postcard",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "明信片"
+          }
+        },
+        {
+          "text": "lesson",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "课"
+          }
+        },
+        {
+          "text": "space",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "太空"
+          }
+        },
+        {
+          "text": "travel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（尤指长途）旅行"
+          }
+        },
+        {
+          "text": "half",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一半"
+          }
+        },
+        {
+          "text": "price",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "价格"
+          }
+        },
+        {
+          "text": "Mid-Autumn Festival",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "中秋节"
+          }
+        },
+        {
+          "text": "together",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一起"
+          }
+        },
+        {
+          "text": "get together",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "聚会"
+          }
+        },
+        {
+          "text": "mooncake",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "月饼"
+          }
+        },
+        {
+          "text": "poem",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "诗"
+          }
+        },
+        {
+          "text": "moon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "月亮"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "I have a pen pal",
+      "order": 4,
+      "words": [
+        {
+          "text": "studies",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（study 的第三人称单数形式）学习"
+          }
+        },
+        {
+          "text": "puzzle",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "谜"
+          }
+        },
+        {
+          "text": "hiking",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "远足"
+          }
+        },
+        {
+          "text": "pen pal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "笔友"
+          }
+        },
+        {
+          "text": "hobby",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "业余爱好"
+          }
+        },
+        {
+          "text": "jasmine",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "茉莉"
+          }
+        },
+        {
+          "text": "idea",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "想法；主意"
+          }
+        },
+        {
+          "text": "Canberra",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "堪培拉（澳大利亚首都）"
+          }
+        },
+        {
+          "text": "amazing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "令人惊奇的"
+          }
+        },
+        {
+          "text": "shall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "表示征求意见"
+          }
+        },
+        {
+          "text": "goal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "射门"
+          }
+        },
+        {
+          "text": "join",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "加入"
+          }
+        },
+        {
+          "text": "club",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "俱乐部"
+          }
+        },
+        {
+          "text": "share",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分享"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "What does he do?",
+      "order": 5,
+      "words": [
+        {
+          "text": "factory",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "工厂"
+          }
+        },
+        {
+          "text": "worker",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "工人"
+          }
+        },
+        {
+          "text": "postman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "邮递员"
+          }
+        },
+        {
+          "text": "businessman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "商人；企业家"
+          }
+        },
+        {
+          "text": "police officer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "警察"
+          }
+        },
+        {
+          "text": "fisherman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "渔民"
+          }
+        },
+        {
+          "text": "scientist",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "科学家"
+          }
+        },
+        {
+          "text": "pilot",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "飞行员"
+          }
+        },
+        {
+          "text": "coach",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "教练"
+          }
+        },
+        {
+          "text": "country",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "国家"
+          }
+        },
+        {
+          "text": "head teacher",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "校长"
+          }
+        },
+        {
+          "text": "sea",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大海"
+          }
+        },
+        {
+          "text": "stay",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "保持"
+          }
+        },
+        {
+          "text": "university",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大学"
+          }
+        },
+        {
+          "text": "gym",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "体育馆"
+          }
+        },
+        {
+          "text": "if",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "如果"
+          }
+        },
+        {
+          "text": "reporter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "记者"
+          }
+        },
+        {
+          "text": "use",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使用"
+          }
+        },
+        {
+          "text": "type",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "打字"
+          }
+        },
+        {
+          "text": "quickly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "迅速地"
+          }
+        },
+        {
+          "text": "secretary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "秘书"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "How do you feel?",
+      "order": 6,
+      "words": [
+        {
+          "text": "angry",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "生气的"
+          }
+        },
+        {
+          "text": "afraid",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "害怕"
+          }
+        },
+        {
+          "text": "sad",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "难过的"
+          }
+        },
+        {
+          "text": "worried",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "担心的；发愁的"
+          }
+        },
+        {
+          "text": "happy",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "高兴的"
+          }
+        },
+        {
+          "text": "see a doctor",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看病"
+          }
+        },
+        {
+          "text": "wear",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "穿"
+          }
+        },
+        {
+          "text": "more",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "更多的"
+          }
+        },
+        {
+          "text": "deep",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "深的"
+          }
+        },
+        {
+          "text": "breath",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "呼吸"
+          }
+        },
+        {
+          "text": "take a deep breath",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "深深吸一口气"
+          }
+        },
+        {
+          "text": "count",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "数数"
+          }
+        },
+        {
+          "text": "count to ten",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "数到十"
+          }
+        },
+        {
+          "text": "chase",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "追赶"
+          }
+        },
+        {
+          "text": "mice",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（mouse 的复数）老鼠"
+          }
+        },
+        {
+          "text": "bad",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "邪恶的；坏的"
+          }
+        },
+        {
+          "text": "hurt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（使）受伤"
+          }
+        },
+        {
+          "text": "ill",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有病；不舒服"
+          }
+        },
+        {
+          "text": "wrong",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有毛病"
+          }
+        },
+        {
+          "text": "should",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "应该"
+          }
+        },
+        {
+          "text": "feel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "觉得；感到"
+          }
+        },
+        {
+          "text": "well",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "健康；身体好"
+          }
+        },
+        {
+          "text": "sit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "坐"
+          }
+        },
+        {
+          "text": "grass",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "草坪"
+          }
+        },
+        {
+          "text": "hear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "听见"
+          }
+        },
+        {
+          "text": "ant",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "蚂蚁"
+          }
+        },
+        {
+          "text": "worry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "担心；担忧"
+          }
+        },
+        {
+          "text": "stuck",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "陷住；无法移动"
+          }
+        },
+        {
+          "text": "mud",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "泥"
+          }
+        },
+        {
+          "text": "pull",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "拉；拽"
+          }
+        },
+        {
+          "text": "everyone",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "每人"
+          }
+        }
+      ]
+    }
+  ]
+}
