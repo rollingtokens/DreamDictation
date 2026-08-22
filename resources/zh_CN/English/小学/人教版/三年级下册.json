@@ -5,30 +5,198 @@
       "name": "Unit 1",
       "order": 1,
       "words": [
-        { "text": "where", "is_bold": false, "translations": { "zh-CN": "在哪里；到哪里" } },
-        { "text": "from", "is_bold": false, "translations": { "zh-CN": "（表示来源）来自，从......来" } },
-        { "text": "about", "is_bold": false, "translations": { "zh-CN": "关于；大约" } },
-        { "text": "today", "is_bold": false, "translations": { "zh-CN": "今天" } },
-        { "text": "teacher", "is_bold": true, "translations": { "zh-CN": "教师" } },
-        { "text": "student", "is_bold": true, "translations": { "zh-CN": "学生" } },
-        { "text": "after", "is_bold": false, "translations": { "zh-CN": "在......后面" } },
-        { "text": "who", "is_bold": false, "translations": { "zh-CN": "谁；什么人" } },
-        { "text": "girl", "is_bold": true, "translations": { "zh-CN": "女孩" } },
-        { "text": "neighbour", "is_bold": false, "translations": { "zh-CN": "邻居" } },
-        { "text": "boy", "is_bold": true, "translations": { "zh-CN": "男孩" } },
-        { "text": "woman", "is_bold": true, "translations": { "zh-CN": "成年女子；妇女" } },
-        { "text": "man", "is_bold": true, "translations": { "zh-CN": "成年男子；男人" } },
-        { "text": "Mr", "is_bold": false, "translations": { "zh-CN": "（用于男子的姓氏或姓名前）先生" } },
-        { "text": "classmate", "is_bold": false, "translations": { "zh-CN": "同班同学" } },
-        { "text": "he", "is_bold": false, "translations": { "zh-CN": "他" } },
-        { "text": "also", "is_bold": false, "translations": { "zh-CN": "也" } },
-        { "text": "English", "is_bold": false, "translations": { "zh-CN": "英语的；英语" } },
-        { "text": "she", "is_bold": false, "translations": { "zh-CN": "她" } },
-        { "text": "very", "is_bold": false, "translations": { "zh-CN": "很；非常；十分" } },
-        { "text": "UK", "is_bold": true, "translations": { "zh-CN": "英国" } },
-        { "text": "China", "is_bold": true, "translations": { "zh-CN": "中国" } },
-        { "text": "Canada", "is_bold": true, "translations": { "zh-CN": "加拿大" } },
-        { "text": "USA", "is_bold": true, "translations": { "zh-CN": "美国" } }
+        {
+          "text": "where",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在哪里；到哪里"
+          },
+          "phonetic": "wɛr"
+        },
+        {
+          "text": "from",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（表示来源）来自，从......来"
+          },
+          "phonetic": "frəm"
+        },
+        {
+          "text": "about",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "关于；大约"
+          },
+          "phonetic": "əˈbaʊt"
+        },
+        {
+          "text": "today",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "今天"
+          },
+          "phonetic": "təˈdeɪ"
+        },
+        {
+          "text": "teacher",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "教师"
+          },
+          "phonetic": "ˈtiʧər"
+        },
+        {
+          "text": "student",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "学生"
+          },
+          "phonetic": "ˈstudənt"
+        },
+        {
+          "text": "after",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在......后面"
+          },
+          "phonetic": "ˈæftər"
+        },
+        {
+          "text": "who",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "谁；什么人"
+          },
+          "phonetic": "hu"
+        },
+        {
+          "text": "girl",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "女孩"
+          },
+          "phonetic": "gərl"
+        },
+        {
+          "text": "neighbour",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "邻居"
+          },
+          "phonetic": "ˈneɪbər"
+        },
+        {
+          "text": "boy",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "男孩"
+          },
+          "phonetic": "bɔɪ"
+        },
+        {
+          "text": "woman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "成年女子；妇女"
+          },
+          "phonetic": "ˈwʊmən"
+        },
+        {
+          "text": "man",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "成年男子；男人"
+          },
+          "phonetic": "mæn"
+        },
+        {
+          "text": "Mr",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用于男子的姓氏或姓名前）先生"
+          },
+          "phonetic": "ˈmɪstər"
+        },
+        {
+          "text": "classmate",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "同班同学"
+          },
+          "phonetic": "ˈklæsˌmeɪt"
+        },
+        {
+          "text": "he",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "他"
+          },
+          "phonetic": "hi"
+        },
+        {
+          "text": "also",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "也"
+          },
+          "phonetic": "ˈɔlsoʊ"
+        },
+        {
+          "text": "English",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "英语的；英语"
+          },
+          "phonetic": "ˈɪŋlɪʃ"
+        },
+        {
+          "text": "she",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "她"
+          },
+          "phonetic": "ʃi"
+        },
+        {
+          "text": "very",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "很；非常；十分"
+          },
+          "phonetic": "ˈvɛri"
+        },
+        {
+          "text": "UK",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "英国"
+          },
+          "phonetic": "uk*"
+        },
+        {
+          "text": "China",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "中国"
+          },
+          "phonetic": "ˈʧaɪnə"
+        },
+        {
+          "text": "Canada",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "加拿大"
+          },
+          "phonetic": "ˈkænədə"
+        },
+        {
+          "text": "USA",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "美国"
+          },
+          "phonetic": "ˈjuˈɛˈseɪ"
+        }
       ]
     },
     {
@@ -36,30 +204,198 @@
       "name": "Unit 2",
       "order": 2,
       "words": [
-        { "text": "has", "is_bold": false, "translations": { "zh-CN": "（have的第三人称单数形式）具有（某种外表、特性或特征）" } },
-        { "text": "long", "is_bold": true, "translations": { "zh-CN": "（长度或距离）长的" } },
-        { "text": "body", "is_bold": false, "translations": { "zh-CN": "身体" } },
-        { "text": "short", "is_bold": true, "translations": { "zh-CN": "短的；个子矮的" } },
-        { "text": "leg", "is_bold": false, "translations": { "zh-CN": "腿" } },
-        { "text": "right", "is_bold": false, "translations": { "zh-CN": "（意见或判断）准确，确切，恰当" } },
-        { "text": "fat", "is_bold": true, "translations": { "zh-CN": "肥的；肥胖的" } },
-        { "text": "thin", "is_bold": true, "translations": { "zh-CN": "瘦的" } },
-        { "text": "slow", "is_bold": true, "translations": { "zh-CN": "缓慢的；慢的" } },
-        { "text": "love", "is_bold": false, "translations": { "zh-CN": "喜爱；爱" } },
-        { "text": "tail", "is_bold": false, "translations": { "zh-CN": "尾；尾巴" } },
-        { "text": "her", "is_bold": false, "translations": { "zh-CN": "她；她的" } },
-        { "text": "gift", "is_bold": false, "translations": { "zh-CN": "礼物" } },
-        { "text": "picture", "is_bold": true, "translations": { "zh-CN": "图画；绘画" } },
-        { "text": "card", "is_bold": true, "translations": { "zh-CN": "贺卡；慰问卡；卡片" } },
-        { "text": "sing", "is_bold": true, "translations": { "zh-CN": "唱（歌）；演唱" } },
-        { "text": "dance", "is_bold": true, "translations": { "zh-CN": "跳舞" } },
-        { "text": "talk", "is_bold": false, "translations": { "zh-CN": "说话；讲话；谈话" } },
-        { "text": "face", "is_bold": false, "translations": { "zh-CN": "脸；面孔" } },
-        { "text": "all", "is_bold": false, "translations": { "zh-CN": "所有；全部" } },
-        { "text": "song", "is_bold": false, "translations": { "zh-CN": "歌；歌曲" } },
-        { "text": "or", "is_bold": false, "translations": { "zh-CN": "或；或者；还是" } },
-        { "text": "so", "is_bold": false, "translations": { "zh-CN": "（表示大小或数量）这么，那么" } },
-        { "text": "much", "is_bold": false, "translations": { "zh-CN": "许多；大量" } }
+        {
+          "text": "has",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（have的第三人称单数形式）具有（某种外表、特性或特征）"
+          },
+          "phonetic": "həz"
+        },
+        {
+          "text": "long",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（长度或距离）长的"
+          },
+          "phonetic": "lɔŋ"
+        },
+        {
+          "text": "body",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "身体"
+          },
+          "phonetic": "ˈbɑdi"
+        },
+        {
+          "text": "short",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "短的；个子矮的"
+          },
+          "phonetic": "ʃɔrt"
+        },
+        {
+          "text": "leg",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "腿"
+          },
+          "phonetic": "lɛg"
+        },
+        {
+          "text": "right",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（意见或判断）准确，确切，恰当"
+          },
+          "phonetic": "raɪt"
+        },
+        {
+          "text": "fat",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "肥的；肥胖的"
+          },
+          "phonetic": "fæt"
+        },
+        {
+          "text": "thin",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "瘦的"
+          },
+          "phonetic": "θɪn"
+        },
+        {
+          "text": "slow",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "缓慢的；慢的"
+          },
+          "phonetic": "sloʊ"
+        },
+        {
+          "text": "love",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "喜爱；爱"
+          },
+          "phonetic": "ləv"
+        },
+        {
+          "text": "tail",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尾；尾巴"
+          },
+          "phonetic": "teɪl"
+        },
+        {
+          "text": "her",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "她；她的"
+          },
+          "phonetic": "hər"
+        },
+        {
+          "text": "gift",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "礼物"
+          },
+          "phonetic": "gɪft"
+        },
+        {
+          "text": "picture",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "图画；绘画"
+          },
+          "phonetic": "ˈpɪkʧər"
+        },
+        {
+          "text": "card",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "贺卡；慰问卡；卡片"
+          },
+          "phonetic": "kɑrd"
+        },
+        {
+          "text": "sing",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "唱（歌）；演唱"
+          },
+          "phonetic": "sɪŋ"
+        },
+        {
+          "text": "dance",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "跳舞"
+          },
+          "phonetic": "dæns"
+        },
+        {
+          "text": "talk",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "说话；讲话；谈话"
+          },
+          "phonetic": "tɔk"
+        },
+        {
+          "text": "face",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "脸；面孔"
+          },
+          "phonetic": "feɪs"
+        },
+        {
+          "text": "all",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "所有；全部"
+          },
+          "phonetic": "ɔl"
+        },
+        {
+          "text": "song",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "歌；歌曲"
+          },
+          "phonetic": "sɔŋ"
+        },
+        {
+          "text": "or",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "或；或者；还是"
+          },
+          "phonetic": "ər"
+        },
+        {
+          "text": "so",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（表示大小或数量）这么，那么"
+          },
+          "phonetic": "soʊ"
+        },
+        {
+          "text": "much",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "许多；大量"
+          },
+          "phonetic": "məʧ"
+        }
       ]
     },
     {
@@ -67,26 +403,166 @@
       "name": "Unit 3",
       "order": 3,
       "words": [
-        { "text": "eraser", "is_bold": false, "translations": { "zh-CN": "橡皮" } },
-        { "text": "find", "is_bold": false, "translations": { "zh-CN": "找到；找回" } },
-        { "text": "ruler", "is_bold": true, "translations": { "zh-CN": "直尺" } },
-        { "text": "pen", "is_bold": true, "translations": { "zh-CN": "钢笔" } },
-        { "text": "pencil", "is_bold": true, "translations": { "zh-CN": "铅笔" } },
-        { "text": "book", "is_bold": true, "translations": { "zh-CN": "书；书籍" } },
-        { "text": "bag", "is_bold": true, "translations": { "zh-CN": "包；袋" } },
-        { "text": "paper", "is_bold": true, "translations": { "zh-CN": "纸" } },
-        { "text": "these", "is_bold": false, "translations": { "zh-CN": "这些" } },
-        { "text": "see", "is_bold": true, "translations": { "zh-CN": "看见" } },
-        { "text": "smell", "is_bold": true, "translations": { "zh-CN": "闻（气味）" } },
-        { "text": "taste", "is_bold": true, "translations": { "zh-CN": "尝（味道）" } },
-        { "text": "hear", "is_bold": true, "translations": { "zh-CN": "听见；听到" } },
-        { "text": "touch", "is_bold": true, "translations": { "zh-CN": "触摸；碰" } },
-        { "text": "nose", "is_bold": false, "translations": { "zh-CN": "鼻；鼻子" } },
-        { "text": "tongue", "is_bold": false, "translations": { "zh-CN": "舌；舌头" } },
-        { "text": "class", "is_bold": false, "translations": { "zh-CN": "课；班级" } },
-        { "text": "in class", "is_bold": false, "translations": { "zh-CN": "在课堂上" } },
-        { "text": "computer", "is_bold": false, "translations": { "zh-CN": "计算机；电脑" } },
-        { "text": "learn", "is_bold": false, "translations": { "zh-CN": "学；学习" } }
+        {
+          "text": "eraser",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "橡皮"
+          },
+          "phonetic": "ɪˈreɪsər"
+        },
+        {
+          "text": "find",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "找到；找回"
+          },
+          "phonetic": "faɪnd"
+        },
+        {
+          "text": "ruler",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "直尺"
+          },
+          "phonetic": "ˈrulər"
+        },
+        {
+          "text": "pen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "钢笔"
+          },
+          "phonetic": "pɛn"
+        },
+        {
+          "text": "pencil",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "铅笔"
+          },
+          "phonetic": "ˈpɛnsəl"
+        },
+        {
+          "text": "book",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "书；书籍"
+          },
+          "phonetic": "bʊk"
+        },
+        {
+          "text": "bag",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "包；袋"
+          },
+          "phonetic": "bæg"
+        },
+        {
+          "text": "paper",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "纸"
+          },
+          "phonetic": "ˈpeɪpər"
+        },
+        {
+          "text": "these",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "这些"
+          },
+          "phonetic": "ðiz"
+        },
+        {
+          "text": "see",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "看见"
+          },
+          "phonetic": "si"
+        },
+        {
+          "text": "smell",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "闻（气味）"
+          },
+          "phonetic": "smɛl"
+        },
+        {
+          "text": "taste",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "尝（味道）"
+          },
+          "phonetic": "teɪst"
+        },
+        {
+          "text": "hear",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "听见；听到"
+          },
+          "phonetic": "hir"
+        },
+        {
+          "text": "touch",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "触摸；碰"
+          },
+          "phonetic": "təʧ"
+        },
+        {
+          "text": "nose",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "鼻；鼻子"
+          },
+          "phonetic": "noʊz"
+        },
+        {
+          "text": "tongue",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "舌；舌头"
+          },
+          "phonetic": "təŋ"
+        },
+        {
+          "text": "class",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "课；班级"
+          },
+          "phonetic": "klæs"
+        },
+        {
+          "text": "in class",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在课堂上"
+          },
+          "phonetic": "ɪn klæs"
+        },
+        {
+          "text": "computer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "计算机；电脑"
+          },
+          "phonetic": "kəmˈpjutər"
+        },
+        {
+          "text": "learn",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "学；学习"
+          },
+          "phonetic": "lərn"
+        }
       ]
     },
     {
@@ -94,23 +570,142 @@
       "name": "Unit 4",
       "order": 4,
       "words": [
-        { "text": "breakfast", "is_bold": false, "translations": { "zh-CN": "早餐；早饭" } },
-        { "text": "time", "is_bold": false, "translations": { "zh-CN": "时间" } },
-        { "text": "bread", "is_bold": true, "translations": { "zh-CN": "面包" } },
-        { "text": "egg", "is_bold": true, "translations": { "zh-CN": "（作食物用的）蛋；鸡蛋" } },
-        { "text": "milk", "is_bold": true, "translations": { "zh-CN": "（牛或羊等的）奶" } },
-        { "text": "noodle", "is_bold": true, "translations": { "zh-CN": "面条" } },
-        { "text": "juice", "is_bold": true, "translations": { "zh-CN": "果汁" } },
-        { "text": "rice", "is_bold": true, "translations": { "zh-CN": "大米" } },
-        { "text": "meat", "is_bold": true, "translations": { "zh-CN": "肉" } },
-        { "text": "vegetable", "is_bold": true, "translations": { "zh-CN": "蔬菜" } },
-        { "text": "healthy", "is_bold": false, "translations": { "zh-CN": "健康的" } },
-        { "text": "plate", "is_bold": false, "translations": { "zh-CN": "盘子" } },
-        { "text": "soup", "is_bold": true, "translations": { "zh-CN": "汤" } },
-        { "text": "fruit", "is_bold": true, "translations": { "zh-CN": "水果" } },
-        { "text": "colourful", "is_bold": false, "translations": { "zh-CN": "五彩缤纷的" } },
-        { "text": "candy", "is_bold": false, "translations": { "zh-CN": "糖果" } },
-        { "text": "yummy", "is_bold": false, "translations": { "zh-CN": "很好吃的" } }
+        {
+          "text": "breakfast",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "早餐；早饭"
+          },
+          "phonetic": "ˈbrɛkfəst"
+        },
+        {
+          "text": "time",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "时间"
+          },
+          "phonetic": "taɪm"
+        },
+        {
+          "text": "bread",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "面包"
+          },
+          "phonetic": "brɛd"
+        },
+        {
+          "text": "egg",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（作食物用的）蛋；鸡蛋"
+          },
+          "phonetic": "ɛg"
+        },
+        {
+          "text": "milk",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（牛或羊等的）奶"
+          },
+          "phonetic": "mɪlk"
+        },
+        {
+          "text": "noodle",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "面条"
+          },
+          "phonetic": "ˈnudəl"
+        },
+        {
+          "text": "juice",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "果汁"
+          },
+          "phonetic": "ʤus"
+        },
+        {
+          "text": "rice",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "大米"
+          },
+          "phonetic": "raɪs"
+        },
+        {
+          "text": "meat",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "肉"
+          },
+          "phonetic": "mit"
+        },
+        {
+          "text": "vegetable",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "蔬菜"
+          },
+          "phonetic": "ˈvɛʤtəbəl"
+        },
+        {
+          "text": "healthy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "健康的"
+          },
+          "phonetic": "ˈhɛlθi"
+        },
+        {
+          "text": "plate",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "盘子"
+          },
+          "phonetic": "pleɪt"
+        },
+        {
+          "text": "soup",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "汤"
+          },
+          "phonetic": "sup"
+        },
+        {
+          "text": "fruit",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "水果"
+          },
+          "phonetic": "frut"
+        },
+        {
+          "text": "colourful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "五彩缤纷的"
+          },
+          "phonetic": "colourful*"
+        },
+        {
+          "text": "candy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "糖果"
+          },
+          "phonetic": "ˈkændi"
+        },
+        {
+          "text": "yummy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "很好吃的"
+          },
+          "phonetic": "ˈjəmi"
+        }
       ]
     },
     {
@@ -118,23 +713,142 @@
       "name": "Unit 5",
       "order": 5,
       "words": [
-        { "text": "boat", "is_bold": true, "translations": { "zh-CN": "小船；舟" } },
-        { "text": "cool", "is_bold": false, "translations": { "zh-CN": "（因时髦、漂亮且与众不同而）酷的，绝妙的" } },
-        { "text": "keep", "is_bold": false, "translations": { "zh-CN": "保有；留着" } },
-        { "text": "at", "is_bold": false, "translations": { "zh-CN": "在（某处）" } },
-        { "text": "home", "is_bold": false, "translations": { "zh-CN": "家；住所" } },
-        { "text": "ball", "is_bold": true, "translations": { "zh-CN": "球" } },
-        { "text": "doll", "is_bold": true, "translations": { "zh-CN": "玩偶；玩具娃娃" } },
-        { "text": "car", "is_bold": true, "translations": { "zh-CN": "小汽车；轿车" } },
-        { "text": "on", "is_bold": true, "translations": { "zh-CN": "（覆盖、附着）在......上" } },
-        { "text": "shelf", "is_bold": false, "translations": { "zh-CN": "架子" } },
-        { "text": "in", "is_bold": true, "translations": { "zh-CN": "在......内；在......中" } },
-        { "text": "box", "is_bold": false, "translations": { "zh-CN": "盒子" } },
-        { "text": "cap", "is_bold": true, "translations": { "zh-CN": "帽子" } },
-        { "text": "map", "is_bold": true, "translations": { "zh-CN": "地图" } },
-        { "text": "under", "is_bold": true, "translations": { "zh-CN": "在（或到、通过）......下面" } },
-        { "text": "still", "is_bold": false, "translations": { "zh-CN": "还是；仍然" } },
-        { "text": "put", "is_bold": false, "translations": { "zh-CN": "放；安置" } }
+        {
+          "text": "boat",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "小船；舟"
+          },
+          "phonetic": "boʊt"
+        },
+        {
+          "text": "cool",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（因时髦、漂亮且与众不同而）酷的，绝妙的"
+          },
+          "phonetic": "kul"
+        },
+        {
+          "text": "keep",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "保有；留着"
+          },
+          "phonetic": "kip"
+        },
+        {
+          "text": "at",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在（某处）"
+          },
+          "phonetic": "æt"
+        },
+        {
+          "text": "home",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "家；住所"
+          },
+          "phonetic": "hoʊm"
+        },
+        {
+          "text": "ball",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "球"
+          },
+          "phonetic": "bɔl"
+        },
+        {
+          "text": "doll",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "玩偶；玩具娃娃"
+          },
+          "phonetic": "dɑl"
+        },
+        {
+          "text": "car",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "小汽车；轿车"
+          },
+          "phonetic": "kɑr"
+        },
+        {
+          "text": "on",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "（覆盖、附着）在......上"
+          },
+          "phonetic": "ɔn"
+        },
+        {
+          "text": "shelf",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "架子"
+          },
+          "phonetic": "ʃɛlf"
+        },
+        {
+          "text": "in",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在......内；在......中"
+          },
+          "phonetic": "ɪn"
+        },
+        {
+          "text": "box",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "盒子"
+          },
+          "phonetic": "bɑks"
+        },
+        {
+          "text": "cap",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "帽子"
+          },
+          "phonetic": "kæp"
+        },
+        {
+          "text": "map",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "地图"
+          },
+          "phonetic": "mæp"
+        },
+        {
+          "text": "under",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "在（或到、通过）......下面"
+          },
+          "phonetic": "ˈəndər"
+        },
+        {
+          "text": "still",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "还是；仍然"
+          },
+          "phonetic": "stɪl"
+        },
+        {
+          "text": "put",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "放；安置"
+          },
+          "phonetic": "pʊt"
+        }
       ]
     },
     {
@@ -142,19 +856,110 @@
       "name": "Unit 6",
       "order": 6,
       "words": [
-        { "text": "fifteen", "is_bold": true, "translations": { "zh-CN": "十五" } },
-        { "text": "twelve", "is_bold": true, "translations": { "zh-CN": "十二" } },
-        { "text": "fourteen", "is_bold": true, "translations": { "zh-CN": "十四" } },
-        { "text": "thirteen", "is_bold": true, "translations": { "zh-CN": "十三" } },
-        { "text": "eleven", "is_bold": true, "translations": { "zh-CN": "十一" } },
-        { "text": "twenty", "is_bold": true, "translations": { "zh-CN": "二十" } },
-        { "text": "seventeen", "is_bold": true, "translations": { "zh-CN": "十七" } },
-        { "text": "sixteen", "is_bold": true, "translations": { "zh-CN": "十六" } },
-        { "text": "eighteen", "is_bold": true, "translations": { "zh-CN": "十八" } },
-        { "text": "nineteen", "is_bold": true, "translations": { "zh-CN": "十九" } },
-        { "text": "piggy bank", "is_bold": false, "translations": { "zh-CN": "猪形储钱罐" } },
-        { "text": "pay", "is_bold": false, "translations": { "zh-CN": "付费" } },
-        { "text": "back", "is_bold": false, "translations": { "zh-CN": "回到原处" } }
+        {
+          "text": "fifteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十五"
+          },
+          "phonetic": "ˈfɪfˈtin"
+        },
+        {
+          "text": "twelve",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十二"
+          },
+          "phonetic": "twɛlv"
+        },
+        {
+          "text": "fourteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十四"
+          },
+          "phonetic": "ˌfɔrˈtin"
+        },
+        {
+          "text": "thirteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十三"
+          },
+          "phonetic": "ˈθərˈtin"
+        },
+        {
+          "text": "eleven",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十一"
+          },
+          "phonetic": "ˈilɛvən"
+        },
+        {
+          "text": "twenty",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "二十"
+          },
+          "phonetic": "tˈwɛnti"
+        },
+        {
+          "text": "seventeen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十七"
+          },
+          "phonetic": "ˈsɛvənˈtin"
+        },
+        {
+          "text": "sixteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十六"
+          },
+          "phonetic": "ˈsɪkˈstin"
+        },
+        {
+          "text": "eighteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十八"
+          },
+          "phonetic": "ˈeɪˈtin"
+        },
+        {
+          "text": "nineteen",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "十九"
+          },
+          "phonetic": "ˈnaɪnˈtin"
+        },
+        {
+          "text": "piggy bank",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "猪形储钱罐"
+          },
+          "phonetic": "ˈpɪgi bæŋk"
+        },
+        {
+          "text": "pay",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "付费"
+          },
+          "phonetic": "peɪ"
+        },
+        {
+          "text": "back",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "回到原处"
+          },
+          "phonetic": "bæk"
+        }
       ]
     }
   ]

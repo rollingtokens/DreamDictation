@@ -10,161 +10,184 @@
           "is_bold": false,
           "translations": {
             "zh-CN": "对不起"
-          }
+          },
+          "phonetic": "ˈsɑri"
         },
         {
           "text": "hurry up",
           "is_bold": false,
           "translations": {
             "zh-CN": "快点；赶快"
-          }
+          },
+          "phonetic": "ˈhəri əp"
         },
         {
           "text": "late",
           "is_bold": true,
           "translations": {
             "zh-CN": "迟到；迟发生"
-          }
+          },
+          "phonetic": "leɪt"
         },
         {
           "text": "class",
           "is_bold": false,
           "translations": {
             "zh-CN": "课；课程；班；班级"
-          }
+          },
+          "phonetic": "klæs"
         },
         {
           "text": "ready",
           "is_bold": false,
           "translations": {
             "zh-CN": "准备好"
-          }
+          },
+          "phonetic": "ˈrɛdi"
         },
         {
           "text": "rule",
           "is_bold": false,
           "translations": {
             "zh-CN": "规则；规章"
-          }
+          },
+          "phonetic": "rul"
         },
         {
           "text": "classroom",
           "is_bold": false,
           "translations": {
             "zh-CN": "教室"
-          }
+          },
+          "phonetic": "ˈklæsˌrum"
         },
         {
           "text": "turn off",
           "is_bold": true,
           "translations": {
             "zh-CN": "关掉"
-          }
+          },
+          "phonetic": "tərn ɔf"
         },
         {
           "text": "light",
           "is_bold": true,
           "translations": {
             "zh-CN": "灯；光"
-          }
+          },
+          "phonetic": "laɪt"
         },
         {
           "text": "blackboard",
           "is_bold": false,
           "translations": {
             "zh-CN": "黑板"
-          }
+          },
+          "phonetic": "ˈblækˌbɔrd"
         },
         {
           "text": "desk",
           "is_bold": false,
           "translations": {
             "zh-CN": "书桌；办公桌"
-          }
+          },
+          "phonetic": "dɛsk"
         },
         {
           "text": "chair",
           "is_bold": true,
           "translations": {
             "zh-CN": "椅子"
-          }
+          },
+          "phonetic": "ʧɛr"
         },
         {
           "text": "tidy",
           "is_bold": false,
           "translations": {
             "zh-CN": "整洁的；整齐的；使整洁；整理"
-          }
+          },
+          "phonetic": "ˈtaɪdi"
         },
         {
           "text": "music",
           "is_bold": false,
           "translations": {
             "zh-CN": "音乐"
-          }
+          },
+          "phonetic": "mˈjuzɪk"
         },
         {
           "text": "door",
           "is_bold": true,
           "translations": {
             "zh-CN": "门"
-          }
+          },
+          "phonetic": "dɔr"
         },
         {
           "text": "window",
           "is_bold": true,
           "translations": {
             "zh-CN": "窗"
-          }
+          },
+          "phonetic": "ˈwɪndoʊ"
         },
         {
           "text": "fan",
           "is_bold": true,
           "translations": {
             "zh-CN": "风扇"
-          }
+          },
+          "phonetic": "fæn"
         },
         {
           "text": "when",
           "is_bold": false,
           "translations": {
             "zh-CN": "当⋯⋯时；什么时候"
-          }
+          },
+          "phonetic": "wɪn"
         },
         {
           "text": "understand",
           "is_bold": false,
           "translations": {
             "zh-CN": "懂；理解"
-          }
+          },
+          "phonetic": "ˌəndərˈstænd"
         },
         {
           "text": "wall",
           "is_bold": false,
           "translations": {
             "zh-CN": "墙；壁"
-          }
+          },
+          "phonetic": "wɔl"
         },
         {
           "text": "newspaper",
           "is_bold": false,
           "translations": {
             "zh-CN": "报纸"
-          }
+          },
+          "phonetic": "ˈnuzˌpeɪpər"
         },
         {
           "text": "hand out",
           "is_bold": false,
           "translations": {
             "zh-CN": "分发"
-          }
+          },
+          "phonetic": "hænd aʊt"
         },
         {
           "text": "workbook",
           "is_bold": false,
           "translations": {
             "zh-CN": "练习册；作业本"
-          }
+          },
+          "phonetic": "workbook*"
         }
       ]
     },
@@ -178,154 +201,176 @@
           "is_bold": false,
           "translations": {
             "zh-CN": "看"
-          }
+          },
+          "phonetic": "wɔʧ"
         },
         {
           "text": "TV",
           "is_bold": false,
           "translations": {
             "zh-CN": "电视"
-          }
+          },
+          "phonetic": "ˌtɛləˈvɪʒən"
         },
         {
           "text": "homework",
           "is_bold": true,
           "translations": {
             "zh-CN": "家庭作业"
-          }
+          },
+          "phonetic": "ˈhoʊmˌwərk"
         },
         {
           "text": "first",
           "is_bold": false,
           "translations": {
             "zh-CN": "首先；首次；第一"
-          }
+          },
+          "phonetic": "fərst"
         },
         {
           "text": "wet",
           "is_bold": false,
           "translations": {
             "zh-CN": "湿的；未干的"
-          }
+          },
+          "phonetic": "wɛt"
         },
         {
           "text": "run",
           "is_bold": false,
           "translations": {
             "zh-CN": "跑；奔跑"
-          }
+          },
+          "phonetic": "rən"
         },
         {
           "text": "living room",
           "is_bold": true,
           "translations": {
             "zh-CN": "客厅；起居室"
-          }
+          },
+          "phonetic": "ˈlɪvɪŋ rum"
         },
         {
           "text": "safe",
           "is_bold": false,
           "translations": {
             "zh-CN": "安全的"
-          }
+          },
+          "phonetic": "seɪf"
         },
         {
           "text": "word",
           "is_bold": true,
           "translations": {
             "zh-CN": "言语；单词；字"
-          }
+          },
+          "phonetic": "wərd"
         },
         {
           "text": "wash",
           "is_bold": true,
           "translations": {
             "zh-CN": "洗"
-          }
+          },
+          "phonetic": "wɑʃ"
         },
         {
           "text": "helpful",
           "is_bold": false,
           "translations": {
             "zh-CN": "有帮助的；有用的"
-          }
+          },
+          "phonetic": "ˈhɛlpfəl"
         },
         {
           "text": "loud",
           "is_bold": false,
           "translations": {
             "zh-CN": "说话太大声的；吵闹的"
-          }
+          },
+          "phonetic": "laʊd"
         },
         {
           "text": "sleep",
           "is_bold": false,
           "translations": {
             "zh-CN": "睡觉"
-          }
+          },
+          "phonetic": "slip"
         },
         {
           "text": "bedroom",
           "is_bold": true,
           "translations": {
             "zh-CN": "卧室"
-          }
+          },
+          "phonetic": "ˈbɛˌdrum"
         },
         {
           "text": "kitchen",
           "is_bold": true,
           "translations": {
             "zh-CN": "厨房"
-          }
+          },
+          "phonetic": "ˈkɪʧən"
         },
         {
           "text": "study",
           "is_bold": true,
           "translations": {
             "zh-CN": "书房"
-          }
+          },
+          "phonetic": "ˈstədi"
         },
         {
           "text": "bathroom",
           "is_bold": true,
           "translations": {
             "zh-CN": "浴室；洗手间"
-          }
+          },
+          "phonetic": "ˈbæθˌrum"
         },
         {
           "text": "think",
           "is_bold": false,
           "translations": {
             "zh-CN": "想；思考"
-          }
+          },
+          "phonetic": "θɪŋk"
         },
         {
           "text": "work",
           "is_bold": false,
           "translations": {
             "zh-CN": "（花费时间和精力）做（某事）；工作"
-          }
+          },
+          "phonetic": "wərk"
         },
         {
           "text": "hard",
           "is_bold": false,
           "translations": {
             "zh-CN": "努力地；费力地"
-          }
+          },
+          "phonetic": "hɑrd"
         },
         {
           "text": "follow",
           "is_bold": false,
           "translations": {
             "zh-CN": "遵循，听从（忠告、指示等）"
-          }
+          },
+          "phonetic": "ˈfɑloʊ"
         },
         {
           "text": "feel",
           "is_bold": false,
           "translations": {
             "zh-CN": "觉得；感到"
-          }
+          },
+          "phonetic": "fil"
         }
       ]
     },
@@ -339,98 +384,112 @@
           "is_bold": false,
           "translations": {
             "zh-CN": "结束（的）"
-          }
+          },
+          "phonetic": "ˈoʊvər"
         },
         {
           "text": "kid",
           "is_bold": false,
           "translations": {
             "zh-CN": "小孩"
-          }
+          },
+          "phonetic": "kɪd"
         },
         {
           "text": "dinner",
           "is_bold": true,
           "translations": {
             "zh-CN": "（中午或晚上吃的）正餐"
-          }
+          },
+          "phonetic": "ˈdɪnər"
         },
         {
           "text": "art",
           "is_bold": true,
           "translations": {
             "zh-CN": "美术；艺术"
-          }
+          },
+          "phonetic": "ɑrt"
         },
         {
           "text": "lunch",
           "is_bold": true,
           "translations": {
             "zh-CN": "午餐"
-          }
+          },
+          "phonetic": "lənʧ"
         },
         {
           "text": "maths",
           "is_bold": true,
           "translations": {
             "zh-CN": "数学"
-          }
+          },
+          "phonetic": "maths*"
         },
         {
           "text": "get up",
           "is_bold": true,
           "translations": {
             "zh-CN": "起床"
-          }
+          },
+          "phonetic": "gɪt əp"
         },
         {
           "text": "go to school",
           "is_bold": true,
           "translations": {
             "zh-CN": "上学"
-          }
+          },
+          "phonetic": "goʊ tɪ skul"
         },
         {
           "text": "go home",
           "is_bold": true,
           "translations": {
             "zh-CN": "回家"
-          }
+          },
+          "phonetic": "goʊ hoʊm"
         },
         {
           "text": "go to bed",
           "is_bold": true,
           "translations": {
             "zh-CN": "上床睡觉"
-          }
+          },
+          "phonetic": "goʊ tɪ bɛd"
         },
         {
           "text": "want",
           "is_bold": false,
           "translations": {
             "zh-CN": "想要"
-          }
+          },
+          "phonetic": "wɔnt"
         },
         {
           "text": "clock",
           "is_bold": false,
           "translations": {
             "zh-CN": "时钟"
-          }
+          },
+          "phonetic": "klɑk"
         },
         {
           "text": "just",
           "is_bold": false,
           "translations": {
             "zh-CN": "只是；仅仅；正要"
-          }
+          },
+          "phonetic": "ʤɪst"
         },
         {
           "text": "minute",
           "is_bold": false,
           "translations": {
             "zh-CN": "分钟"
-          }
+          },
+          "phonetic": "ˈmɪnət"
         }
       ]
     },
@@ -444,147 +503,168 @@
           "is_bold": true,
           "translations": {
             "zh-CN": "裤子"
-          }
+          },
+          "phonetic": "ˈtraʊzərz"
         },
         {
           "text": "pair",
           "is_bold": false,
           "translations": {
             "zh-CN": "（由连在一起的相似两部分构成的）一条，一副"
-          }
+          },
+          "phonetic": "pɛr"
         },
         {
           "text": "clothes",
           "is_bold": false,
           "translations": {
             "zh-CN": "衣服；服装"
-          }
+          },
+          "phonetic": "kloʊðz"
         },
         {
           "text": "those",
           "is_bold": false,
           "translations": {
             "zh-CN": "（指较远的人或事物）那些"
-          }
+          },
+          "phonetic": "ðoʊz"
         },
         {
           "text": "shorts",
           "is_bold": true,
           "translations": {
             "zh-CN": "短裤"
-          }
+          },
+          "phonetic": "ʃɔrts"
         },
         {
           "text": "jacket",
           "is_bold": true,
           "translations": {
             "zh-CN": "夹克衫；短上衣"
-          }
+          },
+          "phonetic": "ˈʤækɪt"
         },
         {
           "text": "skirt",
           "is_bold": true,
           "translations": {
             "zh-CN": "裙子"
-          }
+          },
+          "phonetic": "skərt"
         },
         {
           "text": "dear",
           "is_bold": false,
           "translations": {
             "zh-CN": "亲爱的"
-          }
+          },
+          "phonetic": "dɪr"
         },
         {
           "text": "expensive",
           "is_bold": true,
           "translations": {
             "zh-CN": "昂贵的；价格高的"
-          }
+          },
+          "phonetic": "ɪkˈspɛnsɪv"
         },
         {
           "text": "take",
           "is_bold": false,
           "translations": {
             "zh-CN": "买下"
-          }
+          },
+          "phonetic": "teɪk"
         },
         {
           "text": "cheap",
           "is_bold": true,
           "translations": {
             "zh-CN": "便宜的"
-          }
+          },
+          "phonetic": "ʧip"
         },
         {
           "text": "shoe",
           "is_bold": false,
           "translations": {
             "zh-CN": "鞋"
-          }
+          },
+          "phonetic": "ʃu"
         },
         {
           "text": "beautiful",
           "is_bold": true,
           "translations": {
             "zh-CN": "美丽的"
-          }
+          },
+          "phonetic": "ˈbjutəfəl"
         },
         {
           "text": "hat",
           "is_bold": true,
           "translations": {
             "zh-CN": "帽子"
-          }
+          },
+          "phonetic": "hæt"
         },
         {
           "text": "sunglasses",
           "is_bold": true,
           "translations": {
             "zh-CN": "太阳镜；墨镜"
-          }
+          },
+          "phonetic": "ˈsənˌglæsɪz"
         },
         {
           "text": "free",
           "is_bold": false,
           "translations": {
             "zh-CN": "免费的"
-          }
+          },
+          "phonetic": "fri"
         },
         {
           "text": "large",
           "is_bold": false,
           "translations": {
             "zh-CN": "（服装、食物、日用品等）大型号的"
-          }
+          },
+          "phonetic": "lɑrʤ"
         },
         {
           "text": "size",
           "is_bold": false,
           "translations": {
             "zh-CN": "尺码；号"
-          }
+          },
+          "phonetic": "saɪz"
         },
         {
           "text": "list",
           "is_bold": false,
           "translations": {
             "zh-CN": "清单；目录"
-          }
+          },
+          "phonetic": "lɪst"
         },
         {
           "text": "try on",
           "is_bold": false,
           "translations": {
             "zh-CN": "试穿"
-          }
+          },
+          "phonetic": "traɪ ɔn"
         },
         {
           "text": "any",
           "is_bold": false,
           "translations": {
             "zh-CN": "任何的；任一的"
-          }
+          },
+          "phonetic": "ˈɛni"
         }
       ]
     },
@@ -598,91 +678,104 @@
           "is_bold": false,
           "translations": {
             "zh-CN": "奶牛"
-          }
+          },
+          "phonetic": "kaʊ"
         },
         {
           "text": "horse",
           "is_bold": false,
           "translations": {
             "zh-CN": "马"
-          }
+          },
+          "phonetic": "hɔrs"
         },
         {
           "text": "sheep",
           "is_bold": true,
           "translations": {
             "zh-CN": "羊；绵羊"
-          }
+          },
+          "phonetic": "ʃip"
         },
         {
           "text": "pig",
           "is_bold": true,
           "translations": {
             "zh-CN": "猪"
-          }
+          },
+          "phonetic": "pɪg"
         },
         {
           "text": "chicken",
           "is_bold": true,
           "translations": {
             "zh-CN": "鸡；鸡肉"
-          }
+          },
+          "phonetic": "ˈʧɪkən"
         },
         {
           "text": "tomato",
           "is_bold": true,
           "translations": {
             "zh-CN": "西红柿"
-          }
+          },
+          "phonetic": "təˈmɑˌtoʊ"
         },
         {
           "text": "bee",
           "is_bold": false,
           "translations": {
             "zh-CN": "蜜蜂"
-          }
+          },
+          "phonetic": "bi"
         },
         {
           "text": "mouse",
           "is_bold": false,
           "translations": {
             "zh-CN": "（复数mice）老鼠"
-          }
+          },
+          "phonetic": "maʊs"
         },
         {
           "text": "carrot",
           "is_bold": true,
           "translations": {
             "zh-CN": "胡萝卜"
-          }
+          },
+          "phonetic": "ˈkɛrət"
         },
         {
           "text": "potato",
           "is_bold": true,
           "translations": {
             "zh-CN": "土豆"
-          }
+          },
+          "phonetic": "pəˈteɪˌtoʊ"
         },
         {
           "text": "green bean",
           "is_bold": false,
           "translations": {
             "zh-CN": "青刀豆；四季豆"
-          }
+          },
+          "phonetic": "grin bin"
         },
         {
           "text": "can",
           "is_bold": false,
           "translations": {
             "zh-CN": "（盛食品或饮料的）金属罐"
-          }
+          },
+          "phonetic": "kən"
         },
         {
           "text": "a box of",
           "is_bold": false,
           "translations": {
             "zh-CN": "一盒，一箱（东西）"
-          }
+          },
+          "phonetic": "ə bɑks əv"
         }
       ]
     },
@@ -696,126 +789,144 @@
           "is_bold": true,
           "translations": {
             "zh-CN": "给（人或动物）食物；饲养"
-          }
+          },
+          "phonetic": "fid"
         },
         {
           "text": "pass",
           "is_bold": false,
           "translations": {
             "zh-CN": "给；递"
-          }
+          },
+          "phonetic": "pæs"
         },
         {
           "text": "pick",
           "is_bold": true,
           "translations": {
             "zh-CN": "采；摘"
-          }
+          },
+          "phonetic": "pɪk"
         },
         {
           "text": "milk",
           "is_bold": true,
           "translations": {
             "zh-CN": "挤奶"
-          }
+          },
+          "phonetic": "mɪlk"
         },
         {
           "text": "knife",
           "is_bold": true,
           "translations": {
             "zh-CN": "刀"
-          }
+          },
+          "phonetic": "naɪf"
         },
         {
           "text": "fork",
           "is_bold": true,
           "translations": {
             "zh-CN": "餐叉"
-          }
+          },
+          "phonetic": "fɔrk"
         },
         {
           "text": "chopstick",
           "is_bold": true,
           "translations": {
             "zh-CN": "（常用复数）筷子"
-          }
+          },
+          "phonetic": "ˈʧɑpˌstɪk"
         },
         {
           "text": "waste",
           "is_bold": false,
           "translations": {
             "zh-CN": "浪费；废品"
-          }
+          },
+          "phonetic": "weɪst"
         },
         {
           "text": "food",
           "is_bold": false,
           "translations": {
             "zh-CN": "菜肴；食物"
-          }
+          },
+          "phonetic": "fud"
         },
         {
           "text": "delicious",
           "is_bold": false,
           "translations": {
             "zh-CN": "美味的；可口的"
-          }
+          },
+          "phonetic": "dɪˈlɪʃəs"
         },
         {
           "text": "clear the table",
           "is_bold": false,
           "translations": {
             "zh-CN": "收拾餐桌"
-          }
+          },
+          "phonetic": "klɪr ðə ˈteɪbəl"
         },
         {
           "text": "set the table",
           "is_bold": false,
           "translations": {
             "zh-CN": "摆放餐具"
-          }
+          },
+          "phonetic": "sɛt ðə ˈteɪbəl"
         },
         {
           "text": "bowl",
           "is_bold": true,
           "translations": {
             "zh-CN": "碗"
-          }
+          },
+          "phonetic": "boʊl"
         },
         {
           "text": "spoon",
           "is_bold": true,
           "translations": {
             "zh-CN": "勺；匙；调羹"
-          }
+          },
+          "phonetic": "spun"
         },
         {
           "text": "supermarket",
           "is_bold": false,
           "translations": {
             "zh-CN": "超市"
-          }
+          },
+          "phonetic": "ˈsupərˌmɑrkɪt"
         },
         {
           "text": "herself",
           "is_bold": false,
           "translations": {
             "zh-CN": "（用作女性的反身代词）她自己，自己"
-          }
+          },
+          "phonetic": "hərˈsɛlf"
         },
         {
           "text": "week",
           "is_bold": false,
           "translations": {
             "zh-CN": "周；星期"
-          }
+          },
+          "phonetic": "wik"
         },
         {
           "text": "salad",
           "is_bold": false,
           "translations": {
             "zh-CN": "蔬菜沙拉"
-          }
+          },
+          "phonetic": "ˈsæləd"
         }
       ]
     },
@@ -829,196 +940,224 @@
           "is_bold": false,
           "translations": {
             "zh-CN": "一"
-          }
+          },
+          "phonetic": "wən"
         },
         {
           "text": "two",
           "is_bold": false,
           "translations": {
             "zh-CN": "二"
-          }
+          },
+          "phonetic": "tu"
         },
         {
           "text": "three",
           "is_bold": false,
           "translations": {
             "zh-CN": "三"
-          }
+          },
+          "phonetic": "θri"
         },
         {
           "text": "four",
           "is_bold": false,
           "translations": {
             "zh-CN": "四"
-          }
+          },
+          "phonetic": "fɔr"
         },
         {
           "text": "five",
           "is_bold": false,
           "translations": {
             "zh-CN": "五"
-          }
+          },
+          "phonetic": "faɪv"
         },
         {
           "text": "six",
           "is_bold": false,
           "translations": {
             "zh-CN": "六"
-          }
+          },
+          "phonetic": "sɪks"
         },
         {
           "text": "seven",
           "is_bold": false,
           "translations": {
             "zh-CN": "七"
-          }
+          },
+          "phonetic": "ˈsɛvən"
         },
         {
           "text": "eight",
           "is_bold": false,
           "translations": {
             "zh-CN": "八"
-          }
+          },
+          "phonetic": "eɪt"
         },
         {
           "text": "nine",
           "is_bold": false,
           "translations": {
             "zh-CN": "九"
-          }
+          },
+          "phonetic": "naɪn"
         },
         {
           "text": "ten",
           "is_bold": false,
           "translations": {
             "zh-CN": "十"
-          }
+          },
+          "phonetic": "tɛn"
         },
         {
           "text": "eleven",
           "is_bold": false,
           "translations": {
             "zh-CN": "十一"
-          }
+          },
+          "phonetic": "ˈilɛvən"
         },
         {
           "text": "twelve",
           "is_bold": false,
           "translations": {
             "zh-CN": "十二"
-          }
+          },
+          "phonetic": "twɛlv"
         },
         {
           "text": "thirteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十三"
-          }
+          },
+          "phonetic": "ˈθərˈtin"
         },
         {
           "text": "fourteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十四"
-          }
+          },
+          "phonetic": "ˌfɔrˈtin"
         },
         {
           "text": "fifteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十五"
-          }
+          },
+          "phonetic": "ˈfɪfˈtin"
         },
         {
           "text": "sixteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十六"
-          }
+          },
+          "phonetic": "ˈsɪkˈstin"
         },
         {
           "text": "seventeen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十七"
-          }
+          },
+          "phonetic": "ˈsɛvənˈtin"
         },
         {
           "text": "eighteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十八"
-          }
+          },
+          "phonetic": "ˈeɪˈtin"
         },
         {
           "text": "nineteen",
           "is_bold": false,
           "translations": {
             "zh-CN": "十九"
-          }
+          },
+          "phonetic": "ˈnaɪnˈtin"
         },
         {
           "text": "twenty",
           "is_bold": false,
           "translations": {
             "zh-CN": "二十"
-          }
+          },
+          "phonetic": "tˈwɛnti"
         },
         {
           "text": "thirty",
           "is_bold": false,
           "translations": {
             "zh-CN": "三十"
-          }
+          },
+          "phonetic": "ˈθərˌdi"
         },
         {
           "text": "forty",
           "is_bold": false,
           "translations": {
             "zh-CN": "四十"
-          }
+          },
+          "phonetic": "ˈfɔrti"
         },
         {
           "text": "fifty",
           "is_bold": false,
           "translations": {
             "zh-CN": "五十"
-          }
+          },
+          "phonetic": "ˈfɪfti"
         },
         {
           "text": "sixty",
           "is_bold": false,
           "translations": {
             "zh-CN": "六十"
-          }
+          },
+          "phonetic": "ˈsɪksti"
         },
         {
           "text": "seventy",
           "is_bold": false,
           "translations": {
             "zh-CN": "七十"
-          }
+          },
+          "phonetic": "ˈsɛvənti"
         },
         {
           "text": "eighty",
           "is_bold": false,
           "translations": {
             "zh-CN": "八十"
-          }
+          },
+          "phonetic": "ˈeɪti"
         },
         {
           "text": "ninety",
           "is_bold": false,
           "translations": {
             "zh-CN": "九十"
-          }
+          },
+          "phonetic": "ˈnaɪnti"
         },
         {
           "text": "hundred",
           "is_bold": false,
           "translations": {
             "zh-CN": "百"
-          }
+          },
+          "phonetic": "ˈhənərd"
         }
       ]
     }

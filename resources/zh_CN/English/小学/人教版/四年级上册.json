@@ -5,25 +5,158 @@
       "name": "Unit 1",
       "order": 1,
       "words": [
-        { "text": "PE", "is_bold": false, "translations": { "zh-CN": "体育（课）" } },
-        { "text": "job", "is_bold": false, "translations": { "zh-CN": "工作；职业" } },
-        { "text": "doctor", "is_bold": true, "translations": { "zh-CN": "医生" } },
-        { "text": "farmer", "is_bold": true, "translations": { "zh-CN": "农场主；农民" } },
-        { "text": "nurse", "is_bold": true, "translations": { "zh-CN": "护士" } },
-        { "text": "office worker", "is_bold": true, "translations": { "zh-CN": "公司职员" } },
-        { "text": "factory worker", "is_bold": true, "translations": { "zh-CN": "工厂工人" } },
-        { "text": "busy", "is_bold": false, "translations": { "zh-CN": "忙碌的" } },
-        { "text": "tired", "is_bold": false, "translations": { "zh-CN": "疲倦的" } },
-        { "text": "chore", "is_bold": false, "translations": { "zh-CN": "家庭杂务" } },
-        { "text": "cook", "is_bold": false, "translations": { "zh-CN": "烹饪；煮" } },
-        { "text": "clean", "is_bold": false, "translations": { "zh-CN": "打扫；干净的" } },
-        { "text": "room", "is_bold": false, "translations": { "zh-CN": "房间" } },
-        { "text": "look after", "is_bold": false, "translations": { "zh-CN": "照顾" } },
-        { "text": "sweep", "is_bold": false, "translations": { "zh-CN": "扫" } },
-        { "text": "floor", "is_bold": false, "translations": { "zh-CN": "地板；地面" } },
-        { "text": "together", "is_bold": false, "translations": { "zh-CN": "在一起；共同" } },
-        { "text": "people", "is_bold": false, "translations": { "zh-CN": "人；人们" } },
-        { "text": "child", "is_bold": false, "translations": { "zh-CN": "儿童；小孩" } }
+        {
+          "text": "PE",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "体育（课）"
+          },
+          "phonetic": "pe*"
+        },
+        {
+          "text": "job",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "工作；职业"
+          },
+          "phonetic": "ʤɑb"
+        },
+        {
+          "text": "doctor",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "医生"
+          },
+          "phonetic": "ˈdɔktər"
+        },
+        {
+          "text": "farmer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "农场主；农民"
+          },
+          "phonetic": "ˈfɑrmər"
+        },
+        {
+          "text": "nurse",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "护士"
+          },
+          "phonetic": "nərs"
+        },
+        {
+          "text": "office worker",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "公司职员"
+          },
+          "phonetic": "ˈɔfəs ˈwərkər"
+        },
+        {
+          "text": "factory worker",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "工厂工人"
+          },
+          "phonetic": "ˈfæktəri ˈwərkər"
+        },
+        {
+          "text": "busy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "忙碌的"
+          },
+          "phonetic": "ˈbɪzi"
+        },
+        {
+          "text": "tired",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疲倦的"
+          },
+          "phonetic": "taɪərd"
+        },
+        {
+          "text": "chore",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "家庭杂务"
+          },
+          "phonetic": "ʧɔr"
+        },
+        {
+          "text": "cook",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "烹饪；煮"
+          },
+          "phonetic": "kʊk"
+        },
+        {
+          "text": "clean",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "打扫；干净的"
+          },
+          "phonetic": "klin"
+        },
+        {
+          "text": "room",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "房间"
+          },
+          "phonetic": "rum"
+        },
+        {
+          "text": "look after",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "照顾"
+          },
+          "phonetic": "lʊk ˈæftər"
+        },
+        {
+          "text": "sweep",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "扫"
+          },
+          "phonetic": "swip"
+        },
+        {
+          "text": "floor",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "地板；地面"
+          },
+          "phonetic": "flɔr"
+        },
+        {
+          "text": "together",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在一起；共同"
+          },
+          "phonetic": "təˈgɛðər"
+        },
+        {
+          "text": "people",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "人；人们"
+          },
+          "phonetic": "ˈpipəl"
+        },
+        {
+          "text": "child",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "儿童；小孩"
+          },
+          "phonetic": "ʧaɪld"
+        }
       ]
     },
     {
@@ -31,20 +164,118 @@
       "name": "Unit 2",
       "order": 2,
       "words": [
-        { "text": "his", "is_bold": false, "translations": { "zh-CN": "他的" } },
-        { "text": "strong", "is_bold": true, "translations": { "zh-CN": "强壮的" } },
-        { "text": "hair", "is_bold": true, "translations": { "zh-CN": "头发" } },
-        { "text": "also", "is_bold": false, "translations": { "zh-CN": "也" } },
-        { "text": "kind", "is_bold": true, "translations": { "zh-CN": "友好的" } },
-        { "text": "quiet", "is_bold": true, "translations": { "zh-CN": "文静的" } },
-        { "text": "best", "is_bold": false, "translations": { "zh-CN": "最好的" } },
-        { "text": "read", "is_bold": true, "translations": { "zh-CN": "阅读" } },
-        { "text": "Chinese", "is_bold": false, "translations": { "zh-CN": "中文；中国人；中国的" } },
-        { "text": "play", "is_bold": true, "translations": { "zh-CN": "玩耍" } },
-        { "text": "game", "is_bold": true, "translations": { "zh-CN": "游戏" } },
-        { "text": "football", "is_bold": true, "translations": { "zh-CN": "足球运动" } },
-        { "text": "basketball", "is_bold": false, "translations": { "zh-CN": "篮球运动" } },
-        { "text": "always", "is_bold": false, "translations": { "zh-CN": "总是" } }
+        {
+          "text": "his",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "他的"
+          },
+          "phonetic": "hɪz"
+        },
+        {
+          "text": "strong",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "强壮的"
+          },
+          "phonetic": "strɔŋ"
+        },
+        {
+          "text": "hair",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "头发"
+          },
+          "phonetic": "hɛr"
+        },
+        {
+          "text": "also",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "也"
+          },
+          "phonetic": "ˈɔlsoʊ"
+        },
+        {
+          "text": "kind",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "友好的"
+          },
+          "phonetic": "kaɪnd"
+        },
+        {
+          "text": "quiet",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "文静的"
+          },
+          "phonetic": "kwaɪət"
+        },
+        {
+          "text": "best",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最好的"
+          },
+          "phonetic": "bɛst"
+        },
+        {
+          "text": "read",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "阅读"
+          },
+          "phonetic": "rɛd"
+        },
+        {
+          "text": "Chinese",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "中文；中国人；中国的"
+          },
+          "phonetic": "ʧaɪˈniz"
+        },
+        {
+          "text": "play",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "玩耍"
+          },
+          "phonetic": "pleɪ"
+        },
+        {
+          "text": "game",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "游戏"
+          },
+          "phonetic": "geɪm"
+        },
+        {
+          "text": "football",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "足球运动"
+          },
+          "phonetic": "ˈfʊtˌbɔl"
+        },
+        {
+          "text": "basketball",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "篮球运动"
+          },
+          "phonetic": "ˈbæskətˌbɔl"
+        },
+        {
+          "text": "always",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "总是"
+          },
+          "phonetic": "ˈɔlˌweɪz"
+        }
       ]
     },
     {
@@ -52,24 +283,150 @@
       "name": "Unit 3",
       "order": 3,
       "words": [
-        { "text": "afternoon", "is_bold": false, "translations": { "zh-CN": "下午" } },
-        { "text": "there", "is_bold": false, "translations": { "zh-CN": "（表示存在或发生）；在那里" } },
-        { "text": "playground", "is_bold": true, "translations": { "zh-CN": "游乐场；操场" } },
-        { "text": "park", "is_bold": true, "translations": { "zh-CN": "公园" } },
-        { "text": "over", "is_bold": false, "translations": { "zh-CN": "在……的远端（或对面）" } },
-        { "text": "hospital", "is_bold": false, "translations": { "zh-CN": "医院" } },
-        { "text": "shop", "is_bold": false, "translations": { "zh-CN": "商店" } },
-        { "text": "toilet", "is_bold": false, "translations": { "zh-CN": "厕所；卫生间" } },
-        { "text": "bus stop", "is_bold": true, "translations": { "zh-CN": "公共汽车站" } },
-        { "text": "library", "is_bold": false, "translations": { "zh-CN": "图书馆" } },
-        { "text": "sport", "is_bold": false, "translations": { "zh-CN": "体育运动" } },
-        { "text": "walk", "is_bold": false, "translations": { "zh-CN": "散步；行走" } },
-        { "text": "community", "is_bold": false, "translations": { "zh-CN": "社区" } },
-        { "text": "favourite", "is_bold": false, "translations": { "zh-CN": "最喜欢的" } },
-        { "text": "place", "is_bold": false, "translations": { "zh-CN": "地方；场所" } },
-        { "text": "photo", "is_bold": false, "translations": { "zh-CN": "照片" } },
-        { "text": "story", "is_bold": false, "translations": { "zh-CN": "故事" } },
-        { "text": "buy", "is_bold": false, "translations": { "zh-CN": "购买" } }
+        {
+          "text": "afternoon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "下午"
+          },
+          "phonetic": "ˌæftərˈnun"
+        },
+        {
+          "text": "there",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（表示存在或发生）；在那里"
+          },
+          "phonetic": "ðɛr"
+        },
+        {
+          "text": "playground",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "游乐场；操场"
+          },
+          "phonetic": "ˈpleɪˌgraʊnd"
+        },
+        {
+          "text": "park",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "公园"
+          },
+          "phonetic": "pɑrk"
+        },
+        {
+          "text": "over",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在……的远端（或对面）"
+          },
+          "phonetic": "ˈoʊvər"
+        },
+        {
+          "text": "hospital",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "医院"
+          },
+          "phonetic": "ˈhɑˌspɪtəl"
+        },
+        {
+          "text": "shop",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "商店"
+          },
+          "phonetic": "ʃɑp"
+        },
+        {
+          "text": "toilet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "厕所；卫生间"
+          },
+          "phonetic": "ˈtɔɪlət"
+        },
+        {
+          "text": "bus stop",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "公共汽车站"
+          },
+          "phonetic": "bəs stɑp"
+        },
+        {
+          "text": "library",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "图书馆"
+          },
+          "phonetic": "ˈlaɪbrɛˌri"
+        },
+        {
+          "text": "sport",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "体育运动"
+          },
+          "phonetic": "spɔrt"
+        },
+        {
+          "text": "walk",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "散步；行走"
+          },
+          "phonetic": "wɔk"
+        },
+        {
+          "text": "community",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "社区"
+          },
+          "phonetic": "kəmˈjunɪti"
+        },
+        {
+          "text": "favourite",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最喜欢的"
+          },
+          "phonetic": "ˈfeɪvərɪt"
+        },
+        {
+          "text": "place",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "地方；场所"
+          },
+          "phonetic": "pleɪs"
+        },
+        {
+          "text": "photo",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "照片"
+          },
+          "phonetic": "ˈfoʊˌtoʊ"
+        },
+        {
+          "text": "story",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "故事"
+          },
+          "phonetic": "ˈstɔri"
+        },
+        {
+          "text": "buy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "购买"
+          },
+          "phonetic": "baɪ"
+        }
       ]
     },
     {
@@ -77,20 +434,118 @@
       "name": "Unit 4",
       "order": 4,
       "words": [
-        { "text": "firefighter", "is_bold": false, "translations": { "zh-CN": "消防队员" } },
-        { "text": "why", "is_bold": false, "translations": { "zh-CN": "为什么" } },
-        { "text": "driver", "is_bold": false, "translations": { "zh-CN": "司机" } },
-        { "text": "cleaner", "is_bold": true, "translations": { "zh-CN": "清洁工" } },
-        { "text": "cook", "is_bold": false, "translations": { "zh-CN": "厨师" } },
-        { "text": "delivery worker", "is_bold": true, "translations": { "zh-CN": "快递员" } },
-        { "text": "police officer", "is_bold": true, "translations": { "zh-CN": "警察；警员" } },
-        { "text": "a lot of", "is_bold": false, "translations": { "zh-CN": "大量；许多" } },
-        { "text": "now", "is_bold": false, "translations": { "zh-CN": "现在" } },
-        { "text": "make the bed", "is_bold": false, "translations": { "zh-CN": "铺床" } },
-        { "text": "old", "is_bold": false, "translations": { "zh-CN": "过去的；年纪大的；老的" } },
-        { "text": "tell", "is_bold": false, "translations": { "zh-CN": "讲述；告诉" } },
-        { "text": "everyone", "is_bold": false, "translations": { "zh-CN": "每人" } },
-        { "text": "Ms", "is_bold": false, "translations": { "zh-CN": "（用于女子的姓氏或姓名前，不指明婚否）女士" } }
+        {
+          "text": "firefighter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "消防队员"
+          },
+          "phonetic": "ˈfaɪrˌfaɪtər"
+        },
+        {
+          "text": "why",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "为什么"
+          },
+          "phonetic": "waɪ"
+        },
+        {
+          "text": "driver",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "司机"
+          },
+          "phonetic": "ˈdraɪvər"
+        },
+        {
+          "text": "cleaner",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "清洁工"
+          },
+          "phonetic": "ˈklinər"
+        },
+        {
+          "text": "cook",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "厨师"
+          },
+          "phonetic": "kʊk"
+        },
+        {
+          "text": "delivery worker",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "快递员"
+          },
+          "phonetic": "dɪˈlɪvəri ˈwərkər"
+        },
+        {
+          "text": "police officer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "警察；警员"
+          },
+          "phonetic": "pəˈlis ˈɔfɪsər"
+        },
+        {
+          "text": "a lot of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大量；许多"
+          },
+          "phonetic": "ə lɔt əv"
+        },
+        {
+          "text": "now",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "现在"
+          },
+          "phonetic": "naʊ"
+        },
+        {
+          "text": "make the bed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "铺床"
+          },
+          "phonetic": "meɪk ðə bɛd"
+        },
+        {
+          "text": "old",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "过去的；年纪大的；老的"
+          },
+          "phonetic": "oʊld"
+        },
+        {
+          "text": "tell",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "讲述；告诉"
+          },
+          "phonetic": "tɛl"
+        },
+        {
+          "text": "everyone",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "每人"
+          },
+          "phonetic": "ˈɛvriˌwən"
+        },
+        {
+          "text": "Ms",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（用于女子的姓氏或姓名前，不指明婚否）女士"
+          },
+          "phonetic": "mɪz"
+        }
       ]
     },
     {
@@ -98,30 +553,198 @@
       "name": "Unit 5",
       "order": 5,
       "words": [
-        { "text": "speak", "is_bold": false, "translations": { "zh-CN": "说话；发言" } },
-        { "text": "weather", "is_bold": false, "translations": { "zh-CN": "天气" } },
-        { "text": "sunny", "is_bold": false, "translations": { "zh-CN": "阳光充足的" } },
-        { "text": "hot", "is_bold": true, "translations": { "zh-CN": "热的" } },
-        { "text": "bad", "is_bold": false, "translations": { "zh-CN": "令人不快的；坏的" } },
-        { "text": "cold", "is_bold": true, "translations": { "zh-CN": "冷的" } },
-        { "text": "windy", "is_bold": false, "translations": { "zh-CN": "多风的" } },
-        { "text": "cloudy", "is_bold": true, "translations": { "zh-CN": "多云的" } },
-        { "text": "rainy", "is_bold": false, "translations": { "zh-CN": "阴雨的" } },
-        { "text": "snowy", "is_bold": false, "translations": { "zh-CN": "多雪的" } },
-        { "text": "cool", "is_bold": false, "translations": { "zh-CN": "凉爽的" } },
-        { "text": "warm", "is_bold": false, "translations": { "zh-CN": "温暖的" } },
-        { "text": "tomorrow", "is_bold": false, "translations": { "zh-CN": "在明天；明天" } },
-        { "text": "rain", "is_bold": false, "translations": { "zh-CN": "下雨；雨" } },
-        { "text": "closed", "is_bold": false, "translations": { "zh-CN": "关闭的" } },
-        { "text": "film", "is_bold": false, "translations": { "zh-CN": "电影" } },
-        { "text": "idea", "is_bold": false, "translations": { "zh-CN": "想法；主意" } },
-        { "text": "fly", "is_bold": false, "translations": { "zh-CN": "操纵（飞行器等）；飞" } },
-        { "text": "kite", "is_bold": false, "translations": { "zh-CN": "风筝" } },
-        { "text": "snowman", "is_bold": true, "translations": { "zh-CN": "雪人" } },
-        { "text": "fun", "is_bold": false, "translations": { "zh-CN": "享乐；乐趣" } },
-        { "text": "their", "is_bold": false, "translations": { "zh-CN": "他（她、它）们的" } },
-        { "text": "swim", "is_bold": false, "translations": { "zh-CN": "游泳" } },
-        { "text": "Sydney", "is_bold": false, "translations": { "zh-CN": "悉尼" } }
+        {
+          "text": "speak",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "说话；发言"
+          },
+          "phonetic": "spik"
+        },
+        {
+          "text": "weather",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "天气"
+          },
+          "phonetic": "ˈwɛðər"
+        },
+        {
+          "text": "sunny",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阳光充足的"
+          },
+          "phonetic": "ˈsəni"
+        },
+        {
+          "text": "hot",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "热的"
+          },
+          "phonetic": "hɑt"
+        },
+        {
+          "text": "bad",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "令人不快的；坏的"
+          },
+          "phonetic": "bæd"
+        },
+        {
+          "text": "cold",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "冷的"
+          },
+          "phonetic": "koʊld"
+        },
+        {
+          "text": "windy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "多风的"
+          },
+          "phonetic": "ˈwɪndi"
+        },
+        {
+          "text": "cloudy",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "多云的"
+          },
+          "phonetic": "ˈklaʊdi"
+        },
+        {
+          "text": "rainy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阴雨的"
+          },
+          "phonetic": "ˈreɪni"
+        },
+        {
+          "text": "snowy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "多雪的"
+          },
+          "phonetic": "snoʊi"
+        },
+        {
+          "text": "cool",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "凉爽的"
+          },
+          "phonetic": "kul"
+        },
+        {
+          "text": "warm",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "温暖的"
+          },
+          "phonetic": "wɔrm"
+        },
+        {
+          "text": "tomorrow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在明天；明天"
+          },
+          "phonetic": "təˈmɑˌroʊ"
+        },
+        {
+          "text": "rain",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "下雨；雨"
+          },
+          "phonetic": "reɪn"
+        },
+        {
+          "text": "closed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "关闭的"
+          },
+          "phonetic": "kloʊzd"
+        },
+        {
+          "text": "film",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "电影"
+          },
+          "phonetic": "fɪlm"
+        },
+        {
+          "text": "idea",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "想法；主意"
+          },
+          "phonetic": "aɪˈdiə"
+        },
+        {
+          "text": "fly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "操纵（飞行器等）；飞"
+          },
+          "phonetic": "flaɪ"
+        },
+        {
+          "text": "kite",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "风筝"
+          },
+          "phonetic": "kaɪt"
+        },
+        {
+          "text": "snowman",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "雪人"
+          },
+          "phonetic": "sˈnoʊˌmæn"
+        },
+        {
+          "text": "fun",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "享乐；乐趣"
+          },
+          "phonetic": "fən"
+        },
+        {
+          "text": "their",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "他（她、它）们的"
+          },
+          "phonetic": "ðɛr"
+        },
+        {
+          "text": "swim",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "游泳"
+          },
+          "phonetic": "swɪm"
+        },
+        {
+          "text": "Sydney",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "悉尼"
+          },
+          "phonetic": "ˈsɪdni"
+        }
       ]
     },
     {
@@ -129,27 +752,174 @@
       "name": "Unit 6",
       "order": 6,
       "words": [
-        { "text": "whose", "is_bold": false, "translations": { "zh-CN": "谁的" } },
-        { "text": "sweater", "is_bold": true, "translations": { "zh-CN": "毛衣" } },
-        { "text": "sock", "is_bold": true, "translations": { "zh-CN": "短袜" } },
-        { "text": "mine", "is_bold": false, "translations": { "zh-CN": "我的" } },
-        { "text": "wear", "is_bold": false, "translations": { "zh-CN": "穿；戴" } },
-        { "text": "shirt", "is_bold": true, "translations": { "zh-CN": "衬衫" } },
-        { "text": "coat", "is_bold": true, "translations": { "zh-CN": "大衣；外套" } },
-        { "text": "dress", "is_bold": true, "translations": { "zh-CN": "连衣裙" } },
-        { "text": "which", "is_bold": false, "translations": { "zh-CN": "哪一个；哪些" } },
-        { "text": "season", "is_bold": false, "translations": { "zh-CN": "季节" } },
-        { "text": "winter", "is_bold": true, "translations": { "zh-CN": "冬天" } },
-        { "text": "snow", "is_bold": false, "translations": { "zh-CN": "下雪；雪" } },
-        { "text": "get together", "is_bold": false, "translations": { "zh-CN": "聚会" } },
-        { "text": "spring", "is_bold": false, "translations": { "zh-CN": "春天" } },
-        { "text": "summer", "is_bold": true, "translations": { "zh-CN": "夏天" } },
-        { "text": "autumn", "is_bold": true, "translations": { "zh-CN": "秋天" } },
-        { "text": "T-shirt", "is_bold": false, "translations": { "zh-CN": "T恤衫" } },
-        { "text": "fall", "is_bold": false, "translations": { "zh-CN": "落下" } },
-        { "text": "leaf", "is_bold": false, "translations": { "zh-CN": "叶" } },
-        { "text": "glove", "is_bold": false, "translations": { "zh-CN": "手套" } },
-        { "text": "then", "is_bold": false, "translations": { "zh-CN": "然后；那时" } }
+        {
+          "text": "whose",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "谁的"
+          },
+          "phonetic": "huz"
+        },
+        {
+          "text": "sweater",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "毛衣"
+          },
+          "phonetic": "sˈwɛtər"
+        },
+        {
+          "text": "sock",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "短袜"
+          },
+          "phonetic": "sɑk"
+        },
+        {
+          "text": "mine",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "我的"
+          },
+          "phonetic": "maɪn"
+        },
+        {
+          "text": "wear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "穿；戴"
+          },
+          "phonetic": "wɛr"
+        },
+        {
+          "text": "shirt",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "衬衫"
+          },
+          "phonetic": "ʃərt"
+        },
+        {
+          "text": "coat",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "大衣；外套"
+          },
+          "phonetic": "koʊt"
+        },
+        {
+          "text": "dress",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "连衣裙"
+          },
+          "phonetic": "drɛs"
+        },
+        {
+          "text": "which",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "哪一个；哪些"
+          },
+          "phonetic": "wɪʧ"
+        },
+        {
+          "text": "season",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "季节"
+          },
+          "phonetic": "ˈsizən"
+        },
+        {
+          "text": "winter",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "冬天"
+          },
+          "phonetic": "ˈwɪntər"
+        },
+        {
+          "text": "snow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "下雪；雪"
+          },
+          "phonetic": "snoʊ"
+        },
+        {
+          "text": "get together",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "聚会"
+          },
+          "phonetic": "gɪt təˈgɛðər"
+        },
+        {
+          "text": "spring",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "春天"
+          },
+          "phonetic": "spərɪŋ"
+        },
+        {
+          "text": "summer",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "夏天"
+          },
+          "phonetic": "ˈsəmər"
+        },
+        {
+          "text": "autumn",
+          "is_bold": true,
+          "translations": {
+            "zh-CN": "秋天"
+          },
+          "phonetic": "ˈɔtəm"
+        },
+        {
+          "text": "T-shirt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "T恤衫"
+          },
+          "phonetic": "ˈtiˌsərt"
+        },
+        {
+          "text": "fall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "落下"
+          },
+          "phonetic": "fɔl"
+        },
+        {
+          "text": "leaf",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "叶"
+          },
+          "phonetic": "lif"
+        },
+        {
+          "text": "glove",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "手套"
+          },
+          "phonetic": "gləv"
+        },
+        {
+          "text": "then",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "然后；那时"
+          },
+          "phonetic": "ðɛn"
+        }
       ]
     }
   ]
