@@ -106,6 +106,38 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "大学",
+              "displayName": "大学",
+              "publishers": [
+                {
+                  "id": "四六级",
+                  "displayName": "大学英语四六级",
+                  "books": [
+                    {
+                      "id": "四级词汇",
+                      "displayName": "英语四级词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/英语四级词汇.json"
+                    },
+                    {
+                      "id": "六级词汇",
+                      "displayName": "英语六级词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/英语六级词汇.json"
+                    },
+                    {
+                      "id": "四级核心",
+                      "displayName": "四级高频核心词",
+                      "path": "zh_CN/English/大学/四六级/四级高频核心词.json"
+                    },
+                    {
+                      "id": "六级核心",
+                      "displayName": "六级高频核心词",
+                      "path": "zh_CN/English/大学/四六级/六级高频核心词.json"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
