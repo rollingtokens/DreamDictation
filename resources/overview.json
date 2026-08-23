@@ -189,6 +189,37 @@
                       "path": "zh_CN/English/初中/中考/中考词汇.json"
                     }
                   ]
+                },
+                {
+                  "id": "人教版",
+                  "displayName": "人教版",
+                  "books": [
+                    {
+                      "id": "七上",
+                      "displayName": "七年级上册（2024新）",
+                      "path": "zh_CN/English/初中/人教版/七年级上册.json"
+                    },
+                    {
+                      "id": "七下",
+                      "displayName": "七年级下册（2025新）",
+                      "path": "zh_CN/English/初中/人教版/七年级下册.json"
+                    },
+                    {
+                      "id": "八上",
+                      "displayName": "八年级上册（2025新）",
+                      "path": "zh_CN/English/初中/人教版/八年级上册.json"
+                    },
+                    {
+                      "id": "八下",
+                      "displayName": "八年级下册（2026新）",
+                      "path": "zh_CN/English/初中/人教版/八年级下册.json"
+                    },
+                    {
+                      "id": "九全",
+                      "displayName": "九年级全一册",
+                      "path": "zh_CN/English/初中/人教版/九年级全一册.json"
+                    }
+                  ]
                 }
               ]
             },

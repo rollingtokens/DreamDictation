@@ -1,0 +1,4722 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Unit 1",
+      "order": 1,
+      "words": [
+        {
+          "text": "calligraphy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "书法"
+          },
+          "phonetic": "kəˈlɪgrəfi"
+        },
+        {
+          "text": "ski",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "滑雪"
+          }
+        },
+        {
+          "text": "Program",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "编写程序1.程序；（=programme）节目；项目"
+          },
+          "phonetic": "ˈproʊˌgræm"
+        },
+        {
+          "text": "express",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "表达；表示"
+          },
+          "phonetic": "ɪkˈsprɛs"
+        },
+        {
+          "text": "instructor",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.教练；指导者"
+          },
+          "phonetic": "ˌɪnˈstrəktər"
+        },
+        {
+          "text": "scared",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "害怕的；对⋯…感到惊慌的"
+          },
+          "phonetic": "skɛrd"
+        },
+        {
+          "text": "scared of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "害怕；恐惧"
+          },
+          "phonetic": "skɛrd əv"
+        },
+        {
+          "text": "fear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "害怕；担忧"
+          },
+          "phonetic": "fɪr"
+        },
+        {
+          "text": "get over",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "克服（困难）；解決（问题）"
+          },
+          "phonetic": "gɪt ˈoʊvər"
+        },
+        {
+          "text": "up to",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "正在做；由某人决定"
+          },
+          "phonetic": "əp tɪ"
+        },
+        {
+          "text": "poem",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "诗"
+          },
+          "phonetic": "poʊəm"
+        },
+        {
+          "text": "single",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "单个的；单身的"
+          },
+          "phonetic": "ˈsɪŋgəl"
+        },
+        {
+          "text": "stroke",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "笔画；击球"
+          },
+          "phonetic": "stroʊk"
+        },
+        {
+          "text": "give up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "放弃"
+          },
+          "phonetic": "gɪv əp"
+        },
+        {
+          "text": "ink",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "墨水"
+          },
+          "phonetic": "ɪŋk"
+        },
+        {
+          "text": "return",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "回来；归还"
+          },
+          "phonetic": "rɪˈtərn"
+        },
+        {
+          "text": "in return",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "作为回报"
+          },
+          "phonetic": "ɪn rɪˈtərn"
+        },
+        {
+          "text": "deal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "交易；协议V.（dealt/deit/，dealt）对付"
+          },
+          "phonetic": "dil"
+        },
+        {
+          "text": "manage",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "V完成（困难的事）；管理"
+          },
+          "phonetic": "ˈmænɪʤ"
+        },
+        {
+          "text": "kung fu",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "功夫"
+          },
+          "phonetic": "kəŋ fu"
+        },
+        {
+          "text": "push",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "督促；推"
+          },
+          "phonetic": "pʊʃ"
+        },
+        {
+          "text": "myself",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "我自己"
+          },
+          "phonetic": "ˌmaɪˈsɛlf"
+        },
+        {
+          "text": "once in a while",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "偶尔地；间或"
+          },
+          "phonetic": "wəns ɪn ə waɪl"
+        },
+        {
+          "text": "chat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "闲聊"
+          },
+          "phonetic": "ʧæt"
+        },
+        {
+          "text": "outing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "出外游玩；远足"
+          },
+          "phonetic": "ˈaʊtɪŋ"
+        },
+        {
+          "text": "on an outing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "出外游玩"
+          },
+          "phonetic": "ɔn ən ˈaʊtɪŋ"
+        },
+        {
+          "text": "reduce",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "减少"
+          },
+          "phonetic": "rɪˈdus"
+        },
+        {
+          "text": "stress",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "精神压力；紧张"
+          },
+          "phonetic": "strɛs"
+        },
+        {
+          "text": "yoga",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "瑜伽"
+          },
+          "phonetic": "ˈjoʊgə"
+        },
+        {
+          "text": "object",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "物品；宾语"
+          },
+          "phonetic": "ˈɑbʤɛkt"
+        },
+        {
+          "text": "Italian",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "意大利的；意大利人的；意大利语的1.意大利人；意大利语"
+          },
+          "phonetic": "ˌɪˈtæljən"
+        },
+        {
+          "text": "programmer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.程序设计员"
+          },
+          "phonetic": "ˈproʊˌgræmər"
+        },
+        {
+          "text": "allow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使•••成为可能；允许 P.O"
+          },
+          "phonetic": "əˈlaʊ"
+        },
+        {
+          "text": "sense",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "感觉；感官"
+          },
+          "phonetic": "sɛns"
+        },
+        {
+          "text": "achievement",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "成就"
+          },
+          "phonetic": "əˈʧivmənt"
+        },
+        {
+          "text": "coin",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "硬币"
+          },
+          "phonetic": "kɔɪn"
+        },
+        {
+          "text": "stamp",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "邮票"
+          },
+          "phonetic": "stæmp"
+        },
+        {
+          "text": "teenage",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "青少年的"
+          },
+          "phonetic": "ˈtiˌneɪʤ"
+        },
+        {
+          "text": "postcard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "明信片"
+          },
+          "phonetic": "ˈpoʊˌskɑrd"
+        },
+        {
+          "text": "rather ra t",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "相当；更准确地说"
+          },
+          "phonetic": "ˈrəðər rɑ ti"
+        },
+        {
+          "text": "old-fashioned",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "过时的；守旧的"
+          },
+          "phonetic": "ˌoʊldˈfæʃənd"
+        },
+        {
+          "text": "foreign",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "外国的；国外的"
+          },
+          "phonetic": "ˈfɔrən"
+        },
+        {
+          "text": "dream of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "梦想；希望"
+          },
+          "phonetic": "drim əv"
+        },
+        {
+          "text": "suggestion",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "建议；提议"
+          },
+          "phonetic": "səˈʤɛsʧən"
+        },
+        {
+          "text": "failure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "失败"
+          },
+          "phonetic": "ˈfeɪljər"
+        },
+        {
+          "text": "inspire",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "激励；鼓舞"
+          },
+          "phonetic": "ˌɪnˈspaɪr"
+        },
+        {
+          "text": "strict",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "严历的；严格的"
+          },
+          "phonetic": "strɪkt"
+        },
+        {
+          "text": "surprisingly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "出人意料地；惊人地"
+          },
+          "phonetic": "səˈpraɪzɪŋli"
+        },
+        {
+          "text": "so far",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "到目前为止"
+          },
+          "phonetic": "soʊ fɑr"
+        },
+        {
+          "text": "stage",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "舞台；阶段"
+          },
+          "phonetic": "steɪʤ"
+        },
+        {
+          "text": "importantly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "重要地"
+          },
+          "phonetic": "ˌɪmˈpɔrtəntli"
+        },
+        {
+          "text": "Luca",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "卢卡"
+          },
+          "phonetic": "ˈlukə"
+        },
+        {
+          "text": "Bruno",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "布鲁诺"
+          },
+          "phonetic": "ˈbrunoʊ"
+        },
+        {
+          "text": "India",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "印度"
+          },
+          "phonetic": "ˈɪndiə"
+        },
+        {
+          "text": "Maya",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "马娅"
+          },
+          "phonetic": "maɪə"
+        },
+        {
+          "text": "Badal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "巴达尔"
+          },
+          "phonetic": "ˈbeɪdəl"
+        },
+        {
+          "text": "Mogao Caves",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "莫高窟"
+          },
+          "phonetic": "mogao* keɪvz"
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "name": "Unit 2",
+      "order": 2,
+      "words": [
+        {
+          "text": "ourselves",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "我们自己"
+          },
+          "phonetic": "ɑrˈsɛlvz"
+        },
+        {
+          "text": "sore",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疼痛的；酸痛的"
+          },
+          "phonetic": "sɔr"
+        },
+        {
+          "text": "throat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "喉咙"
+          },
+          "phonetic": "θroʊt"
+        },
+        {
+          "text": "headache",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "头痛"
+          },
+          "phonetic": "ˈhɛˌdeɪk"
+        },
+        {
+          "text": "backache",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "背痛；腰痛"
+          },
+          "phonetic": "ˈbæˌkeɪk"
+        },
+        {
+          "text": "press",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "压；按；挤；推"
+          },
+          "phonetic": "prɛs"
+        },
+        {
+          "text": "nosebleed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "鼻出血"
+          },
+          "phonetic": "ˈnoʊzˌblid"
+        },
+        {
+          "text": "dentist",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "牙科医生"
+          },
+          "phonetic": "ˈdɛntɪst"
+        },
+        {
+          "text": "fever",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "发烧"
+          },
+          "phonetic": "ˈfivər"
+        },
+        {
+          "text": "stomach",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "胃；腹部"
+          },
+          "phonetic": "ˈstəmək"
+        },
+        {
+          "text": "avoid",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "避免；防止"
+          },
+          "phonetic": "əˈvɔɪd"
+        },
+        {
+          "text": "gas",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "气体；燃气"
+          },
+          "phonetic": "gæs"
+        },
+        {
+          "text": "ache",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疼痛"
+          },
+          "phonetic": "eɪk"
+        },
+        {
+          "text": "X-ray X",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "光照片；X射线"
+          },
+          "phonetic": "ˈɛksˌreɪ ɛks"
+        },
+        {
+          "text": "careless",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不小心的；粗心的"
+          },
+          "phonetic": "ˈkɛrlɛs"
+        },
+        {
+          "text": "runny",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "流鼻涕的；流眼泪的"
+          },
+          "phonetic": "ˈrəni"
+        },
+        {
+          "text": "cough",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "咳嗽"
+          },
+          "phonetic": "kɔf"
+        },
+        {
+          "text": "suffer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "受苦；遭受"
+          },
+          "phonetic": "ˈsəfər"
+        },
+        {
+          "text": "suffer from",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "受苦；受折磨"
+          },
+          "phonetic": "ˈsəfər frəm"
+        },
+        {
+          "text": "take a seat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "坐下"
+          },
+          "phonetic": "teɪk ə sit"
+        },
+        {
+          "text": "take one's temperature",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "给某人量体温"
+          },
+          "phonetic": "teɪk wənz ˈtɛmpərəʧər"
+        },
+        {
+          "text": "test",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "检查；测验"
+          },
+          "phonetic": "tɛst"
+        },
+        {
+          "text": "flu",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "流行性感冒"
+          }
+        },
+        {
+          "text": "medicine",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "药；医学"
+          },
+          "phonetic": "ˈmɛdəsən"
+        },
+        {
+          "text": "mask",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "口罩"
+          },
+          "phonetic": "mæsk"
+        },
+        {
+          "text": "virus",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "病毒"
+          },
+          "phonetic": "ˈvaɪrəs"
+        },
+        {
+          "text": "stop doing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "防止•••；阻止⋯•••"
+          },
+          "phonetic": "stɑp duɪŋ"
+        },
+        {
+          "text": "description",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "描写；形容"
+          },
+          "phonetic": "dɪˈskrɪpʃən"
+        },
+        {
+          "text": "patient",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "病人 acj.有耐心的"
+          },
+          "phonetic": "ˈpeɪʃənt"
+        },
+        {
+          "text": "injury",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "伤害；损伤"
+          },
+          "phonetic": "ˈɪnʤəri"
+        },
+        {
+          "text": "illness",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疾病"
+          },
+          "phonetic": "ˈɪlnəs"
+        },
+        {
+          "text": "knife knives",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "刀"
+          },
+          "phonetic": "naɪf naɪvz"
+        },
+        {
+          "text": "clear",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "清晰的；清楚的1.清理"
+          },
+          "phonetic": "klɪr"
+        },
+        {
+          "text": "pain",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疼痛；痛苦"
+          },
+          "phonetic": "peɪn"
+        },
+        {
+          "text": "what's more",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "更有甚者；更重要的是"
+          },
+          "phonetic": "wəts mɔr"
+        },
+        {
+          "text": "brightness",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "亮度"
+          },
+          "phonetic": "ˈbraɪtnəs"
+        },
+        {
+          "text": "environment",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "环境"
+          },
+          "phonetic": "ɪnˈvaɪrənmənt"
+        },
+        {
+          "text": "cross",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "穿越；横过；交叉"
+          },
+          "phonetic": "krɔs"
+        },
+        {
+          "text": "catch fire",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "着火"
+          },
+          "phonetic": "kæʧ faɪər"
+        },
+        {
+          "text": "themselves",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "他（或她、它）们自己"
+          },
+          "phonetic": "ðɛmˈsɛlvz"
+        },
+        {
+          "text": "fry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "油炸；油煎；油炒"
+          },
+          "phonetic": "fraɪ"
+        },
+        {
+          "text": "turn on",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "接通（电流、煤气、水等）；打开"
+          },
+          "phonetic": "tərn ɔn"
+        },
+        {
+          "text": "stove",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "厨房灶具；炉子"
+          },
+          "phonetic": "stoʊv"
+        },
+        {
+          "text": "happily ad",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "快乐地；高兴地"
+          },
+          "phonetic": "ˈhæpəli æd"
+        },
+        {
+          "text": "no way",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不可能；没门"
+          },
+          "phonetic": "noʊ weɪ"
+        },
+        {
+          "text": "burn burnt burnt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "燃烧；着火"
+          },
+          "phonetic": "bərn bərnt bərnt"
+        },
+        {
+          "text": "on fire",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "着火；起火"
+          },
+          "phonetic": "ɔn faɪər"
+        },
+        {
+          "text": "flame",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "火焰"
+          },
+          "phonetic": "fleɪm"
+        },
+        {
+          "text": "Panic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "惊恐；恐慌"
+          },
+          "phonetic": "ˈpænɪk"
+        },
+        {
+          "text": "onto",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "向；朝"
+          },
+          "phonetic": "ˈɔntu"
+        },
+        {
+          "text": "throw threw thrown",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/0racn/）猛动身体（部位）；扔；拋"
+          },
+          "phonetic": "θroʊ θru θroʊn"
+        },
+        {
+          "text": "roll",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使）翻滚；滚动"
+          },
+          "phonetic": "roʊl"
+        },
+        {
+          "text": "quick",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "快的；迅速的迅速地；快速地"
+          },
+          "phonetic": "kwɪk"
+        },
+        {
+          "text": "be about to",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "即将；正要（做某事）"
+          },
+          "phonetic": "bi əˈbaʊt tɪ"
+        },
+        {
+          "text": "stop short",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "突然停住"
+          },
+          "phonetic": "stɑp ʃɔrt"
+        },
+        {
+          "text": "aid",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "帮助；援助"
+          },
+          "phonetic": "eɪd"
+        },
+        {
+          "text": "first aid",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "急救"
+          },
+          "phonetic": "fərst eɪd"
+        },
+        {
+          "text": "safety",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "安全；安全处所"
+          },
+          "phonetic": "ˈseɪfti"
+        },
+        {
+          "text": "extinguisher",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "灰火器"
+          },
+          "phonetic": "ɪkˈstɪŋgwɪʃər"
+        },
+        {
+          "text": "eat out",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "上馆子吃饭；在外用餐"
+          },
+          "phonetic": "it aʊt"
+        },
+        {
+          "text": "tonight ac",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在今晚今夜；今晚"
+          },
+          "phonetic": "təˈnaɪt ˈeɪˈsi"
+        },
+        {
+          "text": "sadly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "伤心地；令人遗憾"
+          },
+          "phonetic": "ˈsædli"
+        },
+        {
+          "text": "smoke",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "烟1.吸烟；冒烟"
+          },
+          "phonetic": "smoʊk"
+        },
+        {
+          "text": "unfortunately",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不幸地；可惜地"
+          },
+          "phonetic": "ənˈfɔrʧənətli"
+        },
+        {
+          "text": "Iuckily",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "幸运地"
+          },
+          "phonetic": "iuckily*"
+        },
+        {
+          "text": "badly worse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˈbædli wərs"
+        },
+        {
+          "text": "worst",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "严重地"
+          },
+          "phonetic": "wərst"
+        },
+        {
+          "text": "harm",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "伤害；损害"
+          },
+          "phonetic": "hɑrm"
+        },
+        {
+          "text": "painful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "身体部位）疼痛的；令人痛苦的"
+          },
+          "phonetic": "ˈpeɪnfəl"
+        },
+        {
+          "text": "lie lay lain",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "平躺；平放"
+          },
+          "phonetic": "laɪ leɪ leɪn"
+        },
+        {
+          "text": "lie down",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "平躺；平卧"
+          },
+          "phonetic": "laɪ daʊn"
+        },
+        {
+          "text": "harmful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有害的"
+          },
+          "phonetic": "ˈhɑrmfəl"
+        },
+        {
+          "text": "hit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "碰撞；击；打N.打；击；击中"
+          },
+          "phonetic": "hɪt"
+        },
+        {
+          "text": "shock",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "震惊；令人震惊的事1.使震惊；使惊愕"
+          },
+          "phonetic": "ʃɑk"
+        },
+        {
+          "text": "bleed bled",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "流血；出血"
+          },
+          "phonetic": "blid blɛd"
+        },
+        {
+          "text": "check",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "检查；查明1.检查；调查"
+          },
+          "phonetic": "ʧɛk"
+        },
+        {
+          "text": "tight",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "疼痛的；憋气的；紧的；牢固的"
+          },
+          "phonetic": "taɪt"
+        },
+        {
+          "text": "peanut",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "花生"
+          },
+          "phonetic": "ˈpiˌnət"
+        },
+        {
+          "text": "nervously",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "紧张不安地"
+          },
+          "phonetic": "ˈnərvəsli"
+        },
+        {
+          "text": "allergic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "过敏的"
+          },
+          "phonetic": "əˈlərʤɪk"
+        },
+        {
+          "text": "from now on",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "从现在起"
+          },
+          "phonetic": "frəm naʊ ɔn"
+        },
+        {
+          "text": "Ben",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "本"
+          },
+          "phonetic": "bɛn"
+        },
+        {
+          "text": "Nancy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "南希"
+          },
+          "phonetic": "ˈnænsi"
+        },
+        {
+          "text": "Jeff",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "杰夫"
+          },
+          "phonetic": "ʤɛf"
+        },
+        {
+          "text": "James",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "詹姆斯"
+          },
+          "phonetic": "ʤeɪmz"
+        },
+        {
+          "text": "Allen",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "艾伦"
+          },
+          "phonetic": "ˈælən"
+        },
+        {
+          "text": "Kelly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "凯莉"
+          },
+          "phonetic": "ˈkɛli"
+        },
+        {
+          "text": "Cooper",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "库珀"
+          },
+          "phonetic": "ˈkupər"
+        }
+      ]
+    },
+    {
+      "id": "unit-3",
+      "name": "Unit 3",
+      "order": 3,
+      "words": [
+        {
+          "text": "deal with",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "处理；对付"
+          },
+          "phonetic": "dil wɪθ"
+        },
+        {
+          "text": "emotion",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "情感；情绪"
+          },
+          "phonetic": "ˈiˌmoʊʃən"
+        },
+        {
+          "text": "upset",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "难过的；沮丧的"
+          },
+          "phonetic": "ˈəpˌsɛt"
+        },
+        {
+          "text": "lonely",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "孤独的；寂寞的"
+          },
+          "phonetic": "ˈloʊnli"
+        },
+        {
+          "text": "shocked Jfokt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "震惊的"
+          },
+          "phonetic": "ʃɑkt jfokt*"
+        },
+        {
+          "text": "alone l loon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "独自；单独"
+          },
+          "phonetic": "əˈloʊn ɛl lun"
+        },
+        {
+          "text": "control",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "控制"
+          },
+          "phonetic": "kənˈtroʊl"
+        },
+        {
+          "text": "anger",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "怒火"
+          },
+          "phonetic": "ˈæŋgər"
+        },
+        {
+          "text": "advise",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "建议；劝告"
+          },
+          "phonetic": "ədˈvaɪz"
+        },
+        {
+          "text": "hurtful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "伤感情的"
+          },
+          "phonetic": "ˈhərtfəl"
+        },
+        {
+          "text": "in future",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "今后；从今以后"
+          },
+          "phonetic": "ɪn fˈjuʧər"
+        },
+        {
+          "text": "dare",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "敢于"
+          },
+          "phonetic": "dɛr"
+        },
+        {
+          "text": "forgive forgave",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "fərˈgɪv fərˈgeɪv"
+        },
+        {
+          "text": "everybody",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˈɛvriˌbɑdi"
+        },
+        {
+          "text": "forgiven",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "原谅；宽恕每人；所有人"
+          },
+          "phonetic": "fərˈgɪvən"
+        },
+        {
+          "text": "fault",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "过错；责任"
+          },
+          "phonetic": "fɔlt"
+        },
+        {
+          "text": "let down",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使失望"
+          },
+          "phonetic": "lɛt daʊn"
+        },
+        {
+          "text": "clear the air",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尽释前嫌"
+          },
+          "phonetic": "klɪr ðə ɛr"
+        },
+        {
+          "text": "be hard on",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "对•••苛刻或过分严历"
+          },
+          "phonetic": "bi hɑrd ɔn"
+        },
+        {
+          "text": "present",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "礼物"
+          },
+          "phonetic": "ˈprɛzənt"
+        },
+        {
+          "text": "Player",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "运动员；选手"
+          },
+          "phonetic": "pleɪər"
+        },
+        {
+          "text": "standard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "标准；水平"
+          },
+          "phonetic": "ˈstændərd"
+        },
+        {
+          "text": "referee",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "裁判标准的"
+          },
+          "phonetic": "ˌrɛfərˈi"
+        },
+        {
+          "text": "take back",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "撤回；收回"
+          },
+          "phonetic": "teɪk bæk"
+        },
+        {
+          "text": "award",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "奖；奖品"
+          },
+          "phonetic": "əˈwɔrd"
+        },
+        {
+          "text": "decision",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "决定"
+          },
+          "phonetic": "dɪˈsɪʒən"
+        },
+        {
+          "text": "get across",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "解释清楚；传达"
+          },
+          "phonetic": "gɪt əˈkrɔs"
+        },
+        {
+          "text": "kick oneself",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "因干了蠢事等）自责"
+          },
+          "phonetic": "kɪk ˌwənˈsɛlf"
+        },
+        {
+          "text": "clearly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "清楚地或懊恼"
+          },
+          "phonetic": "ˈklɪrli"
+        },
+        {
+          "text": "pressure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "压力"
+          },
+          "phonetic": "ˈprɛʃər"
+        },
+        {
+          "text": "look on the bright side",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "从好的方面想；"
+          },
+          "phonetic": "lʊk ɔn ðə braɪt saɪd"
+        },
+        {
+          "text": "purpose",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "目的；意图抱乐观态度"
+          },
+          "phonetic": "ˈpərpəs"
+        },
+        {
+          "text": "on purpose",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "故意；有意地"
+          },
+          "phonetic": "ɔn ˈpərpəs"
+        },
+        {
+          "text": "sCore",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "得分；比分"
+          },
+          "phonetic": "skɔr"
+        },
+        {
+          "text": "reduce by half",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "减少一半"
+          },
+          "phonetic": "rɪˈdus baɪ hæf"
+        },
+        {
+          "text": "proud",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "骄傲的；自豪的"
+          },
+          "phonetic": "praʊd"
+        },
+        {
+          "text": "apologize",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "əˈpɑləˌʤaɪz"
+        },
+        {
+          "text": "proud of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "次••••感到骄傲（=apologise）1.道歉"
+          },
+          "phonetic": "praʊd əv"
+        },
+        {
+          "text": "coach",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "教练"
+          },
+          "phonetic": "koʊʧ"
+        },
+        {
+          "text": "put shoes",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "设身处地；"
+          },
+          "phonetic": "pʊt ʃuz"
+        },
+        {
+          "text": "as well",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "也；又处于某人的境地"
+          },
+          "phonetic": "ɛz wɛl"
+        },
+        {
+          "text": "bit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有点儿；稍微"
+          },
+          "phonetic": "bɪt"
+        },
+        {
+          "text": "shut shut shut",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "关闭；合上；"
+          },
+          "phonetic": "ʃət ʃət ʃət"
+        },
+        {
+          "text": "a bit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有点儿；稍微住嘴"
+          },
+          "phonetic": "ə bɪt"
+        },
+        {
+          "text": "repeat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "重复"
+          },
+          "phonetic": "rɪˈpit"
+        },
+        {
+          "text": "shut away",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "把⋯关（藏）起来；"
+          },
+          "phonetic": "ʃət əˈweɪ"
+        },
+        {
+          "text": "Pull together",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "齐心协力；通力合作隔离"
+          },
+          "phonetic": "pʊl təˈgɛðər"
+        },
+        {
+          "text": "though",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "虽然；尽管"
+          },
+          "phonetic": "ðoʊ"
+        },
+        {
+          "text": "Lastly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最后"
+          },
+          "phonetic": "ˈlæstli"
+        },
+        {
+          "text": "even though",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "即使；虽然"
+          },
+          "phonetic": "ˈivɪn ðoʊ"
+        },
+        {
+          "text": "plenty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "充足；丰富；大量"
+          },
+          "phonetic": "ˈplɛnti"
+        },
+        {
+          "text": "solution",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "解决办法；解决"
+          },
+          "phonetic": "səˈluʃən"
+        },
+        {
+          "text": "plenty of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "充足；大量"
+          },
+          "phonetic": "ˈplɛnti əv"
+        },
+        {
+          "text": "joyful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "高兴的；"
+          },
+          "phonetic": "ˈʤɔɪfəl"
+        },
+        {
+          "text": "feel blue",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "感到忧郁的令人愉快的"
+          },
+          "phonetic": "fil blu"
+        },
+        {
+          "text": "on top world",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "欢天喜地"
+          },
+          "phonetic": "ɔn tɔp wərld"
+        },
+        {
+          "text": "thankful",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "感谢的；感激的"
+          },
+          "phonetic": "ˈθæŋkfəl"
+        },
+        {
+          "text": "all smiles",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "笑容满面"
+          },
+          "phonetic": "ɔl smaɪlz"
+        },
+        {
+          "text": "negative",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "否定的；"
+          },
+          "phonetic": "ˈnɛgətɪv"
+        },
+        {
+          "text": "Iow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "沮丧的；低的消极的"
+          },
+          "phonetic": "iow*"
+        },
+        {
+          "text": "in low spirits",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "情绪低落；精神不振"
+          },
+          "phonetic": "ɪn loʊ ˈspɪrɪts"
+        },
+        {
+          "text": "bully",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "霸凌；恐吓 n.恶霸"
+          },
+          "phonetic": "ˈbʊli"
+        },
+        {
+          "text": "ring t rang rung",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "rɪŋ ti ræŋ rəŋ"
+        },
+        {
+          "text": "shout at",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "冲某人喊叫发出铃声"
+          },
+          "phonetic": "ʃaʊt æt"
+        },
+        {
+          "text": "from time to time",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不时；偶尔"
+          },
+          "phonetic": "frəm taɪm tɪ taɪm"
+        },
+        {
+          "text": "enter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "进入"
+          },
+          "phonetic": "ˈɛnər"
+        },
+        {
+          "text": "behave",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "表现；举止得体"
+          },
+          "phonetic": "bɪˈheɪv"
+        },
+        {
+          "text": "differently",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不同地"
+          },
+          "phonetic": "ˈdɪfərˈɛntli"
+        },
+        {
+          "text": "physics",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "物理；物理学"
+          },
+          "phonetic": "ˈfɪzɪks"
+        },
+        {
+          "text": "awake",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "醒着的"
+          },
+          "phonetic": "əˈweɪk"
+        },
+        {
+          "text": "normal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "正常的；普通的"
+          },
+          "phonetic": "ˈnɔrməl"
+        },
+        {
+          "text": "mad",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "发狂的；疯的"
+          },
+          "phonetic": "mæd"
+        },
+        {
+          "text": "mean",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "刻薄的；吝啬的"
+          },
+          "phonetic": "min"
+        },
+        {
+          "text": "deep",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "深的；有••深的"
+          },
+          "phonetic": "dip"
+        },
+        {
+          "text": "take a deep breath",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "深呼吸"
+          },
+          "phonetic": "teɪk ə dip brɛθ"
+        },
+        {
+          "text": "pass away",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "去世（委婉说法）"
+          },
+          "phonetic": "pæs əˈweɪ"
+        },
+        {
+          "text": "anybody",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "任何人"
+          },
+          "phonetic": "ˈɛnibədi"
+        },
+        {
+          "text": "remain",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "继续存在；保持不变"
+          },
+          "phonetic": "rɪˈmeɪn"
+        },
+        {
+          "text": "not only but also",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不但⋯⋯而且⋯⋯"
+          },
+          "phonetic": "nɑt ˈoʊnli bət ˈɔlsoʊ"
+        },
+        {
+          "text": "Thompson",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "汤普森"
+          },
+          "phonetic": "ˈtɑmsən"
+        }
+      ]
+    },
+    {
+      "id": "unit-4",
+      "name": "Unit 4",
+      "order": 4,
+      "words": [
+        {
+          "text": "wonder",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "奇观；惊叹V.琢磨；想知道；感到诧异"
+          },
+          "phonetic": "ˈwəndər"
+        },
+        {
+          "text": "measurement",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "数量；测量"
+          },
+          "phonetic": "ˈmɛʒərmənt"
+        },
+        {
+          "text": "square kilometre",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "平方千米"
+          },
+          "phonetic": "skwɛr ˌkɪˈlɔˌmətər"
+        },
+        {
+          "text": "below",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在（或到）⋯⋯下面；少于；低于在（或到）下面"
+          },
+          "phonetic": "bɪˈloʊ"
+        },
+        {
+          "text": "level",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "高度；水平；程度"
+          },
+          "phonetic": "ˈlɛvəl"
+        },
+        {
+          "text": "surface",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "表面；表层"
+          },
+          "phonetic": "ˈsərfəs"
+        },
+        {
+          "text": "depth",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "深（度）；纵深"
+          },
+          "phonetic": "dɛpθ"
+        },
+        {
+          "text": "dive",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "潜水；跳水；俯冲"
+          },
+          "phonetic": "daɪv"
+        },
+        {
+          "text": "research",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "研究；调查"
+          },
+          "phonetic": "ˈrisərʧ"
+        },
+        {
+          "text": "vessel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大船；轮船"
+          },
+          "phonetic": "ˈvɛsəl"
+        },
+        {
+          "text": "unusual",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "特别的；不寻常的"
+          },
+          "phonetic": "ənˈjuˌʒuəl"
+        },
+        {
+          "text": "bottom",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "底部；最下部"
+          },
+          "phonetic": "ˈbɑtəm"
+        },
+        {
+          "text": "waterfall",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "瀑布"
+          },
+          "phonetic": "ˈwɔtərˌfɔl"
+        },
+        {
+          "text": "civilization",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "（=civilisation）n.文明"
+          },
+          "phonetic": "ˌsɪvəlɪˈzeɪʃən"
+        },
+        {
+          "text": "means means",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "方式；途径"
+          },
+          "phonetic": "minz minz"
+        },
+        {
+          "text": "development",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.发展；壮大"
+          },
+          "phonetic": "dɪˈvɛləpmənt"
+        },
+        {
+          "text": "desert",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "沙漠；荒原"
+          },
+          "phonetic": "ˈdɛzərt"
+        },
+        {
+          "text": "cubic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "立方的"
+          },
+          "phonetic": "ˈkjubɪk"
+        },
+        {
+          "text": "mile",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "英里"
+          },
+          "phonetic": "maɪl"
+        },
+        {
+          "text": "pool",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "池塘；水坑"
+          },
+          "phonetic": "pul"
+        },
+        {
+          "text": "climber",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "攀登者；登山者"
+          },
+          "phonetic": "ˈklaɪmər"
+        },
+        {
+          "text": "northern",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "北部的；向北的"
+          },
+          "phonetic": "ˈnɔrðərn"
+        },
+        {
+          "text": "distance",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "距离；遥远"
+          },
+          "phonetic": "ˈdɪstəns"
+        },
+        {
+          "text": "survive",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "生存；存活；艰难度过"
+          },
+          "phonetic": "sərˈvaɪv"
+        },
+        {
+          "text": "condition",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "状态；境况"
+          },
+          "phonetic": "kənˈdɪʃən"
+        },
+        {
+          "text": "degree",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "度；度数；程度"
+          },
+          "phonetic": "dɪˈgri"
+        },
+        {
+          "text": "clift",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "悬崖；峭壁"
+          },
+          "phonetic": "klɪft"
+        },
+        {
+          "text": "changeable",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "可能变化的；易变的；常变的"
+          },
+          "phonetic": "ˈʧeɪnʤəbəl"
+        },
+        {
+          "text": "death",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "死亡；毁灭；破灭"
+          },
+          "phonetic": "dɛθ"
+        },
+        {
+          "text": "determined",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有决心的；坚决的"
+          },
+          "phonetic": "dɪˈtərmənd"
+        },
+        {
+          "text": "above",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "在（或向）••上面；超过adn.在（或向）上面；在（或向）高处；超过"
+          },
+          "phonetic": "əˈbəv"
+        },
+        {
+          "text": "teammate",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.同队队员；队友"
+          },
+          "phonetic": "ˈtiˌmeɪt"
+        },
+        {
+          "text": "shoulder",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "肩膀；肩部"
+          },
+          "phonetic": "ˈʃoʊldər"
+        },
+        {
+          "text": "bit by bit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一点一点地；逐渐地"
+          },
+          "phonetic": "bɪt baɪ bɪt"
+        },
+        {
+          "text": "ladder",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "梯子；阶梯；途径"
+          },
+          "phonetic": "ˈlædər"
+        },
+        {
+          "text": "measure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "测量；量度1.措施；度量单位"
+          },
+          "phonetic": "ˈmɛʒər"
+        },
+        {
+          "text": "successfully",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "成功地；顺利地"
+          },
+          "phonetic": "səkˈsɛsfəli"
+        },
+        {
+          "text": "risk",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使⋯•冒风险（或面临危险）1.危险；风险"
+          },
+          "phonetic": "rɪsk"
+        },
+        {
+          "text": "curiosity",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "好奇心；求知欲"
+          },
+          "phonetic": "ˌkjʊriˈɑsəti"
+        },
+        {
+          "text": "ambition",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "追求的目标；野心；雄心"
+          },
+          "phonetic": "æmˈbɪʃən"
+        },
+        {
+          "text": "explorer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.探险者；勘探者"
+          },
+          "phonetic": "ɪkˈsplɔrər"
+        },
+        {
+          "text": "reef",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "礁；礁脉"
+          },
+          "phonetic": "rif"
+        },
+        {
+          "text": "include",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "包含；包括"
+          },
+          "phonetic": "ˌɪnˈklud"
+        },
+        {
+          "text": "sand",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "沙子"
+          },
+          "phonetic": "sænd"
+        },
+        {
+          "text": "alive",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "活着；在世；有活力"
+          },
+          "phonetic": "əˈlaɪv"
+        },
+        {
+          "text": "structure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "结构（体）；构造；体系"
+          },
+          "phonetic": "ˈstrəkʧər"
+        },
+        {
+          "text": "snorkel",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使用呼吸管潜泳1.（浮潜用的）呼吸管"
+          },
+          "phonetic": "sˈnɔrkəl"
+        },
+        {
+          "text": "school",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "鱼、鲸、海豚等的）群"
+          },
+          "phonetic": "skul"
+        },
+        {
+          "text": "turtle",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "海龟；龟"
+          },
+          "phonetic": "ˈtərtəl"
+        },
+        {
+          "text": "lifetime",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一生；终身"
+          },
+          "phonetic": "ˈlaɪfˌtaɪm"
+        },
+        {
+          "text": "simply",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "仅仅；只；简单地"
+          },
+          "phonetic": "ˈsɪmpli"
+        },
+        {
+          "text": "risky",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有危险（或风险）的"
+          },
+          "phonetic": "ˈrɪski"
+        },
+        {
+          "text": "southern",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "南部的；向南的"
+          },
+          "phonetic": "ˈsəðərn"
+        },
+        {
+          "text": "located",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "位于；坐溶在"
+          },
+          "phonetic": "ˈloʊˌkeɪtəd"
+        },
+        {
+          "text": "freshwater",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "淡水的；淡水中生长的"
+          },
+          "phonetic": "ˈfrɛʃˌwɔtər"
+        },
+        {
+          "text": "type",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "类型；种类"
+          },
+          "phonetic": "taɪp"
+        },
+        {
+          "text": "attract",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "吸引；招马；引起（反应）"
+          },
+          "phonetic": "əˈtrækt"
+        },
+        {
+          "text": "curious",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "好奇的；求知欲强的"
+          },
+          "phonetic": "ˈkjʊriəs"
+        },
+        {
+          "text": "traveller",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "旅行者；游客"
+          },
+          "phonetic": "ˈtrævələr"
+        },
+        {
+          "text": "natural rol",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自然的；天然的；天生的"
+          },
+          "phonetic": "ˈnæʧərəl roʊl"
+        },
+        {
+          "text": "underwater",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "水下的；用于水下的"
+          },
+          "phonetic": "ˈəndərˌwɔtər"
+        },
+        {
+          "text": "northeastern",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "东北的；东北方向的"
+          },
+          "phonetic": "ˌnɔrˈθistərn"
+        },
+        {
+          "text": "coast",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "海岸；海滨"
+          },
+          "phonetic": "koʊst"
+        },
+        {
+          "text": "coral",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "珊瑚；珊瑚虫"
+          },
+          "phonetic": "ˈkɔrəl"
+        },
+        {
+          "text": "Nile River",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尼罗河"
+          },
+          "phonetic": "naɪl ˈrɪvər"
+        },
+        {
+          "text": "Angel Faills",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "天使瀑布"
+          },
+          "phonetic": "ˈeɪnʤəl faills*"
+        },
+        {
+          "text": "Mount Qomolangna",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/tfozmae,La:gma/珠穆朗玛峰"
+          },
+          "phonetic": "maʊnt qomolangna*"
+        },
+        {
+          "text": "Dead Sea",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "死海"
+          },
+          "phonetic": "dɛd si"
+        },
+        {
+          "text": "Sahara Desert",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "撒哈拉沙漠"
+          },
+          "phonetic": "səˈhɛrə ˈdɛzərt"
+        },
+        {
+          "text": "Mariana Trench",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "马里亚纳海沟"
+          },
+          "phonetic": "ˌmɑriˈænə trɛnʧ"
+        },
+        {
+          "text": "Titanic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "泰坦尼克号"
+          },
+          "phonetic": "taɪˈtænɪk"
+        },
+        {
+          "text": "Yangtze River",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "长江"
+          },
+          "phonetic": "ˈjæŋktˈsi ˈrɪvər"
+        },
+        {
+          "text": "Egypt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "埃及"
+          },
+          "phonetic": "ˈiʤɪpt"
+        },
+        {
+          "text": "Taklimakan Desert",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "塔克拉玛干沙漠"
+          },
+          "phonetic": "taklimakan* ˈdɛzərt"
+        },
+        {
+          "text": "Mount Kilimanjaro",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "乞力马扎罗山"
+          },
+          "phonetic": "maʊnt ˌkɪləmənˈʤɑroʊ"
+        },
+        {
+          "text": "Inga Falls",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "印加瀑布东非大裂谷"
+          },
+          "phonetic": "ˈiŋgə fɔlz"
+        },
+        {
+          "text": "George Mallory",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "乔治•马洛里"
+          },
+          "phonetic": "ʤɔrʤ ˈmæləri"
+        },
+        {
+          "text": "Siberia",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "西伯利亚"
+          },
+          "phonetic": "saɪˈbɪriə"
+        },
+        {
+          "text": "Lake Baikal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "贝加尔湖"
+          },
+          "phonetic": "leɪk baikal*"
+        },
+        {
+          "text": "Belgium",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "比利时"
+          },
+          "phonetic": "ˈbɛlʤəm"
+        },
+        {
+          "text": "Great Barrier Reef",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "大堡礁"
+          },
+          "phonetic": "greɪt ˈbɛriər rif"
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "name": "Unit 5",
+      "order": 5,
+      "words": [
+        {
+          "text": "temper",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "脾气；怒气"
+          },
+          "phonetic": "ˈtɛmpər"
+        },
+        {
+          "text": "earthquake",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "地震"
+          },
+          "phonetic": "ˈərθkˌweɪk"
+        },
+        {
+          "text": "typhoon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "台风"
+          },
+          "phonetic": "ˌtaɪˈfun"
+        },
+        {
+          "text": "wildfire",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "野火"
+          },
+          "phonetic": "ˈwaɪldˌfaɪər"
+        },
+        {
+          "text": "snowstorm",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "雪暴；暴风雪"
+          },
+          "phonetic": "sˈnoʊˌstɔrm"
+        },
+        {
+          "text": "flood",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "水灾；洪水1.泛滥；淹没"
+          },
+          "phonetic": "fləd"
+        },
+        {
+          "text": "drought",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "久早；旱灾"
+          },
+          "phonetic": "draʊt"
+        },
+        {
+          "text": "warn",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "警告；提醒注意"
+          },
+          "phonetic": "wɔrn"
+        },
+        {
+          "text": "do chores",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "做家务"
+          },
+          "phonetic": "du ʧɔrz"
+        },
+        {
+          "text": "wave",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "波浪；波；挥手1挥手；挥舞"
+          },
+          "phonetic": "weɪv"
+        },
+        {
+          "text": "tsunami",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "海啸"
+          },
+          "phonetic": "tsuˈnɑmi"
+        },
+        {
+          "text": "interview",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "采访；面试1.采访；对（某人）进行面试"
+          },
+          "phonetic": "ˈɪntərvˌju"
+        },
+        {
+          "text": "possibly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "可能；或许"
+          },
+          "phonetic": "ˈpɑsəbli"
+        },
+        {
+          "text": "report",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "汇报；报道"
+          },
+          "phonetic": "rɪˈpɔrt"
+        },
+        {
+          "text": "neighbourhood",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.街区；临近的地方"
+          },
+          "phonetic": "ˈneɪbərˌhʊd"
+        },
+        {
+          "text": "roof",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "屋顶；顶部"
+          },
+          "phonetic": "rʊf"
+        },
+        {
+          "text": "nearly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "几乎；差不多；将近"
+          },
+          "phonetic": "ˈnɪrli"
+        },
+        {
+          "text": "trouble",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "苦恼；困难1.使忧虑、苦恼；劳驾；麻烦"
+          },
+          "phonetic": "ˈtrəbəl"
+        },
+        {
+          "text": "relative",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "亲戚；亲属"
+          },
+          "phonetic": "ˈrɛlətɪv"
+        },
+        {
+          "text": "truck",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "卡车"
+          },
+          "phonetic": "trək"
+        },
+        {
+          "text": "supply",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "供应（量）；（pl.supplies）补给（品）供应；供给"
+          },
+          "phonetic": "səˈplaɪ"
+        },
+        {
+          "text": "preparation",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.准备（工作）；预备"
+          },
+          "phonetic": "ˌprɛpərˈeɪʃən"
+        },
+        {
+          "text": "make preparations",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "作准备"
+          },
+          "phonetic": "meɪk ˌprɛpərˈeɪʃənz"
+        },
+        {
+          "text": "power",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "电力供应；能量；力量"
+          },
+          "phonetic": "paʊər"
+        },
+        {
+          "text": "soundly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "睡觉）酣畅地；可靠地；完全彻底地"
+          },
+          "phonetic": "ˈsaʊndli"
+        },
+        {
+          "text": "thick",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "厚的；浓密的"
+          },
+          "phonetic": "θɪk"
+        },
+        {
+          "text": "beat beat beaten",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "敲；打"
+          },
+          "phonetic": "bit bit ˈbitən"
+        },
+        {
+          "text": "hide hid hidden",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "躲藏；隐蔽"
+          },
+          "phonetic": "haɪd hɪd ˈhɪdən"
+        },
+        {
+          "text": "tornado",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "龙卷风；旋风"
+          },
+          "phonetic": "tɔrˈneɪˌdoʊ"
+        },
+        {
+          "text": "worst",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最坏（的）；最糟（的）"
+          },
+          "phonetic": "wərst"
+        },
+        {
+          "text": "schoolgirl",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "学校的）女生"
+          },
+          "phonetic": "ˈskulˌgərl"
+        },
+        {
+          "text": "froth",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "泡；泡沫"
+          },
+          "phonetic": "frɔθ"
+        },
+        {
+          "text": "refuse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "拒绝；退却"
+          },
+          "phonetic": "ˈrɛfˌjuz"
+        },
+        {
+          "text": "security",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "安全；保安；保障"
+          },
+          "phonetic": "sɪˈkjʊrəti"
+        },
+        {
+          "text": "guard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "卫兵；保卫 V.保卫"
+          },
+          "phonetic": "gɑrd"
+        },
+        {
+          "text": "security guard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "保安人员"
+          },
+          "phonetic": "sɪˈkjʊrəti gɑrd"
+        },
+        {
+          "text": "nearby",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "附近的在附近"
+          },
+          "phonetic": "ˈnɪrˈbaɪ"
+        },
+        {
+          "text": "scream",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尖叫"
+          },
+          "phonetic": "skrim"
+        },
+        {
+          "text": "thank fully",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "θæŋk ˈfʊli"
+        },
+        {
+          "text": "knowledge",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "知识；学间"
+          },
+          "phonetic": "ˈnɑlɪʤ"
+        },
+        {
+          "text": "thinking",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "思考；想法"
+          },
+          "phonetic": "ˈθɪŋkɪŋ"
+        },
+        {
+          "text": "except for",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "除••之外"
+          },
+          "phonetic": "ɪkˈsɛpt fər"
+        },
+        {
+          "text": "as soon as",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "就⋯⋯"
+          },
+          "phonetic": "ɛz sun ɛz"
+        },
+        {
+          "text": "hero heroes",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "英雄；男主角；偶像"
+          },
+          "phonetic": "ˈhɪroʊ ˈhɪroʊz"
+        },
+        {
+          "text": "landslide",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "山坡或悬崖的）滑坡；塌方"
+          },
+          "phonetic": "ˈlænsˌlaɪd"
+        },
+        {
+          "text": "safeguard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "保护；捍卫1.安全设施"
+          },
+          "phonetic": "ˈseɪfˌgɑrd"
+        },
+        {
+          "text": "floodwater",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "洪水"
+          },
+          "phonetic": "ˈflədˌwɔtər"
+        },
+        {
+          "text": "as",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "因此"
+          },
+          "phonetic": "ɛz"
+        },
+        {
+          "text": "unlucky",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不幸的；不顺利的；不吉利的"
+          },
+          "phonetic": "ənˈləki"
+        },
+        {
+          "text": "rainy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阴雨的；多雨的"
+          },
+          "phonetic": "ˈreɪni"
+        },
+        {
+          "text": "wrong",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "出现问题；发生故障；搞错"
+          },
+          "phonetic": "rɔŋ"
+        },
+        {
+          "text": "manpower",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "1.劳动力；人力"
+          },
+          "phonetic": "ˈmænˌpaʊər"
+        },
+        {
+          "text": "heartbeat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "心跳（声）"
+          },
+          "phonetic": "ˈhɑrtˌbit"
+        },
+        {
+          "text": "rescue",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "救援1援救；营救"
+          },
+          "phonetic": "ˈrɛskju"
+        },
+        {
+          "text": "Tilly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "蒂莉"
+          },
+          "phonetic": "ˈtɪli"
+        },
+        {
+          "text": "Phuket",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "普吉岛"
+          },
+          "phonetic": "phuket*"
+        },
+        {
+          "text": "Indonesia",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "印度尼西亚"
+          },
+          "phonetic": "ˌɪndoʊˈniʒə"
+        },
+        {
+          "text": "Japan",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "日本"
+          },
+          "phonetic": "ʤəˈpæn"
+        },
+        {
+          "text": "since",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自••…以后；从⋯⋯以来既然；由于"
+          },
+          "phonetic": "sɪns"
+        },
+        {
+          "text": "southwestern",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "西南的；西南方向的"
+          },
+          "phonetic": "ˌsaʊθˈwɛstərn"
+        },
+        {
+          "text": "firefighter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "消防队员"
+          },
+          "phonetic": "ˈfaɪrˌfaɪtər"
+        },
+        {
+          "text": "volunteer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "志愿者；自告奋勇者V.自愿做；义务做"
+          },
+          "phonetic": "ˌvɑlənˈtɪr"
+        },
+        {
+          "text": "terribly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "非常糟地；非常"
+          },
+          "phonetic": "ˈtɛrəbli"
+        },
+        {
+          "text": "alarm",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "警报（器）；惊恐"
+          },
+          "phonetic": "əˈlɑrm"
+        },
+        {
+          "text": "alarm clock",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "闹钟"
+          },
+          "phonetic": "əˈlɑrm klɑk"
+        },
+        {
+          "text": "wake up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "醒来"
+          },
+          "phonetic": "weɪk əp"
+        },
+        {
+          "text": "go off",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "警报器等）突然发出巨响"
+          },
+          "phonetic": "goʊ ɔf"
+        },
+        {
+          "text": "review",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "复习；回顾；复查1.回顾；审查"
+          },
+          "phonetic": "ˌrivˈju"
+        },
+        {
+          "text": "sudden",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "突然的；骤然的"
+          },
+          "phonetic": "ˈsədən"
+        },
+        {
+          "text": "all of a sudden",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "突然；猛地"
+          },
+          "phonetic": "ɔl əv ə ˈsədən"
+        },
+        {
+          "text": "thunder",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "雷；雷声1.打雷；发出雷鸣般响声"
+          },
+          "phonetic": "ˈθəndər"
+        },
+        {
+          "text": "by the time",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "到••⋯的时候"
+          },
+          "phonetic": "baɪ ðə taɪm"
+        },
+        {
+          "text": "usual",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "通常的；寻常的"
+          },
+          "phonetic": "ˈjuʒəwəl"
+        },
+        {
+          "text": "out of breath",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "上气不接下气"
+          },
+          "phonetic": "aʊt əv brɛθ"
+        },
+        {
+          "text": "rainstorm",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "暴风雨"
+          },
+          "phonetic": "ˈreɪnˌstɔrm"
+        }
+      ]
+    },
+    {
+      "id": "unit-6",
+      "name": "Unit 6",
+      "order": 6,
+      "words": [
+        {
+          "text": "shake shook",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/jeikon/）与（某人）握手；摇动"
+          },
+          "phonetic": "ʃeɪk ʃʊk"
+        },
+        {
+          "text": "bow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "鞠躬"
+          },
+          "phonetic": "boʊ"
+        },
+        {
+          "text": "bump",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "碰；撞1.碰撞；（撞击造成的）肿块"
+          },
+          "phonetic": "bəmp"
+        },
+        {
+          "text": "fist",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "拳头"
+          },
+          "phonetic": "fɪst"
+        },
+        {
+          "text": "rub IrAb",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "摩擦；採"
+          },
+          "phonetic": "rəb irab*"
+        },
+        {
+          "text": "kiss",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "亲吻 n.吻"
+          },
+          "phonetic": "kɪs"
+        },
+        {
+          "text": "cheek",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "脸颊"
+          },
+          "phonetic": "ʧik"
+        },
+        {
+          "text": "hug",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "拥抱"
+          },
+          "phonetic": "həg"
+        },
+        {
+          "text": "embarrassed",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尴尬的"
+          },
+          "phonetic": "ɪmˈbɛrəst"
+        },
+        {
+          "text": "confused",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "困惑的"
+          },
+          "phonetic": "kənfˈjuzd"
+        },
+        {
+          "text": "formal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "正式的"
+          },
+          "phonetic": "ˈfɔrməl"
+        },
+        {
+          "text": "curry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "咖喱菜"
+          },
+          "phonetic": "ˈkəri"
+        },
+        {
+          "text": "rude",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "粗鲁的"
+          },
+          "phonetic": "rud"
+        },
+        {
+          "text": "uncommon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "罕见的；不寻常的"
+          },
+          "phonetic": "ənˈkɑmən"
+        },
+        {
+          "text": "fork",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "叉子"
+          },
+          "phonetic": "fɔrk"
+        },
+        {
+          "text": "Indian",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "印度的；印度人的1.印度人"
+          },
+          "phonetic": "ˈɪndiən"
+        },
+        {
+          "text": "manner",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "方式；（pl.manners）礼仪"
+          },
+          "phonetic": "ˈmænər"
+        },
+        {
+          "text": "so that",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "如此⋯⋯以至于"
+          },
+          "phonetic": "soʊ ðət"
+        },
+        {
+          "text": "confusing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "令人困惑的；难以理解的"
+          },
+          "phonetic": "kənfˈjuzɪŋ"
+        },
+        {
+          "text": "unless",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "除非；如果不"
+          },
+          "phonetic": "ənˈlɛs"
+        },
+        {
+          "text": "proper",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "恰当的；正确的"
+          },
+          "phonetic": "ˈprɑpər"
+        },
+        {
+          "text": "keep off",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使不碰到；使避开"
+          },
+          "phonetic": "kip ɔf"
+        },
+        {
+          "text": "elbow",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "手肘"
+          },
+          "phonetic": "ˈɛlˌboʊ"
+        },
+        {
+          "text": "serving",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分菜用的1.一份食物"
+          },
+          "phonetic": "ˈsərvɪŋ"
+        },
+        {
+          "text": "chopstick usually",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "筷子"
+          },
+          "phonetic": "ˈʧɑpˌstɪk ˈjuʒəwəli"
+        },
+        {
+          "text": "serving chopsticks",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "公筷"
+          },
+          "phonetic": "ˈsərvɪŋ ˈʧɑpˌstɪks"
+        },
+        {
+          "text": "embarrassing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "使人难堪的"
+          },
+          "phonetic": "ɪmˈbɛrəsɪŋ"
+        },
+        {
+          "text": "be get used to",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "习惯于"
+          },
+          "phonetic": "bi gɪt juzd tɪ"
+        },
+        {
+          "text": "cultural",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "与文化有关的；文化的"
+          },
+          "phonetic": "ˈkəlʧərəl"
+        },
+        {
+          "text": "hear from",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "得到⋯⋯消息"
+          },
+          "phonetic": "hir frəm"
+        },
+        {
+          "text": "custom",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "习俗"
+          },
+          "phonetic": "ˈkəstəm"
+        },
+        {
+          "text": "occasion",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "场合；重大活动"
+          },
+          "phonetic": "əˈkeɪʒən"
+        },
+        {
+          "text": "nicely",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "漂亮地；令人愉快地"
+          },
+          "phonetic": "ˈnaɪsli"
+        },
+        {
+          "text": "blouse",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "女式）衬衫或短上衣"
+          },
+          "phonetic": "blaʊs"
+        },
+        {
+          "text": "private",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "；不喜欢谈论私事的；私人的"
+          },
+          "phonetic": "ˈpraɪvət"
+        },
+        {
+          "text": "whether",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "是否"
+          },
+          "phonetic": "ˈwɛðər"
+        },
+        {
+          "text": "married",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "已婚的；婚姻的"
+          },
+          "phonetic": "ˈmɛrid"
+        },
+        {
+          "text": "merci",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "谢谢（法语）"
+          },
+          "phonetic": "mərˈsi"
+        },
+        {
+          "text": "o along way",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "帮助很大"
+          },
+          "phonetic": "oʊ əˈlɔŋ weɪ"
+        },
+        {
+          "text": "au revoir",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "再见（法语）"
+          },
+          "phonetic": "oʊ rɪvˈwɑr"
+        },
+        {
+          "text": "unsafe",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不安全的；危险的"
+          },
+          "phonetic": "ənˈseɪf"
+        },
+        {
+          "text": "improper",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "不合适的"
+          },
+          "phonetic": "ˌɪmˈprɑpər"
+        },
+        {
+          "text": "informal",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "非正式的"
+          },
+          "phonetic": "ˌɪnˈfɔrməl"
+        },
+        {
+          "text": "jeans",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "牛仔裤"
+          },
+          "phonetic": "ʤinz"
+        },
+        {
+          "text": "marry",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "结婚；娶；嫁"
+          },
+          "phonetic": "ˈmɛri"
+        },
+        {
+          "text": "congratulate",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "祝贺"
+          },
+          "phonetic": "kənˈgræʧəˌleɪt"
+        },
+        {
+          "text": "Asian h",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "亚洲的1.亚洲人"
+          },
+          "phonetic": "ˈeɪʒən eɪʧ"
+        },
+        {
+          "text": "tradition",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "传统"
+          },
+          "phonetic": "trəˈdɪʃən"
+        },
+        {
+          "text": "firstly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˈfərstli"
+        },
+        {
+          "text": "secondly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "第二；其次"
+          },
+          "phonetic": "ˈsɛkəndli"
+        },
+        {
+          "text": "thirdly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "第三"
+          },
+          "phonetic": "ˈθərdli"
+        },
+        {
+          "text": "correctly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "正确地；得体地"
+          },
+          "phonetic": "kərˈɛktli"
+        },
+        {
+          "text": "receive",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "收到"
+          },
+          "phonetic": "rɪˈsiv"
+        },
+        {
+          "text": "main",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "主要的"
+          },
+          "phonetic": "meɪn"
+        },
+        {
+          "text": "in one's forties",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "四十多岁"
+          },
+          "phonetic": "ɪn wənz ˈfɔrtiz"
+        },
+        {
+          "text": "false",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "错误的；不真实的"
+          },
+          "phonetic": "fɔls"
+        },
+        {
+          "text": "impression t",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "印象"
+          },
+          "phonetic": "ˌɪmˈprɛʃən ti"
+        },
+        {
+          "text": "cheer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "欢呼 V.庆视"
+          },
+          "phonetic": "ʧɪr"
+        },
+        {
+          "text": "cheers",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "再见；干杯"
+          },
+          "phonetic": "ʧɪrz"
+        },
+        {
+          "text": "Kaito",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "海斗（日本人名）"
+          },
+          "phonetic": "kaito*"
+        },
+        {
+          "text": "Marie",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "玛丽"
+          },
+          "phonetic": "mərˈi"
+        },
+        {
+          "text": "Ttirkiye",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "土耳其"
+          },
+          "phonetic": "ttirkiye*"
+        },
+        {
+          "text": "Mexico",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "墨西哥"
+          },
+          "phonetic": "ˈmɛksəˌkoʊ"
+        },
+        {
+          "text": "Peru",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "秘鲁"
+          },
+          "phonetic": "pəru"
+        },
+        {
+          "text": "Germany",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "德国"
+          },
+          "phonetic": "ˈʤərməni"
+        },
+        {
+          "text": "Paris",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "巴黎（法国首都）"
+          },
+          "phonetic": "ˈpɛrɪs"
+        }
+      ]
+    },
+    {
+      "id": "unit-7",
+      "name": "Unit 7",
+      "order": 7,
+      "words": [
+        {
+          "text": "summary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "总结；概要（或文章等）"
+          },
+          "phonetic": "ˈsəməri"
+        },
+        {
+          "text": "spoiled",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "spɔɪld"
+        },
+        {
+          "text": "adventure e t",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "冒险；宠坏的；娇惯坏的冒险经历"
+          },
+          "phonetic": "ədˈvɛnʧər i ti"
+        },
+        {
+          "text": "selfish",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自私的"
+          },
+          "phonetic": "ˈsɛlfɪʃ"
+        },
+        {
+          "text": "fantasy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "幻想；幻想作品"
+          },
+          "phonetic": "ˈfænəsi"
+        },
+        {
+          "text": "Iock",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "用锁锁上 n.锁"
+          },
+          "phonetic": "iock*"
+        },
+        {
+          "text": "mystery",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "悬疑小说（或电影、"
+          },
+          "phonetic": "ˈmɪstəri"
+        },
+        {
+          "text": "lock up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "锁好（建筑物的）门戏剧）；神秘的事物；奥秘"
+          },
+          "phonetic": "lɑk əp"
+        },
+        {
+          "text": "unlock",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "开⋯⋯的锁；"
+          },
+          "phonetic": "ənˈlɑk"
+        },
+        {
+          "text": "fiction",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "小说发现；揭开"
+          },
+          "phonetic": "ˈfɪkʃən"
+        },
+        {
+          "text": "science fiction",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "科幻小说（或影片等）"
+          },
+          "phonetic": "saɪəns ˈfɪkʃən"
+        },
+        {
+          "text": "hidden",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "隐藏的；秘密的"
+          },
+          "phonetic": "ˈhɪdən"
+        },
+        {
+          "text": "detective",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "侦探"
+          },
+          "phonetic": "dɪˈtɛktɪv"
+        },
+        {
+          "text": "nobody",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "没有人；"
+          },
+          "phonetic": "ˈnoʊˌbɑˌdi"
+        },
+        {
+          "text": "alien",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "外星人谁也不"
+          },
+          "phonetic": "ˈeɪliən"
+        },
+        {
+          "text": "attack",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "攻击；进攻"
+          },
+          "phonetic": "əˈtæk"
+        },
+        {
+          "text": "therefore",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "因此；所以"
+          },
+          "phonetic": "ˈðɛrˌfɔr"
+        },
+        {
+          "text": "historical",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "历史的；"
+          },
+          "phonetic": "hɪˈstɔrɪkəl"
+        },
+        {
+          "text": "state",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "状态；国家；州有关历史的陈述；说明"
+          },
+          "phonetic": "steɪt"
+        },
+        {
+          "text": "force",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "强迫；迫使；用力推动"
+          },
+          "phonetic": "fɔrs"
+        },
+        {
+          "text": "secretly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "秘密地"
+          },
+          "phonetic": "ˈsikrɪtli"
+        },
+        {
+          "text": "steal stole",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "stil stoʊl"
+        },
+        {
+          "text": "prove proved proved",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "或/'stoulen/）偷；窃取"
+          },
+          "phonetic": "pruv pruvd pruvd"
+        },
+        {
+          "text": "proved proven",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "证明；"
+          },
+          "phonetic": "pruvd ˈpruvən"
+        },
+        {
+          "text": "Punish",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "惩罚；处罚证实；显示是"
+          },
+          "phonetic": "ˈpənɪʃ"
+        },
+        {
+          "text": "idiom",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "习语；成语"
+          },
+          "phonetic": "ˈɪdiəm"
+        },
+        {
+          "text": "get to ones feet",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "站起身来"
+          },
+          "phonetic": "gɪt tɪ wənz fit"
+        },
+        {
+          "text": "recently",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最近；不久前"
+          },
+          "phonetic": "ˈrisəntli"
+        },
+        {
+          "text": "day by day",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "一天天；逐日"
+          },
+          "phonetic": "deɪ baɪ deɪ"
+        },
+        {
+          "text": "lost",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "迷路的；丢失的；"
+          },
+          "phonetic": "lɔst"
+        },
+        {
+          "text": "build-up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "准备期；失去的准备过程"
+          },
+          "phonetic": "ˈbɪlˌdəp"
+        },
+        {
+          "text": "hear of",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "听说；得知"
+          },
+          "phonetic": "hir əv"
+        },
+        {
+          "text": "recommend",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˌrɛkəˈmɛnd"
+        },
+        {
+          "text": "in time",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "来得及；及时V推荐；建议"
+          },
+          "phonetic": "ɪn taɪm"
+        },
+        {
+          "text": "society",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "社会；社团"
+          },
+          "phonetic": "soʊˈsaɪɪti"
+        },
+        {
+          "text": "librarian",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "图书管理员；"
+          },
+          "phonetic": "laɪˈbrɛˌriən"
+        },
+        {
+          "text": "literary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "文学的；图书馆馆长文学上的"
+          },
+          "phonetic": "ˈlɪtərˌɛri"
+        },
+        {
+          "text": "base t",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "把（总部等）设在1.认为；仔细考虑根基；基础；根据地"
+          },
+          "phonetic": "beɪs ti"
+        },
+        {
+          "text": "base on",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "以••⋯•內基础；"
+          },
+          "phonetic": "beɪs ɔn"
+        },
+        {
+          "text": "naughty",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "淘气的"
+          },
+          "phonetic": "ˈnɔti"
+        },
+        {
+          "text": "gentle",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "温柔的"
+          },
+          "phonetic": "ˈʤɛnəl"
+        },
+        {
+          "text": "defeat",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "击败；战胜1.失败；击败"
+          },
+          "phonetic": "dɪˈfit"
+        },
+        {
+          "text": "recommendation",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "推荐；提议"
+          },
+          "phonetic": "ˌrɛkəmənˈdeɪʃən"
+        },
+        {
+          "text": "basic",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "基本的；初步的"
+          },
+          "phonetic": "ˈbeɪsɪk"
+        },
+        {
+          "text": "American",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "美国的；美洲的n.美国人；美洲人"
+          },
+          "phonetic": "əˈmɛrɪkən"
+        },
+        {
+          "text": "bone",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "骨头"
+          },
+          "phonetic": "boʊn"
+        },
+        {
+          "text": "doubt",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "怀疑n.疑惑；不确定"
+          },
+          "phonetic": "daʊt"
+        },
+        {
+          "text": "destroy",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "破坏；摧毁"
+          },
+          "phonetic": "dɪˈstrɔɪ"
+        },
+        {
+          "text": "introduction",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "介绍；序言；采用"
+          },
+          "phonetic": "ˌɪntrəˈdəkʃən"
+        },
+        {
+          "text": "Journey to the",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "西游记》"
+          },
+          "phonetic": "ˈʤərni tɪ ðə"
+        },
+        {
+          "text": "Harry Potter and the",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˈhɛri ˈpɑtər ənd ðə"
+        },
+        {
+          "text": "Stone",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "哈利 • 波特与魔法石》"
+          },
+          "phonetic": "stoʊn"
+        },
+        {
+          "text": "The Time",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "时间机器》"
+          },
+          "phonetic": "ðə taɪm"
+        },
+        {
+          "text": "The Final",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最后一案》"
+          },
+          "phonetic": "ðə ˈfaɪnəl"
+        },
+        {
+          "text": "The Problem",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "三体》"
+          },
+          "phonetic": "ðə ˈprɑbləm"
+        },
+        {
+          "text": "Around the World in Eighty Days",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《八十天环游世界》"
+          },
+          "phonetic": "əraʊnd ðə wərld ɪn ˈeɪti deɪz"
+        },
+        {
+          "text": "Sherlock Holmes",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "夏洛克•福尔摩斯"
+          },
+          "phonetic": "ˈʃərˌlɑk hoʊmz"
+        },
+        {
+          "text": "The Romance of the",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ðə ˈroʊmæns əv ðə"
+        },
+        {
+          "text": "Three Kingdoms",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《三国演义》"
+          },
+          "phonetic": "θri ˈkɪŋdəmz"
+        },
+        {
+          "text": "Oliver Twist",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《雾都孤儿》"
+          },
+          "phonetic": "ˈɑlɪvər twɪst"
+        },
+        {
+          "text": "Charles Dickens",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "查尔斯•狄更斯"
+          },
+          "phonetic": "ˈʧɑrəlz ˈdɪkənz"
+        },
+        {
+          "text": "Alice's Adventures in Wonderland",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/'wAndalzend/《爱丽丝梦游仙境》"
+          },
+          "phonetic": "ˈælɪsəz ædˈvɛnʧərz ɪn ˈwəndərˌlænd"
+        },
+        {
+          "text": "Lewis Carroll",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "刘易斯•卡罗尔"
+          },
+          "phonetic": "luɪs ˈkɛrəl"
+        },
+        {
+          "text": "The Adventures of Tom Sawyer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/'so:jo（r）/《汤姆•索亚历险记》"
+          },
+          "phonetic": "ðə ædˈvɛnʧərz əv tɑm ˈsɔjər"
+        },
+        {
+          "text": "The Little",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "小王子》"
+          },
+          "phonetic": "ðə ˈlɪtəl"
+        },
+        {
+          "text": "The Little Match Girl",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《卖火柴的小女孩》"
+          },
+          "phonetic": "ðə ˈlɪtəl mæʧ gərl"
+        },
+        {
+          "text": "Outlaws of the Marsh",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《水浒传》"
+          },
+          "phonetic": "ˈaʊˌtlɔz əv ðə mɑrʃ"
+        },
+        {
+          "text": "My Childhood",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "童年》"
+          },
+          "phonetic": "maɪ ˈʧaɪlˌdhʊd"
+        },
+        {
+          "text": "The Wonderful Wizard",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ðə ˈwəndərfəl ˈwɪzərd"
+        },
+        {
+          "text": "Oz",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "绿野仙踪》"
+          },
+          "phonetic": "ɑz"
+        },
+        {
+          "text": "A Dream of Red Mansions",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "《红楼梦》"
+          },
+          "phonetic": "ə drim əv rɛd ˈmænʧənz"
+        },
+        {
+          "text": "Treasure",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "金银岛》"
+          },
+          "phonetic": "ˈtrɛʒər"
+        },
+        {
+          "text": "Red Star over",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "红星照耀中国》"
+          },
+          "phonetic": "rɛd stɑr ˈoʊvər"
+        },
+        {
+          "text": "The Secret",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "秘密花园》"
+          },
+          "phonetic": "ðə ˈsikrɪt"
+        },
+        {
+          "text": "Frances Hodgson",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˈfrænsɪs ˈhɑʤsən"
+        },
+        {
+          "text": "Burnett",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "弗朗西斯•霍奇森•伯内特"
+          },
+          "phonetic": "bərˈnɛt"
+        },
+        {
+          "text": "Lennox",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "伦诺克斯"
+          },
+          "phonetic": "ˈlɛnəks"
+        },
+        {
+          "text": "Craven",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "克雷文"
+          },
+          "phonetic": "ˈkreɪvən"
+        },
+        {
+          "text": "Dickon",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "迪康"
+          },
+          "phonetic": "dickon*"
+        },
+        {
+          "text": "Colin",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "科林"
+          },
+          "phonetic": "ˈkoʊlɪn"
+        },
+        {
+          "text": "The Old Man and the",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "老人与海》"
+          },
+          "phonetic": "ðə oʊld mæn ənd ðə"
+        },
+        {
+          "text": "Ernest Hemingway",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "欧内斯特•海明威"
+          },
+          "phonetic": "ˈərnɪst ˈhɛmɪŋˌweɪ"
+        },
+        {
+          "text": "Pulitzer r Prize",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "普利策奖"
+          },
+          "phonetic": "ˈpʊlətsər ɑr praɪz"
+        }
+      ]
+    },
+    {
+      "id": "unit-8",
+      "name": "Unit 8",
+      "order": 8,
+      "words": [
+        {
+          "text": "make a difference",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "有（重要）作用"
+          },
+          "phonetic": "meɪk ə ˈdɪfərəns"
+        },
+        {
+          "text": "visitor",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "参观者；来访者"
+          },
+          "phonetic": "ˈvɪzɪtər"
+        },
+        {
+          "text": "elderly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "年纪较大的；上了年纪的实际的"
+          },
+          "phonetic": "ˈɛldərli"
+        },
+        {
+          "text": "the elderly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "老人；上了年纪的人"
+          },
+          "phonetic": "ðə ˈɛldərli"
+        },
+        {
+          "text": "organization",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "救生的（=organisation）7.组织；团体；"
+          },
+          "phonetic": "ˌɔrgənəˈzeɪʃən"
+        },
+        {
+          "text": "teamwork",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "团队合作机构"
+          },
+          "phonetic": "ˈtimˌwərk"
+        },
+        {
+          "text": "stadium",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "体育馆；运动场有成就的"
+          },
+          "phonetic": "ˈsteɪdiəm"
+        },
+        {
+          "text": "provide",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "提供；给予"
+          },
+          "phonetic": "prəˈvaɪd"
+        },
+        {
+          "text": "most of all",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "最主要的是"
+          },
+          "phonetic": "moʊst əv ɔl"
+        },
+        {
+          "text": "owner",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "主人；物主"
+          },
+          "phonetic": "ˈoʊnər"
+        },
+        {
+          "text": "value",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "重要作用；价值"
+          },
+          "phonetic": "ˈvælju"
+        },
+        {
+          "text": "cage",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "笼子"
+          },
+          "phonetic": "keɪʤ"
+        },
+        {
+          "text": "voluntary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自愿的；"
+          },
+          "phonetic": "ˈvɑləntɛri"
+        },
+        {
+          "text": "donation",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "捐赠物；捐赠无偿的"
+          },
+          "phonetic": "doʊˈneɪʃən"
+        },
+        {
+          "text": "interviewer",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "面试官；"
+          },
+          "phonetic": "ˈɪntərvˌjuər"
+        },
+        {
+          "text": "ordinary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "平凡的；采访者普通的"
+          },
+          "phonetic": "ˈɔrdəˌnɛri"
+        },
+        {
+          "text": "shelter",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "庇护所；居所"
+          },
+          "phonetic": "ˈʃɛltər"
+        },
+        {
+          "text": "worth",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "值得；有价值"
+          },
+          "phonetic": "wərθ"
+        },
+        {
+          "text": "youth",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "青年；青年时期"
+          },
+          "phonetic": "juθ"
+        },
+        {
+          "text": "audience",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "听众；观众"
+          },
+          "phonetic": "ˈɔdiəns"
+        },
+        {
+          "text": "active",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "活跃的；积极的"
+          },
+          "phonetic": "ˈæktɪv"
+        },
+        {
+          "text": "willing",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "乐意的；愿意的"
+          },
+          "phonetic": "ˈwɪlɪŋ"
+        },
+        {
+          "text": "come along",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "赶快；跟着来"
+          },
+          "phonetic": "kəm əˈlɔŋ"
+        },
+        {
+          "text": "on the go",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "忙碌的"
+          },
+          "phonetic": "ɔn ðə goʊ"
+        },
+        {
+          "text": "army",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "军队"
+          },
+          "phonetic": "ˈɑrmi"
+        },
+        {
+          "text": "in need",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "处于贫困中；生活困难"
+          },
+          "phonetic": "ɪn nid"
+        },
+        {
+          "text": "primary",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "小学教育的；"
+          },
+          "phonetic": "ˈpraɪˌmɛri"
+        },
+        {
+          "text": "success",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "成功首要的"
+          },
+          "phonetic": "səkˈsɛs"
+        },
+        {
+          "text": "elder",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "尤指家庭中两个"
+          },
+          "phonetic": "ˈɛldər"
+        },
+        {
+          "text": "help out",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分担工作；帮忙做成员）年龄较长的"
+          },
+          "phonetic": "hɛlp aʊt"
+        },
+        {
+          "text": "charity",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "慈善机构"
+          },
+          "phonetic": "ˈʧɛrɪti"
+        },
+        {
+          "text": "donate",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "捐赠；赠送（或组织）；慈善事业"
+          },
+          "phonetic": "ˈdoʊˌneɪt"
+        },
+        {
+          "text": "pocket",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "口袋"
+          },
+          "phonetic": "ˈpɑkət"
+        },
+        {
+          "text": "warmly",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "热情地；温暖地"
+          },
+          "phonetic": "ˈwɔrmli"
+        },
+        {
+          "text": "effort",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "努力；艰难的尝试"
+          },
+          "phonetic": "ˈɛfərt"
+        },
+        {
+          "text": "lady",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "女士；淑女"
+          },
+          "phonetic": "ˈleɪdi"
+        },
+        {
+          "text": "hand out",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "分发"
+          },
+          "phonetic": "hænd aʊt"
+        },
+        {
+          "text": "familiar with",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "通晓；熟悉"
+          },
+          "phonetic": "fəˈmɪljər wɪθ"
+        },
+        {
+          "text": "talent",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "才能；天赋；天才先生；君子"
+          },
+          "phonetic": "ˈtælənt"
+        },
+        {
+          "text": "madam",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "正式、礼貌的"
+          },
+          "phonetic": "ˈmædəm"
+        },
+        {
+          "text": "bark",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "狗）吠叫n. 狗叫声称呼）女士；夫人"
+          },
+          "phonetic": "bɑrk"
+        },
+        {
+          "text": "sign up",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "报名"
+          },
+          "phonetic": "saɪn əp"
+        },
+        {
+          "text": "advertisement",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "ˌædvərˈtaɪzmənt"
+        },
+        {
+          "text": "ever since",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "自从；自•⋯以后"
+          },
+          "phonetic": "ˈɛvər sɪns"
+        },
+        {
+          "text": "adult",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "成年人广告；启事成年的；成熟的"
+          },
+          "phonetic": "ˈædəlt"
+        },
+        {
+          "text": "Robert",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "罗伯特"
+          },
+          "phonetic": "ˈrɑbərt"
+        },
+        {
+          "text": "practical",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "实用的；"
+          },
+          "phonetic": "ˈpræktɪkəl"
+        },
+        {
+          "text": "Rose",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "罗斯；罗丝"
+          },
+          "phonetic": "roʊz"
+        },
+        {
+          "text": "United Nations Peacekeeping",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "/'pi:ski:pu/联合国维和部队"
+          },
+          "phonetic": "juˈnaɪtɪd ˈneɪʃənz ˈpiˌskipɪŋ"
+        },
+        {
+          "text": "Argentina",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "阿根廷"
+          },
+          "phonetic": "ˌɑrʤənˈtinə"
+        },
+        {
+          "text": "Blue Sky Rescue",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "蓝天救援队"
+          },
+          "phonetic": "blu skaɪ ˈrɛskju"
+        },
+        {
+          "text": "Philijppines",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": "菲律宾"
+          },
+          "phonetic": "philijppines*"
+        },
+        {
+          "text": "Vocabulary in Earh nit",
+          "is_bold": false,
+          "translations": {
+            "zh-CN": ""
+          },
+          "phonetic": "voʊˈkæbjəˌlɛri ɪn earh* nɪt"
+        }
+      ]
+    }
+  ]
+}
