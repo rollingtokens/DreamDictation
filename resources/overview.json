@@ -237,6 +237,47 @@
                       "path": "zh_CN/English/高中/高考/高考词汇.json"
                     }
                   ]
+                },
+                {
+                  "id": "人教版",
+                  "displayName": "人教版",
+                  "books": [
+                    {
+                      "id": "必修一",
+                      "displayName": "必修第一册（2019新）",
+                      "path": "zh_CN/English/高中/人教版/必修第一册.json"
+                    },
+                    {
+                      "id": "必修二",
+                      "displayName": "必修第二册（2019新）",
+                      "path": "zh_CN/English/高中/人教版/必修第二册.json"
+                    },
+                    {
+                      "id": "必修三",
+                      "displayName": "必修第三册（2019新）",
+                      "path": "zh_CN/English/高中/人教版/必修第三册.json"
+                    },
+                    {
+                      "id": "选必一",
+                      "displayName": "选择性必修第一册",
+                      "path": "zh_CN/English/高中/人教版/选择性必修第一册.json"
+                    },
+                    {
+                      "id": "选必二",
+                      "displayName": "选择性必修第二册",
+                      "path": "zh_CN/English/高中/人教版/选择性必修第二册.json"
+                    },
+                    {
+                      "id": "选必三",
+                      "displayName": "选择性必修第三册",
+                      "path": "zh_CN/English/高中/人教版/选择性必修第三册.json"
+                    },
+                    {
+                      "id": "选必四",
+                      "displayName": "选择性必修第四册",
+                      "path": "zh_CN/English/高中/人教版/选择性必修第四册.json"
+                    }
+                  ]
                 }
               ]
             }
