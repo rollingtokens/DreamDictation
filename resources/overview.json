@@ -174,6 +174,40 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "初中",
+              "displayName": "初中",
+              "publishers": [
+                {
+                  "id": "中考",
+                  "displayName": "中考英语",
+                  "books": [
+                    {
+                      "id": "中考词汇",
+                      "displayName": "中考词汇（全量）",
+                      "path": "zh_CN/English/初中/中考/中考词汇.json"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "高中",
+              "displayName": "高中",
+              "publishers": [
+                {
+                  "id": "高考",
+                  "displayName": "高考英语",
+                  "books": [
+                    {
+                      "id": "高考词汇",
+                      "displayName": "高考词汇（全量）",
+                      "path": "zh_CN/English/高中/高考/高考词汇.json"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
