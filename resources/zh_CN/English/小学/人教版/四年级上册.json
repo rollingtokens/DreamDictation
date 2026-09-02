@@ -8,154 +8,173 @@
         {
           "text": "PE",
           "is_bold": false,
+          "phonetic": "pe*",
+          "example": "We have PE class today.",
           "translations": {
             "zh-CN": "体育（课）"
-          },
-          "phonetic": "pe*"
+          }
         },
         {
           "text": "job",
           "is_bold": false,
+          "phonetic": "ʤɑb",
+          "example": "My dad has a new job.",
           "translations": {
             "zh-CN": "工作；职业"
-          },
-          "phonetic": "ʤɑb"
+          }
         },
         {
           "text": "doctor",
           "is_bold": true,
+          "phonetic": "ˈdɔktər",
+          "example": "A doctor helps the boy.",
           "translations": {
             "zh-CN": "医生"
-          },
-          "phonetic": "ˈdɔktər"
+          }
         },
         {
           "text": "farmer",
           "is_bold": true,
+          "phonetic": "ˈfɑrmər",
+          "example": "My uncle is a farmer.",
           "translations": {
             "zh-CN": "农场主；农民"
-          },
-          "phonetic": "ˈfɑrmər"
+          }
         },
         {
           "text": "nurse",
           "is_bold": true,
+          "phonetic": "nərs",
+          "example": "The nurse helps baby.",
           "translations": {
             "zh-CN": "护士"
-          },
-          "phonetic": "nərs"
+          }
         },
         {
           "text": "office worker",
           "is_bold": true,
+          "phonetic": "ˈɔfəs ˈwərkər",
+          "example": "My uncle is an office worker.",
           "translations": {
             "zh-CN": "公司职员"
-          },
-          "phonetic": "ˈɔfəs ˈwərkər"
+          }
         },
         {
           "text": "factory worker",
           "is_bold": true,
+          "phonetic": "ˈfæktəri ˈwərkər",
+          "example": "The factory worker makes toys.",
           "translations": {
             "zh-CN": "工厂工人"
-          },
-          "phonetic": "ˈfæktəri ˈwərkər"
+          }
         },
         {
           "text": "busy",
           "is_bold": false,
+          "phonetic": "ˈbɪzi",
+          "example": "My mom is very busy today.",
           "translations": {
             "zh-CN": "忙碌的"
-          },
-          "phonetic": "ˈbɪzi"
+          }
         },
         {
           "text": "tired",
           "is_bold": false,
+          "phonetic": "taɪərd",
+          "example": "I am tired after play.",
           "translations": {
             "zh-CN": "疲倦的"
-          },
-          "phonetic": "taɪərd"
+          }
         },
         {
           "text": "chore",
           "is_bold": false,
+          "phonetic": "ʧɔr",
+          "example": "Sweeping is a small chore.",
           "translations": {
             "zh-CN": "家庭杂务"
-          },
-          "phonetic": "ʧɔr"
+          }
         },
         {
           "text": "cook",
           "is_bold": false,
+          "phonetic": "kʊk",
+          "example": "Mom will cook dinner.",
           "translations": {
             "zh-CN": "烹饪；煮"
-          },
-          "phonetic": "kʊk"
+          }
         },
         {
           "text": "clean",
           "is_bold": false,
+          "phonetic": "klin",
+          "example": "My desk is clean now.",
           "translations": {
             "zh-CN": "打扫；干净的"
-          },
-          "phonetic": "klin"
+          }
         },
         {
           "text": "room",
           "is_bold": false,
+          "phonetic": "rum",
+          "example": "My room has a blue bed.",
           "translations": {
             "zh-CN": "房间"
-          },
-          "phonetic": "rum"
+          }
         },
         {
           "text": "look after",
           "is_bold": false,
+          "phonetic": "lʊk ˈæftər",
+          "example": "Can you look after my dog?",
           "translations": {
             "zh-CN": "照顾"
-          },
-          "phonetic": "lʊk ˈæftər"
+          }
         },
         {
           "text": "sweep",
           "is_bold": false,
+          "phonetic": "swip",
+          "example": "Sweep the floor with a broom.",
           "translations": {
             "zh-CN": "扫"
-          },
-          "phonetic": "swip"
+          }
         },
         {
           "text": "floor",
           "is_bold": false,
+          "phonetic": "flɔr",
+          "example": "We walk on the floor.",
           "translations": {
             "zh-CN": "地板；地面"
-          },
-          "phonetic": "flɔr"
+          }
         },
         {
           "text": "together",
           "is_bold": false,
+          "phonetic": "təˈgɛðər",
+          "example": "We play together now.",
           "translations": {
             "zh-CN": "在一起；共同"
-          },
-          "phonetic": "təˈgɛðər"
+          }
         },
         {
           "text": "people",
           "is_bold": false,
+          "phonetic": "ˈpipəl",
+          "example": "Many people like school.",
           "translations": {
             "zh-CN": "人；人们"
-          },
-          "phonetic": "ˈpipəl"
+          }
         },
         {
           "text": "child",
           "is_bold": false,
+          "phonetic": "ʧaɪld",
+          "example": "A child plays ball.",
           "translations": {
             "zh-CN": "儿童；小孩"
-          },
-          "phonetic": "ʧaɪld"
+          }
         }
       ]
     },
@@ -167,114 +186,128 @@
         {
           "text": "his",
           "is_bold": false,
+          "phonetic": "hɪz",
+          "example": "This is his red pencil case.",
           "translations": {
             "zh-CN": "他的"
-          },
-          "phonetic": "hɪz"
+          }
         },
         {
           "text": "strong",
           "is_bold": true,
+          "phonetic": "strɔŋ",
+          "example": "He is a strong boy.",
           "translations": {
             "zh-CN": "强壮的"
-          },
-          "phonetic": "strɔŋ"
+          }
         },
         {
           "text": "hair",
           "is_bold": true,
+          "phonetic": "hɛr",
+          "example": "She has long black hair.",
           "translations": {
             "zh-CN": "头发"
-          },
-          "phonetic": "hɛr"
+          }
         },
         {
           "text": "also",
           "is_bold": false,
+          "phonetic": "ˈɔlsoʊ",
+          "example": "My dog can run also.",
           "translations": {
             "zh-CN": "也"
-          },
-          "phonetic": "ˈɔlsoʊ"
+          }
         },
         {
           "text": "kind",
           "is_bold": true,
+          "phonetic": "kaɪnd",
+          "example": "She is a kind girl.",
           "translations": {
             "zh-CN": "友好的"
-          },
-          "phonetic": "kaɪnd"
+          }
         },
         {
           "text": "quiet",
           "is_bold": true,
+          "phonetic": "kwaɪət",
+          "example": "The room is so quiet.",
           "translations": {
             "zh-CN": "文静的"
-          },
-          "phonetic": "kwaɪət"
+          }
         },
         {
           "text": "best",
           "is_bold": false,
+          "phonetic": "bɛst",
+          "example": "This is my best friend.",
           "translations": {
             "zh-CN": "最好的"
-          },
-          "phonetic": "bɛst"
+          }
         },
         {
           "text": "read",
           "is_bold": true,
+          "phonetic": "rɛd",
+          "example": "I read a book.",
           "translations": {
             "zh-CN": "阅读"
-          },
-          "phonetic": "rɛd"
+          }
         },
         {
           "text": "Chinese",
           "is_bold": false,
+          "phonetic": "ʧaɪˈniz",
+          "example": "She speaks Chinese well.",
           "translations": {
             "zh-CN": "中文；中国人；中国的"
-          },
-          "phonetic": "ʧaɪˈniz"
+          }
         },
         {
           "text": "play",
           "is_bold": true,
+          "phonetic": "pleɪ",
+          "example": "They play ball outside.",
           "translations": {
             "zh-CN": "玩耍"
-          },
-          "phonetic": "pleɪ"
+          }
         },
         {
           "text": "game",
           "is_bold": true,
+          "phonetic": "geɪm",
+          "example": "Play a fun game now.",
           "translations": {
             "zh-CN": "游戏"
-          },
-          "phonetic": "geɪm"
+          }
         },
         {
           "text": "football",
           "is_bold": true,
+          "phonetic": "ˈfʊtˌbɔl",
+          "example": "He likes to play football.",
           "translations": {
             "zh-CN": "足球运动"
-          },
-          "phonetic": "ˈfʊtˌbɔl"
+          }
         },
         {
           "text": "basketball",
           "is_bold": false,
+          "phonetic": "ˈbæskətˌbɔl",
+          "example": "My friend likes basketball game.",
           "translations": {
             "zh-CN": "篮球运动"
-          },
-          "phonetic": "ˈbæskətˌbɔl"
+          }
         },
         {
           "text": "always",
           "is_bold": false,
+          "phonetic": "ˈɔlˌweɪz",
+          "example": "The sun shines always bright.",
           "translations": {
             "zh-CN": "总是"
-          },
-          "phonetic": "ˈɔlˌweɪz"
+          }
         }
       ]
     },
@@ -286,146 +319,164 @@
         {
           "text": "afternoon",
           "is_bold": false,
+          "phonetic": "ˌæftərˈnun",
+          "example": "We play games in the afternoon.",
           "translations": {
             "zh-CN": "下午"
-          },
-          "phonetic": "ˌæftərˈnun"
+          }
         },
         {
           "text": "there",
           "is_bold": false,
+          "phonetic": "ðɛr",
+          "example": "Look there, the dog runs.",
           "translations": {
             "zh-CN": "（表示存在或发生）；在那里"
-          },
-          "phonetic": "ðɛr"
+          }
         },
         {
           "text": "playground",
           "is_bold": true,
+          "phonetic": "ˈpleɪˌgraʊnd",
+          "example": "Go to the playground now.",
           "translations": {
             "zh-CN": "游乐场；操场"
-          },
-          "phonetic": "ˈpleɪˌgraʊnd"
+          }
         },
         {
           "text": "park",
           "is_bold": true,
+          "phonetic": "pɑrk",
+          "example": "We play in the park.",
           "translations": {
             "zh-CN": "公园"
-          },
-          "phonetic": "pɑrk"
+          }
         },
         {
           "text": "over",
           "is_bold": false,
+          "phonetic": "ˈoʊvər",
+          "example": "The ball went over the wall.",
           "translations": {
             "zh-CN": "在……的远端（或对面）"
-          },
-          "phonetic": "ˈoʊvər"
+          }
         },
         {
           "text": "hospital",
           "is_bold": false,
+          "phonetic": "ˈhɑˌspɪtəl",
+          "example": "We go to the hospital.",
           "translations": {
             "zh-CN": "医院"
-          },
-          "phonetic": "ˈhɑˌspɪtəl"
+          }
         },
         {
           "text": "shop",
           "is_bold": false,
+          "phonetic": "ʃɑp",
+          "example": "Go to big shop now.",
           "translations": {
             "zh-CN": "商店"
-          },
-          "phonetic": "ʃɑp"
+          }
         },
         {
           "text": "toilet",
           "is_bold": false,
+          "phonetic": "ˈtɔɪlət",
+          "example": "Go to the toilet.",
           "translations": {
             "zh-CN": "厕所；卫生间"
-          },
-          "phonetic": "ˈtɔɪlət"
+          }
         },
         {
           "text": "bus stop",
           "is_bold": true,
+          "phonetic": "bəs stɑp",
+          "example": "The bus stop is near school.",
           "translations": {
             "zh-CN": "公共汽车站"
-          },
-          "phonetic": "bəs stɑp"
+          }
         },
         {
           "text": "library",
           "is_bold": false,
+          "phonetic": "ˈlaɪbrɛˌri",
+          "example": "Go to the school library.",
           "translations": {
             "zh-CN": "图书馆"
-          },
-          "phonetic": "ˈlaɪbrɛˌri"
+          }
         },
         {
           "text": "sport",
           "is_bold": false,
+          "phonetic": "spɔrt",
+          "example": "Play ball as sport.",
           "translations": {
             "zh-CN": "体育运动"
-          },
-          "phonetic": "spɔrt"
+          }
         },
         {
           "text": "walk",
           "is_bold": false,
+          "phonetic": "wɔk",
+          "example": "We walk to the park.",
           "translations": {
             "zh-CN": "散步；行走"
-          },
-          "phonetic": "wɔk"
+          }
         },
         {
           "text": "community",
           "is_bold": false,
+          "phonetic": "kəmˈjunɪti",
+          "example": "Our school is one community.",
           "translations": {
             "zh-CN": "社区"
-          },
-          "phonetic": "kəmˈjunɪti"
+          }
         },
         {
           "text": "favourite",
           "is_bold": false,
+          "phonetic": "ˈfeɪvərɪt",
+          "example": "This apple is my favourite.",
           "translations": {
             "zh-CN": "最喜欢的"
-          },
-          "phonetic": "ˈfeɪvərɪt"
+          }
         },
         {
           "text": "place",
           "is_bold": false,
+          "phonetic": "pleɪs",
+          "example": "Put the book in place.",
           "translations": {
             "zh-CN": "地方；场所"
-          },
-          "phonetic": "pleɪs"
+          }
         },
         {
           "text": "photo",
           "is_bold": false,
+          "phonetic": "ˈfoʊˌtoʊ",
+          "example": "Look at this photo.",
           "translations": {
             "zh-CN": "照片"
-          },
-          "phonetic": "ˈfoʊˌtoʊ"
+          }
         },
         {
           "text": "story",
           "is_bold": false,
+          "phonetic": "ˈstɔri",
+          "example": "Tell me a story.",
           "translations": {
             "zh-CN": "故事"
-          },
-          "phonetic": "ˈstɔri"
+          }
         },
         {
           "text": "buy",
           "is_bold": false,
+          "phonetic": "baɪ",
+          "example": "Mom will buy a book.",
           "translations": {
             "zh-CN": "购买"
-          },
-          "phonetic": "baɪ"
+          }
         }
       ]
     },
@@ -437,114 +488,128 @@
         {
           "text": "firefighter",
           "is_bold": false,
+          "phonetic": "ˈfaɪrˌfaɪtər",
+          "example": "The firefighter is brave.",
           "translations": {
             "zh-CN": "消防队员"
-          },
-          "phonetic": "ˈfaɪrˌfaɪtər"
+          }
         },
         {
           "text": "why",
           "is_bold": false,
+          "phonetic": "waɪ",
+          "example": "Why are you happy.",
           "translations": {
             "zh-CN": "为什么"
-          },
-          "phonetic": "waɪ"
+          }
         },
         {
           "text": "driver",
           "is_bold": false,
+          "phonetic": "ˈdraɪvər",
+          "example": "The driver is very fast.",
           "translations": {
             "zh-CN": "司机"
-          },
-          "phonetic": "ˈdraɪvər"
+          }
         },
         {
           "text": "cleaner",
           "is_bold": true,
+          "phonetic": "ˈklinər",
+          "example": "The cleaner washes the floor.",
           "translations": {
             "zh-CN": "清洁工"
-          },
-          "phonetic": "ˈklinər"
+          }
         },
         {
           "text": "cook",
           "is_bold": false,
+          "phonetic": "kʊk",
+          "example": "Mom will cook dinner.",
           "translations": {
             "zh-CN": "厨师"
-          },
-          "phonetic": "kʊk"
+          }
         },
         {
           "text": "delivery worker",
           "is_bold": true,
+          "phonetic": "dɪˈlɪvəri ˈwərkər",
+          "example": "A delivery worker brings food.",
           "translations": {
             "zh-CN": "快递员"
-          },
-          "phonetic": "dɪˈlɪvəri ˈwərkər"
+          }
         },
         {
           "text": "police officer",
           "is_bold": true,
+          "phonetic": "pəˈlis ˈɔfɪsər",
+          "example": "The police officer helps us.",
           "translations": {
             "zh-CN": "警察；警员"
-          },
-          "phonetic": "pəˈlis ˈɔfɪsər"
+          }
         },
         {
           "text": "a lot of",
           "is_bold": false,
+          "phonetic": "ə lɔt əv",
+          "example": "There are a lot of flowers.",
           "translations": {
             "zh-CN": "大量；许多"
-          },
-          "phonetic": "ə lɔt əv"
+          }
         },
         {
           "text": "now",
           "is_bold": false,
+          "phonetic": "naʊ",
+          "example": "We play now games.",
           "translations": {
             "zh-CN": "现在"
-          },
-          "phonetic": "naʊ"
+          }
         },
         {
           "text": "make the bed",
           "is_bold": false,
+          "phonetic": "meɪk ðə bɛd",
+          "example": "Please make the bed now.",
           "translations": {
             "zh-CN": "铺床"
-          },
-          "phonetic": "meɪk ðə bɛd"
+          }
         },
         {
           "text": "old",
           "is_bold": false,
+          "phonetic": "oʊld",
+          "example": "My grandpa is old.",
           "translations": {
             "zh-CN": "过去的；年纪大的；老的"
-          },
-          "phonetic": "oʊld"
+          }
         },
         {
           "text": "tell",
           "is_bold": false,
+          "phonetic": "tɛl",
+          "example": "Tell me your name now.",
           "translations": {
             "zh-CN": "讲述；告诉"
-          },
-          "phonetic": "tɛl"
+          }
         },
         {
           "text": "everyone",
           "is_bold": false,
+          "phonetic": "ˈɛvriˌwən",
+          "example": "Everyone can play games.",
           "translations": {
             "zh-CN": "每人"
-          },
-          "phonetic": "ˈɛvriˌwən"
+          }
         },
         {
           "text": "Ms",
           "is_bold": false,
+          "phonetic": "mɪz",
+          "example": "Ms Wang reads a book.",
           "translations": {
             "zh-CN": "（用于女子的姓氏或姓名前，不指明婚否）女士"
-          },
-          "phonetic": "mɪz"
+          }
         }
       ]
     },
@@ -556,194 +621,218 @@
         {
           "text": "speak",
           "is_bold": false,
+          "phonetic": "spik",
+          "example": "Can you speak louder now?",
           "translations": {
             "zh-CN": "说话；发言"
-          },
-          "phonetic": "spik"
+          }
         },
         {
           "text": "weather",
           "is_bold": false,
+          "phonetic": "ˈwɛðər",
+          "example": "The weather is very nice.",
           "translations": {
             "zh-CN": "天气"
-          },
-          "phonetic": "ˈwɛðər"
+          }
         },
         {
           "text": "sunny",
           "is_bold": false,
+          "phonetic": "ˈsəni",
+          "example": "It is a sunny morning.",
           "translations": {
             "zh-CN": "阳光充足的"
-          },
-          "phonetic": "ˈsəni"
+          }
         },
         {
           "text": "hot",
           "is_bold": true,
+          "phonetic": "hɑt",
+          "example": "The soup is hot.",
           "translations": {
             "zh-CN": "热的"
-          },
-          "phonetic": "hɑt"
+          }
         },
         {
           "text": "bad",
           "is_bold": false,
+          "phonetic": "bæd",
+          "example": "The weather is very bad today.",
           "translations": {
             "zh-CN": "令人不快的；坏的"
-          },
-          "phonetic": "bæd"
+          }
         },
         {
           "text": "cold",
           "is_bold": true,
+          "phonetic": "koʊld",
+          "example": "It is very cold today.",
           "translations": {
             "zh-CN": "冷的"
-          },
-          "phonetic": "koʊld"
+          }
         },
         {
           "text": "windy",
           "is_bold": false,
+          "phonetic": "ˈwɪndi",
+          "example": "The day is very windy.",
           "translations": {
             "zh-CN": "多风的"
-          },
-          "phonetic": "ˈwɪndi"
+          }
         },
         {
           "text": "cloudy",
           "is_bold": true,
+          "phonetic": "ˈklaʊdi",
+          "example": "Today is a cloudy day.",
           "translations": {
             "zh-CN": "多云的"
-          },
-          "phonetic": "ˈklaʊdi"
+          }
         },
         {
           "text": "rainy",
           "is_bold": false,
+          "phonetic": "ˈreɪni",
+          "example": "Today is a rainy day.",
           "translations": {
             "zh-CN": "阴雨的"
-          },
-          "phonetic": "ˈreɪni"
+          }
         },
         {
           "text": "snowy",
           "is_bold": false,
+          "phonetic": "snoʊi",
+          "example": "It is snowy today.",
           "translations": {
             "zh-CN": "多雪的"
-          },
-          "phonetic": "snoʊi"
+          }
         },
         {
           "text": "cool",
           "is_bold": false,
+          "phonetic": "kul",
+          "example": "The weather feels cool.",
           "translations": {
             "zh-CN": "凉爽的"
-          },
-          "phonetic": "kul"
+          }
         },
         {
           "text": "warm",
           "is_bold": false,
+          "phonetic": "wɔrm",
+          "example": "The sun feels warm now.",
           "translations": {
             "zh-CN": "温暖的"
-          },
-          "phonetic": "wɔrm"
+          }
         },
         {
           "text": "tomorrow",
           "is_bold": false,
+          "phonetic": "təˈmɑˌroʊ",
+          "example": "See you tomorrow.",
           "translations": {
             "zh-CN": "在明天；明天"
-          },
-          "phonetic": "təˈmɑˌroʊ"
+          }
         },
         {
           "text": "rain",
           "is_bold": false,
+          "phonetic": "reɪn",
+          "example": "It will rain today.",
           "translations": {
             "zh-CN": "下雨；雨"
-          },
-          "phonetic": "reɪn"
+          }
         },
         {
           "text": "closed",
           "is_bold": false,
+          "phonetic": "kloʊzd",
+          "example": "The store is closed today.",
           "translations": {
             "zh-CN": "关闭的"
-          },
-          "phonetic": "kloʊzd"
+          }
         },
         {
           "text": "film",
           "is_bold": false,
+          "phonetic": "fɪlm",
+          "example": "We watch a fun film now.",
           "translations": {
             "zh-CN": "电影"
-          },
-          "phonetic": "fɪlm"
+          }
         },
         {
           "text": "idea",
           "is_bold": false,
+          "phonetic": "aɪˈdiə",
+          "example": "She has a good idea.",
           "translations": {
             "zh-CN": "想法；主意"
-          },
-          "phonetic": "aɪˈdiə"
+          }
         },
         {
           "text": "fly",
           "is_bold": false,
+          "phonetic": "flaɪ",
+          "example": "Birds can fly high.",
           "translations": {
             "zh-CN": "操纵（飞行器等）；飞"
-          },
-          "phonetic": "flaɪ"
+          }
         },
         {
           "text": "kite",
           "is_bold": false,
+          "phonetic": "kaɪt",
+          "example": "We fly a kite high.",
           "translations": {
             "zh-CN": "风筝"
-          },
-          "phonetic": "kaɪt"
+          }
         },
         {
           "text": "snowman",
           "is_bold": true,
+          "phonetic": "sˈnoʊˌmæn",
+          "example": "We made a snowman.",
           "translations": {
             "zh-CN": "雪人"
-          },
-          "phonetic": "sˈnoʊˌmæn"
+          }
         },
         {
           "text": "fun",
           "is_bold": false,
+          "phonetic": "fən",
+          "example": "This game is fun.",
           "translations": {
             "zh-CN": "享乐；乐趣"
-          },
-          "phonetic": "fən"
+          }
         },
         {
           "text": "their",
           "is_bold": false,
+          "phonetic": "ðɛr",
+          "example": "Their dog likes red balls.",
           "translations": {
             "zh-CN": "他（她、它）们的"
-          },
-          "phonetic": "ðɛr"
+          }
         },
         {
           "text": "swim",
           "is_bold": false,
+          "phonetic": "swɪm",
+          "example": "We like to swim in water.",
           "translations": {
             "zh-CN": "游泳"
-          },
-          "phonetic": "swɪm"
+          }
         },
         {
           "text": "Sydney",
           "is_bold": false,
+          "phonetic": "ˈsɪdni",
+          "example": "We saw Sydney today.",
           "translations": {
             "zh-CN": "悉尼"
-          },
-          "phonetic": "ˈsɪdni"
+          }
         }
       ]
     },
@@ -755,170 +844,191 @@
         {
           "text": "whose",
           "is_bold": false,
+          "phonetic": "huz",
+          "example": "Whose book is this.",
           "translations": {
             "zh-CN": "谁的"
-          },
-          "phonetic": "huz"
+          }
         },
         {
           "text": "sweater",
           "is_bold": true,
+          "phonetic": "sˈwɛtər",
+          "example": "Put on your warm sweater.",
           "translations": {
             "zh-CN": "毛衣"
-          },
-          "phonetic": "sˈwɛtər"
+          }
         },
         {
           "text": "sock",
           "is_bold": true,
+          "phonetic": "sɑk",
+          "example": "Put on your sock now.",
           "translations": {
             "zh-CN": "短袜"
-          },
-          "phonetic": "sɑk"
+          }
         },
         {
           "text": "mine",
           "is_bold": false,
+          "phonetic": "maɪn",
+          "example": "We see a mine there.",
           "translations": {
             "zh-CN": "我的"
-          },
-          "phonetic": "maɪn"
+          }
         },
         {
           "text": "wear",
           "is_bold": false,
+          "phonetic": "wɛr",
+          "example": "She wear a red dress.",
           "translations": {
             "zh-CN": "穿；戴"
-          },
-          "phonetic": "wɛr"
+          }
         },
         {
           "text": "shirt",
           "is_bold": true,
+          "phonetic": "ʃərt",
+          "example": "He wears a blue shirt.",
           "translations": {
             "zh-CN": "衬衫"
-          },
-          "phonetic": "ʃərt"
+          }
         },
         {
           "text": "coat",
           "is_bold": true,
+          "phonetic": "koʊt",
+          "example": "Put on your warm coat.",
           "translations": {
             "zh-CN": "大衣；外套"
-          },
-          "phonetic": "koʊt"
+          }
         },
         {
           "text": "dress",
           "is_bold": true,
+          "phonetic": "drɛs",
+          "example": "Wear your new dress.",
           "translations": {
             "zh-CN": "连衣裙"
-          },
-          "phonetic": "drɛs"
+          }
         },
         {
           "text": "which",
           "is_bold": false,
+          "phonetic": "wɪʧ",
+          "example": "Which color do you like.",
           "translations": {
             "zh-CN": "哪一个；哪些"
-          },
-          "phonetic": "wɪʧ"
+          }
         },
         {
           "text": "season",
           "is_bold": false,
+          "phonetic": "ˈsizən",
+          "example": "Summer is a warm season.",
           "translations": {
             "zh-CN": "季节"
-          },
-          "phonetic": "ˈsizən"
+          }
         },
         {
           "text": "winter",
           "is_bold": true,
+          "phonetic": "ˈwɪntər",
+          "example": "We love winter time.",
           "translations": {
             "zh-CN": "冬天"
-          },
-          "phonetic": "ˈwɪntər"
+          }
         },
         {
           "text": "snow",
           "is_bold": false,
+          "phonetic": "snoʊ",
+          "example": "Snow falls from the sky.",
           "translations": {
             "zh-CN": "下雪；雪"
-          },
-          "phonetic": "snoʊ"
+          }
         },
         {
           "text": "get together",
           "is_bold": false,
+          "phonetic": "gɪt təˈgɛðər",
+          "example": "We get together at school.",
           "translations": {
             "zh-CN": "聚会"
-          },
-          "phonetic": "gɪt təˈgɛðər"
+          }
         },
         {
           "text": "spring",
           "is_bold": false,
+          "phonetic": "spərɪŋ",
+          "example": "Spring flowers grow now.",
           "translations": {
             "zh-CN": "春天"
-          },
-          "phonetic": "spərɪŋ"
+          }
         },
         {
           "text": "summer",
           "is_bold": true,
+          "phonetic": "ˈsəmər",
+          "example": "Summer is hot and fun.",
           "translations": {
             "zh-CN": "夏天"
-          },
-          "phonetic": "ˈsəmər"
+          }
         },
         {
           "text": "autumn",
           "is_bold": true,
+          "phonetic": "ˈɔtəm",
+          "example": "Autumn leaves are red.",
           "translations": {
             "zh-CN": "秋天"
-          },
-          "phonetic": "ˈɔtəm"
+          }
         },
         {
           "text": "T-shirt",
           "is_bold": false,
+          "phonetic": "ˈtiˌsərt",
+          "example": "She wears a blue T-shirt.",
           "translations": {
             "zh-CN": "T恤衫"
-          },
-          "phonetic": "ˈtiˌsərt"
+          }
         },
         {
           "text": "fall",
           "is_bold": false,
+          "phonetic": "fɔl",
+          "example": "Leaves fall from trees.",
           "translations": {
             "zh-CN": "落下"
-          },
-          "phonetic": "fɔl"
+          }
         },
         {
           "text": "leaf",
           "is_bold": false,
+          "phonetic": "lif",
+          "example": "Green leaf falls down.",
           "translations": {
             "zh-CN": "叶"
-          },
-          "phonetic": "lif"
+          }
         },
         {
           "text": "glove",
           "is_bold": false,
+          "phonetic": "gləv",
+          "example": "Put on your red glove.",
           "translations": {
             "zh-CN": "手套"
-          },
-          "phonetic": "gləv"
+          }
         },
         {
           "text": "then",
           "is_bold": false,
+          "phonetic": "ðɛn",
+          "example": "We ate, then we played.",
           "translations": {
             "zh-CN": "然后；那时"
-          },
-          "phonetic": "ðɛn"
+          }
         }
       ]
     }

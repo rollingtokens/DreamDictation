@@ -7,60 +7,70 @@
       "words": [
         {
           "text": "month",
+          "example": "This month is sunny.",
           "translations": {
             "zh-CN": "一个月的时间；月份"
           }
         },
         {
           "text": "cute",
+          "example": "This cat is cute.",
           "translations": {
             "zh-CN": "可爱的"
           }
         },
         {
           "text": "pretty",
+          "example": "That flower is pretty.",
           "translations": {
             "zh-CN": "漂亮的"
           }
         },
         {
           "text": "handsome",
+          "example": "He is a handsome boy.",
           "translations": {
             "zh-CN": "英俊的；帅气的"
           }
         },
         {
           "text": "turtle",
+          "example": "The turtle swims fast.",
           "translations": {
             "zh-CN": "乌龟"
           }
         },
         {
           "text": "catch",
+          "example": "I can catch a ball.",
           "translations": {
             "zh-CN": "逮住；捕捉"
           }
         },
         {
           "text": "fly",
+          "example": "Birds can fly high.",
           "translations": {
             "zh-CN": "苍蝇"
           }
         },
         {
           "text": "grow up",
+          "example": "Birds will grow up strong.",
           "translations": {
             "zh-CN": "长大；成长"
           }
         },
         {
           "text": "junior high school",
+          "example": "He goes to junior high school.",
           "translations": {
             "zh-CN": "初级中学"
           }
         },
         {
           "text": "(be) born",
+          "example": "My dog was born today.",
           "translations": {
             "zh-CN": "出生"
           }
@@ -74,42 +84,49 @@
       "words": [
         {
           "text": "famous",
+          "example": "He is a famous singer.",
           "translations": {
             "zh-CN": "著名的；出名的"
           }
         },
         {
           "text": "during",
+          "example": "During class, we read books.",
           "translations": {
             "zh-CN": "在……期间"
           }
         },
         {
           "text": "spend",
+          "example": "We spend time with friends.",
           "translations": {
             "zh-CN": "度过"
           }
         },
         {
           "text": "everyone",
+          "example": "Everyone can play games.",
           "translations": {
             "zh-CN": "每个人；所有人"
           }
         },
         {
           "text": "countryside",
+          "example": "We like the countryside.",
           "translations": {
             "zh-CN": "乡村；农村"
           }
         },
         {
           "text": "pick",
+          "example": "Please pick one apple.",
           "translations": {
             "zh-CN": "采摘"
           }
         },
         {
           "text": "summer holiday",
+          "example": "We have summer holiday soon.",
           "translations": {
             "zh-CN": "暑假"
           }
@@ -123,84 +140,98 @@
       "words": [
         {
           "text": "healthy",
+          "example": "Apples are very healthy food.",
           "translations": {
             "zh-CN": "健康的；有益于健康的"
           }
         },
         {
           "text": "unhealthy",
+          "example": "Eating candy is unhealthy.",
           "translations": {
             "zh-CN": "不健康的；损害健康的"
           }
         },
         {
           "text": "hamburger",
+          "example": "I eat a hamburger today.",
           "translations": {
             "zh-CN": "汉堡包"
           }
         },
         {
           "text": "cola",
+          "example": "I like cold cola much.",
           "translations": {
             "zh-CN": "可乐"
           }
         },
         {
           "text": "yesterday",
+          "example": "We played yesterday morning.",
           "translations": {
             "zh-CN": "昨天"
           }
         },
         {
           "text": "fruit",
+          "example": "I eat red fruit.",
           "translations": {
             "zh-CN": "水果"
           }
         },
         {
           "text": "pie",
+          "example": "Eat sweet apple pie.",
           "translations": {
             "zh-CN": "馅饼"
           }
         },
         {
           "text": "pizza",
+          "example": "We like hot pizza.",
           "translations": {
             "zh-CN": "比萨饼"
           }
         },
         {
           "text": "sandwich",
+          "example": "I make a sandwich now.",
           "translations": {
             "zh-CN": "三明治"
           }
         },
         {
           "text": "vegetable",
+          "example": "Mom buys green vegetable.",
           "translations": {
             "zh-CN": "蔬菜"
           }
         },
         {
           "text": "chicken",
+          "example": "The chicken is small.",
           "translations": {
             "zh-CN": "鸡肉"
           }
         },
         {
           "text": "chocolate",
+          "example": "I like chocolate cake.",
           "translations": {
             "zh-CN": "巧克力"
           }
         },
         {
           "text": "a little",
+          "example": "Give me a little water.",
           "translations": {
             "zh-CN": "少量的"
           }
         },
         {
           "text": "fish and chips",
+          "example": "I eat fish and chips.",
           "translations": {
             "zh-CN": "炸鱼薯条"
           }
@@ -214,42 +245,49 @@
       "words": [
         {
           "text": "neighbour",
+          "example": "My neighbour has a cat.",
           "translations": {
             "zh-CN": "邻居"
           }
         },
         {
           "text": "son",
+          "example": "My son likes to run.",
           "translations": {
             "zh-CN": "儿子"
           }
         },
         {
           "text": "daughter",
+          "example": "My daughter likes apples.",
           "translations": {
             "zh-CN": "女儿"
           }
         },
         {
           "text": "noisy",
+          "example": "The class was very noisy.",
           "translations": {
             "zh-CN": "吵闹的"
           }
         },
         {
           "text": "owl",
+          "example": "The owl flies high.",
           "translations": {
             "zh-CN": "猫头鹰"
           }
         },
         {
           "text": "dig",
+          "example": "Let's dig a big hole.",
           "translations": {
             "zh-CN": "挖（土）；掘（洞）"
           }
         },
         {
           "text": "make noise",
+          "example": "Birds make noise now.",
           "translations": {
             "zh-CN": "制造噪音"
           }
@@ -263,90 +301,105 @@
       "words": [
         {
           "text": "thousand",
+          "example": "I saw a thousand birds.",
           "translations": {
             "zh-CN": "一千"
           }
         },
         {
           "text": "hundred",
+          "example": "One hundred apples are red.",
           "translations": {
             "zh-CN": "一百"
           }
         },
         {
           "text": "wild",
+          "example": "The wild dog ran fast.",
           "translations": {
             "zh-CN": "野生环境；野生的"
           }
         },
         {
           "text": "South China tiger",
+          "example": "See the South China tiger.",
           "translations": {
             "zh-CN": "华南虎"
           }
         },
         {
           "text": "blue whale",
+          "example": "A big blue whale swims.",
           "translations": {
             "zh-CN": "蓝鲸"
           }
         },
         {
           "text": "way",
+          "example": "Go this way home.",
           "translations": {
             "zh-CN": "路；方式；方法"
           }
         },
         {
           "text": "die",
+          "example": "The candle will die soon.",
           "translations": {
             "zh-CN": "死，死亡"
           }
         },
         {
           "text": "rhino",
+          "example": "The rhino eats green grass.",
           "translations": {
             "zh-CN": "犀牛"
           }
         },
         {
           "text": "learn",
+          "example": "We learn new words.",
           "translations": {
             "zh-CN": "学会；学习"
           }
         },
         {
           "text": "send",
+          "example": "Mom will send a letter.",
           "translations": {
             "zh-CN": "安排去；寄；送"
           }
         },
         {
           "text": "in danger",
+          "example": "Tigers are in danger now.",
           "translations": {
             "zh-CN": "面临危险"
           }
         },
         {
           "text": "in the past",
+          "example": "We played in the past.",
           "translations": {
             "zh-CN": "在过去"
           }
         },
         {
           "text": "take care of",
+          "example": "Mom takes care of baby.",
           "translations": {
             "zh-CN": "照顾，照料"
           }
         },
         {
           "text": "go for a walk",
+          "example": "We go for a walk now.",
           "translations": {
             "zh-CN": "去散步"
           }
         },
         {
           "text": "drive away",
+          "example": "Car will drive away fast.",
           "translations": {
             "zh-CN": "赶走"
           }
@@ -360,48 +413,56 @@
       "words": [
         {
           "text": "e-friend",
+          "example": "My e-friend is Tom.",
           "translations": {
             "zh-CN": "网友"
           }
         },
         {
           "text": "country",
+          "example": "China is a big country.",
           "translations": {
             "zh-CN": "国家"
           }
         },
         {
           "text": "other",
+          "example": "I like the other book.",
           "translations": {
             "zh-CN": "其他的"
           }
         },
         {
           "text": "team",
+          "example": "They play on a team.",
           "translations": {
             "zh-CN": "（游戏或运动的）队"
           }
         },
         {
           "text": "hobby",
+          "example": "Reading is my favorite hobby.",
           "translations": {
             "zh-CN": "业余爱好"
           }
         },
         {
           "text": "grade",
+          "example": "My grade is high.",
           "translations": {
             "zh-CN": "年级"
           }
         },
         {
           "text": "yourself",
+          "example": "Wash yourself now.",
           "translations": {
             "zh-CN": "你自己"
           }
         },
         {
           "text": "would like",
+          "example": "She would like an apple.",
           "translations": {
             "zh-CN": "（表示愿意、喜欢）"
           }
@@ -415,90 +476,105 @@
       "words": [
         {
           "text": "shall",
+          "example": "We shall go outside now.",
           "translations": {
             "zh-CN": "（表示提出或征求意见）"
           }
         },
         {
           "text": "princess",
+          "example": "The princess wears a crown.",
           "translations": {
             "zh-CN": "公主"
           }
         },
         {
           "text": "police",
+          "example": "The police help the town.",
           "translations": {
             "zh-CN": "警方；警察部门"
           }
         },
         {
           "text": "exciting",
+          "example": "The movie was exciting.",
           "translations": {
             "zh-CN": "令人激动的；使人兴奋的"
           }
         },
         {
           "text": "brave",
+          "example": "My dog is a brave friend.",
           "translations": {
             "zh-CN": "勇敢的"
           }
         },
         {
           "text": "policeman",
+          "example": "A policeman guards our park.",
           "translations": {
             "zh-CN": "警察(复数policemen)"
           }
         },
         {
           "text": "boring",
+          "example": "Math class is very boring.",
           "translations": {
             "zh-CN": "没趣的；令人厌倦的"
           }
         },
         {
           "text": "queen",
+          "example": "Queen wears a nice crown.",
           "translations": {
             "zh-CN": "王后"
           }
         },
         {
           "text": "mirror",
+          "example": "See your face in mirror.",
           "translations": {
             "zh-CN": "镜子"
           }
         },
         {
           "text": "fairest",
+          "example": "You are the fairest girl.",
           "translations": {
             "zh-CN": "最美丽的"
           }
         },
         {
           "text": "kill",
+          "example": "A snake can kill.",
           "translations": {
             "zh-CN": "杀死"
           }
         },
         {
           "text": "asleep",
+          "example": "The baby is fast asleep.",
           "translations": {
             "zh-CN": "睡着的"
           }
         },
         {
           "text": "next time",
+          "example": "Try again next time.",
           "translations": {
             "zh-CN": "下次"
           }
         },
         {
           "text": "once upon a time",
+          "example": "Once upon a time, lived a king.",
           "translations": {
             "zh-CN": "从前"
           }
         },
         {
           "text": "fall asleep",
+          "example": "The baby will fall asleep soon.",
           "translations": {
             "zh-CN": "睡着"
           }
@@ -512,72 +588,84 @@
       "words": [
         {
           "text": "bee",
+          "example": "The little bee flies high.",
           "translations": {
             "zh-CN": "蜜蜂"
           }
         },
         {
           "text": "insect",
+          "example": "A bee is a small insect.",
           "translations": {
             "zh-CN": "昆虫"
           }
         },
         {
           "text": "ant",
+          "example": "The small ant walks slow.",
           "translations": {
             "zh-CN": "蚂蚁"
           }
         },
         {
           "text": "anything",
+          "example": "Give me anything you want.",
           "translations": {
             "zh-CN": "任何东西"
           }
         },
         {
           "text": "kind",
+          "example": "She is a kind girl.",
           "translations": {
             "zh-CN": "种类"
           }
         },
         {
           "text": "finger",
+          "example": "Point your finger here.",
           "translations": {
             "zh-CN": "手指"
           }
         },
         {
           "text": "dancer",
+          "example": "She is a good dancer.",
           "translations": {
             "zh-CN": "跳舞者；舞蹈演员"
           }
         },
         {
           "text": "insect museum",
+          "example": "We like the insect museum.",
           "translations": {
             "zh-CN": "昆虫博物馆"
           }
         },
         {
           "text": "car museum",
+          "example": "Visit the car museum today.",
           "translations": {
             "zh-CN": "汽车博物馆"
           }
         },
         {
           "text": "model car",
+          "example": "Look at that model car.",
           "translations": {
             "zh-CN": "汽车模型"
           }
         },
         {
           "text": "science museum",
+          "example": "The science museum is big.",
           "translations": {
             "zh-CN": "科学博物馆"
           }
         },
         {
           "text": "many kinds of",
+          "example": "Many kinds of fruit are sweet.",
           "translations": {
             "zh-CN": "各种各样的"
           }
@@ -591,72 +679,84 @@
       "words": [
         {
           "text": "capital",
+          "example": "Beijing is China's capital city.",
           "translations": {
             "zh-CN": "首都"
           }
         },
         {
           "text": "north",
+          "example": "The north is cold now.",
           "translations": {
             "zh-CN": "北；北部"
           }
         },
         {
           "text": "east",
+          "example": "We go east today.",
           "translations": {
             "zh-CN": "东；东部"
           }
         },
         {
           "text": "west",
+          "example": "The sun sets in the west.",
           "translations": {
             "zh-CN": "西；西部"
           }
         },
         {
           "text": "south",
+          "example": "Birds fly to the south.",
           "translations": {
             "zh-CN": "南；南部"
           }
         },
         {
           "text": "palace",
+          "example": "The palace is very big.",
           "translations": {
             "zh-CN": "王宫；宫殿"
           }
         },
         {
           "text": "most",
+          "example": "She has most toys.",
           "translations": {
             "zh-CN": "大多数"
           }
         },
         {
           "text": "tourist",
+          "example": "Tourist sees big tower.",
           "translations": {
             "zh-CN": "游客"
           }
         },
         {
           "text": "building",
+          "example": "They are building a tall house.",
           "translations": {
             "zh-CN": "建筑物；楼房"
           }
         },
         {
           "text": "sushi",
+          "example": "She eats yummy sushi.",
           "translations": {
             "zh-CN": "寿司(日本食物)"
           }
         },
         {
           "text": "in the north of",
+          "example": "The park is in the north of school.",
           "translations": {
             "zh-CN": "在……北部"
           }
         },
         {
           "text": "in the east of",
+          "example": "My house is in the east of town.",
           "translations": {
             "zh-CN": "在……东部"
           }
@@ -670,78 +770,91 @@
       "words": [
         {
           "text": "air",
+          "example": "We breathe clean fresh air.",
           "translations": {
             "zh-CN": "空气"
           }
         },
         {
           "text": "everywhere",
+          "example": "Birds fly everywhere today.",
           "translations": {
             "zh-CN": "处处；到处"
           }
         },
         {
           "text": "alive",
+          "example": "The flower is alive now.",
           "translations": {
             "zh-CN": "活着的"
           }
         },
         {
           "text": "balloon",
+          "example": "The red balloon is big.",
           "translations": {
             "zh-CN": "气球"
           }
         },
         {
           "text": "factory",
+          "example": "The car is at the factory.",
           "translations": {
             "zh-CN": "工厂"
           }
         },
         {
           "text": "smoke",
+          "example": "The smoke smells sweet.",
           "translations": {
             "zh-CN": "烟"
           }
         },
         {
           "text": "dirty",
+          "example": "The floor is dirty.",
           "translations": {
             "zh-CN": "脏的"
           }
         },
         {
           "text": "clean",
+          "example": "My desk is clean now.",
           "translations": {
             "zh-CN": "干净的；洁净的"
           }
         },
         {
           "text": "hurt",
+          "example": "This fall will hurt my knee.",
           "translations": {
             "zh-CN": "感到痛"
           }
         },
         {
           "text": "fresh",
+          "example": "The air smells fresh.",
           "translations": {
             "zh-CN": "清新的"
           }
         },
         {
           "text": "plant",
+          "example": "We plant a small flower.",
           "translations": {
             "zh-CN": "种植"
           }
         },
         {
           "text": "keep ...alive",
+          "example": "Keep the small flower alive.",
           "translations": {
             "zh-CN": "让……活着"
           }
         },
         {
           "text": "plant trees",
+          "example": "Plant trees near the river.",
           "translations": {
             "zh-CN": "植树"
           }
@@ -755,42 +868,49 @@
       "words": [
         {
           "text": "wood",
+          "example": "We see wood in the park.",
           "translations": {
             "zh-CN": "木头；木材"
           }
         },
         {
           "text": "cool",
+          "example": "The weather feels cool.",
           "translations": {
             "zh-CN": "使变凉"
           }
         },
         {
           "text": "match",
+          "example": "Match the socks together.",
           "translations": {
             "zh-CN": "火柴"
           }
         },
         {
           "text": "miss",
+          "example": "Miss Lin is very kind.",
           "translations": {
             "zh-CN": "想念"
           }
         },
         {
           "text": "have to",
+          "example": "We have to go home now.",
           "translations": {
             "zh-CN": "不得不"
           }
         },
         {
           "text": "cut...down",
+          "example": "Cut the tree down fast.",
           "translations": {
             "zh-CN": "把……砍倒"
           }
         },
         {
           "text": "look for",
+          "example": "Look for my blue pen.",
           "translations": {
             "zh-CN": "寻找"
           }
@@ -804,84 +924,98 @@
       "words": [
         {
           "text": "Earth",
+          "example": "The earth is brown dirt.",
           "translations": {
             "zh-CN": "地球"
           }
         },
         {
           "text": "part",
+          "example": "This is a small part.",
           "translations": {
             "zh-CN": "地区；区域"
           }
         },
         {
           "text": "forest",
+          "example": "See the green forest.",
           "translations": {
             "zh-CN": "森林"
           }
         },
         {
           "text": "land",
+          "example": "We walk on the land.",
           "translations": {
             "zh-CN": "陆地"
           }
         },
         {
           "text": "ocean",
+          "example": "We see the blue ocean.",
           "translations": {
             "zh-CN": "海洋"
           }
         },
         {
           "text": "rubbish",
+          "example": "Throw the rubbish in bin.",
           "translations": {
             "zh-CN": "垃圾"
           }
         },
         {
           "text": "sick",
+          "example": "I feel sick now.",
           "translations": {
             "zh-CN": "生病的"
           }
         },
         {
           "text": "recycle",
+          "example": "We recycle plastic.",
           "translations": {
             "zh-CN": "回收利用；再利用"
           }
         },
         {
           "text": "glass",
+          "example": "The glass is very clear.",
           "translations": {
             "zh-CN": "玻璃制品；玻璃"
           }
         },
         {
           "text": "own",
+          "example": "This is my own book.",
           "translations": {
             "zh-CN": "自己的"
           }
         },
         {
           "text": "so many",
+          "example": "So many flowers bloom here.",
           "translations": {
             "zh-CN": "这么多"
           }
         },
         {
           "text": "pick up",
+          "example": "Pick up your blue ball.",
           "translations": {
             "zh-CN": "捡起；拾起"
           }
         },
         {
           "text": "shopping bag",
+          "example": "She has a shopping bag.",
           "translations": {
             "zh-CN": "购物袋"
           }
         },
         {
           "text": "plastic bag",
+          "example": "I see a plastic bag.",
           "translations": {
             "zh-CN": "塑料袋"
           }
@@ -962,138 +1096,161 @@
       "words": [
         {
           "text": "British Museum",
+          "example": "We go to British Museum.",
           "translations": {
             "zh-CN": "大英博物馆"
           }
         },
         {
           "text": "Big Ben",
+          "example": "Big Ben chimes for us.",
           "translations": {
             "zh-CN": "(英国)大本钟"
           }
         },
         {
           "text": "Tim",
+          "example": "Tim likes to play ball.",
           "translations": {
             "zh-CN": "蒂姆(男名)"
           }
         },
         {
           "text": "Judy",
+          "example": "Judy has a red ball.",
           "translations": {
             "zh-CN": "朱迪(女名)"
           }
         },
         {
           "text": "Bob",
+          "example": "Bob likes red ball.",
           "translations": {
             "zh-CN": "鲍勃(男名)"
           }
         },
         {
           "text": "Jane",
+          "example": "Jane eats an apple.",
           "translations": {
             "zh-CN": "简(女名)"
           }
         },
         {
           "text": "Kate",
+          "example": "Kate eats a big apple.",
           "translations": {
             "zh-CN": "凯特(女名)"
           }
         },
         {
           "text": "the Greens",
+          "example": "The Greens eat apples.",
           "translations": {
             "zh-CN": "格林一家"
           }
         },
         {
           "text": "Mike",
+          "example": "Mike likes to eat apples.",
           "translations": {
             "zh-CN": "迈克(男名)"
           }
         },
         {
           "text": "Nancy",
+          "example": "Nancy likes blue shoes.",
           "translations": {
             "zh-CN": "南希(女名)"
           }
         },
         {
           "text": "the Whites",
+          "example": "The Whites play games.",
           "translations": {
             "zh-CN": "怀特一家"
           }
         },
         {
           "text": "Joy",
+          "example": "She feels much joy.",
           "translations": {
             "zh-CN": "乔伊(女名)"
           }
         },
         {
           "text": "Elsa",
+          "example": "Elsa wears a blue dress.",
           "translations": {
             "zh-CN": "艾尔莎(女名)"
           }
         },
         {
           "text": "Amy Marks",
+          "example": "Amy Marks likes to read.",
           "translations": {
             "zh-CN": "艾米·马克斯(女名)"
           }
         },
         {
           "text": "Denis Smith",
+          "example": "Denis Smith plays with balls.",
           "translations": {
             "zh-CN": "丹尼斯·史密斯(男名)"
           }
         },
         {
           "text": "Gary Brown",
+          "example": "Gary Brown eats an apple.",
           "translations": {
             "zh-CN": "加里·布朗(男名)"
           }
         },
         {
           "text": "Charles",
+          "example": "Charles runs very fast.",
           "translations": {
             "zh-CN": "查尔斯(男名)"
           }
         },
         {
           "text": "Snow White",
+          "example": "Snow White is a sweet girl.",
           "translations": {
             "zh-CN": "《白雪公主》"
           }
         },
         {
           "text": "Louvre Museum",
+          "example": "We see Louvre Museum today.",
           "translations": {
             "zh-CN": "卢浮宫"
           }
         },
         {
           "text": "Paris",
+          "example": "We like Paris city.",
           "translations": {
             "zh-CN": "巴黎"
           }
         },
         {
           "text": "Tokyo",
+          "example": "Tokyo is a big city.",
           "translations": {
             "zh-CN": "东京"
           }
         },
         {
           "text": "Tree Planting Day",
+          "example": "It is Tree Planting Day soon.",
           "translations": {
             "zh-CN": "植树节"
           }
         },
         {
           "text": "National Tree Day",
+          "example": "Australia has National Tree Day.",
           "translations": {
             "zh-CN": "(澳大利亚)国家植树节"
           }

@@ -8,194 +8,218 @@
         {
           "text": "where",
           "is_bold": false,
+          "phonetic": "wɛr",
+          "example": "Where is the big park.",
           "translations": {
             "zh-CN": "在哪里；到哪里"
-          },
-          "phonetic": "wɛr"
+          }
         },
         {
           "text": "from",
           "is_bold": false,
+          "phonetic": "frəm",
+          "example": "Milk comes from the cow.",
           "translations": {
             "zh-CN": "（表示来源）来自，从......来"
-          },
-          "phonetic": "frəm"
+          }
         },
         {
           "text": "about",
           "is_bold": false,
+          "phonetic": "əˈbaʊt",
+          "example": "Tell me about my dog.",
           "translations": {
             "zh-CN": "关于；大约"
-          },
-          "phonetic": "əˈbaʊt"
+          }
         },
         {
           "text": "today",
           "is_bold": false,
+          "phonetic": "təˈdeɪ",
+          "example": "Today we learn English.",
           "translations": {
             "zh-CN": "今天"
-          },
-          "phonetic": "təˈdeɪ"
+          }
         },
         {
           "text": "teacher",
           "is_bold": true,
+          "phonetic": "ˈtiʧər",
+          "example": "My teacher is kind.",
           "translations": {
             "zh-CN": "教师"
-          },
-          "phonetic": "ˈtiʧər"
+          }
         },
         {
           "text": "student",
           "is_bold": true,
+          "phonetic": "ˈstudənt",
+          "example": "She is a good student.",
           "translations": {
             "zh-CN": "学生"
-          },
-          "phonetic": "ˈstudənt"
+          }
         },
         {
           "text": "after",
           "is_bold": false,
+          "phonetic": "ˈæftər",
+          "example": "After lunch, we play games.",
           "translations": {
             "zh-CN": "在......后面"
-          },
-          "phonetic": "ˈæftər"
+          }
         },
         {
           "text": "who",
           "is_bold": false,
+          "phonetic": "hu",
+          "example": "Who is your friend.",
           "translations": {
             "zh-CN": "谁；什么人"
-          },
-          "phonetic": "hu"
+          }
         },
         {
           "text": "girl",
           "is_bold": true,
+          "phonetic": "gərl",
+          "example": "A girl runs fast.",
           "translations": {
             "zh-CN": "女孩"
-          },
-          "phonetic": "gərl"
+          }
         },
         {
           "text": "neighbour",
           "is_bold": false,
+          "phonetic": "ˈneɪbər",
+          "example": "My neighbour has a cat.",
           "translations": {
             "zh-CN": "邻居"
-          },
-          "phonetic": "ˈneɪbər"
+          }
         },
         {
           "text": "boy",
           "is_bold": true,
+          "phonetic": "bɔɪ",
+          "example": "The little boy runs fast.",
           "translations": {
             "zh-CN": "男孩"
-          },
-          "phonetic": "bɔɪ"
+          }
         },
         {
           "text": "woman",
           "is_bold": true,
+          "phonetic": "ˈwʊmən",
+          "example": "She is a kind woman.",
           "translations": {
             "zh-CN": "成年女子；妇女"
-          },
-          "phonetic": "ˈwʊmən"
+          }
         },
         {
           "text": "man",
           "is_bold": true,
+          "phonetic": "mæn",
+          "example": "The man runs fast.",
           "translations": {
             "zh-CN": "成年男子；男人"
-          },
-          "phonetic": "mæn"
+          }
         },
         {
           "text": "Mr",
           "is_bold": false,
+          "phonetic": "ˈmɪstər",
+          "example": "Mr Wang has a book.",
           "translations": {
             "zh-CN": "（用于男子的姓氏或姓名前）先生"
-          },
-          "phonetic": "ˈmɪstər"
+          }
         },
         {
           "text": "classmate",
           "is_bold": false,
+          "phonetic": "ˈklæsˌmeɪt",
+          "example": "He is my best classmate.",
           "translations": {
             "zh-CN": "同班同学"
-          },
-          "phonetic": "ˈklæsˌmeɪt"
+          }
         },
         {
           "text": "he",
           "is_bold": false,
+          "phonetic": "hi",
+          "example": "He runs to the park.",
           "translations": {
             "zh-CN": "他"
-          },
-          "phonetic": "hi"
+          }
         },
         {
           "text": "also",
           "is_bold": false,
+          "phonetic": "ˈɔlsoʊ",
+          "example": "My dog can run also.",
           "translations": {
             "zh-CN": "也"
-          },
-          "phonetic": "ˈɔlsoʊ"
+          }
         },
         {
           "text": "English",
           "is_bold": false,
+          "phonetic": "ˈɪŋlɪʃ",
+          "example": "She likes English class.",
           "translations": {
             "zh-CN": "英语的；英语"
-          },
-          "phonetic": "ˈɪŋlɪʃ"
+          }
         },
         {
           "text": "she",
           "is_bold": false,
+          "phonetic": "ʃi",
+          "example": "She has a red ball.",
           "translations": {
             "zh-CN": "她"
-          },
-          "phonetic": "ʃi"
+          }
         },
         {
           "text": "very",
           "is_bold": false,
+          "phonetic": "ˈvɛri",
+          "example": "This apple is very sweet.",
           "translations": {
             "zh-CN": "很；非常；十分"
-          },
-          "phonetic": "ˈvɛri"
+          }
         },
         {
           "text": "UK",
           "is_bold": true,
+          "phonetic": "uk*",
+          "example": "He likes UK food.",
           "translations": {
             "zh-CN": "英国"
-          },
-          "phonetic": "uk*"
+          }
         },
         {
           "text": "China",
           "is_bold": true,
+          "phonetic": "ˈʧaɪnə",
+          "example": "China has tall walls.",
           "translations": {
             "zh-CN": "中国"
-          },
-          "phonetic": "ˈʧaɪnə"
+          }
         },
         {
           "text": "Canada",
           "is_bold": true,
+          "phonetic": "ˈkænədə",
+          "example": "My friend likes Canada snow.",
           "translations": {
             "zh-CN": "加拿大"
-          },
-          "phonetic": "ˈkænədə"
+          }
         },
         {
           "text": "USA",
           "is_bold": true,
+          "phonetic": "ˈjuˈɛˈseɪ",
+          "example": "I like the USA.",
           "translations": {
             "zh-CN": "美国"
-          },
-          "phonetic": "ˈjuˈɛˈseɪ"
+          }
         }
       ]
     },
@@ -207,194 +231,218 @@
         {
           "text": "has",
           "is_bold": false,
+          "phonetic": "həz",
+          "example": "The cat has soft fur.",
           "translations": {
             "zh-CN": "（have的第三人称单数形式）具有（某种外表、特性或特征）"
-          },
-          "phonetic": "həz"
+          }
         },
         {
           "text": "long",
           "is_bold": true,
+          "phonetic": "lɔŋ",
+          "example": "This road is very long.",
           "translations": {
             "zh-CN": "（长度或距离）长的"
-          },
-          "phonetic": "lɔŋ"
+          }
         },
         {
           "text": "body",
           "is_bold": false,
+          "phonetic": "ˈbɑdi",
+          "example": "My body feels very good.",
           "translations": {
             "zh-CN": "身体"
-          },
-          "phonetic": "ˈbɑdi"
+          }
         },
         {
           "text": "short",
           "is_bold": true,
+          "phonetic": "ʃɔrt",
+          "example": "The book is short.",
           "translations": {
             "zh-CN": "短的；个子矮的"
-          },
-          "phonetic": "ʃɔrt"
+          }
         },
         {
           "text": "leg",
           "is_bold": false,
+          "phonetic": "lɛg",
+          "example": "My short leg hurts.",
           "translations": {
             "zh-CN": "腿"
-          },
-          "phonetic": "lɛg"
+          }
         },
         {
           "text": "right",
           "is_bold": false,
+          "phonetic": "raɪt",
+          "example": "She knows the right answer.",
           "translations": {
             "zh-CN": "（意见或判断）准确，确切，恰当"
-          },
-          "phonetic": "raɪt"
+          }
         },
         {
           "text": "fat",
           "is_bold": true,
+          "phonetic": "fæt",
+          "example": "My dog is fat.",
           "translations": {
             "zh-CN": "肥的；肥胖的"
-          },
-          "phonetic": "fæt"
+          }
         },
         {
           "text": "thin",
           "is_bold": true,
+          "phonetic": "θɪn",
+          "example": "My arm is thin now.",
           "translations": {
             "zh-CN": "瘦的"
-          },
-          "phonetic": "θɪn"
+          }
         },
         {
           "text": "slow",
           "is_bold": true,
+          "phonetic": "sloʊ",
+          "example": "Walk slow to the park.",
           "translations": {
             "zh-CN": "缓慢的；慢的"
-          },
-          "phonetic": "sloʊ"
+          }
         },
         {
           "text": "love",
           "is_bold": false,
+          "phonetic": "ləv",
+          "example": "I love my mom.",
           "translations": {
             "zh-CN": "喜爱；爱"
-          },
-          "phonetic": "ləv"
+          }
         },
         {
           "text": "tail",
           "is_bold": false,
+          "phonetic": "teɪl",
+          "example": "Dog has a long tail.",
           "translations": {
             "zh-CN": "尾；尾巴"
-          },
-          "phonetic": "teɪl"
+          }
         },
         {
           "text": "her",
           "is_bold": false,
+          "phonetic": "hər",
+          "example": "Give the ball to her.",
           "translations": {
             "zh-CN": "她；她的"
-          },
-          "phonetic": "hər"
+          }
         },
         {
           "text": "gift",
           "is_bold": false,
+          "phonetic": "gɪft",
+          "example": "She has a nice gift.",
           "translations": {
             "zh-CN": "礼物"
-          },
-          "phonetic": "gɪft"
+          }
         },
         {
           "text": "picture",
           "is_bold": true,
+          "phonetic": "ˈpɪkʧər",
+          "example": "See the pretty picture.",
           "translations": {
             "zh-CN": "图画；绘画"
-          },
-          "phonetic": "ˈpɪkʧər"
+          }
         },
         {
           "text": "card",
           "is_bold": true,
+          "phonetic": "kɑrd",
+          "example": "Mom gave me a nice card.",
           "translations": {
             "zh-CN": "贺卡；慰问卡；卡片"
-          },
-          "phonetic": "kɑrd"
+          }
         },
         {
           "text": "sing",
           "is_bold": true,
+          "phonetic": "sɪŋ",
+          "example": "Birds sing sweet songs.",
           "translations": {
             "zh-CN": "唱（歌）；演唱"
-          },
-          "phonetic": "sɪŋ"
+          }
         },
         {
           "text": "dance",
           "is_bold": true,
+          "phonetic": "dæns",
+          "example": "We dance to music.",
           "translations": {
             "zh-CN": "跳舞"
-          },
-          "phonetic": "dæns"
+          }
         },
         {
           "text": "talk",
           "is_bold": false,
+          "phonetic": "tɔk",
+          "example": "We talk about new toys.",
           "translations": {
             "zh-CN": "说话；讲话；谈话"
-          },
-          "phonetic": "tɔk"
+          }
         },
         {
           "text": "face",
           "is_bold": false,
+          "phonetic": "feɪs",
+          "example": "She has a nice face.",
           "translations": {
             "zh-CN": "脸；面孔"
-          },
-          "phonetic": "feɪs"
+          }
         },
         {
           "text": "all",
           "is_bold": false,
+          "phonetic": "ɔl",
+          "example": "All students like this book.",
           "translations": {
             "zh-CN": "所有；全部"
-          },
-          "phonetic": "ɔl"
+          }
         },
         {
           "text": "song",
           "is_bold": false,
+          "phonetic": "sɔŋ",
+          "example": "She sings a sweet song.",
           "translations": {
             "zh-CN": "歌；歌曲"
-          },
-          "phonetic": "sɔŋ"
+          }
         },
         {
           "text": "or",
           "is_bold": false,
+          "phonetic": "ər",
+          "example": "Do you want tea or milk?",
           "translations": {
             "zh-CN": "或；或者；还是"
-          },
-          "phonetic": "ər"
+          }
         },
         {
           "text": "so",
           "is_bold": false,
+          "phonetic": "soʊ",
+          "example": "So, I like this book.",
           "translations": {
             "zh-CN": "（表示大小或数量）这么，那么"
-          },
-          "phonetic": "soʊ"
+          }
         },
         {
           "text": "much",
           "is_bold": false,
+          "phonetic": "məʧ",
+          "example": "I have much homework.",
           "translations": {
             "zh-CN": "许多；大量"
-          },
-          "phonetic": "məʧ"
+          }
         }
       ]
     },
@@ -406,162 +454,182 @@
         {
           "text": "eraser",
           "is_bold": false,
+          "phonetic": "ɪˈreɪsər",
+          "example": "I use an eraser on paper.",
           "translations": {
             "zh-CN": "橡皮"
-          },
-          "phonetic": "ɪˈreɪsər"
+          }
         },
         {
           "text": "find",
           "is_bold": false,
+          "phonetic": "faɪnd",
+          "example": "Find a blue pen.",
           "translations": {
             "zh-CN": "找到；找回"
-          },
-          "phonetic": "faɪnd"
+          }
         },
         {
           "text": "ruler",
           "is_bold": true,
+          "phonetic": "ˈrulər",
+          "example": "Use the ruler to draw.",
           "translations": {
             "zh-CN": "直尺"
-          },
-          "phonetic": "ˈrulər"
+          }
         },
         {
           "text": "pen",
           "is_bold": true,
+          "phonetic": "pɛn",
+          "example": "He uses his pen to write.",
           "translations": {
             "zh-CN": "钢笔"
-          },
-          "phonetic": "pɛn"
+          }
         },
         {
           "text": "pencil",
           "is_bold": true,
+          "phonetic": "ˈpɛnsəl",
+          "example": "She draws with a pencil.",
           "translations": {
             "zh-CN": "铅笔"
-          },
-          "phonetic": "ˈpɛnsəl"
+          }
         },
         {
           "text": "book",
           "is_bold": true,
+          "phonetic": "bʊk",
+          "example": "I read a big book.",
           "translations": {
             "zh-CN": "书；书籍"
-          },
-          "phonetic": "bʊk"
+          }
         },
         {
           "text": "bag",
           "is_bold": true,
+          "phonetic": "bæg",
+          "example": "Put book in my bag.",
           "translations": {
             "zh-CN": "包；袋"
-          },
-          "phonetic": "bæg"
+          }
         },
         {
           "text": "paper",
           "is_bold": true,
+          "phonetic": "ˈpeɪpər",
+          "example": "Write on the paper.",
           "translations": {
             "zh-CN": "纸"
-          },
-          "phonetic": "ˈpeɪpər"
+          }
         },
         {
           "text": "these",
           "is_bold": false,
+          "phonetic": "ðiz",
+          "example": "These apples are sweet.",
           "translations": {
             "zh-CN": "这些"
-          },
-          "phonetic": "ðiz"
+          }
         },
         {
           "text": "see",
           "is_bold": true,
+          "phonetic": "si",
+          "example": "Can you see the cat?",
           "translations": {
             "zh-CN": "看见"
-          },
-          "phonetic": "si"
+          }
         },
         {
           "text": "smell",
           "is_bold": true,
+          "phonetic": "smɛl",
+          "example": "This flower has good smell.",
           "translations": {
             "zh-CN": "闻（气味）"
-          },
-          "phonetic": "smɛl"
+          }
         },
         {
           "text": "taste",
           "is_bold": true,
+          "phonetic": "teɪst",
+          "example": "This fruit has sweet taste.",
           "translations": {
             "zh-CN": "尝（味道）"
-          },
-          "phonetic": "teɪst"
+          }
         },
         {
           "text": "hear",
           "is_bold": true,
+          "phonetic": "hir",
+          "example": "Can you hear my voice?",
           "translations": {
             "zh-CN": "听见；听到"
-          },
-          "phonetic": "hir"
+          }
         },
         {
           "text": "touch",
           "is_bold": true,
+          "phonetic": "təʧ",
+          "example": "Touch the green leaf.",
           "translations": {
             "zh-CN": "触摸；碰"
-          },
-          "phonetic": "təʧ"
+          }
         },
         {
           "text": "nose",
           "is_bold": false,
+          "phonetic": "noʊz",
+          "example": "His nose is red.",
           "translations": {
             "zh-CN": "鼻；鼻子"
-          },
-          "phonetic": "noʊz"
+          }
         },
         {
           "text": "tongue",
           "is_bold": false,
+          "phonetic": "təŋ",
+          "example": "My tongue is red.",
           "translations": {
             "zh-CN": "舌；舌头"
-          },
-          "phonetic": "təŋ"
+          }
         },
         {
           "text": "class",
           "is_bold": false,
+          "phonetic": "klæs",
+          "example": "My class is very good.",
           "translations": {
             "zh-CN": "课；班级"
-          },
-          "phonetic": "klæs"
+          }
         },
         {
           "text": "in class",
           "is_bold": false,
+          "phonetic": "ɪn klæs",
+          "example": "We learn in class.",
           "translations": {
             "zh-CN": "在课堂上"
-          },
-          "phonetic": "ɪn klæs"
+          }
         },
         {
           "text": "computer",
           "is_bold": false,
+          "phonetic": "kəmˈpjutər",
+          "example": "My computer works well.",
           "translations": {
             "zh-CN": "计算机；电脑"
-          },
-          "phonetic": "kəmˈpjutər"
+          }
         },
         {
           "text": "learn",
           "is_bold": false,
+          "phonetic": "lərn",
+          "example": "We learn new words.",
           "translations": {
             "zh-CN": "学；学习"
-          },
-          "phonetic": "lərn"
+          }
         }
       ]
     },
@@ -573,138 +641,155 @@
         {
           "text": "breakfast",
           "is_bold": false,
+          "phonetic": "ˈbrɛkfəst",
+          "example": "We eat breakfast at seven.",
           "translations": {
             "zh-CN": "早餐；早饭"
-          },
-          "phonetic": "ˈbrɛkfəst"
+          }
         },
         {
           "text": "time",
           "is_bold": false,
+          "phonetic": "taɪm",
+          "example": "What time is it?",
           "translations": {
             "zh-CN": "时间"
-          },
-          "phonetic": "taɪm"
+          }
         },
         {
           "text": "bread",
           "is_bold": true,
+          "phonetic": "brɛd",
+          "example": "Mom buys fresh bread today.",
           "translations": {
             "zh-CN": "面包"
-          },
-          "phonetic": "brɛd"
+          }
         },
         {
           "text": "egg",
           "is_bold": true,
+          "phonetic": "ɛg",
+          "example": "I eat one egg.",
           "translations": {
             "zh-CN": "（作食物用的）蛋；鸡蛋"
-          },
-          "phonetic": "ɛg"
+          }
         },
         {
           "text": "milk",
           "is_bold": true,
+          "phonetic": "mɪlk",
+          "example": "Drink cold milk now.",
           "translations": {
             "zh-CN": "（牛或羊等的）奶"
-          },
-          "phonetic": "mɪlk"
+          }
         },
         {
           "text": "noodle",
           "is_bold": true,
+          "phonetic": "ˈnudəl",
+          "example": "He eats a noodle every day.",
           "translations": {
             "zh-CN": "面条"
-          },
-          "phonetic": "ˈnudəl"
+          }
         },
         {
           "text": "juice",
           "is_bold": true,
+          "phonetic": "ʤus",
+          "example": "Drink sweet apple juice.",
           "translations": {
             "zh-CN": "果汁"
-          },
-          "phonetic": "ʤus"
+          }
         },
         {
           "text": "rice",
           "is_bold": true,
+          "phonetic": "raɪs",
+          "example": "I like white rice very much.",
           "translations": {
             "zh-CN": "大米"
-          },
-          "phonetic": "raɪs"
+          }
         },
         {
           "text": "meat",
           "is_bold": true,
+          "phonetic": "mit",
+          "example": "I eat red meat.",
           "translations": {
             "zh-CN": "肉"
-          },
-          "phonetic": "mit"
+          }
         },
         {
           "text": "vegetable",
           "is_bold": true,
+          "phonetic": "ˈvɛʤtəbəl",
+          "example": "Mom buys green vegetable.",
           "translations": {
             "zh-CN": "蔬菜"
-          },
-          "phonetic": "ˈvɛʤtəbəl"
+          }
         },
         {
           "text": "healthy",
           "is_bold": false,
+          "phonetic": "ˈhɛlθi",
+          "example": "Apples are very healthy food.",
           "translations": {
             "zh-CN": "健康的"
-          },
-          "phonetic": "ˈhɛlθi"
+          }
         },
         {
           "text": "plate",
           "is_bold": false,
+          "phonetic": "pleɪt",
+          "example": "Eat food on the plate.",
           "translations": {
             "zh-CN": "盘子"
-          },
-          "phonetic": "pleɪt"
+          }
         },
         {
           "text": "soup",
           "is_bold": true,
+          "phonetic": "sup",
+          "example": "Mom made hot soup.",
           "translations": {
             "zh-CN": "汤"
-          },
-          "phonetic": "sup"
+          }
         },
         {
           "text": "fruit",
           "is_bold": true,
+          "phonetic": "frut",
+          "example": "I eat red fruit.",
           "translations": {
             "zh-CN": "水果"
-          },
-          "phonetic": "frut"
+          }
         },
         {
           "text": "colourful",
           "is_bold": false,
+          "phonetic": "colourful*",
+          "example": "Flowers are very colourful.",
           "translations": {
             "zh-CN": "五彩缤纷的"
-          },
-          "phonetic": "colourful*"
+          }
         },
         {
           "text": "candy",
           "is_bold": false,
+          "phonetic": "ˈkændi",
+          "example": "I eat sweet candy now.",
           "translations": {
             "zh-CN": "糖果"
-          },
-          "phonetic": "ˈkændi"
+          }
         },
         {
           "text": "yummy",
           "is_bold": false,
+          "phonetic": "ˈjəmi",
+          "example": "Ice cream is yummy.",
           "translations": {
             "zh-CN": "很好吃的"
-          },
-          "phonetic": "ˈjəmi"
+          }
         }
       ]
     },
@@ -716,138 +801,155 @@
         {
           "text": "boat",
           "is_bold": true,
+          "phonetic": "boʊt",
+          "example": "We see a small boat.",
           "translations": {
             "zh-CN": "小船；舟"
-          },
-          "phonetic": "boʊt"
+          }
         },
         {
           "text": "cool",
           "is_bold": false,
+          "phonetic": "kul",
+          "example": "The weather feels cool.",
           "translations": {
             "zh-CN": "（因时髦、漂亮且与众不同而）酷的，绝妙的"
-          },
-          "phonetic": "kul"
+          }
         },
         {
           "text": "keep",
           "is_bold": false,
+          "phonetic": "kip",
+          "example": "Keep the small dog.",
           "translations": {
             "zh-CN": "保有；留着"
-          },
-          "phonetic": "kip"
+          }
         },
         {
           "text": "at",
           "is_bold": false,
+          "phonetic": "æt",
+          "example": "The cat is at the mat.",
           "translations": {
             "zh-CN": "在（某处）"
-          },
-          "phonetic": "æt"
+          }
         },
         {
           "text": "home",
           "is_bold": false,
+          "phonetic": "hoʊm",
+          "example": "I go home to my mom.",
           "translations": {
             "zh-CN": "家；住所"
-          },
-          "phonetic": "hoʊm"
+          }
         },
         {
           "text": "ball",
           "is_bold": true,
+          "phonetic": "bɔl",
+          "example": "Kick the red ball high.",
           "translations": {
             "zh-CN": "球"
-          },
-          "phonetic": "bɔl"
+          }
         },
         {
           "text": "doll",
           "is_bold": true,
+          "phonetic": "dɑl",
+          "example": "She plays with a doll.",
           "translations": {
             "zh-CN": "玩偶；玩具娃娃"
-          },
-          "phonetic": "dɑl"
+          }
         },
         {
           "text": "car",
           "is_bold": true,
+          "phonetic": "kɑr",
+          "example": "My dad drives a red car.",
           "translations": {
             "zh-CN": "小汽车；轿车"
-          },
-          "phonetic": "kɑr"
+          }
         },
         {
           "text": "on",
           "is_bold": true,
+          "phonetic": "ɔn",
+          "example": "The book is on the desk.",
           "translations": {
             "zh-CN": "（覆盖、附着）在......上"
-          },
-          "phonetic": "ɔn"
+          }
         },
         {
           "text": "shelf",
           "is_bold": false,
+          "phonetic": "ʃɛlf",
+          "example": "Put book on the shelf.",
           "translations": {
             "zh-CN": "架子"
-          },
-          "phonetic": "ʃɛlf"
+          }
         },
         {
           "text": "in",
           "is_bold": true,
+          "phonetic": "ɪn",
+          "example": "The cat is in the box.",
           "translations": {
             "zh-CN": "在......内；在......中"
-          },
-          "phonetic": "ɪn"
+          }
         },
         {
           "text": "box",
           "is_bold": false,
+          "phonetic": "bɑks",
+          "example": "Put book in my box.",
           "translations": {
             "zh-CN": "盒子"
-          },
-          "phonetic": "bɑks"
+          }
         },
         {
           "text": "cap",
           "is_bold": true,
+          "phonetic": "kæp",
+          "example": "Put on your blue cap.",
           "translations": {
             "zh-CN": "帽子"
-          },
-          "phonetic": "kæp"
+          }
         },
         {
           "text": "map",
           "is_bold": true,
+          "phonetic": "mæp",
+          "example": "Look at the map.",
           "translations": {
             "zh-CN": "地图"
-          },
-          "phonetic": "mæp"
+          }
         },
         {
           "text": "under",
           "is_bold": true,
+          "phonetic": "ˈəndər",
+          "example": "The cat is under table.",
           "translations": {
             "zh-CN": "在（或到、通过）......下面"
-          },
-          "phonetic": "ˈəndər"
+          }
         },
         {
           "text": "still",
           "is_bold": false,
+          "phonetic": "stɪl",
+          "example": "The water is still.",
           "translations": {
             "zh-CN": "还是；仍然"
-          },
-          "phonetic": "stɪl"
+          }
         },
         {
           "text": "put",
           "is_bold": false,
+          "phonetic": "pʊt",
+          "example": "Put the book on table.",
           "translations": {
             "zh-CN": "放；安置"
-          },
-          "phonetic": "pʊt"
+          }
         }
       ]
     },
@@ -859,106 +961,119 @@
         {
           "text": "fifteen",
           "is_bold": true,
+          "phonetic": "ˈfɪfˈtin",
+          "example": "Fifteen apples are on the table.",
           "translations": {
             "zh-CN": "十五"
-          },
-          "phonetic": "ˈfɪfˈtin"
+          }
         },
         {
           "text": "twelve",
           "is_bold": true,
+          "phonetic": "twɛlv",
+          "example": "I have twelve red pens.",
           "translations": {
             "zh-CN": "十二"
-          },
-          "phonetic": "twɛlv"
+          }
         },
         {
           "text": "fourteen",
           "is_bold": true,
+          "phonetic": "ˌfɔrˈtin",
+          "example": "Fourteen apples are on the table.",
           "translations": {
             "zh-CN": "十四"
-          },
-          "phonetic": "ˌfɔrˈtin"
+          }
         },
         {
           "text": "thirteen",
           "is_bold": true,
+          "phonetic": "ˈθərˈtin",
+          "example": "She is thirteen years old.",
           "translations": {
             "zh-CN": "十三"
-          },
-          "phonetic": "ˈθərˈtin"
+          }
         },
         {
           "text": "eleven",
           "is_bold": true,
+          "phonetic": "ˈilɛvən",
+          "example": "I have eleven red balls.",
           "translations": {
             "zh-CN": "十一"
-          },
-          "phonetic": "ˈilɛvən"
+          }
         },
         {
           "text": "twenty",
           "is_bold": true,
+          "phonetic": "tˈwɛnti",
+          "example": "I have twenty red pens.",
           "translations": {
             "zh-CN": "二十"
-          },
-          "phonetic": "tˈwɛnti"
+          }
         },
         {
           "text": "seventeen",
           "is_bold": true,
+          "phonetic": "ˈsɛvənˈtin",
+          "example": "He is seventeen years old.",
           "translations": {
             "zh-CN": "十七"
-          },
-          "phonetic": "ˈsɛvənˈtin"
+          }
         },
         {
           "text": "sixteen",
           "is_bold": true,
+          "phonetic": "ˈsɪkˈstin",
+          "example": "He is sixteen years old.",
           "translations": {
             "zh-CN": "十六"
-          },
-          "phonetic": "ˈsɪkˈstin"
+          }
         },
         {
           "text": "eighteen",
           "is_bold": true,
+          "phonetic": "ˈeɪˈtin",
+          "example": "He is eighteen years old.",
           "translations": {
             "zh-CN": "十八"
-          },
-          "phonetic": "ˈeɪˈtin"
+          }
         },
         {
           "text": "nineteen",
           "is_bold": true,
+          "phonetic": "ˈnaɪnˈtin",
+          "example": "She is nineteen years old.",
           "translations": {
             "zh-CN": "十九"
-          },
-          "phonetic": "ˈnaɪnˈtin"
+          }
         },
         {
           "text": "piggy bank",
           "is_bold": false,
+          "phonetic": "ˈpɪgi bæŋk",
+          "example": "Put coins in piggy bank.",
           "translations": {
             "zh-CN": "猪形储钱罐"
-          },
-          "phonetic": "ˈpɪgi bæŋk"
+          }
         },
         {
           "text": "pay",
           "is_bold": false,
+          "phonetic": "peɪ",
+          "example": "Mom will pay for milk.",
           "translations": {
             "zh-CN": "付费"
-          },
-          "phonetic": "peɪ"
+          }
         },
         {
           "text": "back",
           "is_bold": false,
+          "phonetic": "bæk",
+          "example": "The dog ran back to home.",
           "translations": {
             "zh-CN": "回到原处"
-          },
-          "phonetic": "bæk"
+          }
         }
       ]
     }

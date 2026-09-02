@@ -7,78 +7,91 @@
       "words": [
         {
           "text": "future",
+          "example": "We look to the future.",
           "translations": {
             "zh-CN": "将来；未来"
           }
         },
         {
           "text": "want",
+          "example": "I want a red apple.",
           "translations": {
             "zh-CN": "想要"
           }
         },
         {
           "text": "pilot",
+          "example": "The pilot flies the plane.",
           "translations": {
             "zh-CN": "飞行员"
           }
         },
         {
           "text": "teach",
+          "example": "The teacher teach math.",
           "translations": {
             "zh-CN": "教（课）"
           }
         },
         {
           "text": "cook",
+          "example": "Mom will cook dinner.",
           "translations": {
             "zh-CN": "厨师；烹饪"
           }
         },
         {
           "text": "taxi driver",
+          "example": "Taxi driver drives us home.",
           "translations": {
             "zh-CN": "出租车司机"
           }
         },
         {
           "text": "job",
+          "example": "My dad has a new job.",
           "translations": {
             "zh-CN": "工作；职业"
           }
         },
         {
           "text": "singer",
+          "example": "My sister is a singer.",
           "translations": {
             "zh-CN": "歌手"
           }
         },
         {
           "text": "fall",
+          "example": "Leaves fall from trees.",
           "translations": {
             "zh-CN": "掉落；落下"
           }
         },
         {
           "text": "lifeguard",
+          "example": "Lifeguard watches the pool.",
           "translations": {
             "zh-CN": "救生员"
           }
         },
         {
           "text": "save",
+          "example": "Please save the book.",
           "translations": {
             "zh-CN": "救；救助；节约"
           }
         },
         {
           "text": "become",
+          "example": "I want to become a doctor.",
           "translations": {
             "zh-CN": "变成；变得"
           }
         },
         {
           "text": "(be) good at",
+          "example": "He is good at drawing.",
           "translations": {
             "zh-CN": "擅长"
           }
@@ -92,102 +105,119 @@
       "words": [
         {
           "text": "by",
+          "example": "We walk by big trees.",
           "translations": {
             "zh-CN": "（表示方式）；靠近"
           }
         },
         {
           "text": "walk",
+          "example": "We walk to the park.",
           "translations": {
             "zh-CN": "走；步行"
           }
         },
         {
           "text": "Ms",
+          "example": "Ms Wang reads a book.",
           "translations": {
             "zh-CN": "女士"
           }
         },
         {
           "text": "journey",
+          "example": "We start a long journey.",
           "translations": {
             "zh-CN": "旅程，旅行"
           }
         },
         {
           "text": "primary school",
+          "example": "I go to primary school.",
           "translations": {
             "zh-CN": "小学"
           }
         },
         {
           "text": "underground",
+          "example": "The subway is underground.",
           "translations": {
             "zh-CN": "地铁"
           }
         },
         {
           "text": "station",
+          "example": "We wait at the station.",
           "translations": {
             "zh-CN": "车站"
           }
         },
         {
           "text": "take",
+          "example": "Please take this book.",
           "translations": {
             "zh-CN": "乘坐（交通工具）；带领"
           }
         },
         {
           "text": "after",
+          "example": "After lunch, we play games.",
           "translations": {
             "zh-CN": "在……后"
           }
         },
         {
           "text": "hour",
+          "example": "Study for one hour.",
           "translations": {
             "zh-CN": "小时"
           }
         },
         {
           "text": "bus stop",
+          "example": "The bus stop is near school.",
           "translations": {
             "zh-CN": "公共汽车站"
           }
         },
         {
           "text": "by bus",
+          "example": "We travel by bus home.",
           "translations": {
             "zh-CN": "乘公共汽车"
           }
         },
         {
           "text": "far from",
+          "example": "The park is far from here.",
           "translations": {
             "zh-CN": "离……远"
           }
         },
         {
           "text": "on foot",
+          "example": "We walk on foot to school.",
           "translations": {
             "zh-CN": "步行"
           }
         },
         {
           "text": "by bike",
+          "example": "He rides by bike fast.",
           "translations": {
             "zh-CN": "骑自行车"
           }
         },
         {
           "text": "by car",
+          "example": "They drive by car now.",
           "translations": {
             "zh-CN": "乘小汽车"
           }
         },
         {
           "text": "get off",
+          "example": "Get off the bus now.",
           "translations": {
             "zh-CN": "下车"
           }
@@ -201,54 +231,63 @@
       "words": [
         {
           "text": "party",
+          "example": "We go to a party.",
           "translations": {
             "zh-CN": "聚会"
           }
         },
         {
           "text": "when",
+          "example": "When is your birthday party.",
           "translations": {
             "zh-CN": "什么时候"
           }
         },
         {
           "text": "begin",
+          "example": "Let us begin our class.",
           "translations": {
             "zh-CN": "开始"
           }
         },
         {
           "text": "bring",
+          "example": "Please bring your blue pencil.",
           "translations": {
             "zh-CN": "带来"
           }
         },
         {
           "text": "thing",
+          "example": "This thing is red.",
           "translations": {
             "zh-CN": "东西；事物"
           }
         },
         {
           "text": "favourite",
+          "example": "This apple is my favourite.",
           "translations": {
             "zh-CN": "最喜欢的"
           }
         },
         {
           "text": "interesting",
+          "example": "This book is interesting to me.",
           "translations": {
             "zh-CN": "有趣的"
           }
         },
         {
           "text": "hat",
+          "example": "She wears a red hat.",
           "translations": {
             "zh-CN": "帽子"
           }
         },
         {
           "text": "have fun",
+          "example": "We have fun at park.",
           "translations": {
             "zh-CN": "尽情玩"
           }
@@ -262,48 +301,56 @@
       "words": [
         {
           "text": "usually",
+          "example": "He usually eats rice.",
           "translations": {
             "zh-CN": "通常"
           }
         },
         {
           "text": "often",
+          "example": "She often plays with toys.",
           "translations": {
             "zh-CN": "经常"
           }
         },
         {
           "text": "visit",
+          "example": "We visit my grandma today.",
           "translations": {
             "zh-CN": "看望；拜访；参观"
           }
         },
         {
           "text": "sometimes",
+          "example": "We sometimes play games.",
           "translations": {
             "zh-CN": "有时"
           }
         },
         {
           "text": "always",
+          "example": "The sun shines always bright.",
           "translations": {
             "zh-CN": "总是；一直"
           }
         },
         {
           "text": "never",
+          "example": "She will never cry now.",
           "translations": {
             "zh-CN": "从不"
           }
         },
         {
           "text": "play sport",
+          "example": "They play sport outside.",
           "translations": {
             "zh-CN": "做运动"
           }
         },
         {
           "text": "go shopping",
+          "example": "Let us go shopping now.",
           "translations": {
             "zh-CN": "去购物"
           }
@@ -317,108 +364,126 @@
       "words": [
         {
           "text": "clever",
+          "example": "She is a clever girl.",
           "translations": {
             "zh-CN": "聪明的"
           }
         },
         {
           "text": "same",
+          "example": "They wear same shoes.",
           "translations": {
             "zh-CN": "相同的"
           }
         },
         {
           "text": "class",
+          "example": "My class is very good.",
           "translations": {
             "zh-CN": "班；班级"
           }
         },
         {
           "text": "both",
+          "example": "Tom and Lily like both apples.",
           "translations": {
             "zh-CN": "（两个）都"
           }
         },
         {
           "text": "cross",
+          "example": "We made a cross shape.",
           "translations": {
             "zh-CN": "穿越；越过"
           }
         },
         {
           "text": "carry",
+          "example": "He can carry big book.",
           "translations": {
             "zh-CN": "背；提；拿"
           }
         },
         {
           "text": "heavy",
+          "example": "The box is very heavy.",
           "translations": {
             "zh-CN": "重的，沉的"
           }
         },
         {
           "text": "different",
+          "example": "We see different colored balls.",
           "translations": {
             "zh-CN": "不同的"
           }
         },
         {
           "text": "bored",
+          "example": "I am very bored today.",
           "translations": {
             "zh-CN": "无聊的"
           }
         },
         {
           "text": "word",
+          "example": "Say a nice word to sb.",
           "translations": {
             "zh-CN": "单词"
           }
         },
         {
           "text": "easy",
+          "example": "This test is easy.",
           "translations": {
             "zh-CN": "容易的"
           }
         },
         {
           "text": "say",
+          "example": "Mom will say hello.",
           "translations": {
             "zh-CN": "说"
           }
         },
         {
           "text": "then",
+          "example": "We ate, then we played.",
           "translations": {
             "zh-CN": "然后；那么"
           }
         },
         {
           "text": "ask",
+          "example": "I ask my mom a question.",
           "translations": {
             "zh-CN": "问"
           }
         },
         {
           "text": "answer",
+          "example": "Give me your good answer.",
           "translations": {
             "zh-CN": "回答"
           }
         },
         {
           "text": "soon",
+          "example": "We will eat soon.",
           "translations": {
             "zh-CN": "很快；不久"
           }
         },
         {
           "text": "each other",
+          "example": "Cats play with each other.",
           "translations": {
             "zh-CN": "互相"
           }
         },
         {
           "text": "make phone calls",
+          "example": "Mom makes phone calls often.",
           "translations": {
             "zh-CN": "打电话"
           }
@@ -432,96 +497,112 @@
       "words": [
         {
           "text": "life",
+          "example": "Life is very fun.",
           "translations": {
             "zh-CN": "生活"
           }
         },
         {
           "text": "living room",
+          "example": "We sit in the living room.",
           "translations": {
             "zh-CN": "客厅"
           }
         },
         {
           "text": "bedroom",
+          "example": "My dog sleeps in his bedroom.",
           "translations": {
             "zh-CN": "卧室"
           }
         },
         {
           "text": "model plane",
+          "example": "He has a model plane.",
           "translations": {
             "zh-CN": "飞机模型"
           }
         },
         {
           "text": "kitchen",
+          "example": "Mom cooks in the kitchen.",
           "translations": {
             "zh-CN": "厨房"
           }
         },
         {
           "text": "bathroom",
+          "example": "Wash hands in the bathroom.",
           "translations": {
             "zh-CN": "浴室；卫生间"
           }
         },
         {
           "text": "their",
+          "example": "Their dog likes red balls.",
           "translations": {
             "zh-CN": "他们的，她们的，它们的"
           }
         },
         {
           "text": "light",
+          "example": "The light is very bright.",
           "translations": {
             "zh-CN": "灯；光"
           }
         },
         {
           "text": "watch",
+          "example": "Watch the little cat.",
           "translations": {
             "zh-CN": "观看；观察"
           }
         },
         {
           "text": "TV",
+          "example": "Watch TV with my mom.",
           "translations": {
             "zh-CN": "电视，电视机"
           }
         },
         {
           "text": "before",
+          "example": "Eat rice before sleep.",
           "translations": {
             "zh-CN": "在……以前"
           }
         },
         {
           "text": "bedtime",
+          "example": "My bedtime is eight.",
           "translations": {
             "zh-CN": "就寝时间"
           }
         },
         {
           "text": "do...homework",
+          "example": "We do homework every day.",
           "translations": {
             "zh-CN": "做家庭作业"
           }
         },
         {
           "text": "turn off",
+          "example": "Turn off the big light.",
           "translations": {
             "zh-CN": "关掉"
           }
         },
         {
           "text": "watch TV",
+          "example": "Watch TV with my mom.",
           "translations": {
             "zh-CN": "看电视"
           }
         },
         {
           "text": "tell a story",
+          "example": "She tell a story.",
           "translations": {
             "zh-CN": "讲故事"
           }
@@ -535,72 +616,84 @@
       "words": [
         {
           "text": "beach",
+          "example": "We play on the beach.",
           "translations": {
             "zh-CN": "海滩"
           }
         },
         {
           "text": "enjoy",
+          "example": "We enjoy playing games.",
           "translations": {
             "zh-CN": "享受……的乐趣"
           }
         },
         {
           "text": "sunshine",
+          "example": "The sunshine is very bright.",
           "translations": {
             "zh-CN": "阳光"
           }
         },
         {
           "text": "collect",
+          "example": "Please collect these papers.",
           "translations": {
             "zh-CN": "收集"
           }
         },
         {
           "text": "shell",
+          "example": "The snail has a shell.",
           "translations": {
             "zh-CN": "贝壳"
           }
         },
         {
           "text": "sea",
+          "example": "The sea is very blue.",
           "translations": {
             "zh-CN": "海"
           }
         },
         {
           "text": "letter",
+          "example": "Write a letter to mom.",
           "translations": {
             "zh-CN": "信"
           }
         },
         {
           "text": "put",
+          "example": "Put the book on table.",
           "translations": {
             "zh-CN": "放；安置"
           }
         },
         {
           "text": "know",
+          "example": "I know my good friend.",
           "translations": {
             "zh-CN": "知道"
           }
         },
         {
           "text": "year",
+          "example": "She is a third year student.",
           "translations": {
             "zh-CN": "年岁；年"
           }
         },
         {
           "text": "on holiday",
+          "example": "They are on holiday now.",
           "translations": {
             "zh-CN": "度假"
           }
         },
         {
           "text": "have a good time",
+          "example": "You have a good time.",
           "translations": {
             "zh-CN": "玩得高兴"
           }
@@ -614,78 +707,91 @@
       "words": [
         {
           "text": "outing",
+          "example": "We have a fun outing.",
           "translations": {
             "zh-CN": "远足"
           }
         },
         {
           "text": "map",
+          "example": "Look at the map.",
           "translations": {
             "zh-CN": "地图"
           }
         },
         {
           "text": "hill",
+          "example": "We walk on the hill.",
           "translations": {
             "zh-CN": "小山"
           }
         },
         {
           "text": "find",
+          "example": "Find a blue pen.",
           "translations": {
             "zh-CN": "发现；找到"
           }
         },
         {
           "text": "diamond",
+          "example": "She wears a diamond ring.",
           "translations": {
             "zh-CN": "钻石"
           }
         },
         {
           "text": "another",
+          "example": "I see another red ball.",
           "translations": {
             "zh-CN": "另一个"
           }
         },
         {
           "text": "lake",
+          "example": "The lake is very blue.",
           "translations": {
             "zh-CN": "湖"
           }
         },
         {
           "text": "funny",
+          "example": "That cat is funny.",
           "translations": {
             "zh-CN": "滑稽的，好笑的"
           }
         },
         {
           "text": "hole",
+          "example": "The ball went in the hole.",
           "translations": {
             "zh-CN": "洞"
           }
         },
         {
           "text": "key",
+          "example": "Press the green key.",
           "translations": {
             "zh-CN": "钥匙"
           }
         },
         {
           "text": "think",
+          "example": "I think about school.",
           "translations": {
             "zh-CN": "想"
           }
         },
         {
           "text": "at the top of",
+          "example": "The bird is at the top of tree.",
           "translations": {
             "zh-CN": "在……顶部"
           }
         },
         {
           "text": "get through",
+          "example": "Can you get through this?",
           "translations": {
             "zh-CN": "通过"
           }
@@ -699,78 +805,91 @@
       "words": [
         {
           "text": "post office",
+          "example": "Go to the post office.",
           "translations": {
             "zh-CN": "邮局"
           }
         },
         {
           "text": "quite",
+          "example": "The apple is quite red.",
           "translations": {
             "zh-CN": "相当；十分"
           }
         },
         {
           "text": "along",
+          "example": "Walk along the green grass.",
           "translations": {
             "zh-CN": "沿着；顺着"
           }
         },
         {
           "text": "turn",
+          "example": "Turn left at the corner.",
           "translations": {
             "zh-CN": "转向；转弯"
           }
         },
         {
           "text": "left",
+          "example": "The book is left here.",
           "translations": {
             "zh-CN": "左边"
           }
         },
         {
           "text": "straight",
+          "example": "Draw a straight line.",
           "translations": {
             "zh-CN": "笔直地"
           }
         },
         {
           "text": "right",
+          "example": "She knows the right answer.",
           "translations": {
             "zh-CN": "右边；正确的"
           }
         },
         {
           "text": "between",
+          "example": "The cat sleeps between two chairs.",
           "translations": {
             "zh-CN": "在……中间"
           }
         },
         {
           "text": "flower shop",
+          "example": "The flower shop is near.",
           "translations": {
             "zh-CN": "花店"
           }
         },
         {
           "text": "hospital",
+          "example": "We go to the hospital.",
           "translations": {
             "zh-CN": "医院"
           }
         },
         {
           "text": "toy shop",
+          "example": "My toy shop has cars.",
           "translations": {
             "zh-CN": "玩具店"
           }
         },
         {
           "text": "road",
+          "example": "A road goes to school.",
           "translations": {
             "zh-CN": "路；马路"
           }
         },
         {
           "text": "get to",
+          "example": "We get to school early.",
           "translations": {
             "zh-CN": "到达"
           }
@@ -784,84 +903,98 @@
       "words": [
         {
           "text": "blow",
+          "example": "Wind makes a soft blow.",
           "translations": {
             "zh-CN": "刮，吹"
           }
         },
         {
           "text": "gently",
+          "example": "Pet touches the cat gently.",
           "translations": {
             "zh-CN": "和缓地；温柔地"
           }
         },
         {
           "text": "softly",
+          "example": "Bird sings very softly.",
           "translations": {
             "zh-CN": "轻柔地"
           }
         },
         {
           "text": "strongly",
+          "example": "Wind blows strongly now.",
           "translations": {
             "zh-CN": "强劲地"
           }
         },
         {
           "text": "happily",
+          "example": "They sing happily now.",
           "translations": {
             "zh-CN": "快乐地"
           }
         },
         {
           "text": "windmill",
+          "example": "See the big windmill there.",
           "translations": {
             "zh-CN": "风车"
           }
         },
         {
           "text": "move",
+          "example": "Please move the chair.",
           "translations": {
             "zh-CN": "（使）改变位置；移动"
           }
         },
         {
           "text": "slowly",
+          "example": "The snail moves slowly today.",
           "translations": {
             "zh-CN": "缓慢地"
           }
         },
         {
           "text": "quickly",
+          "example": "Run quickly to the door.",
           "translations": {
             "zh-CN": "快地；迅速地"
           }
         },
         {
           "text": "sound",
+          "example": "The bell makes a sound.",
           "translations": {
             "zh-CN": "声音；听起来好像"
           }
         },
         {
           "text": "wind-bell",
+          "example": "I hear the wind-bell ring.",
           "translations": {
             "zh-CN": "风铃"
           }
         },
         {
           "text": "cut",
+          "example": "The cut is on my arm.",
           "translations": {
             "zh-CN": "剪；砍；切"
           }
         },
         {
           "text": "paper",
+          "example": "Write on the paper.",
           "translations": {
             "zh-CN": "纸；纸张"
           }
         },
         {
           "text": "quiet",
+          "example": "The room is so quiet.",
           "translations": {
             "zh-CN": "轻声的，安静的"
           }
@@ -875,96 +1008,112 @@
       "words": [
         {
           "text": "tap",
+          "example": "Please tap the desk.",
           "translations": {
             "zh-CN": "水龙头"
           }
         },
         {
           "text": "use",
+          "example": "Can you use this pen?",
           "translations": {
             "zh-CN": "使用"
           }
         },
         {
           "text": "vegetable",
+          "example": "Mom buys green vegetable.",
           "translations": {
             "zh-CN": "蔬菜"
           }
         },
         {
           "text": "clothes",
+          "example": "He needs new clothes.",
           "translations": {
             "zh-CN": "衣服；服装"
           }
         },
         {
           "text": "farmer",
+          "example": "My uncle is a farmer.",
           "translations": {
             "zh-CN": "农民"
           }
         },
         {
           "text": "useful",
+          "example": "This book is very useful.",
           "translations": {
             "zh-CN": "有用的"
           }
         },
         {
           "text": "drop",
+          "example": "A drop of water fell.",
           "translations": {
             "zh-CN": "滴；水珠"
           }
         },
         {
           "text": "up",
+          "example": "The ball went up high.",
           "translations": {
             "zh-CN": "向上；在上面"
           }
         },
         {
           "text": "shine",
+          "example": "Sun will shine today.",
           "translations": {
             "zh-CN": "照耀"
           }
         },
         {
           "text": "over",
+          "example": "The ball went over the wall.",
           "translations": {
             "zh-CN": "在……上方"
           }
         },
         {
           "text": "mountain",
+          "example": "We see a big mountain.",
           "translations": {
             "zh-CN": "山，山脉"
           }
         },
         {
           "text": "tree",
+          "example": "Tree has big leaves.",
           "translations": {
             "zh-CN": "树"
           }
         },
         {
           "text": "ground",
+          "example": "The ball hits the ground.",
           "translations": {
             "zh-CN": "地面"
           }
         },
         {
           "text": "inside",
+          "example": "The cat is inside the box.",
           "translations": {
             "zh-CN": "在……里面"
           }
         },
         {
           "text": "grow crops",
+          "example": "We grow crops in the field.",
           "translations": {
             "zh-CN": "种庄稼"
           }
         },
         {
           "text": "put out fires",
+          "example": "Firemen put out fires fast.",
           "translations": {
             "zh-CN": "灭火"
           }
@@ -978,78 +1127,91 @@
       "words": [
         {
           "text": "fire",
+          "example": "See the bright fire.",
           "translations": {
             "zh-CN": "火；火灾"
           }
         },
         {
           "text": "burn",
+          "example": "The fire will burn the wood.",
           "translations": {
             "zh-CN": "燃烧；烧"
           }
         },
         {
           "text": "hurt",
+          "example": "This fall will hurt my knee.",
           "translations": {
             "zh-CN": "（使）受伤"
           }
         },
         {
           "text": "must",
+          "example": "You must finish homework.",
           "translations": {
             "zh-CN": "必须"
           }
         },
         {
           "text": "careful",
+          "example": "Be careful with my ball.",
           "translations": {
             "zh-CN": "小心的"
           }
         },
         {
           "text": "safety",
+          "example": "Helmet gives us safety.",
           "translations": {
             "zh-CN": "安全"
           }
         },
         {
           "text": "smoke",
+          "example": "The smoke smells sweet.",
           "translations": {
             "zh-CN": "吸烟"
           }
         },
         {
           "text": "match",
+          "example": "Match the socks together.",
           "translations": {
             "zh-CN": "火柴"
           }
         },
         {
           "text": "heat",
+          "example": "Sun gives much heat.",
           "translations": {
             "zh-CN": "热；高温"
           }
         },
         {
           "text": "hate",
+          "example": "We hate eating spinach.",
           "translations": {
             "zh-CN": "讨厌"
           }
         },
         {
           "text": "burn down",
+          "example": "The fire will burn down house.",
           "translations": {
             "zh-CN": "烧毁"
           }
         },
         {
           "text": "(be) careful with",
+          "example": "Be careful with the ball.",
           "translations": {
             "zh-CN": "当心……"
           }
         },
         {
           "text": "not...at all",
+          "example": "He is not happy at all.",
           "translations": {
             "zh-CN": "一点也不……"
           }
@@ -1166,126 +1328,147 @@
       "words": [
         {
           "text": "Smith",
+          "example": "Mr. Smith has a pen.",
           "translations": {
             "zh-CN": "史密斯（姓）"
           }
         },
         {
           "text": "Green",
+          "example": "Look at the green leaf.",
           "translations": {
             "zh-CN": "格林（姓）"
           }
         },
         {
           "text": "Jones",
+          "example": "Jones has a red pen.",
           "translations": {
             "zh-CN": "琼斯（姓）"
           }
         },
         {
           "text": "Billy",
+          "example": "Billy has a red hat.",
           "translations": {
             "zh-CN": "比利（男名）"
           }
         },
         {
           "text": "Mark",
+          "example": "Mark the correct answer.",
           "translations": {
             "zh-CN": "马克（男名）"
           }
         },
         {
           "text": "Lucy",
+          "example": "Lucy likes to play ball.",
           "translations": {
             "zh-CN": "露西（女名）"
           }
         },
         {
           "text": "Anna",
+          "example": "Anna likes to read books.",
           "translations": {
             "zh-CN": "安娜（女名）"
           }
         },
         {
           "text": "UK",
+          "example": "He likes UK food.",
           "translations": {
             "zh-CN": "英国"
           }
         },
         {
           "text": "Mary",
+          "example": "Mary has a red pen.",
           "translations": {
             "zh-CN": "玛丽（女名）"
           }
         },
         {
           "text": "Double Ninth Festival",
+          "example": "We celebrate Double Ninth Festival.",
           "translations": {
             "zh-CN": "重阳节"
           }
         },
         {
           "text": "US",
+          "example": "I like the US school.",
           "translations": {
             "zh-CN": "美国"
           }
         },
         {
           "text": "Grandparents' Day",
+          "example": "Happy Grandparents' Day to you.",
           "translations": {
             "zh-CN": "（美国）祖父母节"
           }
         },
         {
           "text": "Oliver",
+          "example": "Oliver likes to play ball.",
           "translations": {
             "zh-CN": "奥利弗（男名）"
           }
         },
         {
           "text": "Ken",
+          "example": "Ken likes to play ball.",
           "translations": {
             "zh-CN": "肯（男名）"
           }
         },
         {
           "text": "May",
+          "example": "May flowers are pretty.",
           "translations": {
             "zh-CN": "梅（女名）"
           }
         },
         {
           "text": "Earth Hour",
+          "example": "We observe Earth Hour today.",
           "translations": {
             "zh-CN": "地球一小时"
           }
         },
         {
           "text": "the Browns",
+          "example": "The Browns eat dinner now.",
           "translations": {
             "zh-CN": "布朗一家"
           }
         },
         {
           "text": "Alice in Wonderland",
+          "example": "Read Alice in Wonderland book.",
           "translations": {
             "zh-CN": "《爱丽丝梦游仙境》"
           }
         },
         {
           "text": "Water Festival",
+          "example": "We play at Water Festival.",
           "translations": {
             "zh-CN": "泼水节"
           }
         },
         {
           "text": "Stone Age",
+          "example": "We study the Stone Age now.",
           "translations": {
             "zh-CN": "石器时代"
           }
         },
         {
           "text": "Jim",
+          "example": "Jim runs very fast.",
           "translations": {
             "zh-CN": "吉姆（男名）"
           }
@@ -1299,186 +1482,217 @@
       "words": [
         {
           "text": "first",
+          "example": "First, eat this apple.",
           "translations": {
             "zh-CN": "第一"
           }
         },
         {
           "text": "second",
+          "example": "He is the second boy.",
           "translations": {
             "zh-CN": "第二"
           }
         },
         {
           "text": "third",
+          "example": "He got third prize.",
           "translations": {
             "zh-CN": "第三"
           }
         },
         {
           "text": "fourth",
+          "example": "This is my fourth book.",
           "translations": {
             "zh-CN": "第四"
           }
         },
         {
           "text": "fifth",
+          "example": "This is my fifth pencil case.",
           "translations": {
             "zh-CN": "第五"
           }
         },
         {
           "text": "sixth",
+          "example": "The sixth day is Monday.",
           "translations": {
             "zh-CN": "第六"
           }
         },
         {
           "text": "seventh",
+          "example": "This is the seventh day.",
           "translations": {
             "zh-CN": "第七"
           }
         },
         {
           "text": "eighth",
+          "example": "This is the eighth book.",
           "translations": {
             "zh-CN": "第八"
           }
         },
         {
           "text": "ninth",
+          "example": "He won the ninth race.",
           "translations": {
             "zh-CN": "第九"
           }
         },
         {
           "text": "tenth",
+          "example": "This is the tenth book.",
           "translations": {
             "zh-CN": "第十"
           }
         },
         {
           "text": "eleventh",
+          "example": "Eleventh class is very fun.",
           "translations": {
             "zh-CN": "第十一"
           }
         },
         {
           "text": "twelfth",
+          "example": "This is the twelfth apple.",
           "translations": {
             "zh-CN": "第十二"
           }
         },
         {
           "text": "thirteenth",
+          "example": "Thirteenth boy has a ball.",
           "translations": {
             "zh-CN": "第十三"
           }
         },
         {
           "text": "fourteenth",
+          "example": "Fourteenth apple looks so red.",
           "translations": {
             "zh-CN": "第十四"
           }
         },
         {
           "text": "fifteenth",
+          "example": "Fifteenth flower smells sweet.",
           "translations": {
             "zh-CN": "第十五"
           }
         },
         {
           "text": "sixteenth",
+          "example": "This is the sixteenth apple.",
           "translations": {
             "zh-CN": "第十六"
           }
         },
         {
           "text": "seventeenth",
+          "example": "This is the seventeenth apple.",
           "translations": {
             "zh-CN": "第十七"
           }
         },
         {
           "text": "eighteenth",
+          "example": "He won the eighteenth race.",
           "translations": {
             "zh-CN": "第十八"
           }
         },
         {
           "text": "nineteenth",
+          "example": "My book has nineteen pages.",
           "translations": {
             "zh-CN": "第十九"
           }
         },
         {
           "text": "twentieth",
+          "example": "The twentieth bus comes soon.",
           "translations": {
             "zh-CN": "第二十"
           }
         },
         {
           "text": "twenty-first",
+          "example": "My class is twenty-first.",
           "translations": {
             "zh-CN": "第二十一"
           }
         },
         {
           "text": "twenty-second",
+          "example": "The class is twenty-second.",
           "translations": {
             "zh-CN": "第二十二"
           }
         },
         {
           "text": "twenty-third",
+          "example": "This is the twenty-third book.",
           "translations": {
             "zh-CN": "第二十三"
           }
         },
         {
           "text": "twenty-fourth",
+          "example": "She drew twenty-fourth star.",
           "translations": {
             "zh-CN": "第二十四"
           }
         },
         {
           "text": "twenty-fifth",
+          "example": "The twenty-fifth day is Monday.",
           "translations": {
             "zh-CN": "第二十五"
           }
         },
         {
           "text": "twenty-sixth",
+          "example": "Tomorrow is the twenty-sixth class.",
           "translations": {
             "zh-CN": "第二十六"
           }
         },
         {
           "text": "twenty-seventh",
+          "example": "She drew a twenty-seventh star.",
           "translations": {
             "zh-CN": "第二十七"
           }
         },
         {
           "text": "twenty-eighth",
+          "example": "He ate twenty-eighth apple today.",
           "translations": {
             "zh-CN": "第二十八"
           }
         },
         {
           "text": "twenty-ninth",
+          "example": "My birthday is the twenty-ninth.",
           "translations": {
             "zh-CN": "第二十九"
           }
         },
         {
           "text": "thirtieth",
+          "example": "She runs on the thirtieth day.",
           "translations": {
             "zh-CN": "第三十"
           }
         },
         {
           "text": "thirty-first",
+          "example": "Today is thirty-first day.",
           "translations": {
             "zh-CN": "第三十一"
           }

@@ -9,6 +9,7 @@
           "text": "lantern",
           "is_bold": false,
           "phonetic": "ˈlæntərn",
+          "example": "We carry a small lantern.",
           "translations": {
             "zh-CN": "灯笼；提灯"
           }
@@ -17,6 +18,7 @@
           "text": "carnival",
           "is_bold": false,
           "phonetic": "ˈkɑrnəvəl",
+          "example": "We went to the carnival yesterday.",
           "translations": {
             "zh-CN": "狂欢节；嘉年华"
           }
@@ -25,6 +27,7 @@
           "text": "costume",
           "is_bold": false,
           "phonetic": "ˈkɑstum",
+          "example": "She wore a blue costume.",
           "translations": {
             "zh-CN": "（某地或某历史时期的）服装；戏装"
           }
@@ -33,6 +36,7 @@
           "text": "dress up",
           "is_bold": false,
           "phonetic": "drɛs əp",
+          "example": "The children like to dress up.",
           "translations": {
             "zh-CN": "穿上盛装；装扮"
           }
@@ -41,6 +45,7 @@
           "text": "march",
           "is_bold": false,
           "phonetic": "mɑrʧ",
+          "example": "March is a warm month.",
           "translations": {
             "zh-CN": "行进；前进；示威游行"
           }
@@ -49,6 +54,7 @@
           "text": "congratulation",
           "is_bold": false,
           "phonetic": "kənˌgræʧəˈleɪʃən",
+          "example": "Give me a warm congratulation now.",
           "translations": {
             "zh-CN": "祝贺；恭喜"
           }
@@ -57,6 +63,7 @@
           "text": "congratulate",
           "is_bold": false,
           "phonetic": "kənˈgræʧəˌleɪt",
+          "example": "Please congratulate him for his score.",
           "translations": {
             "zh-CN": "向（某人）道贺：（因某事）为自己感到自豪"
           }
@@ -65,6 +72,7 @@
           "text": "riddle",
           "is_bold": false,
           "phonetic": "ˈrɪdəl",
+          "example": "This riddle is very hard.",
           "translations": {
             "zh-CN": "谜语；神秘事件"
           }
@@ -73,6 +81,7 @@
           "text": "ceremony",
           "is_bold": false,
           "phonetic": "ˈsɛrəˌmoʊni",
+          "example": "The graduation ceremony was nice.",
           "translations": {
             "zh-CN": "典礼；仪式"
           }
@@ -81,6 +90,7 @@
           "text": "samba",
           "is_bold": false,
           "phonetic": "ˈsɑmbə",
+          "example": "She dances samba very well.",
           "translations": {
             "zh-CN": "桑巴舞；桑巴舞田"
           }
@@ -89,6 +99,7 @@
           "text": "make-up",
           "is_bold": false,
           "phonetic": "ˈmeɪˌkəp",
+          "example": "He uses bright make-up.",
           "translations": {
             "zh-CN": "化妆品：性格；构成方式"
           }
@@ -97,6 +108,7 @@
           "text": "after all",
           "is_bold": false,
           "phonetic": "ˈæftər ɔl",
+          "example": "After all, we must go.",
           "translations": {
             "zh-CN": "毕竞；别忘了"
           }
@@ -105,6 +117,7 @@
           "text": "range",
           "is_bold": false,
           "phonetic": "reɪnʤ",
+          "example": "The temperature range is quite wide.",
           "translations": {
             "zh-CN": "一系列；范围、界限包括；（在一定范围内）变化"
           }
@@ -113,6 +126,7 @@
           "text": "range from to",
           "is_bold": false,
           "phonetic": "reɪnʤ frəm tɪ",
+          "example": "Prices range from ten to twenty yuan.",
           "translations": {
             "zh-CN": "包括从•…到……之间"
           }
@@ -121,6 +135,7 @@
           "text": "origin",
           "is_bold": false,
           "phonetic": "ˈɔrəʤən",
+          "example": "What is the book's origin?",
           "translations": {
             "zh-CN": "起源；起因；出身"
           }
@@ -129,6 +144,7 @@
           "text": "religion",
           "is_bold": false,
           "phonetic": "rɪˈlɪʤən",
+          "example": "She studies a new religion.",
           "translations": {
             "zh-CN": "宗教；宗教信仰"
           }
@@ -137,6 +153,7 @@
           "text": "religious",
           "is_bold": false,
           "phonetic": "rɪˈlɪʤəs",
+          "example": "He is a very religious person.",
           "translations": {
             "zh-CN": "宗教的；笃信宗教的"
           }
@@ -145,6 +162,7 @@
           "text": "figure",
           "is_bold": false,
           "phonetic": "ˈfɪgjər",
+          "example": "What is the figure on page ten.",
           "translations": {
             "zh-CN": "人物：数字；身材认为；认定"
           }
@@ -153,6 +171,7 @@
           "text": "charm",
           "is_bold": false,
           "phonetic": "ʧɑrm",
+          "example": "Her smile has much charm.",
           "translations": {
             "zh-CN": "魅力；迷人的特征；咒语"
           }
@@ -161,6 +180,7 @@
           "text": "joy",
           "is_bold": false,
           "phonetic": "ʤɔɪ",
+          "example": "She feels much joy.",
           "translations": {
             "zh-CN": "高兴：喜悦高兴的；快乐的"
           }
@@ -169,6 +189,7 @@
           "text": "gratitude",
           "is_bold": false,
           "phonetic": "ˈgrætəˌtud",
+          "example": "Show your gratitude to sb.",
           "translations": {
             "zh-CN": "感激之情：感謝"
           }
@@ -177,6 +198,7 @@
           "text": "harvest",
           "is_bold": false,
           "phonetic": "ˈhɑrvəst",
+          "example": "Farmers harvest corn after the rain.",
           "translations": {
             "zh-CN": "收获季节；收获；收成收割（庄稼）：捕猎（动物、鱼）"
           }
@@ -185,6 +207,7 @@
           "text": "agricultural",
           "is_bold": false,
           "phonetic": "ˌægrɪˈkəlʧərəl",
+          "example": "He studies agricultural science in school.",
           "translations": {
             "zh-CN": "农业（劳动/生产）"
           }
@@ -193,6 +216,7 @@
           "text": "agriculture",
           "is_bold": false,
           "phonetic": "ˈægrɪˌkəlʧər",
+          "example": "My family loves the work of agriculture.",
           "translations": {
             "zh-CN": "农业；农艺"
           }
@@ -201,6 +225,7 @@
           "text": "crop",
           "is_bold": false,
           "phonetic": "krɑp",
+          "example": "Farmers crop corn in the field.",
           "translations": {
             "zh-CN": "庄稼；作物；一季的收成"
           }
@@ -209,6 +234,7 @@
           "text": "gather",
           "is_bold": false,
           "phonetic": "ˈgæðər",
+          "example": "Birds gather on the tree.",
           "translations": {
             "zh-CN": "聚集：集合聚集；搜集：收割"
           }
@@ -217,6 +243,7 @@
           "text": "grateful",
           "is_bold": false,
           "phonetic": "ˈgreɪtfəl",
+          "example": "I am grateful for your help.",
           "translations": {
             "zh-CN": "感激的；表示感谢的"
           }
@@ -225,6 +252,7 @@
           "text": "feature",
           "is_bold": false,
           "phonetic": "ˈfiʧər",
+          "example": "A big feature is color.",
           "translations": {
             "zh-CN": "以••为特色特色；特征；特点"
           }
@@ -233,6 +261,7 @@
           "text": "decorate",
           "is_bold": false,
           "phonetic": "ˈdɛkərˌeɪt",
+          "example": "We will decorate the room.",
           "translations": {
             "zh-CN": "装饰；装潢"
           }
@@ -241,6 +270,7 @@
           "text": "church",
           "is_bold": false,
           "phonetic": "ʧərʧ",
+          "example": "We go to church on Sunday.",
           "translations": {
             "zh-CN": "基督教的）教堂；礼拜堂"
           }
@@ -249,6 +279,7 @@
           "text": "significant",
           "is_bold": false,
           "phonetic": "sɪgˈnɪfɪkənt",
+          "example": "This test is very significant.",
           "translations": {
             "zh-CN": "有重大意义的；显著的"
           }
@@ -257,6 +288,7 @@
           "text": "fade",
           "is_bold": false,
           "phonetic": "feɪd",
+          "example": "The color will fade in the sun.",
           "translations": {
             "zh-CN": "逐渐消失；（使）褪色；（身体）变得虚弱"
           }
@@ -265,6 +297,7 @@
           "text": "fade away",
           "is_bold": false,
           "phonetic": "feɪd əˈweɪ",
+          "example": "The bright color will fade away.",
           "translations": {
             "zh-CN": "逐渐消失；（身体）变得虚弱"
           }
@@ -273,6 +306,7 @@
           "text": "typical",
           "is_bold": false,
           "phonetic": "ˈtɪpɪkəl",
+          "example": "This is a typical school uniform.",
           "translations": {
             "zh-CN": "典型的；有代表性的；平常的"
           }
@@ -281,6 +315,7 @@
           "text": "firecracker",
           "is_bold": false,
           "phonetic": "ˈfaɪərˌkrækər",
+          "example": "We see firecracker pop.",
           "translations": {
             "zh-CN": "鞭炮；爆竹"
           }
@@ -289,6 +324,7 @@
           "text": "evil",
           "is_bold": false,
           "phonetic": "ˈivəl",
+          "example": "He did an evil thing.",
           "translations": {
             "zh-CN": "邪恶的；有害的；罪恶的邪恶；罪恶，恶行"
           }
@@ -297,6 +333,7 @@
           "text": "in spite of",
           "is_bold": false,
           "phonetic": "ɪn spaɪt əv",
+          "example": "In spite of rain, we went outside.",
           "translations": {
             "zh-CN": "不管；尽管"
           }
@@ -305,6 +342,7 @@
           "text": "commercial",
           "is_bold": false,
           "phonetic": "kəˈmərʃəl",
+          "example": "That show is a commercial.",
           "translations": {
             "zh-CN": "商业（化）的；以获利为目的的使商业化：利用⋯…牟利商业化"
           }
@@ -313,6 +351,7 @@
           "text": "take advantage of",
           "is_bold": false,
           "phonetic": "teɪk ædˈvæntɪʤ əv",
+          "example": "She will take advantage of the sale.",
           "translations": {
             "zh-CN": "利用；欺骗：占••⋯的便宜"
           }
@@ -321,6 +360,7 @@
           "text": "medium",
           "is_bold": false,
           "phonetic": "ˈmidiəm",
+          "example": "The water is medium hot today.",
           "translations": {
             "zh-CN": "（pl.media/mi:dio/）媒介；手段；方法中等的；中号的"
           }
@@ -329,6 +369,7 @@
           "text": "the media",
           "is_bold": false,
           "phonetic": "ðə ˈmidiə",
+          "example": "The media showed the news story.",
           "translations": {
             "zh-CN": "大众传播媒介"
           }
@@ -337,6 +378,7 @@
           "text": "reflect",
           "is_bold": false,
           "phonetic": "rɪˈflɛkt",
+          "example": "The mirror reflects light.",
           "translations": {
             "zh-CN": "显示：反映；反射"
           }
@@ -345,6 +387,7 @@
           "text": "belief",
           "is_bold": false,
           "phonetic": "bɪˈlif",
+          "example": "My strong belief is in hard work.",
           "translations": {
             "zh-CN": "信仰；信心；信任"
           }
@@ -353,6 +396,7 @@
           "text": "faith",
           "is_bold": false,
           "phonetic": "feɪθ",
+          "example": "He has great faith in his team.",
           "translations": {
             "zh-CN": "宗教信仰；信任；相信"
           }
@@ -361,6 +405,7 @@
           "text": "occasion",
           "is_bold": false,
           "phonetic": "əˈkeɪʒən",
+          "example": "This is a happy occasion.",
           "translations": {
             "zh-CN": "特别的事情（或仪式、庆典）；【适当的）机会"
           }
@@ -369,6 +414,7 @@
           "text": "have in common",
           "is_bold": false,
           "phonetic": "hæv ɪn ˈkɑmən",
+          "example": "My friend and I have in common hobbies.",
           "translations": {
             "zh-CN": "（兴趣、想法等方面）相同；有相同的特征"
           }
@@ -377,6 +423,7 @@
           "text": "atmosphere",
           "is_bold": false,
           "phonetic": "ˈætməsˌfɪr",
+          "example": "The classroom has a happy atmosphere.",
           "translations": {
             "zh-CN": "理.气氛：氛围：（地球的）大气（层）"
           }
@@ -385,6 +432,7 @@
           "text": "Lunar",
           "is_bold": false,
           "phonetic": "ˈlunər",
+          "example": "Lunar New Year is a big holiday.",
           "translations": {
             "zh-CN": "阴历的；月球的；月亮的"
           }
@@ -393,6 +441,7 @@
           "text": "eve",
           "is_bold": false,
           "phonetic": "iv",
+          "example": "Tomorrow is the party eve.",
           "translations": {
             "zh-CN": "前夕；前一天"
           }
@@ -401,6 +450,7 @@
           "text": "envelope",
           "is_bold": false,
           "phonetic": "ˈɛnvəˌloʊp",
+          "example": "Put it in the envelope.",
           "translations": {
             "zh-CN": "信封：塑料封套"
           }
@@ -409,6 +459,7 @@
           "text": "Christmas caro",
           "is_bold": false,
           "phonetic": "ˈkrɪsməs ˈkɑroʊ",
+          "example": "We sing Christmas carol songs.",
           "translations": {
             "zh-CN": "圣诞颂歌"
           }
@@ -417,6 +468,7 @@
           "text": "merry",
           "is_bold": false,
           "phonetic": "ˈmɛri",
+          "example": "We had a merry time yesterday.",
           "translations": {
             "zh-CN": "愉快的；高兴的"
           }
@@ -425,6 +477,7 @@
           "text": "Merry Christmas",
           "is_bold": false,
           "phonetic": "ˈmɛri ˈkrɪsməs",
+          "example": "Merry Christmas to you all.",
           "translations": {
             "zh-CN": "圣诞快乐！"
           }
@@ -433,6 +486,7 @@
           "text": "pumpkin",
           "is_bold": false,
           "phonetic": "ˈpəmpkɪn",
+          "example": "He carved a big pumpkin.",
           "translations": {
             "zh-CN": "南瓜"
           }
@@ -441,6 +495,7 @@
           "text": "pudding",
           "is_bold": false,
           "phonetic": "ˈpʊdɪŋ",
+          "example": "Mom made sweet pudding tonight.",
           "translations": {
             "zh-CN": "布可；！餐末的）甜食"
           }
@@ -449,6 +504,7 @@
           "text": "mashed potatoes",
           "is_bold": false,
           "phonetic": "mæʃt pəˈteɪtoʊz",
+          "example": "I like mashed potatoes with dinner.",
           "translations": {
             "zh-CN": "土豆泥"
           }
@@ -457,6 +513,7 @@
           "text": "roast",
           "is_bold": false,
           "phonetic": "roʊst",
+          "example": "Mom will roast chicken for dinner.",
           "translations": {
             "zh-CN": "烤的；焙的烘烤；焙"
           }
@@ -465,6 +522,7 @@
           "text": "turkey",
           "is_bold": false,
           "phonetic": "ˈtərki",
+          "example": "Mom cooks roast turkey.",
           "translations": {
             "zh-CN": "火鸡；火鸡肉"
           }
@@ -473,6 +531,7 @@
           "text": "roast turkey",
           "is_bold": false,
           "phonetic": "roʊst ˈtərki",
+          "example": "Dad eats roast turkey often.",
           "translations": {
             "zh-CN": "烤火鸡肉"
           }
@@ -481,6 +540,7 @@
           "text": "pleased",
           "is_bold": false,
           "phonetic": "plizd",
+          "example": "She felt pleased with her good score.",
           "translations": {
             "zh-CN": "高兴的；满意的"
           }
@@ -489,6 +549,7 @@
           "text": "firework",
           "is_bold": false,
           "phonetic": "ˈfaɪrˌwərk",
+          "example": "Look at the bright firework.",
           "translations": {
             "zh-CN": "烟火；烟花；［pl.］烟花表演"
           }
@@ -497,6 +558,7 @@
           "text": "frank",
           "is_bold": false,
           "phonetic": "fræŋk",
+          "example": "He gave a frank answer today.",
           "translations": {
             "zh-CN": "坦率的；直率的"
           }
@@ -505,6 +567,7 @@
           "text": "to be frank",
           "is_bold": false,
           "phonetic": "tɪ bi fræŋk",
+          "example": "To be frank, the test was hard.",
           "translations": {
             "zh-CN": "坦白说；坦率地说"
           }
@@ -513,6 +576,7 @@
           "text": "go off",
           "is_bold": false,
           "phonetic": "goʊ ɔf",
+          "example": "The fire alarm will go off.",
           "translations": {
             "zh-CN": "爆炸：走火；离开"
           }
@@ -521,6 +585,7 @@
           "text": "except for",
           "is_bold": false,
           "phonetic": "ɪkˈsɛpt fər",
+          "example": "Everyone came except for Tom.",
           "translations": {
             "zh-CN": "除.…之外"
           }
@@ -529,6 +594,7 @@
           "text": "inner",
           "is_bold": false,
           "phonetic": "ˈɪnər",
+          "example": "The inner feeling is happy.",
           "translations": {
             "zh-CN": "内部的；里面的；内心的"
           }
@@ -537,6 +603,7 @@
           "text": "autonomous",
           "is_bold": false,
           "phonetic": "ɔˈtɑnəməs",
+          "example": "My robot has an autonomous cleaning ability.",
           "translations": {
             "zh-CN": "自治的；有自治权的"
           }
@@ -545,6 +612,7 @@
           "text": "region",
           "is_bold": false,
           "phonetic": "ˈriʤən",
+          "example": "This region has tall mountains.",
           "translations": {
             "zh-CN": "地区；区域；地带"
           }
@@ -553,6 +621,7 @@
           "text": "represent",
           "is_bold": false,
           "phonetic": "ˌrɛprɪˈzɛnt",
+          "example": "She can represent her class.",
           "translations": {
             "zh-CN": "象征；代表；相当于"
           }
@@ -561,6 +630,7 @@
           "text": "wrestling",
           "is_bold": false,
           "phonetic": "ˈrɛsəlɪŋ",
+          "example": "She likes watching wrestling shows.",
           "translations": {
             "zh-CN": "摔跤运动"
           }
@@ -569,6 +639,7 @@
           "text": "wrestle",
           "is_bold": false,
           "phonetic": "ˈrɛsəl",
+          "example": "He likes to wrestle with his brother.",
           "translations": {
             "zh-CN": "摔跤；奋力对付"
           }
@@ -577,6 +648,7 @@
           "text": "wrestler",
           "is_bold": false,
           "phonetic": "ˈrɛsələr",
+          "example": "He is a strong wrestler now.",
           "translations": {
             "zh-CN": "摔跤运动员"
           }
@@ -585,6 +657,7 @@
           "text": "archery",
           "is_bold": false,
           "phonetic": "ˈɑrʧəri",
+          "example": "She enjoys archery practice after school.",
           "translations": {
             "zh-CN": "射箭木；射箭运动"
           }
@@ -593,6 +666,7 @@
           "text": "set off",
           "is_bold": false,
           "phonetic": "sɛt ɔf",
+          "example": "We will set off at seven o'clock.",
           "translations": {
             "zh-CN": "出发；动身；启程"
           }
@@ -601,6 +675,7 @@
           "text": "fancy",
           "is_bold": false,
           "phonetic": "ˈfænsi",
+          "example": "Do you fancy eating pizza tonight?",
           "translations": {
             "zh-CN": "花哨的；精致的；昂贵的想要；倾慕；自认为是"
           }
@@ -609,6 +684,7 @@
           "text": "robe",
           "is_bold": false,
           "phonetic": "roʊb",
+          "example": "The monk wore a long black robe.",
           "translations": {
             "zh-CN": "袍服；礼袍"
           }
@@ -617,6 +693,7 @@
           "text": "eagle",
           "is_bold": false,
           "phonetic": "ˈigəl",
+          "example": "The eagle flies in the sky.",
           "translations": {
             "zh-CN": "雕"
           }
@@ -625,6 +702,7 @@
           "text": "grace",
           "is_bold": false,
           "phonetic": "greɪs",
+          "example": "Her dance showed great grace.",
           "translations": {
             "zh-CN": "优美；优雅；高雅"
           }
@@ -633,6 +711,7 @@
           "text": "absolutely",
           "is_bold": false,
           "phonetic": "ˌæbsəˈlutli",
+          "example": "He is absolutely sure about the answer.",
           "translations": {
             "zh-CN": "绝对地；完全地"
           }
@@ -641,6 +720,7 @@
           "text": "moment",
           "is_bold": false,
           "phonetic": "ˈmoʊmənt",
+          "example": "It was a happy moment.",
           "translations": {
             "zh-CN": "片刻：瞬间"
           }
@@ -649,6 +729,7 @@
           "text": "tent",
           "is_bold": false,
           "phonetic": "tɛnt",
+          "example": "Let's sleep in the tent tonight.",
           "translations": {
             "zh-CN": "帐篷"
           }
@@ -657,6 +738,7 @@
           "text": "pot",
           "is_bold": false,
           "phonetic": "pɑt",
+          "example": "Mom put rice in a pot.",
           "translations": {
             "zh-CN": "罐；壶；锅"
           }
@@ -665,6 +747,7 @@
           "text": "brief",
           "is_bold": false,
           "phonetic": "brif",
+          "example": "Give me a brief summary of the lesson.",
           "translations": {
             "zh-CN": "简洁的；简单的；短暂的"
           }
@@ -673,6 +756,7 @@
           "text": "branch",
           "is_bold": false,
           "phonetic": "brænʧ",
+          "example": "The river will branch near my house.",
           "translations": {
             "zh-CN": "树枝；分支；支流"
           }
@@ -681,6 +765,7 @@
           "text": "wedding",
           "is_bold": false,
           "phonetic": "ˈwɛdɪŋ",
+          "example": "They are having a wedding next month.",
           "translations": {
             "zh-CN": "婚礼；结婚庆典"
           }
@@ -689,6 +774,7 @@
           "text": "clap",
           "is_bold": false,
           "phonetic": "klæp",
+          "example": "Please clap for good work.",
           "translations": {
             "zh-CN": "鼓掌；拍手；击单鼓学；拍手；学声"
           }
@@ -697,6 +783,7 @@
           "text": "respect",
           "is_bold": false,
           "phonetic": "rɪˈspɛkt",
+          "example": "Show great respect to your teacher.",
           "translations": {
             "zh-CN": "尊敬；尊重"
           }
@@ -705,6 +792,7 @@
           "text": "horrible",
           "is_bold": false,
           "phonetic": "ˈhɔrəbəl",
+          "example": "That movie was a horrible experience.",
           "translations": {
             "zh-CN": "令人震惊的；恐怖的；极坏的"
           }
@@ -713,6 +801,7 @@
           "text": "Coming of Age Day",
           "is_bold": false,
           "phonetic": "ˈkəmɪŋ əv eɪʤ deɪ",
+          "example": "Tomorrow is my Coming of Age Day.",
           "translations": {
             "zh-CN": "成人节"
           }
@@ -721,6 +810,7 @@
           "text": "Rio",
           "is_bold": false,
           "phonetic": "ˈrioʊ",
+          "example": "We saw Rio beach today.",
           "translations": {
             "zh-CN": "全称Rio de Janeiro里约热内卢（巴西城市）"
           }
@@ -729,6 +819,7 @@
           "text": "Carla",
           "is_bold": false,
           "phonetic": "ˈkɑrlɑ",
+          "example": "Carla has a new blue pencil.",
           "translations": {
             "zh-CN": "卡拉"
           }
@@ -737,6 +828,7 @@
           "text": "Halloween",
           "is_bold": false,
           "phonetic": "ˌhæləˈwin",
+          "example": "Halloween is fun for kids.",
           "translations": {
             "zh-CN": "万圣节前夕"
           }
@@ -745,6 +837,7 @@
           "text": "Thanksgiving Day",
           "is_bold": false,
           "phonetic": "ˌθæŋksˈgɪvɪŋ deɪ",
+          "example": "They eat turkey on Thanksgiving Day.",
           "translations": {
             "zh-CN": "感恩节"
           }
@@ -753,6 +846,7 @@
           "text": "La",
           "is_bold": false,
           "phonetic": "lɑ",
+          "example": "La has many nice shops.",
           "translations": {
             "zh-CN": "番茄大战布尼奥尔（西班牙小镇）"
           }
@@ -761,6 +855,7 @@
           "text": "the festival",
           "is_bold": false,
           "phonetic": "ðə ˈfɛstɪvəl",
+          "example": "The festival was very exciting.",
           "translations": {
             "zh-CN": "那达慕”大会"
           }
@@ -769,6 +864,7 @@
           "text": "Inner Mongolia Autonomous",
           "is_bold": false,
           "phonetic": "ˈɪnər mɑŋˈgoʊljə ɔˈtɑnəməs",
+          "example": "My friend lives in Inner Mongolia Autonomous.",
           "translations": {
             "zh-CN": "内蒙古自治区"
           }
@@ -777,6 +873,7 @@
           "text": "Mongolian",
           "is_bold": false,
           "phonetic": "mɑŋˈgoʊljən",
+          "example": "He speaks Mongolian very well.",
           "translations": {
             "zh-CN": "蒙古人的；蒙古的；蒙古语的蒙古语；蒙古人"
           }
@@ -792,6 +889,7 @@
           "text": "moral",
           "is_bold": false,
           "phonetic": "ˈmɔrəl",
+          "example": "He has good moral character.",
           "translations": {
             "zh-CN": "道徳的；道义上的品行；道德；寓意"
           }
@@ -800,6 +898,7 @@
           "text": "Virtue",
           "is_bold": false,
           "phonetic": "ˈvərʧu",
+          "example": "Honesty is a great virtue for sb.",
           "translations": {
             "zh-CN": "高尚的道德；美德；优秀品质"
           }
@@ -808,6 +907,7 @@
           "text": "dilemma",
           "is_bold": false,
           "phonetic": "dɪˈlɛmə",
+          "example": "I have a choice dilemma.",
           "translations": {
             "zh-CN": "进退两难的境地；困境"
           }
@@ -816,6 +916,7 @@
           "text": "moral dilemma",
           "is_bold": false,
           "phonetic": "ˈmɔrəl dɪˈlɛmə",
+          "example": "This is a moral dilemma for sb.",
           "translations": {
             "zh-CN": "道德困境"
           }
@@ -824,6 +925,7 @@
           "text": "faint",
           "is_bold": false,
           "phonetic": "feɪnt",
+          "example": "The flower looked faint in the sun.",
           "translations": {
             "zh-CN": "昏倒；晕厥不清楚的；微弱的"
           }
@@ -832,6 +934,7 @@
           "text": "illustrate",
           "is_bold": false,
           "phonetic": "ˈɪləˌstreɪt",
+          "example": "A picture can illustrate this point.",
           "translations": {
             "zh-CN": "（举例）说明；阐明；给（书或文章）加插图"
           }
@@ -840,6 +943,7 @@
           "text": "precious",
           "is_bold": false,
           "phonetic": "ˈprɛʃəs",
+          "example": "My grandmother is a precious person.",
           "translations": {
             "zh-CN": "珍稀的；宝贵的"
           }
@@ -848,6 +952,7 @@
           "text": "entrust",
           "is_bold": false,
           "phonetic": "ɛnˈtrəst",
+          "example": "Please entrust this book to Mary.",
           "translations": {
             "zh-CN": "委托；交付"
           }
@@ -856,6 +961,7 @@
           "text": "carry through",
           "is_bold": false,
           "phonetic": "ˈkɛri θru",
+          "example": "Friends will carry through the hard time.",
           "translations": {
             "zh-CN": "帮助某人渡过难关"
           }
@@ -864,6 +970,7 @@
           "text": "marriage",
           "is_bold": false,
           "phonetic": "ˈmɛrɪʤ",
+          "example": "Their marriage is very happy.",
           "translations": {
             "zh-CN": "结婚；婚姻"
           }
@@ -872,6 +979,7 @@
           "text": "majority",
           "is_bold": false,
           "phonetic": "məˈʤɔrəti",
+          "example": "The majority voted yes.",
           "translations": {
             "zh-CN": "大部分：大多数"
           }
@@ -880,6 +988,7 @@
           "text": "complain",
           "is_bold": false,
           "phonetic": "kəmˈpleɪn",
+          "example": "He likes to complain about his homework.",
           "translations": {
             "zh-CN": "抱怨；发牢骚"
           }
@@ -888,6 +997,7 @@
           "text": "tuition",
           "is_bold": false,
           "phonetic": "tjuˈɪʃən",
+          "example": "The teacher gives group tuition today.",
           "translations": {
             "zh-CN": "小组】教学；讲课"
           }
@@ -896,6 +1006,7 @@
           "text": "fee",
           "is_bold": false,
           "phonetic": "fi",
+          "example": "She paid the entrance fee.",
           "translations": {
             "zh-CN": "专业服务费；报酬"
           }
@@ -904,6 +1015,7 @@
           "text": "tuition fees",
           "is_bold": false,
           "phonetic": "tjuˈɪʃən fiz",
+          "example": "My sister pays high tuition fees.",
           "translations": {
             "zh-CN": "学费"
           }
@@ -912,6 +1024,7 @@
           "text": "respond",
           "is_bold": false,
           "phonetic": "rɪˈspɑnd",
+          "example": "Please respond to my question now.",
           "translations": {
             "zh-CN": "回答；回复做出反应；回应"
           }
@@ -920,6 +1033,7 @@
           "text": "response",
           "is_bold": false,
           "phonetic": "rɪˈspɑns",
+          "example": "Give a quick response to the question.",
           "translations": {
             "zh-CN": "反应；回答；回复"
           }
@@ -928,6 +1042,7 @@
           "text": "union",
           "is_bold": false,
           "phonetic": "ˈjunjən",
+          "example": "Students joined the school union club.",
           "translations": {
             "zh-CN": "协会；联合会；工会"
           }
@@ -936,6 +1051,7 @@
           "text": "scholarship",
           "is_bold": false,
           "phonetic": "ˈskɑlərˌʃɪp",
+          "example": "She got a big scholarship award.",
           "translations": {
             "zh-CN": "奖学金"
           }
@@ -944,6 +1060,7 @@
           "text": "hire har",
           "is_bold": false,
           "phonetic": "haɪər hɑr",
+          "example": "The school will hire har new teacher.",
           "translations": {
             "zh-CN": "聘任；雇用；租用租借；租用"
           }
@@ -952,6 +1069,7 @@
           "text": "physician",
           "is_bold": false,
           "phonetic": "fəˈzɪʃən",
+          "example": "The physician helped the sick boy.",
           "translations": {
             "zh-CN": "医师；（尤指）内科医生"
           }
@@ -960,6 +1078,7 @@
           "text": "resident physician",
           "is_bold": false,
           "phonetic": "ˈrɛzɪdənt fəˈzɪʃən",
+          "example": "A resident physician works at the hospital.",
           "translations": {
             "zh-CN": "住院医师"
           }
@@ -968,6 +1087,7 @@
           "text": "colleague",
           "is_bold": false,
           "phonetic": "ˈkɑlig",
+          "example": "My colleague teaches math class.",
           "translations": {
             "zh-CN": "同事；同僚"
           }
@@ -976,6 +1096,7 @@
           "text": "reject",
           "is_bold": false,
           "phonetic": "ˈriʤɛkt",
+          "example": "Please do not reject this apple.",
           "translations": {
             "zh-CN": "拒绝接受；不录用"
           }
@@ -984,6 +1105,7 @@
           "text": "rejection",
           "is_bold": false,
           "phonetic": "rɪˈʤɛkʃən",
+          "example": "His idea met with strong rejection.",
           "translations": {
             "zh-CN": "拒绝接受；否決"
           }
@@ -992,6 +1114,7 @@
           "text": "appoint",
           "is_bold": false,
           "phonetic": "əˈpɔɪnt",
+          "example": "The teacher will appoint my friend leader.",
           "translations": {
             "zh-CN": "任命；委派"
           }
@@ -1000,6 +1123,7 @@
           "text": "clinic",
           "is_bold": false,
           "phonetic": "ˈklɪnɪk",
+          "example": "We went to the school clinic for checkups.",
           "translations": {
             "zh-CN": "诊所；门诊部"
           }
@@ -1008,6 +1132,7 @@
           "text": "faraway",
           "is_bold": false,
           "phonetic": "ˈfɑrəˈweɪ",
+          "example": "The stars are faraway lights.",
           "translations": {
             "zh-CN": "遥远的"
           }
@@ -1016,6 +1141,7 @@
           "text": "elect",
           "is_bold": false,
           "phonetic": "ɪˈlɛkt",
+          "example": "She will elect a new class president.",
           "translations": {
             "zh-CN": "选举；推选"
           }
@@ -1024,6 +1150,7 @@
           "text": "election",
           "is_bold": false,
           "phonetic": "ɪˈlɛkʃən",
+          "example": "We voted in the local election.",
           "translations": {
             "zh-CN": "选举；推选；当选"
           }
@@ -1032,6 +1159,7 @@
           "text": "decade",
           "is_bold": false,
           "phonetic": "ˈdɛkeɪd",
+          "example": "My uncle lived in this decade.",
           "translations": {
             "zh-CN": "十年；十年期"
           }
@@ -1040,6 +1168,7 @@
           "text": "elsewhere",
           "is_bold": false,
           "phonetic": "ˈɛlsˌwɛr",
+          "example": "She went to the library elsewhere.",
           "translations": {
             "zh-CN": "在别处；去别处"
           }
@@ -1048,6 +1177,7 @@
           "text": "tend",
           "is_bold": false,
           "phonetic": "tɛnd",
+          "example": "He tends to walk to school every day.",
           "translations": {
             "zh-CN": "照顾；照料 vi.倾向；趋于"
           }
@@ -1056,6 +1186,7 @@
           "text": "tend to do",
           "is_bold": false,
           "phonetic": "tɛnd tɪ du",
+          "example": "He tends to eat apples often.",
           "translations": {
             "zh-CN": "易于做某事；往往会发生某事"
           }
@@ -1064,6 +1195,7 @@
           "text": "publish",
           "is_bold": false,
           "phonetic": "ˈpəblɪʃ",
+          "example": "They will publish the new book.",
           "translations": {
             "zh-CN": "发表（作品）；出版"
           }
@@ -1072,6 +1204,7 @@
           "text": "staff",
           "is_bold": false,
           "phonetic": "stæf",
+          "example": "The staff helps the teachers every day.",
           "translations": {
             "zh-CN": "员工；全体职员"
           }
@@ -1080,6 +1213,7 @@
           "text": "retire",
           "is_bold": false,
           "phonetic": "ˌriˈtaɪər",
+          "example": "My uncle will retire next year.",
           "translations": {
             "zh-CN": "退休；退职；退出"
           }
@@ -1088,6 +1222,7 @@
           "text": "saving",
           "is_bold": false,
           "phonetic": "ˈseɪvɪŋ",
+          "example": "Saving money helps buy new books.",
           "translations": {
             "zh-CN": "节省物；节省；节约；储蓄金；存款"
           }
@@ -1096,6 +1231,7 @@
           "text": "kindergarten",
           "is_bold": false,
           "phonetic": "ˈkɪndərˌgɑrtən",
+          "example": "My little sister goes to kindergarten.",
           "translations": {
             "zh-CN": "学前班；幼儿园"
           }
@@ -1104,6 +1240,7 @@
           "text": "principle",
           "is_bold": false,
           "phonetic": "ˈprɪnsəpəl",
+          "example": "Honesty is a good principle.",
           "translations": {
             "zh-CN": "道德原则；法则；原则"
           }
@@ -1112,6 +1249,7 @@
           "text": "passive",
           "is_bold": false,
           "phonetic": "ˈpæsɪv",
+          "example": "The book was in passive voice.",
           "translations": {
             "zh-CN": "被动的；顺从的"
           }
@@ -1120,6 +1258,7 @@
           "text": "scared",
           "is_bold": false,
           "phonetic": "skɛrd",
+          "example": "sb felt scared of the dog.",
           "translations": {
             "zh-CN": "害怕的；对……感到惊慌或恐惧的"
           }
@@ -1128,6 +1267,7 @@
           "text": "scare",
           "is_bold": false,
           "phonetic": "skɛr",
+          "example": "A loud noise will scare sb.",
           "translations": {
             "zh-CN": "惊吓；使害怕受惊吓"
           }
@@ -1136,6 +1276,7 @@
           "text": "sharp",
           "is_bold": false,
           "phonetic": "ʃɑrp",
+          "example": "The knife is very sharp.",
           "translations": {
             "zh-CN": "增长、下跌等）急剧的；锋利的；明显的"
           }
@@ -1144,6 +1285,7 @@
           "text": "insurance",
           "is_bold": false,
           "phonetic": "ˌɪnˈʃʊrəns",
+          "example": "My car needs new insurance.",
           "translations": {
             "zh-CN": "保险；保险业"
           }
@@ -1152,6 +1294,7 @@
           "text": "energetic",
           "is_bold": false,
           "phonetic": "ˌɛnərˈʤɛtɪk",
+          "example": "He is an energetic student today.",
           "translations": {
             "zh-CN": "精力充沛的；充满活力的"
           }
@@ -1160,6 +1303,7 @@
           "text": "replace",
           "is_bold": false,
           "phonetic": "ˌriˈpleɪs",
+          "example": "We need to replace the old chair.",
           "translations": {
             "zh-CN": "接替；取代；更换"
           }
@@ -1168,6 +1312,7 @@
           "text": "accident",
           "is_bold": false,
           "phonetic": "ˈæksədənt",
+          "example": "A small car had an accident.",
           "translations": {
             "zh-CN": "事故；车祸；失事"
           }
@@ -1176,6 +1321,7 @@
           "text": "operation",
           "is_bold": false,
           "phonetic": "ˌɑpərˈeɪʃən",
+          "example": "Math operation is addition.",
           "translations": {
             "zh-CN": "手术：企业；经营"
           }
@@ -1184,6 +1330,7 @@
           "text": "whisper",
           "is_bold": false,
           "phonetic": "ˈwɪspər",
+          "example": "She began to whisper a secret.",
           "translations": {
             "zh-CN": "悄声说；耳语；低语耳语（声）：低语（声），传言；谣传"
           }
@@ -1192,6 +1339,7 @@
           "text": "midnight",
           "is_bold": false,
           "phonetic": "ˈmɪdˌnaɪt",
+          "example": "The cat sleeps at midnight.",
           "translations": {
             "zh-CN": "子夜：午夜"
           }
@@ -1200,6 +1348,7 @@
           "text": "import",
           "is_bold": false,
           "phonetic": "ˌɪmˈpɔrt",
+          "example": "China imports many fruits.",
           "translations": {
             "zh-CN": "进口；进口商品进口；输入；引进"
           }
@@ -1208,6 +1357,7 @@
           "text": "export",
           "is_bold": false,
           "phonetic": "ˈɛkspɔrt",
+          "example": "China exports many rice to USA.",
           "translations": {
             "zh-CN": "出，出口商品（ikspost/以.出口：输出；传播"
           }
@@ -1216,6 +1366,7 @@
           "text": "pole",
           "is_bold": false,
           "phonetic": "poʊl",
+          "example": "The flag is on a tall pole.",
           "translations": {
             "zh-CN": "行星的）极；地极"
           }
@@ -1224,6 +1375,7 @@
           "text": "Lap",
           "is_bold": false,
           "phonetic": "læp",
+          "example": "The cat slept in my lap.",
           "translations": {
             "zh-CN": "坐着时的）大腿部；（跑道等的）一圈"
           }
@@ -1232,6 +1384,7 @@
           "text": "bite bit bitten",
           "is_bold": false,
           "phonetic": "baɪt bɪt ˈbɪtən",
+          "example": "The dog likes to bite small toys.",
           "translations": {
             "zh-CN": "咬；可；蜇咬；（咬下的）一日；咬伤"
           }
@@ -1240,6 +1393,7 @@
           "text": "Up",
           "is_bold": false,
           "phonetic": "əp",
+          "example": "The ball went up high.",
           "translations": {
             "zh-CN": "豬唇"
           }
@@ -1248,6 +1402,7 @@
           "text": "assist",
           "is_bold": false,
           "phonetic": "əˈsɪst",
+          "example": "Can you assist me with my math homework?",
           "translations": {
             "zh-CN": "帮助；援助"
           }
@@ -1256,6 +1411,7 @@
           "text": "first aid",
           "is_bold": false,
           "phonetic": "fərst eɪd",
+          "example": "We learned first aid in class.",
           "translations": {
             "zh-CN": "急救"
           }
@@ -1264,6 +1420,7 @@
           "text": "pass away",
           "is_bold": false,
           "phonetic": "pæs əˈweɪ",
+          "example": "My grandpa will pass away soon.",
           "translations": {
             "zh-CN": "去世"
           }
@@ -1272,6 +1429,7 @@
           "text": "chairman",
           "is_bold": false,
           "phonetic": "ˈʧɛrmən",
+          "example": "The chairman gave a speech.",
           "translations": {
             "zh-CN": "主席；主持人；董事长"
           }
@@ -1280,6 +1438,7 @@
           "text": "memory",
           "is_bold": false,
           "phonetic": "ˈmɛməri",
+          "example": "My memory helps me learn fast.",
           "translations": {
             "zh-CN": "记忆力；回忆"
           }
@@ -1288,6 +1447,7 @@
           "text": "in memory of",
           "is_bold": false,
           "phonetic": "ɪn ˈmɛməri əv",
+          "example": "This flower is in memory of mom.",
           "translations": {
             "zh-CN": "作为对……的纪念"
           }
@@ -1296,6 +1456,7 @@
           "text": "chain",
           "is_bold": false,
           "phonetic": "ʧeɪn",
+          "example": "A long chain holds the gate.",
           "translations": {
             "zh-CN": "一连串（人或事）；链子；链条"
           }
@@ -1304,6 +1465,7 @@
           "text": "cafe",
           "is_bold": false,
           "phonetic": "kəˈfeɪ",
+          "example": "We met at the small cafe.",
           "translations": {
             "zh-CN": "咖啡馆：小餐馆"
           }
@@ -1312,6 +1474,7 @@
           "text": "waitress",
           "is_bold": false,
           "phonetic": "ˈweɪtrəs",
+          "example": "She is a kind waitress.",
           "translations": {
             "zh-CN": "餐馆的）女服务员；女侍者"
           }
@@ -1320,6 +1483,7 @@
           "text": "pregnant",
           "is_bold": false,
           "phonetic": "ˈprɛgnənt",
+          "example": "The cat looks very pregnant today.",
           "translations": {
             "zh-CN": "怀孕的；妊娠的"
           }
@@ -1328,6 +1492,7 @@
           "text": "disguise",
           "is_bold": false,
           "phonetic": "dɪsˈgaɪz",
+          "example": "He wore a funny disguise.",
           "translations": {
             "zh-CN": "装扮；假扮；掩盖伪装；化装用具"
           }
@@ -1336,6 +1501,7 @@
           "text": "maple",
           "is_bold": false,
           "phonetic": "ˈmeɪpəl",
+          "example": "A red maple tree grew.",
           "translations": {
             "zh-CN": "枫树：槭树"
           }
@@ -1344,6 +1510,7 @@
           "text": "cart",
           "is_bold": false,
           "phonetic": "kɑrt",
+          "example": "The vendor pushed his cart.",
           "translations": {
             "zh-CN": "手推车；运货马车"
           }
@@ -1352,6 +1519,7 @@
           "text": "spilt spilled",
           "is_bold": false,
           "phonetic": "spɪlt spɪld",
+          "example": "She spilt coffee on her shirt.",
           "translations": {
             "zh-CN": "使）酒出；（使）溢出"
           }
@@ -1360,6 +1528,7 @@
           "text": "trip over",
           "is_bold": false,
           "phonetic": "trɪp ˈoʊvər",
+          "example": "The dog will trip over the ball.",
           "translations": {
             "zh-CN": "被-…绊倒"
           }
@@ -1368,6 +1537,7 @@
           "text": "limp",
           "is_bold": false,
           "phonetic": "lɪmp",
+          "example": "The dog will limp after running.",
           "translations": {
             "zh-CN": "跛行；一瘸一拐地走"
           }
@@ -1376,6 +1546,7 @@
           "text": "tear",
           "is_bold": false,
           "phonetic": "tɪr",
+          "example": "A big tear fell from her eye.",
           "translations": {
             "zh-CN": "眼泪；泪水"
           }
@@ -1384,6 +1555,7 @@
           "text": "in tears",
           "is_bold": false,
           "phonetic": "ɪn tɪrz",
+          "example": "She was in tears at the party.",
           "translations": {
             "zh-CN": "流着泪：含着泪"
           }
@@ -1392,6 +1564,7 @@
           "text": "harm",
           "is_bold": false,
           "phonetic": "hɑrm",
+          "example": "The dog caused much harm.",
           "translations": {
             "zh-CN": "伤害；损害"
           }
@@ -1400,6 +1573,7 @@
           "text": "despair",
           "is_bold": false,
           "phonetic": "dɪˈspɛr",
+          "example": "He felt despair about the test.",
           "translations": {
             "zh-CN": "绝望绝望；感到无望"
           }
@@ -1408,6 +1582,7 @@
           "text": "in despair",
           "is_bold": false,
           "phonetic": "ɪn dɪˈspɛr",
+          "example": "They are in despair now.",
           "translations": {
             "zh-CN": "处于绝望中"
           }
@@ -1416,6 +1591,7 @@
           "text": "might",
           "is_bold": false,
           "phonetic": "maɪt",
+          "example": "It might rain tomorrow afternoon.",
           "translations": {
             "zh-CN": "力量；威力"
           }
@@ -1424,6 +1600,7 @@
           "text": "a great deal of",
           "is_bold": false,
           "phonetic": "ə greɪt dil əv",
+          "example": "We have a great deal of homework.",
           "translations": {
             "zh-CN": "大量"
           }
@@ -1432,6 +1609,7 @@
           "text": "fable",
           "is_bold": false,
           "phonetic": "ˈfeɪbəl",
+          "example": "The ant is in a small fable.",
           "translations": {
             "zh-CN": "寓言；寓言故事"
           }
@@ -1440,6 +1618,7 @@
           "text": "court",
           "is_bold": false,
           "phonetic": "kɔrt",
+          "example": "The judge sat in the court.",
           "translations": {
             "zh-CN": "网球等的）球场；法院；法庭"
           }
@@ -1448,6 +1627,7 @@
           "text": "flexible",
           "is_bold": false,
           "phonetic": "ˈflɛksəbəl",
+          "example": "A rubber band is very flexible.",
           "translations": {
             "zh-CN": "灵活的；可变通的"
           }
@@ -1456,6 +1636,7 @@
           "text": "income",
           "is_bold": false,
           "phonetic": "ˈɪnˌkəm",
+          "example": "My monthly income is quite high.",
           "translations": {
             "zh-CN": "收入；收益"
           }
@@ -1464,6 +1645,7 @@
           "text": "per",
           "is_bold": false,
           "phonetic": "pər",
+          "example": "Per hour, he works hard.",
           "translations": {
             "zh-CN": "每；每一"
           }
@@ -1472,6 +1654,7 @@
           "text": "therefore",
           "is_bold": false,
           "phonetic": "ˈðɛrˌfɔr",
+          "example": "He studied hard, therefore he passed.",
           "translations": {
             "zh-CN": "因此；所以"
           }
@@ -1480,6 +1663,7 @@
           "text": "tension",
           "is_bold": false,
           "phonetic": "ˈtɛnʃən",
+          "example": "High tension filled the room.",
           "translations": {
             "zh-CN": "紧张关系；紧张；焦虑"
           }
@@ -1488,6 +1672,7 @@
           "text": "Peking Union Medical College",
           "is_bold": false,
           "phonetic": "ˈpiˈkɪŋ ˈjunjən ˈmɛdɪkəl ˈkɑlɪʤ",
+          "example": "She goes to Peking Union Medical College.",
           "translations": {
             "zh-CN": "北京协和医学院"
           }
@@ -1496,6 +1681,7 @@
           "text": "the scholarship",
           "is_bold": false,
           "phonetic": "ðə ˈskɑlərˌʃɪp",
+          "example": "He won the scholarship for his hard work.",
           "translations": {
             "zh-CN": "文海”奖学金"
           }
@@ -1504,6 +1690,7 @@
           "text": "the gyn department",
           "is_bold": false,
           "phonetic": "ðə gɪn dɪˈpɑrtmənt",
+          "example": "I visit the gyn department often.",
           "translations": {
             "zh-CN": "全称 Department of"
           }
@@ -1512,6 +1699,7 @@
           "text": "Obstetrics and Gynecology",
           "is_bold": false,
           "phonetic": "əbˈstɛtrɪks ənd ˌgaɪnəˈkɑləʤi",
+          "example": "My mom works in Obstetrics and Gynecology.",
           "translations": {
             "zh-CN": "妇产科"
           }
@@ -1520,6 +1708,7 @@
           "text": "the people republic of china",
           "is_bold": false,
           "phonetic": "ðə ˈpipəl riˈpəblɪk əv ˈʧaɪnə",
+          "example": "We live in the People's Republic of China.",
           "translations": {
             "zh-CN": "中华人民共和国"
           }
@@ -1528,6 +1717,7 @@
           "text": "the national people congress",
           "is_bold": false,
           "phonetic": "ðə ˈnæʃənəl ˈpipəl ˈkɑŋgrəs",
+          "example": "The NPC meets at a big hall.",
           "translations": {
             "zh-CN": "全国人民代表大会"
           }
@@ -1536,6 +1726,7 @@
           "text": "the north south pole",
           "is_bold": false,
           "phonetic": "ðə nɔrθ saʊθ poʊl",
+          "example": "Snow falls on the North South Pole.",
           "translations": {
             "zh-CN": "北极南极"
           }
@@ -1544,6 +1735,7 @@
           "text": "Henry Norman Bethune",
           "is_bold": false,
           "phonetic": "ˈhɛnri ˈnɔrmən bəθˈjun",
+          "example": "Henry Norman Bethune helped many people.",
           "translations": {
             "zh-CN": "亨利•诺愛•白求恩"
           }
@@ -1559,6 +1751,7 @@
           "text": "diverse",
           "is_bold": false,
           "phonetic": "dɪˈvərs",
+          "example": "They have diverse hobbies and interests.",
           "translations": {
             "zh-CN": "不同的；多种多样的"
           }
@@ -1567,6 +1760,7 @@
           "text": "diversity",
           "is_bold": false,
           "phonetic": "dɪˈvərsɪti",
+          "example": "Our class shows much diversity today.",
           "translations": {
             "zh-CN": "差异（性）；不同（点）：多样性"
           }
@@ -1575,6 +1769,7 @@
           "text": "fortune",
           "is_bold": false,
           "phonetic": "ˈfɔrʧən",
+          "example": "Good fortune smiled on our team.",
           "translations": {
             "zh-CN": "机会；运气"
           }
@@ -1583,6 +1778,7 @@
           "text": "fortune cookie",
           "is_bold": false,
           "phonetic": "ˈfɔrʧən ˈkʊki",
+          "example": "I ate a fortune cookie today.",
           "translations": {
             "zh-CN": "幸运曲奇"
           }
@@ -1591,6 +1787,7 @@
           "text": "gumbo",
           "is_bold": false,
           "phonetic": "ˈgəmboʊ",
+          "example": "We made delicious gumbo for dinner.",
           "translations": {
             "zh-CN": "秋葵汤（用秋葵荚做的浓鸡汤或海鲜汤）"
           }
@@ -1599,6 +1796,7 @@
           "text": "nachos",
           "is_bold": false,
           "phonetic": "ˈnɑˌʧoʊz",
+          "example": "She loves eating cheesy nachos.",
           "translations": {
             "zh-CN": "墨西哥玉米片"
           }
@@ -1607,6 +1805,7 @@
           "text": "chip",
           "is_bold": false,
           "phonetic": "ʧɪp",
+          "example": "He found a small chip on the floor.",
           "translations": {
             "zh-CN": "（英）炸土豆条；（美）炸薯片；芯片：碎片"
           }
@@ -1615,6 +1814,7 @@
           "text": "cheese",
           "is_bold": false,
           "phonetic": "ʧiz",
+          "example": "I like yellow cheese.",
           "translations": {
             "zh-CN": "干酪；奶酪"
           }
@@ -1623,6 +1823,7 @@
           "text": "spicy",
           "is_bold": false,
           "phonetic": "ˈspaɪsi",
+          "example": "This curry is very spicy.",
           "translations": {
             "zh-CN": "加有香料的；辛辣的"
           }
@@ -1631,6 +1832,7 @@
           "text": "ethnic",
           "is_bold": false,
           "phonetic": "ˈɛθnɪk",
+          "example": "They eat ethnic food every day.",
           "translations": {
             "zh-CN": "具有民族特色的；异国风味的；民族的；种族的"
           }
@@ -1639,6 +1841,7 @@
           "text": "admit",
           "is_bold": false,
           "phonetic": "ədˈmɪt",
+          "example": "He must admit his mistake now.",
           "translations": {
             "zh-CN": "承认准许进入（或加入）"
           }
@@ -1647,6 +1850,7 @@
           "text": "definitely",
           "is_bold": false,
           "phonetic": "ˈdɛfənətli",
+          "example": "She will definitely pass the test.",
           "translations": {
             "zh-CN": "肯定；确实"
           }
@@ -1655,6 +1859,7 @@
           "text": "occur",
           "is_bold": false,
           "phonetic": "əˈkər",
+          "example": "Rain will occur tomorrow morning.",
           "translations": {
             "zh-CN": "发生；出现"
           }
@@ -1663,6 +1868,7 @@
           "text": "downtown",
           "is_bold": false,
           "phonetic": "ˈdaʊnˈtaʊn",
+          "example": "We walked downtown after class.",
           "translations": {
             "zh-CN": "在市中心；往市中心"
           }
@@ -1671,6 +1877,7 @@
           "text": "mission",
           "is_bold": false,
           "phonetic": "ˈmɪʃən",
+          "example": "School has a helping mission.",
           "translations": {
             "zh-CN": "传教（区）；重要任务；使命"
           }
@@ -1679,6 +1886,7 @@
           "text": "district",
           "is_bold": false,
           "phonetic": "ˈdɪstrɪkt",
+          "example": "Our school is in a small district.",
           "translations": {
             "zh-CN": "地区；区域"
           }
@@ -1687,6 +1895,7 @@
           "text": "graffiti",
           "is_bold": false,
           "phonetic": "grəˈfiti",
+          "example": "There is graffiti on the wall.",
           "translations": {
             "zh-CN": "涂鸦；胡写乱画"
           }
@@ -1695,6 +1904,7 @@
           "text": "comic",
           "is_bold": false,
           "phonetic": "ˈkɑmɪk",
+          "example": "This comic is funny.",
           "translations": {
             "zh-CN": "连环画杂志；漫画杂志；喜剧演员滑稽的；使人发笑的"
           }
@@ -1703,6 +1913,7 @@
           "text": "afterwards",
           "is_bold": false,
           "phonetic": "ˈæftərwərdz",
+          "example": "We played games afterwards.",
           "translations": {
             "zh-CN": "（NAmEusuallyafterward）ade.以后；后来"
           }
@@ -1711,6 +1922,7 @@
           "text": "head to",
           "is_bold": false,
           "phonetic": "hɛd tɪ",
+          "example": "We head to the school now.",
           "translations": {
             "zh-CN": "朝……）前进；（向……）去"
           }
@@ -1719,6 +1931,7 @@
           "text": "historical",
           "is_bold": false,
           "phonetic": "hɪˈstɔrɪkəl",
+          "example": "This is a historical book.",
           "translations": {
             "zh-CN": "有关）历史的"
           }
@@ -1727,6 +1940,7 @@
           "text": "seek sought",
           "is_bold": false,
           "phonetic": "sik sɔt",
+          "example": "She seeks help from her friend.",
           "translations": {
             "zh-CN": "寻找；寻求；争取；（向人）请求"
           }
@@ -1735,6 +1949,7 @@
           "text": "seek one's fortune",
           "is_bold": false,
           "phonetic": "sik wənz ˈfɔrʧən",
+          "example": "They seek their fortune in China.",
           "translations": {
             "zh-CN": "寻找成功致富之路；闯世界"
           }
@@ -1743,6 +1958,7 @@
           "text": "earn",
           "is_bold": false,
           "phonetic": "ərn",
+          "example": "We hope to earn good money.",
           "translations": {
             "zh-CN": "挣得；賺得；嬴得；博得"
           }
@@ -1751,6 +1967,7 @@
           "text": "earn a living",
           "is_bold": false,
           "phonetic": "ərn ə ˈlɪvɪŋ",
+          "example": "He earns a living as a teacher.",
           "translations": {
             "zh-CN": "谋生"
           }
@@ -1759,6 +1976,7 @@
           "text": "immigrant",
           "is_bold": false,
           "phonetic": "ˈɪməgrənt",
+          "example": "An immigrant lives near my house.",
           "translations": {
             "zh-CN": "外来）移民；外侨"
           }
@@ -1767,6 +1985,7 @@
           "text": "select",
           "is_bold": false,
           "phonetic": "səˈlɛkt",
+          "example": "She will select a blue pen.",
           "translations": {
             "zh-CN": "选择；挑选；选拔"
           }
@@ -1775,6 +1994,7 @@
           "text": "china",
           "is_bold": false,
           "phonetic": "ˈʧaɪnə",
+          "example": "China has tall walls.",
           "translations": {
             "zh-CN": "瓷；瓷器"
           }
@@ -1783,6 +2003,7 @@
           "text": "jazz",
           "is_bold": false,
           "phonetic": "ʤæz",
+          "example": "The music is loud jazz.",
           "translations": {
             "zh-CN": "爵士乐"
           }
@@ -1791,6 +2012,7 @@
           "text": "bar",
           "is_bold": false,
           "phonetic": "bɑr",
+          "example": "The tall bar held sweet juice.",
           "translations": {
             "zh-CN": "酒吧；小吃店；小馆子"
           }
@@ -1799,6 +2021,7 @@
           "text": "diagram",
           "is_bold": false,
           "phonetic": "ˈdaɪəˌgræm",
+          "example": "Please diagram this math problem well.",
           "translations": {
             "zh-CN": "简图；图解：图表；示意图"
           }
@@ -1807,6 +2030,7 @@
           "text": "journal",
           "is_bold": false,
           "phonetic": "ˈʤərnəl",
+          "example": "She writes in her journal every night.",
           "translations": {
             "zh-CN": "日志；日记；报纸；刊物"
           }
@@ -1815,6 +2039,7 @@
           "text": "claim",
           "is_bold": false,
           "phonetic": "kleɪm",
+          "example": "He claims the blue pen is his.",
           "translations": {
             "zh-CN": "夺取（生命），宣称；断言"
           }
@@ -1823,6 +2048,7 @@
           "text": "series",
           "is_bold": false,
           "phonetic": "ˈsɪriz",
+          "example": "This book has a science series.",
           "translations": {
             "zh-CN": "一系列：连续；接连"
           }
@@ -1831,6 +2057,7 @@
           "text": "series of",
           "is_bold": false,
           "phonetic": "ˈsɪriz əv",
+          "example": "There was a series of rainstorms yesterday.",
           "translations": {
             "zh-CN": "一系列或一连串（事件）"
           }
@@ -1839,6 +2066,7 @@
           "text": "apart from aside from",
           "is_bold": false,
           "phonetic": "əˈpɑrt frəm əˈsaɪd frəm",
+          "example": "Apart from apples, she likes bananas too.",
           "translations": {
             "zh-CN": "除了•外（还）；此外"
           }
@@ -1847,6 +2075,7 @@
           "text": "minority",
           "is_bold": false,
           "phonetic": "məˈnɔrəti",
+          "example": "The minority group likes pizza.",
           "translations": {
             "zh-CN": "少数民族：少数派；少数人"
           }
@@ -1855,6 +2084,7 @@
           "text": "escape",
           "is_bold": false,
           "phonetic": "ɪˈskeɪp",
+          "example": "The bird tried to escape the cat.",
           "translations": {
             "zh-CN": "逃走；逃脱；避开逃跑；逃脱；解脱"
           }
@@ -1863,6 +2093,7 @@
           "text": "bring about",
           "is_bold": false,
           "phonetic": "brɪŋ əˈbaʊt",
+          "example": "Rain will bring about wet ground.",
           "translations": {
             "zh-CN": "导致；引起"
           }
@@ -1871,6 +2102,7 @@
           "text": "Atlantic",
           "is_bold": false,
           "phonetic": "əˈtlæntɪk",
+          "example": "We see the big Atlantic ocean.",
           "translations": {
             "zh-CN": "大四洋的"
           }
@@ -1879,6 +2111,7 @@
           "text": "financial",
           "is_bold": false,
           "phonetic": "ˌfaɪˈnænʃəl",
+          "example": "He has financial problems now.",
           "translations": {
             "zh-CN": "财政的；财务的；金融的"
           }
@@ -1887,6 +2120,7 @@
           "text": "poetry",
           "is_bold": false,
           "phonetic": "ˈpoʊətri",
+          "example": "She reads much poetry daily.",
           "translations": {
             "zh-CN": "诗集；诗歌；诗作"
           }
@@ -1895,6 +2129,7 @@
           "text": "jeans",
           "is_bold": false,
           "phonetic": "ʤinz",
+          "example": "He wears blue jeans every day.",
           "translations": {
             "zh-CN": "牛仔裤"
           }
@@ -1903,6 +2138,7 @@
           "text": "boot",
           "is_bold": false,
           "phonetic": "but",
+          "example": "He put on his new boots today.",
           "translations": {
             "zh-CN": "靴子"
           }
@@ -1911,6 +2147,7 @@
           "text": "mushroom",
           "is_bold": false,
           "phonetic": "ˈməʃrum",
+          "example": "We picked a mushroom in the park.",
           "translations": {
             "zh-CN": "蘑菇；蕈"
           }
@@ -1919,6 +2156,7 @@
           "text": "poisonous",
           "is_bold": false,
           "phonetic": "ˈpɔɪzənəs",
+          "example": "Snake venom is very poisonous.",
           "translations": {
             "zh-CN": "引起中毒的；有毒的；分泌毒素的"
           }
@@ -1927,6 +2165,7 @@
           "text": "poison",
           "is_bold": false,
           "phonetic": "ˈpɔɪzən",
+          "example": "The water will poison the fish.",
           "translations": {
             "zh-CN": "毒物：毒药：毒索毒死；毒害"
           }
@@ -1935,6 +2174,7 @@
           "text": "fold",
           "is_bold": false,
           "phonetic": "foʊld",
+          "example": "Please fold the paper neatly.",
           "translations": {
             "zh-CN": "包；裹；折登（可）折小；（可）登平"
           }
@@ -1943,6 +2183,7 @@
           "text": "super",
           "is_bold": false,
           "phonetic": "ˈsupər",
+          "example": "This cake is super sweet and yummy.",
           "translations": {
             "zh-CN": "特别：格外顶好的；超级的"
           }
@@ -1951,6 +2192,7 @@
           "text": "collection",
           "is_bold": false,
           "phonetic": "kəˈlɛkʃən",
+          "example": "The coin collection is very old.",
           "translations": {
             "zh-CN": "作品集；收集物；收藏品"
           }
@@ -1959,6 +2201,7 @@
           "text": "accessory",
           "is_bold": false,
           "phonetic": "ækˈsɛsəri",
+          "example": "A watch is a nice accessory.",
           "translations": {
             "zh-CN": "配饰；附件；配件"
           }
@@ -1967,6 +2210,7 @@
           "text": "souvenir",
           "is_bold": false,
           "phonetic": "ˌsuvəˈnɪr",
+          "example": "I bought a small souvenir.",
           "translations": {
             "zh-CN": "纪念物；纪念品"
           }
@@ -1975,6 +2219,7 @@
           "text": "percentage",
           "is_bold": false,
           "phonetic": "pərˈsɛnɪʤ",
+          "example": "The test score is a high percentage.",
           "translations": {
             "zh-CN": "百分率；百分比"
           }
@@ -1983,6 +2228,7 @@
           "text": "climate",
           "is_bold": false,
           "phonetic": "ˈklaɪmɪt",
+          "example": "China has a warm climate.",
           "translations": {
             "zh-CN": "气候"
           }
@@ -1991,6 +2237,7 @@
           "text": "mild",
           "is_bold": false,
           "phonetic": "maɪld",
+          "example": "The weather is very mild today.",
           "translations": {
             "zh-CN": "温和的；和善的；轻微的"
           }
@@ -1999,6 +2246,7 @@
           "text": "settle",
           "is_bold": false,
           "phonetic": "ˈsɛtəl",
+          "example": "Please settle the argument now.",
           "translations": {
             "zh-CN": "定居；结束（争论）：解决（纠纷）"
           }
@@ -2007,6 +2255,7 @@
           "text": "construction",
           "is_bold": false,
           "phonetic": "kənˈstrəkʃən",
+          "example": "Building construction takes much time.",
           "translations": {
             "zh-CN": "建筑；建造；建造物；（句子、短语等的〕结构"
           }
@@ -2015,6 +2264,7 @@
           "text": "material",
           "is_bold": false,
           "phonetic": "məˈtɪriəl",
+          "example": "This material is soft cloth.",
           "translations": {
             "zh-CN": "材料；布料；素材物质的；实际的"
           }
@@ -2023,6 +2273,7 @@
           "text": "to but a few",
           "is_bold": false,
           "phonetic": "tɪ bət ə fju",
+          "example": "Give me to but a few examples.",
           "translations": {
             "zh-CN": "仅举几例"
           }
@@ -2031,6 +2282,7 @@
           "text": "tai chi t'ai chi",
           "is_bold": false,
           "phonetic": "taɪ kaɪ t'ai* kaɪ",
+          "example": "He practices tai chi t'ai chi daily.",
           "translations": {
             "zh-CN": "太极拳"
           }
@@ -2039,6 +2291,7 @@
           "text": "clothing",
           "is_bold": false,
           "phonetic": "ˈkloʊðɪŋ",
+          "example": "She bought new clothing for the trip.",
           "translations": {
             "zh-CN": "衣服；服装"
           }
@@ -2047,6 +2300,7 @@
           "text": "herbal",
           "is_bold": false,
           "phonetic": "ˈərbəl",
+          "example": "She ate an herbal tea.",
           "translations": {
             "zh-CN": "药草的；香草的"
           }
@@ -2055,6 +2309,7 @@
           "text": "suit",
           "is_bold": false,
           "phonetic": "sut",
+          "example": "This shirt suits my new pants.",
           "translations": {
             "zh-CN": "适合；满足•需要；相配；合身西服；套装第一手；亲自"
           }
@@ -2063,6 +2318,7 @@
           "text": "item",
           "is_bold": false,
           "phonetic": "ˈaɪtəm",
+          "example": "My pen is an item.",
           "translations": {
             "zh-CN": "项目；一件商品（或物品）：一条（新闻）"
           }
@@ -2071,6 +2327,7 @@
           "text": "contain",
           "is_bold": false,
           "phonetic": "kənˈteɪn",
+          "example": "The box can contain many pencils.",
           "translations": {
             "zh-CN": "包含；含有；容纳"
           }
@@ -2079,6 +2336,7 @@
           "text": "neat",
           "is_bold": false,
           "phonetic": "nit",
+          "example": "My desk looks very neat.",
           "translations": {
             "zh-CN": "极好的；整洁的；整齐的"
           }
@@ -2087,6 +2345,7 @@
           "text": "San Francisco",
           "is_bold": false,
           "phonetic": "sæn frænˈsɪskoʊ",
+          "example": "We like San Francisco city.",
           "translations": {
             "zh-CN": "圣弗朗西斯科（旧金山）（美国城市）"
           }
@@ -2095,6 +2354,7 @@
           "text": "Napa Valley",
           "is_bold": false,
           "phonetic": "ˈnæpə ˈvæli",
+          "example": "They visited Napa Valley last year.",
           "translations": {
             "zh-CN": "纳帕谷（美国）"
           }
@@ -2103,6 +2363,7 @@
           "text": "the golden gate bridge",
           "is_bold": false,
           "phonetic": "ðə ˈgoʊldən geɪt brɪʤ",
+          "example": "We saw the golden gate bridge.",
           "translations": {
             "zh-CN": "金门桥"
           }
@@ -2111,6 +2372,7 @@
           "text": "the mission district",
           "is_bold": false,
           "phonetic": "ðə ˈmɪʃən ˈdɪstrɪkt",
+          "example": "We walk in the mission district.",
           "translations": {
             "zh-CN": "教会区（旧金山）"
           }
@@ -2119,6 +2381,7 @@
           "text": "Mexico",
           "is_bold": false,
           "phonetic": "ˈmɛksəˌkoʊ",
+          "example": "She likes food from Mexico.",
           "translations": {
             "zh-CN": "墨西哥（北美洲国家）"
           }
@@ -2127,6 +2390,7 @@
           "text": "California",
           "is_bold": false,
           "phonetic": "ˌkæləˈfɔrnjə",
+          "example": "She lives in California.",
           "translations": {
             "zh-CN": "加利福尼亚（美国州名）"
           }
@@ -2135,6 +2399,7 @@
           "text": "Cantonese",
           "is_bold": false,
           "phonetic": "ˌkæntəˈniz",
+          "example": "She speaks Cantonese very well.",
           "translations": {
             "zh-CN": "广东的；粵语的粤语；广东人"
           }
@@ -2143,6 +2408,7 @@
           "text": "the richmond district",
           "is_bold": false,
           "phonetic": "ðə ˈrɪʧmənd ˈdɪstrɪkt",
+          "example": "They live in the richmond district.",
           "translations": {
             "zh-CN": "里士满区（旧金山）"
           }
@@ -2151,6 +2417,7 @@
           "text": "Waterfall",
           "is_bold": false,
           "phonetic": "ˈwɔtərˌfɔl",
+          "example": "The waterfall is very tall.",
           "translations": {
             "zh-CN": "黄果树瀑布"
           }
@@ -2159,6 +2426,7 @@
           "text": "Journey to the West",
           "is_bold": false,
           "phonetic": "ˈʤərni tɪ ðə wɛst",
+          "example": "Read Journey to the West book.",
           "translations": {
             "zh-CN": "西游记》"
           }
@@ -2167,6 +2435,7 @@
           "text": "Tin How Temple",
           "is_bold": false,
           "phonetic": "tɪn haʊ ˈtɛmpəl",
+          "example": "See Tin How Temple today.",
           "translations": {
             "zh-CN": "天后古庙"
           }
@@ -2175,6 +2444,7 @@
           "text": "Bank of Canton",
           "is_bold": false,
           "phonetic": "bæŋk əv ˈkæntən",
+          "example": "We went to Bank of Canton today.",
           "translations": {
             "zh-CN": "广东银行"
           }
@@ -2183,6 +2453,7 @@
           "text": "Portsmouth Square",
           "is_bold": false,
           "phonetic": "ˈpɔrtsməθ skwɛr",
+          "example": "They met at Portsmouth Square park.",
           "translations": {
             "zh-CN": "花园角广场（旧金山）"
           }
@@ -2191,6 +2462,7 @@
           "text": "Robert Louis Stevenson",
           "is_bold": false,
           "phonetic": "ˈrɑbərt luɪs ˈstivənsən",
+          "example": "Stevenson wrote many great books.",
           "translations": {
             "zh-CN": "罗伯特•路易斯•斯蒂文森（英国作家）"
           }
@@ -2206,6 +2478,7 @@
           "text": "astronaut",
           "is_bold": false,
           "phonetic": "ˈæstrəˌnɑt",
+          "example": "The astronaut flies in space.",
           "translations": {
             "zh-CN": "宇航员；太空人"
           }
@@ -2214,6 +2487,7 @@
           "text": "procedure",
           "is_bold": false,
           "phonetic": "prəˈsiʤər",
+          "example": "Follow the correct procedure carefully.",
           "translations": {
             "zh-CN": "程序；步骤；手续"
           }
@@ -2222,6 +2496,7 @@
           "text": "mental",
           "is_bold": false,
           "phonetic": "ˈmɛntəl",
+          "example": "He has mental health problems now.",
           "translations": {
             "zh-CN": "精神的；思想的"
           }
@@ -2230,6 +2505,7 @@
           "text": "centimetre",
           "is_bold": false,
           "phonetic": "ˈsɛntəˌmitər",
+          "example": "The pencil is ten centimet long.",
           "translations": {
             "zh-CN": "厘米"
           }
@@ -2238,6 +2514,7 @@
           "text": "centimeter",
           "is_bold": false,
           "phonetic": "ˈsɛntəˌmitər",
+          "example": "This pencil is ten centimeter long.",
           "translations": {
             "zh-CN": "厘米/mteld3ont/有智慧的；聪明的；有智力的"
           }
@@ -2246,6 +2523,7 @@
           "text": "rocket",
           "is_bold": false,
           "phonetic": "ˈrɑkət",
+          "example": "The rocket flew very fast.",
           "translations": {
             "zh-CN": "火；火箭弹"
           }
@@ -2254,6 +2532,7 @@
           "text": "gravity",
           "is_bold": false,
           "phonetic": "ˈgrævɪti",
+          "example": "Gravity keeps us on Earth.",
           "translations": {
             "zh-CN": "重力：引"
           }
@@ -2262,6 +2541,7 @@
           "text": "frontier",
           "is_bold": false,
           "phonetic": "frənˈtɪr",
+          "example": "We live near the frontier town.",
           "translations": {
             "zh-CN": "边境；国界：边远地区"
           }
@@ -2270,6 +2550,7 @@
           "text": "vehicle",
           "is_bold": false,
           "phonetic": "ˈviɪkəl",
+          "example": "A car is a fast vehicle.",
           "translations": {
             "zh-CN": "交通工具；车辆"
           }
@@ -2278,6 +2559,7 @@
           "text": "universe",
           "is_bold": false,
           "phonetic": "ˈjunəˌvərs",
+          "example": "The universe is very big.",
           "translations": {
             "zh-CN": "宇宙；天地万物"
           }
@@ -2286,6 +2568,7 @@
           "text": "determined",
           "is_bold": false,
           "phonetic": "dɪˈtərmənd",
+          "example": "She is determined to pass the test.",
           "translations": {
             "zh-CN": "有决心的；意志坚定的"
           }
@@ -2294,6 +2577,7 @@
           "text": "determine",
           "is_bold": false,
           "phonetic": "dɪˈtərmən",
+          "example": "We must determine the answer now.",
           "translations": {
             "zh-CN": "查明；确定；决定"
           }
@@ -2302,6 +2586,7 @@
           "text": "satellite",
           "is_bold": false,
           "phonetic": "ˈsætəˌlaɪt",
+          "example": "The satellite orbits the Earth.",
           "translations": {
             "zh-CN": "人造卫星，卫星"
           }
@@ -2310,6 +2595,7 @@
           "text": "launch",
           "is_bold": false,
           "phonetic": "lɔnʧ",
+          "example": "The team will launch a new game.",
           "translations": {
             "zh-CN": "发射；发起；上市"
           }
@@ -2318,6 +2604,7 @@
           "text": "orbit",
           "is_bold": false,
           "phonetic": "ˈɔrbət",
+          "example": "The moon orbits the Earth each night.",
           "translations": {
             "zh-CN": "（环绕地球、太阳等运行的）轨道；势力范围沿轨道运行；环绕……运行"
           }
@@ -2326,6 +2613,7 @@
           "text": "giant",
           "is_bold": false,
           "phonetic": "ʤaɪənt",
+          "example": "The giant eats big food.",
           "translations": {
             "zh-CN": "巨大的；伟大的巨人；巨兽；伟人"
           }
@@ -2334,6 +2622,7 @@
           "text": "leap",
           "is_bold": false,
           "phonetic": "lip",
+          "example": "The frog can leap very high.",
           "translations": {
             "zh-CN": "跳跃；剧增；剧变跳过；跃过"
           }
@@ -2342,6 +2631,7 @@
           "text": "mankind",
           "is_bold": false,
           "phonetic": "ˈmænˈkaɪnd",
+          "example": "Mankind needs clean water.",
           "translations": {
             "zh-CN": "人类"
           }
@@ -2350,6 +2640,7 @@
           "text": "agency",
           "is_bold": false,
           "phonetic": "ˈeɪʤənsi",
+          "example": "The bookstore is a book sales agency.",
           "translations": {
             "zh-CN": "（政府的）专门机构；服务机构；代理处"
           }
@@ -2358,6 +2649,7 @@
           "text": "transmit",
           "is_bold": false,
           "phonetic": "trænzˈmɪt",
+          "example": "Please transmit the message now.",
           "translations": {
             "zh-CN": "传输；发送"
           }
@@ -2366,6 +2658,7 @@
           "text": "data",
           "is_bold": false,
           "phonetic": "ˈdætə",
+          "example": "We need more test data now.",
           "translations": {
             "zh-CN": "资料；数据"
           }
@@ -2374,6 +2667,7 @@
           "text": "disappointed",
           "is_bold": false,
           "phonetic": "ˌdɪsəˈpɔɪnɪd",
+          "example": "He felt disappointed about the rain.",
           "translations": {
             "zh-CN": "失望的；沮丧的"
           }
@@ -2382,6 +2676,7 @@
           "text": "desire",
           "is_bold": false,
           "phonetic": "dɪˈzaɪər",
+          "example": "He has a strong desire for books.",
           "translations": {
             "zh-CN": "渴望；欲望渴望；期望"
           }
@@ -2390,6 +2685,7 @@
           "text": "carry on",
           "is_bold": false,
           "phonetic": "ˈkɛri ɔn",
+          "example": "We must carry on studying hard.",
           "translations": {
             "zh-CN": "继续做，坚持于"
           }
@@ -2398,6 +2694,7 @@
           "text": "ongoing",
           "is_bold": false,
           "phonetic": "ˈɔnˌgoʊɪŋ",
+          "example": "This is an ongoing project for us.",
           "translations": {
             "zh-CN": "持续存在的；仍在进行的；不断发展的"
           }
@@ -2406,6 +2703,7 @@
           "text": "on board",
           "is_bold": false,
           "phonetic": "ɔn bɔrd",
+          "example": "My friend is on board the plane.",
           "translations": {
             "zh-CN": "在宇宙飞船上；在船上；在飞机上"
           }
@@ -2414,6 +2712,7 @@
           "text": "independently",
           "is_bold": false,
           "phonetic": "ˌɪndɪˈpɛndəntli",
+          "example": "She works independently at school.",
           "translations": {
             "zh-CN": "独立地：自立地"
           }
@@ -2422,6 +2721,7 @@
           "text": "independent",
           "is_bold": false,
           "phonetic": "ˌɪndɪˈpɛndənt",
+          "example": "She is an independent student now.",
           "translations": {
             "zh-CN": "独立的；自立的"
           }
@@ -2430,6 +2730,7 @@
           "text": "spacecraft",
           "is_bold": false,
           "phonetic": "ˈspeɪˌskræft",
+          "example": "The spacecraft orbits Earth now.",
           "translations": {
             "zh-CN": "航天器；宇宙飞船太空行走；太空行走的时间"
           }
@@ -2438,6 +2739,7 @@
           "text": "jade",
           "is_bold": false,
           "phonetic": "ʤeɪd",
+          "example": "He found a green jade stone.",
           "translations": {
             "zh-CN": "玉：翡翠；玉器"
           }
@@ -2446,6 +2748,7 @@
           "text": "dock",
           "is_bold": false,
           "phonetic": "dɑk",
+          "example": "Two ships will dock today.",
           "translations": {
             "zh-CN": "两架航天器）对接；（使），进港码头；船坞"
           }
@@ -2454,6 +2757,7 @@
           "text": "signal",
           "is_bold": false,
           "phonetic": "ˈsɪgnəl",
+          "example": "The red light is a signal.",
           "translations": {
             "zh-CN": "标志着；标明；发信号信号；标效"
           }
@@ -2462,6 +2766,7 @@
           "text": "in the hope of doing",
           "is_bold": false,
           "phonetic": "ɪn ðə hoʊp əv duɪŋ",
+          "example": "We study in the hope of passing.",
           "translations": {
             "zh-CN": "抱着•••的希望"
           }
@@ -2470,6 +2775,7 @@
           "text": "so as to do",
           "is_bold": false,
           "phonetic": "soʊ ɛz tɪ du",
+          "example": "She studies hard so as to pass.",
           "translations": {
             "zh-CN": "为了；以便"
           }
@@ -2478,6 +2784,7 @@
           "text": "recycle",
           "is_bold": false,
           "phonetic": "riˈsaɪkəl",
+          "example": "We recycle plastic.",
           "translations": {
             "zh-CN": "回收利用；再利用"
           }
@@ -2486,6 +2793,7 @@
           "text": "muscle",
           "is_bold": false,
           "phonetic": "ˈməsəl",
+          "example": "His strong muscle helps him run.",
           "translations": {
             "zh-CN": "肌肉：实力；影响力"
           }
@@ -2494,6 +2802,7 @@
           "text": "lack",
           "is_bold": false,
           "phonetic": "læk",
+          "example": "She lacks patience for slow work.",
           "translations": {
             "zh-CN": "缺乏；短缺 wt.没有；缺乏"
           }
@@ -2502,6 +2811,7 @@
           "text": "float",
           "is_bold": false,
           "phonetic": "floʊt",
+          "example": "A small boat can float well.",
           "translations": {
             "zh-CN": "浮动；漂流；漂浮使浮动：使漂流"
           }
@@ -2510,6 +2820,7 @@
           "text": "otherwise",
           "is_bold": false,
           "phonetic": "ˈəðərˌwaɪz",
+          "example": "Study hard, otherwise you will fail.",
           "translations": {
             "zh-CN": "否则；要不然"
           }
@@ -2518,6 +2829,7 @@
           "text": "beyond",
           "is_bold": false,
           "phonetic": "bɪɔnd",
+          "example": "Look beyond the big green tree.",
           "translations": {
             "zh-CN": "在更远处；超出"
           }
@@ -2526,6 +2838,7 @@
           "text": "solar",
           "is_bold": false,
           "phonetic": "ˈsoʊlər",
+          "example": "We use solar power for light.",
           "translations": {
             "zh-CN": "太阳的；太阳能的"
           }
@@ -2534,6 +2847,7 @@
           "text": "solar system",
           "is_bold": false,
           "phonetic": "ˈsoʊlər ˈsɪstəm",
+          "example": "Earth is in our solar system.",
           "translations": {
             "zh-CN": "太阳系；类太阳系"
           }
@@ -2542,6 +2856,7 @@
           "text": "current",
           "is_bold": false,
           "phonetic": "ˈkɑrənt",
+          "example": "What is the current weather like?",
           "translations": {
             "zh-CN": "当前的；现在的水流；电流；思潮"
           }
@@ -2550,6 +2865,7 @@
           "text": "figure out",
           "is_bold": false,
           "phonetic": "ˈfɪgjər aʊt",
+          "example": "Can you figure out this math problem?",
           "translations": {
             "zh-CN": "弄懂；弄清楚；弄明白"
           }
@@ -2558,6 +2874,7 @@
           "text": "sufficient",
           "is_bold": false,
           "phonetic": "səˈfɪʃənt",
+          "example": "We have sufficient books for class.",
           "translations": {
             "zh-CN": "足够的；充足的"
           }
@@ -2566,6 +2883,7 @@
           "text": "soap",
           "is_bold": false,
           "phonetic": "soʊp",
+          "example": "Wash your hands with soap.",
           "translations": {
             "zh-CN": "肥皂"
           }
@@ -2574,6 +2892,7 @@
           "text": "towel",
           "is_bold": false,
           "phonetic": "taʊəl",
+          "example": "Please use the towel to dry it.",
           "translations": {
             "zh-CN": "毛巾；抹布"
           }
@@ -2582,6 +2901,7 @@
           "text": "microwave",
           "is_bold": false,
           "phonetic": "ˈmaɪkrəˌweɪv",
+          "example": "We heat water in the microwave.",
           "translations": {
             "zh-CN": "微波炉"
           }
@@ -2590,6 +2910,7 @@
           "text": "tissue",
           "is_bold": false,
           "phonetic": "ˈtɪʃu",
+          "example": "She used a tissue to wipe her nose.",
           "translations": {
             "zh-CN": "纸巾：（人、动植物细胞的）组织"
           }
@@ -2598,6 +2919,7 @@
           "text": "facility",
           "is_bold": false,
           "phonetic": "fəˈsɪlɪti",
+          "example": "The school has a good sports facility.",
           "translations": {
             "zh-CN": "设施；设备"
           }
@@ -2606,6 +2928,7 @@
           "text": "keen",
           "is_bold": false,
           "phonetic": "kin",
+          "example": "She is keen on learning English.",
           "translations": {
             "zh-CN": "热衷的；渴望的"
           }
@@ -2614,6 +2937,7 @@
           "text": "globe",
           "is_bold": false,
           "phonetic": "gloʊb",
+          "example": "He spun the globe around slowly.",
           "translations": {
             "zh-CN": "地球；世界；地球仪"
           }
@@ -2622,6 +2946,7 @@
           "text": "argue",
           "is_bold": false,
           "phonetic": "ˈɑrgju",
+          "example": "My brother and I often argue about games.",
           "translations": {
             "zh-CN": "论证；争辩；争论"
           }
@@ -2630,6 +2955,7 @@
           "text": "argument",
           "is_bold": false,
           "phonetic": "ˈɑrgjəmənt",
+          "example": "We had an argument about homework tonight.",
           "translations": {
             "zh-CN": "争论：争吵：论点"
           }
@@ -2638,6 +2964,7 @@
           "text": "fatal",
           "is_bold": false,
           "phonetic": "ˈfeɪtəl",
+          "example": "That mistake was fatal to his score.",
           "translations": {
             "zh-CN": "致命的；灾难性的"
           }
@@ -2646,6 +2973,7 @@
           "text": "shallow",
           "is_bold": false,
           "phonetic": "ˈʃæloʊ",
+          "example": "The water is very shallow.",
           "translations": {
             "zh-CN": "肤浅的；浅的"
           }
@@ -2654,6 +2982,7 @@
           "text": "result in",
           "is_bold": false,
           "phonetic": "rɪˈzəlt ɪn",
+          "example": "Rain will result in wet ground.",
           "translations": {
             "zh-CN": "导致；造成"
           }
@@ -2662,6 +2991,7 @@
           "text": "pattern",
           "is_bold": false,
           "phonetic": "ˈpætərn",
+          "example": "Look at the flower pattern here.",
           "translations": {
             "zh-CN": "模式；图案；模范"
           }
@@ -2670,6 +3000,7 @@
           "text": "analysis analyses",
           "is_bold": false,
           "phonetic": "æˈnælɪsɪs æˈnælɪˌsiz",
+          "example": "The analysis shows good results.",
           "translations": {
             "zh-CN": "人对事物的）分析；分析结果"
           }
@@ -2678,6 +3009,7 @@
           "text": "as a result",
           "is_bold": false,
           "phonetic": "ɛz ə rɪˈzəlt",
+          "example": "She studied hard, as a result.",
           "translations": {
             "zh-CN": "所以；结果（是）"
           }
@@ -2686,6 +3018,7 @@
           "text": "high end",
           "is_bold": false,
           "phonetic": "haɪ ɛnd",
+          "example": "This phone is high end.",
           "translations": {
             "zh-CN": "高端的"
           }
@@ -2694,6 +3027,7 @@
           "text": "monitor",
           "is_bold": false,
           "phonetic": "ˈmɑnətər",
+          "example": "Please monitor the class well.",
           "translations": {
             "zh-CN": "监视器；监測仪吐监视；监测；监控"
           }
@@ -2702,6 +3036,7 @@
           "text": "regularly",
           "is_bold": false,
           "phonetic": "ˈrɛgjələrli",
+          "example": "We meet regularly on Monday.",
           "translations": {
             "zh-CN": "经常：定期地"
           }
@@ -2710,6 +3045,7 @@
           "text": "regular",
           "is_bold": false,
           "phonetic": "ˈrɛgjələr",
+          "example": "We have a regular class.",
           "translations": {
             "zh-CN": "定期的；经常的；正常的"
           }
@@ -2718,6 +3054,7 @@
           "text": "foam",
           "is_bold": false,
           "phonetic": "foʊm",
+          "example": "The cushion has soft foam.",
           "translations": {
             "zh-CN": "泡沫橡胶；泡沫智能手机"
           }
@@ -2726,6 +3063,7 @@
           "text": "resource",
           "is_bold": false,
           "phonetic": "ˈrisɔrs",
+          "example": "We have enough time resource.",
           "translations": {
             "zh-CN": "资源；财力；物力"
           }
@@ -2734,6 +3072,7 @@
           "text": "limited",
           "is_bold": false,
           "phonetic": "ˈlɪmɪtɪd",
+          "example": "My money is very limited now.",
           "translations": {
             "zh-CN": "有限的"
           }
@@ -2742,6 +3081,7 @@
           "text": "provide for",
           "is_bold": false,
           "phonetic": "prəˈvaɪd fər",
+          "example": "Parents provide for their children.",
           "translations": {
             "zh-CN": "提供生活所需"
           }
@@ -2750,6 +3090,7 @@
           "text": "closing",
           "is_bold": false,
           "phonetic": "ˈkloʊzɪŋ",
+          "example": "The book has a happy closing scene.",
           "translations": {
             "zh-CN": "结尾的；结束的停业；关闭；倒闭"
           }
@@ -2758,6 +3099,7 @@
           "text": "in closing",
           "is_bold": false,
           "phonetic": "ɪn ˈkloʊzɪŋ",
+          "example": "In closing, I say thank you.",
           "translations": {
             "zh-CN": "最后"
           }
@@ -2766,6 +3108,7 @@
           "text": "mystery",
           "is_bold": false,
           "phonetic": "ˈmɪstəri",
+          "example": "A ghost is a great mystery.",
           "translations": {
             "zh-CN": "神秘事物；谜"
           }
@@ -2774,6 +3117,7 @@
           "text": "run out",
           "is_bold": false,
           "phonetic": "rən aʊt",
+          "example": "The water will run out soon.",
           "translations": {
             "zh-CN": "用元；耗尽"
           }
@@ -2782,6 +3126,7 @@
           "text": "attach",
           "is_bold": false,
           "phonetic": "əˈtæʧ",
+          "example": "Please attach your homework to this paper.",
           "translations": {
             "zh-CN": "系；绑；贴"
           }
@@ -2790,6 +3135,7 @@
           "text": "oxygen",
           "is_bold": false,
           "phonetic": "ˈɑksɪʤən",
+          "example": "Plants need oxygen to live.",
           "translations": {
             "zh-CN": "氧；氧气"
           }
@@ -2798,6 +3144,7 @@
           "text": "Sputnik",
           "is_bold": false,
           "phonetic": "ˈspətnɪk",
+          "example": "Sputnik was a famous space satellite.",
           "translations": {
             "zh-CN": "旅伴一号”（苏联发射的人类第一颗人造卫星）"
           }
@@ -2806,6 +3153,7 @@
           "text": "the Union of Soviet Socialist",
           "is_bold": false,
           "phonetic": "ðə ˈjunjən əv ˈsoʊviˌɛt ˈsoʊʃəlɪst",
+          "example": "The Union of Soviet Socialist built rockets.",
           "translations": {
             "zh-CN": "苏维埃社会主义共和国联盟；苏联"
           }
@@ -2814,6 +3162,7 @@
           "text": "Republics",
           "is_bold": false,
           "phonetic": "riˈpəblɪks",
+          "example": "Russia has many Republics inside it.",
           "translations": {
             "zh-CN": "苏联"
           }
@@ -2822,6 +3171,7 @@
           "text": "Yuri",
           "is_bold": false,
           "phonetic": "ˈjʊri",
+          "example": "Yuri flew in the Sputnik rocket.",
           "translations": {
             "zh-CN": "尤里•加加林（苏联宇航员）"
           }
@@ -2830,6 +3180,7 @@
           "text": "Neil Armstrong",
           "is_bold": false,
           "phonetic": "nil ˈɑrmˌstrɔŋ",
+          "example": "Neil Armstrong walked on the moon.",
           "translations": {
             "zh-CN": "尼尔、阿姆斯特朗（美国宇航员）"
           }
@@ -2838,6 +3189,7 @@
           "text": "NASA",
           "is_bold": false,
           "phonetic": "ˈnæsə",
+          "example": "NASA sends rockets to space.",
           "translations": {
             "zh-CN": "美国国家航空航天局"
           }
@@ -2846,6 +3198,7 @@
           "text": "Administration",
           "is_bold": false,
           "phonetic": "ædˌmɪnɪˈstreɪʃən",
+          "example": "School administration manages our daily life.",
           "translations": {
             "zh-CN": "美国）国家航空与航天局"
           }
@@ -2854,6 +3207,7 @@
           "text": "Voyager",
           "is_bold": false,
           "phonetic": "ˈvɔɪɪʤər",
+          "example": "Voyager travels past many planets.",
           "translations": {
             "zh-CN": "旅行者一号”"
           }
@@ -2862,6 +3216,7 @@
           "text": "Soyuz",
           "is_bold": false,
           "phonetic": "sɔɪəz",
+          "example": "Soyuz flies to the moon.",
           "translations": {
             "zh-CN": "联盟11号\""
           }
@@ -2870,6 +3225,7 @@
           "text": "Challenger",
           "is_bold": false,
           "phonetic": "ˈʧælɪnʤər",
+          "example": "Challenger was a famous shuttle.",
           "translations": {
             "zh-CN": "挑战者”号航天飞机，"
           }
@@ -2878,6 +3234,7 @@
           "text": "the international space station",
           "is_bold": false,
           "phonetic": "ðə ˌɪnərˈnæʃənɑl speɪs ˈsteɪʃən",
+          "example": "The international space station orbits Earth.",
           "translations": {
             "zh-CN": "国际空间站"
           }
@@ -2886,6 +3243,7 @@
           "text": "Jade Rabbit",
           "is_bold": false,
           "phonetic": "ʤeɪd ˈræbɪt",
+          "example": "The Jade Rabbit lives near the moon.",
           "translations": {
             "zh-CN": "玉兔”月球车"
           }
@@ -2894,6 +3252,7 @@
           "text": "Mars",
           "is_bold": false,
           "phonetic": "mɑrz",
+          "example": "We saw red on Mars.",
           "translations": {
             "zh-CN": "火星"
           }
@@ -2902,6 +3261,7 @@
           "text": "Jupiter",
           "is_bold": false,
           "phonetic": "ˈʤupɪtər",
+          "example": "Jupiter is a very big planet.",
           "translations": {
             "zh-CN": "木星"
           }
@@ -2910,6 +3270,7 @@
           "text": "Typhoon",
           "is_bold": false,
           "phonetic": "ˌtaɪˈfun",
+          "example": "A typhoon came last week.",
           "translations": {
             "zh-CN": "合风天鹅"
           }
@@ -2918,6 +3279,7 @@
           "text": "GPS global positioning system",
           "is_bold": false,
           "phonetic": "ˈgipiˈɛs ˈgloʊbəl pəˈzɪʃənɪŋ ˈsɪstəm",
+          "example": "We use GPS for directions.",
           "translations": {
             "zh-CN": "全球（卫星）定位系统"
           }
@@ -2933,6 +3295,7 @@
           "text": "basis",
           "is_bold": false,
           "phonetic": "ˈbeɪsɪs",
+          "example": "Math is the basis for science.",
           "translations": {
             "zh-CN": "基础：根据；基点"
           }
@@ -2941,6 +3304,7 @@
           "text": "on the basis of",
           "is_bold": false,
           "phonetic": "ɔn ðə ˈbeɪsɪs əv",
+          "example": "On the basis of data, we decide.",
           "translations": {
             "zh-CN": "在某事的基础上；根据某事"
           }
@@ -2949,6 +3313,7 @@
           "text": "loan",
           "is_bold": false,
           "phonetic": "loʊn",
+          "example": "She took a bank loan for school.",
           "translations": {
             "zh-CN": "贷款；借款"
           }
@@ -2957,6 +3322,7 @@
           "text": "take out a loan",
           "is_bold": false,
           "phonetic": "teɪk aʊt ə loʊn",
+          "example": "Mom will take out a loan for the car.",
           "translations": {
             "zh-CN": "取得贷款"
           }
@@ -2965,6 +3331,7 @@
           "text": "plastic",
           "is_bold": false,
           "phonetic": "ˈplæstɪk",
+          "example": "This toy is plastic.",
           "translations": {
             "zh-CN": "塑料塑料制的；塑料的"
           }
@@ -2973,6 +3340,7 @@
           "text": "apologise apologize",
           "is_bold": false,
           "phonetic": "əˈpɑləˌʤaɪz əˈpɑləˌʤaɪz",
+          "example": "Please apologise for your small mistake.",
           "translations": {
             "zh-CN": "道款；谢罪"
           }
@@ -2981,6 +3349,7 @@
           "text": "ignore",
           "is_bold": false,
           "phonetic": "ˌɪgˈnɔr",
+          "example": "Please ignore the small noise outside.",
           "translations": {
             "zh-CN": "以.忽视；对…不予理会"
           }
@@ -2989,6 +3358,7 @@
           "text": "in return",
           "is_bold": false,
           "phonetic": "ɪn rɪˈtərn",
+          "example": "He helped me in return.",
           "translations": {
             "zh-CN": "作为回报；作为回应"
           }
@@ -2997,6 +3367,7 @@
           "text": "judge",
           "is_bold": false,
           "phonetic": "ʤəʤ",
+          "example": "The judge gave a kind judgement.",
           "translations": {
             "zh-CN": "评价；评判：判断法官；审判员；裁判员"
           }
@@ -3005,6 +3376,7 @@
           "text": "scene",
           "is_bold": false,
           "phonetic": "sin",
+          "example": "This is a beautiful park scene.",
           "translations": {
             "zh-CN": "（戏剧或歌剧的】场；现场：场面"
           }
@@ -3013,6 +3385,7 @@
           "text": "narrator",
           "is_bold": false,
           "phonetic": "ˈnɛreɪtər",
+          "example": "The narrator tells us about the trip.",
           "translations": {
             "zh-CN": "（书、戏剧或电影中的）叙述者；讲述者；（电视节目中的）幕后解说员"
           }
@@ -3021,6 +3394,7 @@
           "text": "narration",
           "is_bold": false,
           "phonetic": "nɛˈreɪʃən",
+          "example": "The narration was very interesting today.",
           "translations": {
             "zh-CN": "叙述；讲述；解说"
           }
@@ -3029,6 +3403,7 @@
           "text": "bet",
           "is_bold": false,
           "phonetic": "bɛt",
+          "example": "I bet you can eat three apples.",
           "translations": {
             "zh-CN": "打赌；赌注（bet,bet）w.&v.下赌注：用……打赌敢说"
           }
@@ -3037,6 +3412,7 @@
           "text": "make a bet",
           "is_bold": false,
           "phonetic": "meɪk ə bɛt",
+          "example": "Let us make a bet about the test.",
           "translations": {
             "zh-CN": "打个赌"
           }
@@ -3045,6 +3421,7 @@
           "text": "servant",
           "is_bold": false,
           "phonetic": "ˈsərvənt",
+          "example": "The servant brought hot tea.",
           "translations": {
             "zh-CN": "人；用人"
           }
@@ -3053,6 +3430,7 @@
           "text": "as a matter of fact",
           "is_bold": false,
           "phonetic": "ɛz ə ˈmætər əv fækt",
+          "example": "As a matter of fact, she likes apples.",
           "translations": {
             "zh-CN": "事实上；其实；说真的"
           }
@@ -3061,6 +3439,7 @@
           "text": "by accident",
           "is_bold": false,
           "phonetic": "baɪ ˈæksədənt",
+          "example": "I found a pen by accident.",
           "translations": {
             "zh-CN": "偶然地；意外地"
           }
@@ -3069,6 +3448,7 @@
           "text": "sail",
           "is_bold": false,
           "phonetic": "seɪl",
+          "example": "They will sail to China.",
           "translations": {
             "zh-CN": "（船）航行；【人）乘船航行"
           }
@@ -3077,6 +3457,7 @@
           "text": "spot",
           "is_bold": false,
           "phonetic": "spɑt",
+          "example": "Find a good spot for lunch.",
           "translations": {
             "zh-CN": "看见：注意到：发现地点；处所；斑点；污迹"
           }
@@ -3085,6 +3466,7 @@
           "text": "consulate",
           "is_bold": false,
           "phonetic": "ˈkɑnsələt",
+          "example": "The school has a local consulate.",
           "translations": {
             "zh-CN": "领事馆"
           }
@@ -3093,6 +3475,7 @@
           "text": "dare",
           "is_bold": false,
           "phonetic": "dɛr",
+          "example": "Do you dare to jump?",
           "translations": {
             "zh-CN": "胆敢；敢于"
           }
@@ -3101,6 +3484,7 @@
           "text": "sort",
           "is_bold": false,
           "phonetic": "sɔrt",
+          "example": "Sort apples by color.",
           "translations": {
             "zh-CN": "种类；类别"
           }
@@ -3109,6 +3493,7 @@
           "text": "mining",
           "is_bold": false,
           "phonetic": "ˈmaɪnɪŋ",
+          "example": "Mining helps bring gold to the town.",
           "translations": {
             "zh-CN": "米可；米矿业"
           }
@@ -3117,6 +3502,7 @@
           "text": "patience",
           "is_bold": false,
           "phonetic": "ˈpeɪʃəns",
+          "example": "He showed great patience with his little brother.",
           "translations": {
             "zh-CN": "耐心；忍耐力；毅力"
           }
@@ -3125,6 +3511,7 @@
           "text": "to be honest",
           "is_bold": false,
           "phonetic": "tɪ bi ˈɑnəst",
+          "example": "To be honest, I feel tired today.",
           "translations": {
             "zh-CN": "说实话；坦率地说"
           }
@@ -3133,6 +3520,7 @@
           "text": "ought to",
           "is_bold": false,
           "phonetic": "ɔt tɪ",
+          "example": "You ought to study for the test.",
           "translations": {
             "zh-CN": "应该：应当"
           }
@@ -3141,6 +3529,7 @@
           "text": "be about to do",
           "is_bold": false,
           "phonetic": "bi əˈbaʊt tɪ du",
+          "example": "She is about to eat her lunch.",
           "translations": {
             "zh-CN": "即将或正要（做某事）"
           }
@@ -3149,6 +3538,7 @@
           "text": "indicate",
           "is_bold": false,
           "phonetic": "ˈɪndəˌkeɪt",
+          "example": "The color can indicate happiness.",
           "translations": {
             "zh-CN": "表明；显示象征；暗示"
           }
@@ -3157,6 +3547,7 @@
           "text": "beneath",
           "is_bold": false,
           "phonetic": "bɪˈniθ",
+          "example": "The cat slept beneath the big table.",
           "translations": {
             "zh-CN": "在（或往）•••下面；在•…的表面之不"
           }
@@ -3165,6 +3556,7 @@
           "text": "postpone",
           "is_bold": false,
           "phonetic": "poʊstˈpoʊn",
+          "example": "We must postpone the meeting.",
           "translations": {
             "zh-CN": "延迟；延期；延缓"
           }
@@ -3173,6 +3565,7 @@
           "text": "odd",
           "is_bold": false,
           "phonetic": "ɑd",
+          "example": "That dog has an odd bark.",
           "translations": {
             "zh-CN": "奇怪的；怪异的；反常的"
           }
@@ -3181,6 +3574,7 @@
           "text": "obligation",
           "is_bold": false,
           "phonetic": "ˌɑbləˈgeɪʃən",
+          "example": "Homework is my main obligation.",
           "translations": {
             "zh-CN": "义务；职责：责任"
           }
@@ -3189,6 +3583,7 @@
           "text": "intention",
           "is_bold": false,
           "phonetic": "ˌɪnˈtɛnʧən",
+          "example": "His intention was to help Mary.",
           "translations": {
             "zh-CN": "打算：计划：意图；目的"
           }
@@ -3197,6 +3592,7 @@
           "text": "nowhere",
           "is_bold": false,
           "phonetic": "ˈnoʊˌwɛr",
+          "example": "We went nowhere after the long walk.",
           "translations": {
             "zh-CN": "无处；哪里都不"
           }
@@ -3205,6 +3601,7 @@
           "text": "in case",
           "is_bold": false,
           "phonetic": "ɪn keɪs",
+          "example": "Take an umbrella in case it rains.",
           "translations": {
             "zh-CN": "以防；以防万一"
           }
@@ -3213,6 +3610,7 @@
           "text": "extent",
           "is_bold": false,
           "phonetic": "ɪkˈstɛnt",
+          "example": "The extent of his study is great.",
           "translations": {
             "zh-CN": "程度；限度；大小；范围到•••程度；在……程度上"
           }
@@ -3221,6 +3619,7 @@
           "text": "opera",
           "is_bold": false,
           "phonetic": "ˈɑprə",
+          "example": "We saw a beautiful opera yesterday.",
           "translations": {
             "zh-CN": "歌剧"
           }
@@ -3229,6 +3628,7 @@
           "text": "musical",
           "is_bold": false,
           "phonetic": "mˈjuzɪkəl",
+          "example": "This song is very musical.",
           "translations": {
             "zh-CN": "音乐剧adj. 音乐的"
           }
@@ -3237,6 +3637,7 @@
           "text": "dinosaur",
           "is_bold": false,
           "phonetic": "ˈdaɪnəˌsɔr",
+          "example": "The dinosaur ate green leaves.",
           "translations": {
             "zh-CN": "恐龙"
           }
@@ -3245,6 +3646,7 @@
           "text": "hug",
           "is_bold": false,
           "phonetic": "həg",
+          "example": "She gave him a big hug.",
           "translations": {
             "zh-CN": "拥抱；抱紧"
           }
@@ -3253,6 +3655,7 @@
           "text": "pursue",
           "is_bold": false,
           "phonetic": "pərˈsu",
+          "example": "He wants to pursue a good career.",
           "translations": {
             "zh-CN": "追求；致力于"
           }
@@ -3261,6 +3664,7 @@
           "text": "duty",
           "is_bold": false,
           "phonetic": "ˈduti",
+          "example": "My duty is to help mom.",
           "translations": {
             "zh-CN": "责任；义务；职责；值班"
           }
@@ -3269,6 +3673,7 @@
           "text": "on duty",
           "is_bold": false,
           "phonetic": "ɔn ˈduti",
+          "example": "The guard is on duty.",
           "translations": {
             "zh-CN": "值班；值勤"
           }
@@ -3277,6 +3682,7 @@
           "text": "hesitate",
           "is_bold": false,
           "phonetic": "ˈhɛzəˌteɪt",
+          "example": "She did hesitate before speaking.",
           "translations": {
             "zh-CN": "犹豫；迟疑；顾虑"
           }
@@ -3285,6 +3691,7 @@
           "text": "sequence",
           "is_bold": false,
           "phonetic": "ˈsikwəns",
+          "example": "Follow the sequence for this test.",
           "translations": {
             "zh-CN": "按顺序排列n.顺序；一系列"
           }
@@ -3293,6 +3700,7 @@
           "text": "eventually",
           "is_bold": false,
           "phonetic": "ɪˈvɛnʧəwəli",
+          "example": "She will eventually finish her homework.",
           "translations": {
             "zh-CN": "录后；终于"
           }
@@ -3301,6 +3709,7 @@
           "text": "tailor",
           "is_bold": false,
           "phonetic": "ˈteɪlər",
+          "example": "The tailor made my new suit.",
           "translations": {
             "zh-CN": "男装）裁缝"
           }
@@ -3309,6 +3718,7 @@
           "text": "ve",
           "is_bold": false,
           "phonetic": "vi",
+          "example": "The star will shine very bright.",
           "translations": {
             "zh-CN": "专门制作；定做"
           }
@@ -3317,6 +3727,7 @@
           "text": "clerk",
           "is_bold": false,
           "phonetic": "klərk",
+          "example": "A clerk works at the store.",
           "translations": {
             "zh-CN": "职员；文书；店员"
           }
@@ -3325,6 +3736,7 @@
           "text": "manner",
           "is_bold": false,
           "phonetic": "ˈmænər",
+          "example": "He walks in a quick manner.",
           "translations": {
             "zh-CN": "举止：行內方式；方法；［pl.］礼貌；礼仪"
           }
@@ -3333,6 +3745,7 @@
           "text": "in a manner",
           "is_bold": false,
           "phonetic": "ɪn ə ˈmænər",
+          "example": "They walked in a quick manner.",
           "translations": {
             "zh-CN": "以一种……的方式；带着一••的样子"
           }
@@ -3341,6 +3754,7 @@
           "text": "downstairs",
           "is_bold": false,
           "phonetic": "ˈdaʊnˈstɛrz",
+          "example": "The cat is downstairs now.",
           "translations": {
             "zh-CN": "顺楼梯而下；在楼下；往楼下"
           }
@@ -3349,6 +3763,7 @@
           "text": "stair",
           "is_bold": false,
           "phonetic": "stɛr",
+          "example": "Climb the wooden stair to the room.",
           "translations": {
             "zh-CN": "楼梯：梯级"
           }
@@ -3357,6 +3772,7 @@
           "text": "aside",
           "is_bold": false,
           "phonetic": "əˈsaɪd",
+          "example": "He said an aside about my new pencil.",
           "translations": {
             "zh-CN": "到旁边；在旁边；留，存"
           }
@@ -3365,6 +3781,7 @@
           "text": "frown",
           "is_bold": false,
           "phonetic": "fraʊn",
+          "example": "She began to frown at the test.",
           "translations": {
             "zh-CN": "皱眉"
           }
@@ -3373,6 +3790,7 @@
           "text": "in that case",
           "is_bold": false,
           "phonetic": "ɪn ðət keɪs",
+          "example": "In that case, we leave now.",
           "translations": {
             "zh-CN": "既然那样；假使那样的话"
           }
@@ -3381,6 +3799,7 @@
           "text": "option",
           "is_bold": false,
           "phonetic": "ˈɔpʃən",
+          "example": "Which color is your best option.",
           "translations": {
             "zh-CN": "可选择的事物；选择；选择权"
           }
@@ -3389,6 +3808,7 @@
           "text": "broad",
           "is_bold": false,
           "phonetic": "brɔd",
+          "example": "The road is very broad for walking.",
           "translations": {
             "zh-CN": "宽阔的；广阔的；广泛的"
           }
@@ -3397,6 +3817,7 @@
           "text": "indeed",
           "is_bold": false,
           "phonetic": "ˌɪnˈdid",
+          "example": "Indeed, the test was very hard.",
           "translations": {
             "zh-CN": "其实；实际上；当然；确实"
           }
@@ -3405,6 +3826,7 @@
           "text": "normal",
           "is_bold": false,
           "phonetic": "ˈnɔrməl",
+          "example": "The weather is very normal today.",
           "translations": {
             "zh-CN": "典型的；正常的；一般的；精神正常的常态；通常标准；一般水平"
           }
@@ -3413,6 +3835,7 @@
           "text": "willing",
           "is_bold": false,
           "phonetic": "ˈwɪlɪŋ",
+          "example": "She is willing to help her friend.",
           "translations": {
             "zh-CN": "愿意；乐意"
           }
@@ -3421,6 +3844,7 @@
           "text": "be willing to do",
           "is_bold": false,
           "phonetic": "bi ˈwɪlɪŋ tɪ du",
+          "example": "He is willing to do extra homework.",
           "translations": {
             "zh-CN": "愿意或乐意做某事"
           }
@@ -3429,6 +3853,7 @@
           "text": "element",
           "is_bold": false,
           "phonetic": "ˈɛləmənt",
+          "example": "Water is an important element of life.",
           "translations": {
             "zh-CN": "要素；基本部分"
           }
@@ -3437,6 +3862,7 @@
           "text": "plot",
           "is_bold": false,
           "phonetic": "plɑt",
+          "example": "The book has an exciting plot.",
           "translations": {
             "zh-CN": "故事情节；布局：阴谋"
           }
@@ -3445,6 +3871,7 @@
           "text": "ambassador",
           "is_bold": false,
           "phonetic": "æmˈbæsədər",
+          "example": "She is an ambassador for our school.",
           "translations": {
             "zh-CN": "大使；使节；代表"
           }
@@ -3453,6 +3880,7 @@
           "text": "upper class",
           "is_bold": false,
           "phonetic": "ˈəpər klæs",
+          "example": "They are from the upper class family.",
           "translations": {
             "zh-CN": "上流社会的；上等阶层的"
           }
@@ -3461,6 +3889,7 @@
           "text": "upper",
           "is_bold": false,
           "phonetic": "ˈəpər",
+          "example": "The upper floor has many windows.",
           "translations": {
             "zh-CN": "上面的；上层的；靠上部的"
           }
@@ -3469,6 +3898,7 @@
           "text": "the upper class",
           "is_bold": false,
           "phonetic": "ðə ˈəpər klæs",
+          "example": "The upper class drives big cars.",
           "translations": {
             "zh-CN": "上流社会；上等阶层"
           }
@@ -3477,6 +3907,7 @@
           "text": "maintain",
           "is_bold": false,
           "phonetic": "meɪnˈteɪn",
+          "example": "Please maintain the school garden.",
           "translations": {
             "zh-CN": "维持；保持；维修；保养"
           }
@@ -3485,6 +3916,7 @@
           "text": "permission",
           "is_bold": false,
           "phonetic": "pərˈmɪʃən",
+          "example": "Mom gave me permission to go.",
           "translations": {
             "zh-CN": "准许；许可；批准；许可证"
           }
@@ -3493,6 +3925,7 @@
           "text": "permit",
           "is_bold": false,
           "phonetic": "ˈpərˌmɪt",
+          "example": "Can you permit us to enter?",
           "translations": {
             "zh-CN": "允许；淮许；使有可能"
           }
@@ -3501,6 +3934,7 @@
           "text": "saying",
           "is_bold": false,
           "phonetic": "seɪɪŋ",
+          "example": "My mom gave me a kind saying.",
           "translations": {
             "zh-CN": "谚语；格言；警何"
           }
@@ -3509,6 +3943,7 @@
           "text": "external",
           "is_bold": false,
           "phonetic": "ɪkˈstərnəl",
+          "example": "We need external help for this project.",
           "translations": {
             "zh-CN": "外部的；外面的；外来的"
           }
@@ -3517,6 +3952,7 @@
           "text": "Roderick",
           "is_bold": false,
           "phonetic": "ˈrɑdrɪk",
+          "example": "Roderick plays soccer very well.",
           "translations": {
             "zh-CN": "罗德里克"
           }
@@ -3525,6 +3961,7 @@
           "text": "Oliver",
           "is_bold": false,
           "phonetic": "ˈɑlɪvər",
+          "example": "Oliver likes to play ball.",
           "translations": {
             "zh-CN": "奥利弗"
           }
@@ -3533,6 +3970,7 @@
           "text": "Henry Adams",
           "is_bold": false,
           "phonetic": "ˈhɛnri ˈædəmz",
+          "example": "Henry Adams wrote many books.",
           "translations": {
             "zh-CN": "亨利•亚当斯"
           }
@@ -3541,6 +3979,7 @@
           "text": "The Phantom of the Opera",
           "is_bold": false,
           "phonetic": "ðə ˈfænəm əv ðə ˈɑprə",
+          "example": "We saw The Phantom of the Opera.",
           "translations": {
             "zh-CN": "歌剧魅影》（音乐剧）"
           }
@@ -3549,6 +3988,7 @@
           "text": "Reid",
           "is_bold": false,
           "phonetic": "rid",
+          "example": "Reid likes to read books.",
           "translations": {
             "zh-CN": "里德"
           }
@@ -3557,6 +3997,7 @@
           "text": "Todd",
           "is_bold": false,
           "phonetic": "tɑd",
+          "example": "Todd ate a big apple.",
           "translations": {
             "zh-CN": "托德"
           }
@@ -3565,6 +4006,7 @@
           "text": "Portia Langham",
           "is_bold": false,
           "phonetic": "ˈpɔrʃə ˈlæŋəm",
+          "example": "Portia Langham plays the violin.",
           "translations": {
             "zh-CN": "波希亚•兰厄姆旅弦”"
           }
