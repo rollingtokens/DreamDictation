@@ -7,63 +7,108 @@
       "words": [
         {
           "text": "touch",
-          "example": "Touch the green leaf.",
+          "examples": [
+            {
+              "en": "Touch the green leaf.",
+              "zh": "摸绿叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "碰；触摸"
           }
         },
         {
           "text": "feel",
-          "example": "I feel happy today.",
+          "examples": [
+            {
+              "en": "I feel happy today.",
+              "zh": "今天我感觉很高兴。"
+            }
+          ],
           "translations": {
             "zh-CN": "摸起来；感到"
           }
         },
         {
           "text": "soft",
-          "example": "The cat is soft.",
+          "examples": [
+            {
+              "en": "The cat is soft.",
+              "zh": "这只猫很软。"
+            }
+          ],
           "translations": {
             "zh-CN": "柔软的"
           }
         },
         {
           "text": "hard",
-          "example": "The rock is very hard.",
+          "examples": [
+            {
+              "en": "The rock is very hard.",
+              "zh": "这块石头很硬。"
+            }
+          ],
           "translations": {
             "zh-CN": "坚硬的"
           }
         },
         {
           "text": "thick",
-          "example": "The book is very thick.",
+          "examples": [
+            {
+              "en": "The book is very thick.",
+              "zh": "这本书很厚。"
+            }
+          ],
           "translations": {
             "zh-CN": "厚的；粗的"
           }
         },
         {
           "text": "thin",
-          "example": "My arm is thin now.",
+          "examples": [
+            {
+              "en": "My arm is thin now.",
+              "zh": "我的胳膊现在很瘦。"
+            }
+          ],
           "translations": {
             "zh-CN": "薄的；细的"
           }
         },
         {
           "text": "blind",
-          "example": "My cat is blind now.",
+          "examples": [
+            {
+              "en": "My cat is blind now.",
+              "zh": "我的猫现在是瞎了（看不见了）。"
+            }
+          ],
           "translations": {
             "zh-CN": "瞎的；失明的"
           }
         },
         {
           "text": "noise",
-          "example": "There is much noise outside.",
+          "examples": [
+            {
+              "en": "There is much noise outside.",
+              "zh": "外面很吵。"
+            }
+          ],
           "translations": {
             "zh-CN": "响声；吵闹声"
           }
         },
         {
           "text": "young",
-          "example": "The boy is young.",
+          "examples": [
+            {
+              "en": "The boy is young.",
+              "zh": "这个男孩很年轻。"
+            }
+          ],
           "translations": {
             "zh-CN": "年轻的"
           }
@@ -77,84 +122,144 @@
       "words": [
         {
           "text": "smell",
-          "example": "This flower has good smell.",
+          "examples": [
+            {
+              "en": "This flower has good smell.",
+              "zh": "这花闻起来很香。"
+            }
+          ],
           "translations": {
             "zh-CN": "闻；嗅"
           }
         },
         {
           "text": "strawberry",
-          "example": "I like strawberry jam.",
+          "examples": [
+            {
+              "en": "I like strawberry jam.",
+              "zh": "我喜欢草莓果酱。"
+            }
+          ],
           "translations": {
             "zh-CN": "草莓"
           }
         },
         {
           "text": "or",
-          "example": "Do you want tea or milk?",
+          "examples": [
+            {
+              "en": "Do you want tea or milk?",
+              "zh": "你要茶还是牛奶？"
+            }
+          ],
           "translations": {
             "zh-CN": "或者；还是"
           }
         },
         {
           "text": "watermelon",
-          "example": "I like red watermelon.",
+          "examples": [
+            {
+              "en": "I like red watermelon.",
+              "zh": "我喜欢红色的西瓜。"
+            }
+          ],
           "translations": {
             "zh-CN": "西瓜"
           }
         },
         {
           "text": "grape",
-          "example": "I eat a small grape.",
+          "examples": [
+            {
+              "en": "I eat a small grape.",
+              "zh": "我吃一个小葡萄。"
+            }
+          ],
           "translations": {
             "zh-CN": "葡萄"
           }
         },
         {
           "text": "fox",
-          "example": "The fox ran fast.",
+          "examples": [
+            {
+              "en": "The fox ran fast.",
+              "zh": "狐狸跑得很快。"
+            }
+          ],
           "translations": {
             "zh-CN": "狐狸"
           }
         },
         {
           "text": "round",
-          "example": "We play a round game.",
+          "examples": [
+            {
+              "en": "We play a round game.",
+              "zh": "我们玩一个圆形的游戏。"
+            }
+          ],
           "translations": {
             "zh-CN": "圆的"
           }
         },
         {
           "text": "purple",
-          "example": "The flower is purple.",
+          "examples": [
+            {
+              "en": "The flower is purple.",
+              "zh": "那朵花是紫色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "紫色的"
           }
         },
         {
           "text": "wait",
-          "example": "Please wait for your friend.",
+          "examples": [
+            {
+              "en": "Please wait for your friend.",
+              "zh": "请等你的朋友。"
+            }
+          ],
           "translations": {
             "zh-CN": "等待；等候"
           }
         },
         {
           "text": "minute",
-          "example": "Wait one minute please.",
+          "examples": [
+            {
+              "en": "Wait one minute please.",
+              "zh": "请等一分钟。 (Qǐng děng yī fēnzhōng.)"
+            }
+          ],
           "translations": {
             "zh-CN": "一会儿；分钟"
           }
         },
         {
           "text": "get",
-          "example": "I get a red apple.",
+          "examples": [
+            {
+              "en": "I get a red apple.",
+              "zh": "我得到一个红色的苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "得到"
           }
         },
         {
           "text": "those",
-          "example": "Those dogs run fast.",
+          "examples": [
+            {
+              "en": "Those dogs run fast.",
+              "zh": "那些狗跑得快。"
+            }
+          ],
           "translations": {
             "zh-CN": "那些"
           }
@@ -168,105 +273,180 @@
       "words": [
         {
           "text": "rise",
-          "example": "The sun will rise soon.",
+          "examples": [
+            {
+              "en": "The sun will rise soon.",
+              "zh": "太阳很快就会升起来了。"
+            }
+          ],
           "translations": {
             "zh-CN": "升起"
           }
         },
         {
           "text": "shadow",
-          "example": "The dog made a shadow.",
+          "examples": [
+            {
+              "en": "The dog made a shadow.",
+              "zh": "这只狗投下了影子。"
+            }
+          ],
           "translations": {
             "zh-CN": "影子"
           }
         },
         {
           "text": "noon",
-          "example": "We meet at noon time.",
+          "examples": [
+            {
+              "en": "We meet at noon time.",
+              "zh": "我们中午见面。"
+            }
+          ],
           "translations": {
             "zh-CN": "中午"
           }
         },
         {
           "text": "high",
-          "example": "The tree is high.",
+          "examples": [
+            {
+              "en": "The tree is high.",
+              "zh": "这棵树很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "高的"
           }
         },
         {
           "text": "sky",
-          "example": "Look at the big sky.",
+          "examples": [
+            {
+              "en": "Look at the big sky.",
+              "zh": "看那个大大的天空。"
+            }
+          ],
           "translations": {
             "zh-CN": "天空"
           }
         },
         {
           "text": "evening",
-          "example": "We see the evening sun.",
+          "examples": [
+            {
+              "en": "We see the evening sun.",
+              "zh": "我们看到傍晚的太阳。"
+            }
+          ],
           "translations": {
             "zh-CN": "傍晚；晚上"
           }
         },
         {
           "text": "again",
-          "example": "Say it again please now.",
+          "examples": [
+            {
+              "en": "Say it again please now.",
+              "zh": "请你现在再说一遍。"
+            }
+          ],
           "translations": {
             "zh-CN": "再；又"
           }
         },
         {
           "text": "night",
-          "example": "The night sky is dark.",
+          "examples": [
+            {
+              "en": "The night sky is dark.",
+              "zh": "夜晚的天空很黑。"
+            }
+          ],
           "translations": {
             "zh-CN": "夜晚"
           }
         },
         {
           "text": "moon",
-          "example": "The moon shines bright.",
+          "examples": [
+            {
+              "en": "The moon shines bright.",
+              "zh": "月亮照得很亮。"
+            }
+          ],
           "translations": {
             "zh-CN": "月亮"
           }
         },
         {
           "text": "him",
-          "example": "Give it to him.",
+          "examples": [
+            {
+              "en": "Give it to him.",
+              "zh": "把这个给他。"
+            }
+          ],
           "translations": {
             "zh-CN": "他"
           }
         },
         {
           "text": "stop",
-          "example": "Please stop running.",
+          "examples": [
+            {
+              "en": "Please stop running.",
+              "zh": "请别跑了。"
+            }
+          ],
           "translations": {
             "zh-CN": "停下"
           }
         },
         {
           "text": "at noon",
-          "example": "We eat lunch at noon.",
+          "examples": [
+            {
+              "en": "We eat lunch at noon.",
+              "zh": "我们中午吃午饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "在中午"
           }
         },
         {
           "text": "go down",
-          "example": "The rain will go down.",
+          "examples": [
+            {
+              "en": "The rain will go down.",
+              "zh": "雨会下下来。"
+            }
+          ],
           "translations": {
             "zh-CN": "落下"
           }
         },
         {
           "text": "at night",
-          "example": "Birds sing at night.",
+          "examples": [
+            {
+              "en": "Birds sing at night.",
+              "zh": "鸟儿晚上唱歌。"
+            }
+          ],
           "translations": {
             "zh-CN": "在夜晚"
           }
         },
         {
           "text": "take a walk",
-          "example": "Let's take a walk now.",
+          "examples": [
+            {
+              "en": "Let's take a walk now.",
+              "zh": "我们现在出去散散步吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "散步"
           }
@@ -280,104 +460,180 @@
       "words": [
         {
           "text": "subject",
-          "example": "My subject is math.",
+          "examples": [
+            {
+              "en": "My subject is math.",
+              "zh": "我的科目是数学。"
+            }
+          ],
           "translations": {
             "zh-CN": "学科，科目"
           }
         },
         {
           "text": "lesson",
-          "example": "We have math lesson now.",
+          "examples": [
+            {
+              "en": "We have math lesson now.",
+              "zh": "我们现在有数学课。"
+            }
+          ],
           "translations": {
             "zh-CN": "课"
           }
         },
         {
           "text": "Chinese",
-          "example": "She speaks Chinese well.",
+          "examples": [
+            {
+              "en": "She speaks Chinese well.",
+              "zh": "她说中文很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）语文"
           }
         },
         {
           "text": "Maths",
-          "example": "We study maths every day.",
+          "examples": [
+            {
+              "en": "We study maths every day.",
+              "zh": "我们每天学习数学。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）数学"
           }
         },
         {
           "text": "English",
-          "example": "She likes English class.",
+          "examples": [
+            {
+              "en": "She likes English class.",
+              "zh": "她喜欢英语课。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）英语"
           }
         },
         {
           "text": "Science",
-          "example": "Learn about science now.",
+          "examples": [
+            {
+              "en": "Learn about science now.",
+              "zh": "现在学科学吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）科学"
           }
         },
         {
           "text": "PE",
-          "example": "We have PE class today.",
+          "examples": [
+            {
+              "en": "We have PE class today.",
+              "zh": "我们今天有体育课。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）体育"
           }
         },
         {
           "text": "Music",
-          "example": "She likes happy music.",
+          "examples": [
+            {
+              "en": "She likes happy music.",
+              "zh": "她喜欢快乐的音乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）音乐"
           }
         },
         {
           "text": "Art",
-          "example": "This painting is great art.",
+          "examples": [
+            {
+              "en": "This painting is great art.",
+              "zh": "这幅画是很棒的艺术品。"
+            }
+          ],
           "translations": {
             "zh-CN": "（学科）美术"
           }
         },
         {
           "text": "timetable",
-          "example": "See the timetable here.",
+          "examples": [
+            {
+              "en": "See the timetable here.",
+              "zh": "时间表在这里看。"
+            }
+          ],
           "translations": {
             "zh-CN": "课程表；时间表"
           }
         },
         {
           "text": "from",
-          "example": "Milk comes from the cow.",
+          "examples": [
+            {
+              "en": "Milk comes from the cow.",
+              "zh": "牛奶来自牛。"
+            }
+          ],
           "translations": {
             "zh-CN": "从；来自"
           }
         },
         {
           "text": "a.m.",
-          "example": "Wake up at six a.m.",
+          "examples": [
+            {
+              "en": "Wake up at six a.m.",
+              "zh": "六点早上起床。"
+            }
+          ],
           "translations": {
             "zh-CN": "上午"
           }
         },
         {
           "text": "p.m.",
-          "example": "It is three p.m. now.",
+          "examples": [
+            {
+              "en": "It is three p.m. now.",
+              "zh": "现在是下午三点了。"
+            }
+          ],
           "translations": {
             "zh-CN": "下午"
           }
         },
         {
           "text": "break",
-          "example": "The stick will break now.",
+          "examples": [
+            {
+              "en": "The stick will break now.",
+              "zh": "这根棍子现在会断的。"
+            }
+          ],
           "translations": {
             "zh-CN": "休息"
           }
         },
         {
           "text": "from...to...",
+          "examples": [
+            {
+              "en": "Walk from home to school.",
+              "zh": "从家走到学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "从……到……"
           }
@@ -391,91 +647,156 @@
       "words": [
         {
           "text": "sport",
-          "example": "Play ball as sport.",
+          "examples": [
+            {
+              "en": "Play ball as sport.",
+              "zh": "把球当作运动来玩。"
+            }
+          ],
           "translations": {
             "zh-CN": "体育运动"
           }
         },
         {
           "text": "football",
-          "example": "He likes to play football.",
+          "examples": [
+            {
+              "en": "He likes to play football.",
+              "zh": "他喜欢踢足球。"
+            }
+          ],
           "translations": {
             "zh-CN": "足球"
           }
         },
         {
           "text": "club",
-          "example": "We join the art club.",
+          "examples": [
+            {
+              "en": "We join the art club.",
+              "zh": "我们加入了艺术社团。"
+            }
+          ],
           "translations": {
             "zh-CN": "俱乐部；兴趣小组"
           }
         },
         {
           "text": "join",
-          "example": "We will join the class.",
+          "examples": [
+            {
+              "en": "We will join the class.",
+              "zh": "我们会加入这个班级。"
+            }
+          ],
           "translations": {
             "zh-CN": "参加；加入"
           }
         },
         {
           "text": "tell",
-          "example": "Tell me your name now.",
+          "examples": [
+            {
+              "en": "Tell me your name now.",
+              "zh": "告诉我你的名字。"
+            }
+          ],
           "translations": {
             "zh-CN": "告诉"
           }
         },
         {
           "text": "about",
-          "example": "Tell me about my dog.",
+          "examples": [
+            {
+              "en": "Tell me about my dog.",
+              "zh": "告诉我关于我的狗。"
+            }
+          ],
           "translations": {
             "zh-CN": "关于"
           }
         },
         {
           "text": "basketball",
-          "example": "My friend likes basketball game.",
+          "examples": [
+            {
+              "en": "My friend likes basketball game.",
+              "zh": "我的朋友喜欢篮球比赛。"
+            }
+          ],
           "translations": {
             "zh-CN": "篮球"
           }
         },
         {
           "text": "volleyball",
-          "example": "They play volleyball outside.",
+          "examples": [
+            {
+              "en": "They play volleyball outside.",
+              "zh": "他们在外面打排球。"
+            }
+          ],
           "translations": {
             "zh-CN": "排球"
           }
         },
         {
           "text": "us",
-          "example": "I like the US school.",
+          "examples": [
+            {
+              "en": "I like the US school.",
+              "zh": "我喜欢美国的学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "我们"
           }
         },
         {
           "text": "table tennis",
-          "example": "Play table tennis with sb.",
+          "examples": [
+            {
+              "en": "Play table tennis with sb.",
+              "zh": "和某人打乒乓球。"
+            }
+          ],
           "translations": {
             "zh-CN": "乒乓球运动"
           }
         },
         {
           "text": "play football",
-          "example": "They play football in park.",
+          "examples": [
+            {
+              "en": "They play football in park.",
+              "zh": "他们在公园踢足球。"
+            }
+          ],
           "translations": {
             "zh-CN": "踢足球"
           }
         },
         {
           "text": "play basketball",
-          "example": "We play basketball outside.",
+          "examples": [
+            {
+              "en": "We play basketball outside.",
+              "zh": "我们在外面打篮球。"
+            }
+          ],
           "translations": {
             "zh-CN": "打篮球"
           }
         },
         {
           "text": "play volleyball",
-          "example": "We play volleyball in park.",
+          "examples": [
+            {
+              "en": "We play volleyball in park.",
+              "zh": "我们在公园打排球。"
+            }
+          ],
           "translations": {
             "zh-CN": "打排球"
           }
@@ -489,77 +810,132 @@
       "words": [
         {
           "text": "wonderful",
-          "example": "This flower is wonderful.",
+          "examples": [
+            {
+              "en": "This flower is wonderful.",
+              "zh": "这朵花很棒。"
+            }
+          ],
           "translations": {
             "zh-CN": "使人愉悦的；绝妙的"
           }
         },
         {
           "text": "violin",
-          "example": "She plays the violin well.",
+          "examples": [
+            {
+              "en": "She plays the violin well.",
+              "zh": "她拉小提琴很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "小提琴"
           }
         },
         {
           "text": "guitar",
-          "example": "He plays on guitar.",
+          "examples": [
+            {
+              "en": "He plays on guitar.",
+              "zh": "他弹吉他。"
+            }
+          ],
           "translations": {
             "zh-CN": "吉他"
           }
         },
         {
           "text": "whose",
-          "example": "Whose book is this.",
+          "examples": [
+            {
+              "en": "Whose book is this.",
+              "zh": "这是谁的书？"
+            }
+          ],
           "translations": {
             "zh-CN": "谁的"
           }
         },
         {
           "text": "piano",
-          "example": "She plays the piano.",
+          "examples": [
+            {
+              "en": "She plays the piano.",
+              "zh": "她弹钢琴。"
+            }
+          ],
           "translations": {
             "zh-CN": "钢琴"
           }
         },
         {
           "text": "city",
-          "example": "Shanghai is a big city.",
+          "examples": [
+            {
+              "en": "Shanghai is a big city.",
+              "zh": "上海是一个大城市。"
+            }
+          ],
           "translations": {
             "zh-CN": "城市"
           }
         },
         {
           "text": "bag",
-          "example": "Put book in my bag.",
+          "examples": [
+            {
+              "en": "Put book in my bag.",
+              "zh": "把书放进我的包里。"
+            }
+          ],
           "translations": {
             "zh-CN": "袋子"
           }
         },
         {
           "text": "gold",
-          "example": "The ring is gold.",
+          "examples": [
+            {
+              "en": "The ring is gold.",
+              "zh": "这个戒指是金的。"
+            }
+          ],
           "translations": {
             "zh-CN": "金子"
           }
         },
         {
           "text": "all",
-          "example": "All students like this book.",
+          "examples": [
+            {
+              "en": "All students like this book.",
+              "zh": "所有学生都喜欢这本书。"
+            }
+          ],
           "translations": {
             "zh-CN": "全部；所有"
           }
         },
         {
           "text": "play the violin",
-          "example": "She plays the violin well.",
+          "examples": [
+            {
+              "en": "We play the violin well.",
+              "zh": "我们拉小提琴很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "拉小提琴"
           }
         },
         {
           "text": "play the guitar",
-          "example": "He can play the guitar well.",
+          "examples": [
+            {
+              "en": "He can play the guitar well.",
+              "zh": "他会很好地弹吉他。"
+            }
+          ],
           "translations": {
             "zh-CN": "弹吉他"
           }
@@ -573,119 +949,204 @@
       "words": [
         {
           "text": "o'clock",
-          "example": "It is three o'clock.",
+          "examples": [
+            {
+              "en": "It is three o'clock.",
+              "zh": "现在是三点。"
+            }
+          ],
           "translations": {
             "zh-CN": "……点钟"
           }
         },
         {
           "text": "quarter",
-          "example": "Eat one quarter apple.",
+          "examples": [
+            {
+              "en": "Eat one quarter apple.",
+              "zh": "吃四分之一个苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "一刻钟"
           }
         },
         {
           "text": "time",
-          "example": "What time is it?",
+          "examples": [
+            {
+              "en": "What time is it?",
+              "zh": "现在几点了？"
+            }
+          ],
           "translations": {
             "zh-CN": "时间"
           }
         },
         {
           "text": "half",
-          "example": "I ate half an apple.",
+          "examples": [
+            {
+              "en": "I ate half an apple.",
+              "zh": "我吃了一半苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "半；一半"
           }
         },
         {
           "text": "wash",
-          "example": "Please wash your hands.",
+          "examples": [
+            {
+              "en": "Please wash your hands.",
+              "zh": "请洗你的手。"
+            }
+          ],
           "translations": {
             "zh-CN": "洗"
           }
         },
         {
           "text": "dinner",
-          "example": "Mom cooks dinner for us.",
+          "examples": [
+            {
+              "en": "Mom cooks dinner for us.",
+              "zh": "妈妈为我们做晚饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "晚餐；正餐"
           }
         },
         {
           "text": "start",
-          "example": "Let us start the game.",
+          "examples": [
+            {
+              "en": "Let us start the game.",
+              "zh": "我们开始游戏吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "开始"
           }
         },
         {
           "text": "catch",
-          "example": "I can catch a ball.",
+          "examples": [
+            {
+              "en": "I can catch a ball.",
+              "zh": "我能接住球。"
+            }
+          ],
           "translations": {
             "zh-CN": "捉住"
           }
         },
         {
           "text": "get up",
-          "example": "I get up at seven.",
+          "examples": [
+            {
+              "en": "I get up at seven.",
+              "zh": "我七点起床。"
+            }
+          ],
           "translations": {
             "zh-CN": "起床"
           }
         },
         {
           "text": "brush ... teeth",
-          "example": "Brush your teeth every day.",
+          "examples": [
+            {
+              "en": "Brush your teeth every day.",
+              "zh": "每天刷牙。"
+            }
+          ],
           "translations": {
             "zh-CN": "刷牙"
           }
         },
         {
           "text": "half past",
-          "example": "It is half past nine.",
+          "examples": [
+            {
+              "en": "It is half past nine.",
+              "zh": "九点半了。 (Jiǔ diǎn bàn le.)"
+            }
+          ],
           "translations": {
             "zh-CN": "……点半"
           }
         },
         {
           "text": "have breakfast",
-          "example": "They have breakfast at seven.",
+          "examples": [
+            {
+              "en": "They have breakfast at seven.",
+              "zh": "他们七点吃早饭。 (Tāmen qī diǎn chī zǎofàn.)"
+            }
+          ],
           "translations": {
             "zh-CN": "吃早餐"
           }
         },
         {
           "text": "go to school",
-          "example": "We go to school now.",
+          "examples": [
+            {
+              "en": "We go to school now.",
+              "zh": "我们现在去学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "去上学"
           }
         },
         {
           "text": "wash... face",
-          "example": "Wash face in morning.",
+          "examples": [
+            {
+              "en": "Wash face in morning.",
+              "zh": "早上洗脸。 (Zǎoshang xǐ liǎn.)"
+            }
+          ],
           "translations": {
             "zh-CN": "洗脸"
           }
         },
         {
           "text": "have lunch",
-          "example": "We have lunch now.",
+          "examples": [
+            {
+              "en": "We have lunch now.",
+              "zh": "我们现在吃午饭。 (Wǒmen xiànzài chī wǔfàn.)"
+            }
+          ],
           "translations": {
             "zh-CN": "吃午餐"
           }
         },
         {
           "text": "have dinner",
-          "example": "They have dinner late.",
+          "examples": [
+            {
+              "en": "They have dinner late.",
+              "zh": "他们晚吃晚饭。 (Tāmen wǎn chī wǎnfàn.)"
+            }
+          ],
           "translations": {
             "zh-CN": "吃晚餐"
           }
         },
         {
           "text": "go to bed",
-          "example": "They go to bed late.",
+          "examples": [
+            {
+              "en": "They go to bed late.",
+              "zh": "他们晚睡。"
+            }
+          ],
           "translations": {
             "zh-CN": "上床睡觉"
           }
@@ -699,98 +1160,168 @@
       "words": [
         {
           "text": "week",
-          "example": "I study one week now.",
+          "examples": [
+            {
+              "en": "I study one week now.",
+              "zh": "我学一个星期了。 (Wǒ xué yīgè xīngqī le.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期"
           }
         },
         {
           "text": "Monday",
-          "example": "Monday is my favorite day.",
+          "examples": [
+            {
+              "en": "Monday is my favorite day.",
+              "zh": "星期一是我最喜欢的日子。 (Xīngqí yī shì wǒ zuì xǐhuān de rìzi.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期一"
           }
         },
         {
           "text": "with",
-          "example": "Go to school with mom.",
+          "examples": [
+            {
+              "en": "Go to school with mom.",
+              "zh": "和妈妈去学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "和……一起"
           }
         },
         {
           "text": "Tuesday",
-          "example": "Today is Tuesday morning.",
+          "examples": [
+            {
+              "en": "Today is Tuesday morning.",
+              "zh": "今天是星期二的早晨。 (jīntiān shì xīngqī'èr de zǎochén.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期二"
           }
         },
         {
           "text": "Wednesday",
-          "example": "Today is Wednesday class.",
+          "examples": [
+            {
+              "en": "Today is Wednesday class.",
+              "zh": "今天是周三的课。 (Jīntiān shì Zhōusān de kè.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期三"
           }
         },
         {
           "text": "Thursday",
-          "example": "Thursday is my favorite day.",
+          "examples": [
+            {
+              "en": "Thursday is my favorite day.",
+              "zh": "星期四是我最喜欢的日子。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期四"
           }
         },
         {
           "text": "Friday",
-          "example": "We meet on Friday.",
+          "examples": [
+            {
+              "en": "We meet on Friday.",
+              "zh": "我们周五见面。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期五"
           }
         },
         {
           "text": "game",
-          "example": "Play a fun game now.",
+          "examples": [
+            {
+              "en": "Play a fun game now.",
+              "zh": "现在玩一个有趣的游戏吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "游戏"
           }
         },
         {
           "text": "Saturday",
-          "example": "Saturday is my fun day.",
+          "examples": [
+            {
+              "en": "Saturday is my fun day.",
+              "zh": "星期六是我的开心日。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期六"
           }
         },
         {
           "text": "Sunday",
-          "example": "Sunday is my free day.",
+          "examples": [
+            {
+              "en": "Sunday is my free day.",
+              "zh": "星期天是我的休息日。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期天"
           }
         },
         {
           "text": "clock",
-          "example": "The clock shows ten o'clock.",
+          "examples": [
+            {
+              "en": "The clock shows ten o'clock.",
+              "zh": "时钟显示十点。"
+            }
+          ],
           "translations": {
             "zh-CN": "时钟；钟"
           }
         },
         {
           "text": "play chess",
-          "example": "I play chess well.",
+          "examples": [
+            {
+              "en": "I play chess well.",
+              "zh": "我下棋很好。 (Wǒ xià qí hěn hǎo.)"
+            }
+          ],
           "translations": {
             "zh-CN": "下国际象棋"
           }
         },
         {
           "text": "at the weekend",
-          "example": "Go to park at the weekend.",
+          "examples": [
+            {
+              "en": "Go to park at the weekend.",
+              "zh": "周末去公园。"
+            }
+          ],
           "translations": {
             "zh-CN": "在周末"
           }
         },
         {
           "text": "(be) late for",
-          "example": "Tom is late for class.",
+          "examples": [
+            {
+              "en": "Tom is late for class.",
+              "zh": "汤姆上课迟了。"
+            }
+          ],
           "translations": {
             "zh-CN": "迟到"
           }
@@ -804,133 +1335,228 @@
       "words": [
         {
           "text": "China",
-          "example": "China has tall walls.",
+          "examples": [
+            {
+              "en": "China has tall walls.",
+              "zh": "中国有高高的墙。"
+            }
+          ],
           "translations": {
             "zh-CN": "中国"
           }
         },
         {
           "text": "talk",
-          "example": "We talk about new toys.",
+          "examples": [
+            {
+              "en": "We talk about new toys.",
+              "zh": "我们谈论新玩具。"
+            }
+          ],
           "translations": {
             "zh-CN": "谈话；说话"
           }
         },
         {
           "text": "May",
-          "example": "May flowers are pretty.",
+          "examples": [
+            {
+              "en": "May flowers are pretty.",
+              "zh": "花儿很漂亮。"
+            }
+          ],
           "translations": {
             "zh-CN": "五月"
           }
         },
         {
           "text": "June",
-          "example": "June is a warm month.",
+          "examples": [
+            {
+              "en": "June is a warm month.",
+              "zh": "六月是一个温暖的月份。"
+            }
+          ],
           "translations": {
             "zh-CN": "六月"
           }
         },
         {
           "text": "January",
-          "example": "January is a cold month.",
+          "examples": [
+            {
+              "en": "January is a cold month.",
+              "zh": "一月是一个寒冷的月份。"
+            }
+          ],
           "translations": {
             "zh-CN": "一月"
           }
         },
         {
           "text": "February",
-          "example": "February has twenty eight days.",
+          "examples": [
+            {
+              "en": "February has twenty eight days.",
+              "zh": "二月有二十八天。"
+            }
+          ],
           "translations": {
             "zh-CN": "二月"
           }
         },
         {
           "text": "March",
-          "example": "March is a warm month.",
+          "examples": [
+            {
+              "en": "March is a warm month.",
+              "zh": "三月是一个温暖的月份。"
+            }
+          ],
           "translations": {
             "zh-CN": "三月"
           }
         },
         {
           "text": "April",
-          "example": "April is a warm month.",
+          "examples": [
+            {
+              "en": "April is a warm month.",
+              "zh": "四月是个温暖的月份。"
+            }
+          ],
           "translations": {
             "zh-CN": "四月"
           }
         },
         {
           "text": "July",
-          "example": "July is hot weather.",
+          "examples": [
+            {
+              "en": "July is hot weather.",
+              "zh": "七月是热天气。"
+            }
+          ],
           "translations": {
             "zh-CN": "七月"
           }
         },
         {
           "text": "August",
-          "example": "August sun shines bright today.",
+          "examples": [
+            {
+              "en": "August sun shines bright today.",
+              "zh": "八月的太阳今天很亮。"
+            }
+          ],
           "translations": {
             "zh-CN": "八月"
           }
         },
         {
           "text": "September",
-          "example": "We learn in September.",
+          "examples": [
+            {
+              "en": "We learn in September.",
+              "zh": "我们九月学（课）。"
+            }
+          ],
           "translations": {
             "zh-CN": "九月"
           }
         },
         {
           "text": "October",
-          "example": "October is a nice month.",
+          "examples": [
+            {
+              "en": "October is a nice month.",
+              "zh": "十月是个好月份。"
+            }
+          ],
           "translations": {
             "zh-CN": "十月"
           }
         },
         {
           "text": "November",
-          "example": "November has many leaves.",
+          "examples": [
+            {
+              "en": "November has many leaves.",
+              "zh": "十一月有很多叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "十一月"
           }
         },
         {
           "text": "December",
-          "example": "We study in December.",
+          "examples": [
+            {
+              "en": "We study in December.",
+              "zh": "我们在十二月学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "十二月"
           }
         },
         {
           "text": "email",
-          "example": "Send an email to mom.",
+          "examples": [
+            {
+              "en": "Send an email to mom.",
+              "zh": "给妈妈发个邮件。"
+            }
+          ],
           "translations": {
             "zh-CN": "电子邮件"
           }
         },
         {
           "text": "hat",
-          "example": "She wears a red hat.",
+          "examples": [
+            {
+              "en": "She wears a red hat.",
+              "zh": "她戴着一顶红色的帽子。"
+            }
+          ],
           "translations": {
             "zh-CN": "帽子"
           }
         },
         {
           "text": "wear",
-          "example": "She wear a red dress.",
+          "examples": [
+            {
+              "en": "She wear a red dress.",
+              "zh": "她穿红色的裙子。"
+            }
+          ],
           "translations": {
             "zh-CN": "穿；戴"
           }
         },
         {
           "text": "yours",
-          "example": "This book is yours.",
+          "examples": [
+            {
+              "en": "This book is yours.",
+              "zh": "这本书是你的。"
+            }
+          ],
           "translations": {
             "zh-CN": "你的，你们的"
           }
         },
         {
           "text": "every year",
-          "example": "We go there every year.",
+          "examples": [
+            {
+              "en": "We go there every year.",
+              "zh": "我们每年都去那里。"
+            }
+          ],
           "translations": {
             "zh-CN": "每年"
           }
@@ -944,56 +1570,96 @@
       "words": [
         {
           "text": "garden",
-          "example": "Mom plants in garden.",
+          "examples": [
+            {
+              "en": "Mom plants in garden.",
+              "zh": "妈妈在花园里种东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "花园"
           }
         },
         {
           "text": "plant",
-          "example": "We plant a small flower.",
+          "examples": [
+            {
+              "en": "We plant a small flower.",
+              "zh": "我们种了一朵小花。"
+            }
+          ],
           "translations": {
             "zh-CN": "植物"
           }
         },
         {
           "text": "leaf",
-          "example": "Green leaf falls down.",
+          "examples": [
+            {
+              "en": "Green leaf falls down.",
+              "zh": "叶子掉下来了。"
+            }
+          ],
           "translations": {
             "zh-CN": "叶子（复数leaves）"
           }
         },
         {
           "text": "water",
-          "example": "Drink clean water now.",
+          "examples": [
+            {
+              "en": "Drink clean water now.",
+              "zh": "现在喝干净的水。"
+            }
+          ],
           "translations": {
             "zh-CN": "给……浇水"
           }
         },
         {
           "text": "them",
-          "example": "Give them the blue pen.",
+          "examples": [
+            {
+              "en": "Give them the blue pen.",
+              "zh": "把蓝色的笔给他们。"
+            }
+          ],
           "translations": {
             "zh-CN": "它们，他们；她们"
           }
         },
         {
           "text": "grow",
-          "example": "The flower will grow big.",
+          "examples": [
+            {
+              "en": "The flower will grow big.",
+              "zh": "花会长得大大的。"
+            }
+          ],
           "translations": {
             "zh-CN": "（使）生长；成长"
           }
         },
         {
           "text": "seed",
-          "example": "Plant a small seed.",
+          "examples": [
+            {
+              "en": "Plant a small seed.",
+              "zh": "种一个小种子。"
+            }
+          ],
           "translations": {
             "zh-CN": "种子"
           }
         },
         {
           "text": "every day",
-          "example": "We eat lunch every day.",
+          "examples": [
+            {
+              "en": "We eat lunch every day.",
+              "zh": "我们每天吃午饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "每天"
           }
@@ -1007,42 +1673,72 @@
       "words": [
         {
           "text": "song",
-          "example": "She sings a sweet song.",
+          "examples": [
+            {
+              "en": "She sings a sweet song.",
+              "zh": "她唱一首甜美的歌。"
+            }
+          ],
           "translations": {
             "zh-CN": "歌曲"
           }
         },
         {
           "text": "zoo",
-          "example": "We go to the zoo.",
+          "examples": [
+            {
+              "en": "We go to the zoo.",
+              "zh": "我们去动物园。"
+            }
+          ],
           "translations": {
             "zh-CN": "动物园"
           }
         },
         {
           "text": "cinema",
-          "example": "See a movie at cinema.",
+          "examples": [
+            {
+              "en": "See a movie at cinema.",
+              "zh": "去电影院看电影。"
+            }
+          ],
           "translations": {
             "zh-CN": "电影院"
           }
         },
         {
           "text": "museum",
-          "example": "We go to the museum.",
+          "examples": [
+            {
+              "en": "We go to the museum.",
+              "zh": "我们去博物馆。"
+            }
+          ],
           "translations": {
             "zh-CN": "博物馆"
           }
         },
         {
           "text": "also",
-          "example": "My dog can run also.",
+          "examples": [
+            {
+              "en": "My dog can run also.",
+              "zh": "我的狗也能跑。"
+            }
+          ],
           "translations": {
             "zh-CN": "也；还"
           }
         },
         {
           "text": "have a party",
-          "example": "They will have a party.",
+          "examples": [
+            {
+              "en": "They will have a party.",
+              "zh": "他们要开派对。"
+            }
+          ],
           "translations": {
             "zh-CN": "举办聚会"
           }
@@ -1056,77 +1752,132 @@
       "words": [
         {
           "text": "ugly",
-          "example": "The flower looks ugly.",
+          "examples": [
+            {
+              "en": "The flower looks ugly.",
+              "zh": "这朵花看起来很丑。"
+            }
+          ],
           "translations": {
             "zh-CN": "丑的，丑陋的"
           }
         },
         {
           "text": "duckling",
-          "example": "The duckling swims fast.",
+          "examples": [
+            {
+              "en": "The duckling swims fast.",
+              "zh": "小鸭子游得快。"
+            }
+          ],
           "translations": {
             "zh-CN": "小鸭"
           }
         },
         {
           "text": "duck",
-          "example": "The duck swims in pond.",
+          "examples": [
+            {
+              "en": "The duck swims in pond.",
+              "zh": "鸭子在池塘里游泳。"
+            }
+          ],
           "translations": {
             "zh-CN": "鸭子"
           }
         },
         {
           "text": "river",
-          "example": "We walk by the river.",
+          "examples": [
+            {
+              "en": "We walk by the river.",
+              "zh": "我们沿着河边走。"
+            }
+          ],
           "translations": {
             "zh-CN": "河；江"
           }
         },
         {
           "text": "baby",
-          "example": "The baby eats a banana.",
+          "examples": [
+            {
+              "en": "The baby eats a banana.",
+              "zh": "宝宝吃香蕉。"
+            }
+          ],
           "translations": {
             "zh-CN": "宝宝；婴儿"
           }
         },
         {
           "text": "later",
-          "example": "We will eat later.",
+          "examples": [
+            {
+              "en": "We will eat later.",
+              "zh": "我们待会儿吃。"
+            }
+          ],
           "translations": {
             "zh-CN": "后来；以后"
           }
         },
         {
           "text": "quack",
-          "example": "Duck goes quack loudly.",
+          "examples": [
+            {
+              "en": "Duck goes quack loudly.",
+              "zh": "鸭子大声地叫“嘎嘎”。"
+            }
+          ],
           "translations": {
             "zh-CN": "（鸭叫声）嘎嘎"
           }
         },
         {
           "text": "back",
-          "example": "The dog ran back to home.",
+          "examples": [
+            {
+              "en": "The dog ran back to home.",
+              "zh": "狗跑回了家。"
+            }
+          ],
           "translations": {
             "zh-CN": "背；背部"
           }
         },
         {
           "text": "away",
-          "example": "The dog ran far away.",
+          "examples": [
+            {
+              "en": "The dog ran far away.",
+              "zh": "狗跑得很远。"
+            }
+          ],
           "translations": {
             "zh-CN": "去别处，朝另一个方向"
           }
         },
         {
           "text": "swan",
-          "example": "A white swan flies high.",
+          "examples": [
+            {
+              "en": "A white swan flies high.",
+              "zh": "一只白天鹅飞得很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "天鹅"
           }
         },
         {
           "text": "into",
-          "example": "Put the pencil into the cup.",
+          "examples": [
+            {
+              "en": "Put the pencil into the cup.",
+              "zh": "把铅笔放进杯子里。"
+            }
+          ],
           "translations": {
             "zh-CN": "朝；向；到……里面"
           }
@@ -1207,77 +1958,132 @@
       "words": [
         {
           "text": "Australia",
-          "example": "I like Australia very much.",
+          "examples": [
+            {
+              "en": "I like Australia very much.",
+              "zh": "我非常喜欢澳大利亚。"
+            }
+          ],
           "translations": {
             "zh-CN": "澳大利亚"
           }
         },
         {
           "text": "Amy",
-          "example": "Amy likes to play ball.",
+          "examples": [
+            {
+              "en": "Amy likes to play ball.",
+              "zh": "艾米喜欢玩球。"
+            }
+          ],
           "translations": {
             "zh-CN": "艾米（女名）"
           }
         },
         {
           "text": "Sydney",
-          "example": "We saw Sydney today.",
+          "examples": [
+            {
+              "en": "We saw Sydney today.",
+              "zh": "我们今天看到了悉尼。"
+            }
+          ],
           "translations": {
             "zh-CN": "悉尼"
           }
         },
         {
           "text": "Christmas (Christmas Day)",
-          "example": "We eat on Christmas day.",
+          "examples": [
+            {
+              "en": "We eat on Christmas day.",
+              "zh": "我们在圣诞节吃东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "圣诞节"
           }
         },
         {
           "text": "Father Christmas",
-          "example": "Father Christmas gives toys.",
+          "examples": [
+            {
+              "en": "Father Christmas gives toys.",
+              "zh": "圣诞老人送玩具。"
+            }
+          ],
           "translations": {
             "zh-CN": "圣诞老人"
           }
         },
         {
           "text": "New Year",
-          "example": "Happy New Year to you.",
+          "examples": [
+            {
+              "en": "Happy New Year to you.",
+              "zh": "新年快乐！"
+            }
+          ],
           "translations": {
             "zh-CN": "新年"
           }
         },
         {
           "text": "Children's Day",
-          "example": "Children's Day is fun.",
+          "examples": [
+            {
+              "en": "Children's Day is fun.",
+              "zh": "儿童节很有趣。"
+            }
+          ],
           "translations": {
             "zh-CN": "儿童节"
           }
         },
         {
           "text": "Canada",
-          "example": "My friend likes Canada snow.",
+          "examples": [
+            {
+              "en": "My friend likes Canada snow.",
+              "zh": "我的朋友喜欢加拿大雪。"
+            }
+          ],
           "translations": {
             "zh-CN": "加拿大"
           }
         },
         {
           "text": "India",
-          "example": "We like India food.",
+          "examples": [
+            {
+              "en": "We like India food.",
+              "zh": "我们喜欢印度菜。"
+            }
+          ],
           "translations": {
             "zh-CN": "印度"
           }
         },
         {
           "text": "Thailand",
-          "example": "I like Thailand food.",
+          "examples": [
+            {
+              "en": "I like Thailand food.",
+              "zh": "我喜欢泰国菜。"
+            }
+          ],
           "translations": {
             "zh-CN": "泰国"
           }
         },
         {
           "text": "The ugly duckling",
-          "example": "I read The ugly duckling.",
+          "examples": [
+            {
+              "en": "I read The ugly duckling.",
+              "zh": "我读了《丑小鸭》。"
+            }
+          ],
           "translations": {
             "zh-CN": "《丑小鸭》"
           }

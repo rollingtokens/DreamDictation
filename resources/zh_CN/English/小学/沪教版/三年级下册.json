@@ -7,133 +7,228 @@
       "words": [
         {
           "text": "read",
-          "example": "I read a book.",
+          "examples": [
+            {
+              "en": "I read a book.",
+              "zh": "我看了一本书。"
+            }
+          ],
           "translations": {
             "zh-CN": "阅读"
           }
         },
         {
           "text": "sing",
-          "example": "Birds sing sweet songs.",
+          "examples": [
+            {
+              "en": "Birds sing sweet songs.",
+              "zh": "小鸟唱甜甜的歌。"
+            }
+          ],
           "translations": {
             "zh-CN": "唱歌"
           }
         },
         {
           "text": "paint",
-          "example": "She can paint a picture.",
+          "examples": [
+            {
+              "en": "She can paint a picture.",
+              "zh": "她会画一幅画。"
+            }
+          ],
           "translations": {
             "zh-CN": "用颜料画"
           }
         },
         {
           "text": "dance",
-          "example": "We dance to music.",
+          "examples": [
+            {
+              "en": "We dance to music.",
+              "zh": "我们跳舞听音乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "跳舞"
           }
         },
         {
           "text": "swim",
-          "example": "We like to swim in water.",
+          "examples": [
+            {
+              "en": "We like to swim in water.",
+              "zh": "我们喜欢在水里游泳。"
+            }
+          ],
           "translations": {
             "zh-CN": "游泳"
           }
         },
         {
           "text": "play basketball",
-          "example": "We play basketball outside.",
+          "examples": [
+            {
+              "en": "We play basketball outside.",
+              "zh": "我们在外面打篮球。"
+            }
+          ],
           "translations": {
             "zh-CN": "打篮球"
           }
         },
         {
           "text": "play ping-pong",
-          "example": "They play ping-pong outside.",
+          "examples": [
+            {
+              "en": "They play ping-pong outside.",
+              "zh": "他们在外面打乒乓球。"
+            }
+          ],
           "translations": {
             "zh-CN": "打乒乓球"
           }
         },
         {
           "text": "play football",
-          "example": "They play football in park.",
+          "examples": [
+            {
+              "en": "They play football in park.",
+              "zh": "他们在公园踢足球。"
+            }
+          ],
           "translations": {
             "zh-CN": "踢足球"
           }
         },
         {
           "text": "centre",
-          "example": "Put the ball in centre.",
+          "examples": [
+            {
+              "en": "Put the ball in centre.",
+              "zh": "把球放在中间。"
+            }
+          ],
           "translations": {
             "zh-CN": "中心"
           }
         },
         {
           "text": "Ms",
-          "example": "Ms Wang reads a book.",
+          "examples": [
+            {
+              "en": "Ms Wang reads a book.",
+              "zh": "王老师在看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "女士"
           }
         },
         {
           "text": "our",
-          "example": "Our dog runs fast.",
+          "examples": [
+            {
+              "en": "Our dog runs fast.",
+              "zh": "我们的狗跑得快。"
+            }
+          ],
           "translations": {
             "zh-CN": "我们的"
           }
         },
         {
           "text": "talk",
-          "example": "We talk about new toys.",
+          "examples": [
+            {
+              "en": "We talk about new toys.",
+              "zh": "我们谈论新玩具。"
+            }
+          ],
           "translations": {
             "zh-CN": "讨论；谈论"
           }
         },
         {
           "text": "hobby",
-          "example": "Reading is my favorite hobby.",
+          "examples": [
+            {
+              "en": "Reading is my favorite hobby.",
+              "zh": "读书是我最喜欢的爱好。"
+            }
+          ],
           "translations": {
             "zh-CN": "业余爱好"
           }
         },
         {
           "text": "do",
-          "example": "Do your work now.",
+          "examples": [
+            {
+              "en": "Do your work now.",
+              "zh": "你现在做你的作业吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "做，干，办（某事）"
           }
         },
         {
           "text": "free",
-          "example": "This apple is free.",
+          "examples": [
+            {
+              "en": "This apple is free.",
+              "zh": "这个苹果是免费的。"
+            }
+          ],
           "translations": {
             "zh-CN": "空闲的"
           }
         },
         {
           "text": "us",
-          "example": "I like the US school.",
+          "examples": [
+            {
+              "en": "I like the US school.",
+              "zh": "我喜欢美国的学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "我们"
           }
         },
         {
           "text": "favourite",
-          "example": "This apple is my favourite.",
+          "examples": [
+            {
+              "en": "This apple is my favourite.",
+              "zh": "这个苹果是我最喜欢的。"
+            }
+          ],
           "translations": {
             "zh-CN": "最喜欢的"
           }
         },
         {
           "text": "sport",
-          "example": "Play ball as sport.",
+          "examples": [
+            {
+              "en": "Play ball as sport.",
+              "zh": "把球当作运动来玩。"
+            }
+          ],
           "translations": {
             "zh-CN": "体育运动"
           }
         },
         {
           "text": "basketball court",
-          "example": "They play on basketball court.",
+          "examples": [
+            {
+              "en": "They play on basketball court.",
+              "zh": "他们在篮球场上玩。"
+            }
+          ],
           "translations": {
             "zh-CN": "篮球场"
           }
@@ -147,91 +242,156 @@
       "words": [
         {
           "text": "play a game",
-          "example": "We play a game now.",
+          "examples": [
+            {
+              "en": "We play a game now.",
+              "zh": "我们现在玩游戏。"
+            }
+          ],
           "translations": {
             "zh-CN": "做游戏"
           }
         },
         {
           "text": "take a photo",
-          "example": "Mom take a photo.",
+          "examples": [
+            {
+              "en": "Mom take a photo.",
+              "zh": "妈妈拍照片。"
+            }
+          ],
           "translations": {
             "zh-CN": "拍照"
           }
         },
         {
           "text": "row a boat",
-          "example": "They row a boat.",
+          "examples": [
+            {
+              "en": "They row a boat.",
+              "zh": "他们划船。"
+            }
+          ],
           "translations": {
             "zh-CN": "划船"
           }
         },
         {
           "text": "climb a mountain",
-          "example": "He climb a mountain.",
+          "examples": [
+            {
+              "en": "He climb a mountain.",
+              "zh": "他爬山。"
+            }
+          ],
           "translations": {
             "zh-CN": "爬山"
           }
         },
         {
           "text": "tell a story",
-          "example": "She tell a story.",
+          "examples": [
+            {
+              "en": "She tell a story.",
+              "zh": "她讲故事。"
+            }
+          ],
           "translations": {
             "zh-CN": "讲故事"
           }
         },
         {
           "text": "sandcastle",
-          "example": "We build a sandcastle.",
+          "examples": [
+            {
+              "en": "We build a sandcastle.",
+              "zh": "我们搭沙堡。"
+            }
+          ],
           "translations": {
             "zh-CN": "沙堡"
           }
         },
         {
           "text": "great",
-          "example": "She is a great girl.",
+          "examples": [
+            {
+              "en": "She is a great girl.",
+              "zh": "她是个好女孩。"
+            }
+          ],
           "translations": {
             "zh-CN": "好极的"
           }
         },
         {
           "text": "sand",
-          "example": "The sand is on the beach.",
+          "examples": [
+            {
+              "en": "The sand is on the beach.",
+              "zh": "沙子在海滩上。"
+            }
+          ],
           "translations": {
             "zh-CN": "沙子"
           }
         },
         {
           "text": "join",
-          "example": "We will join the class.",
+          "examples": [
+            {
+              "en": "We will join the class.",
+              "zh": "我们会加入这个班级。"
+            }
+          ],
           "translations": {
             "zh-CN": "参与；加入到……之中"
           }
         },
         {
           "text": "meet",
-          "example": "We meet at school.",
+          "examples": [
+            {
+              "en": "We meet at school.",
+              "zh": "我们在学校见面。"
+            }
+          ],
           "translations": {
             "zh-CN": "（与……）见面"
           }
         },
         {
           "text": "her",
-          "example": "Give the ball to her.",
+          "examples": [
+            {
+              "en": "Give the ball to her.",
+              "zh": "把球给她。"
+            }
+          ],
           "translations": {
             "zh-CN": "她的"
           }
         },
         {
           "text": "we",
-          "example": "We like to play games.",
+          "examples": [
+            {
+              "en": "We like to play games.",
+              "zh": "我们喜欢玩游戏。"
+            }
+          ],
           "translations": {
             "zh-CN": "我们"
           }
         },
         {
           "text": "play beach volleyball",
-          "example": "They play beach volleyball now.",
+          "examples": [
+            {
+              "en": "They play beach volleyball now.",
+              "zh": "他们现在打沙滩排球。"
+            }
+          ],
           "translations": {
             "zh-CN": "玩沙滩排球"
           }
@@ -245,140 +405,240 @@
       "words": [
         {
           "text": "sweater",
-          "example": "Put on your warm sweater.",
+          "examples": [
+            {
+              "en": "Put on your warm sweater.",
+              "zh": "穿上你的暖和毛衣。"
+            }
+          ],
           "translations": {
             "zh-CN": "毛衣"
           }
         },
         {
           "text": "T-shirt",
-          "example": "She wears a blue T-shirt.",
+          "examples": [
+            {
+              "en": "She wears a blue T-shirt.",
+              "zh": "她穿一件蓝色的T恤。"
+            }
+          ],
           "translations": {
             "zh-CN": "T恤衫；短袖汗衫"
           }
         },
         {
           "text": "skirt",
-          "example": "Wear a blue skirt today.",
+          "examples": [
+            {
+              "en": "Wear a blue skirt today.",
+              "zh": "今天穿蓝色的裙子。"
+            }
+          ],
           "translations": {
             "zh-CN": "女裙"
           }
         },
         {
           "text": "dress",
-          "example": "Wear your new dress.",
+          "examples": [
+            {
+              "en": "Wear your new dress.",
+              "zh": "穿上你的新裙子吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "连衣裙"
           }
         },
         {
           "text": "shirt",
-          "example": "He wears a blue shirt.",
+          "examples": [
+            {
+              "en": "He wears a blue shirt.",
+              "zh": "他穿蓝色的衬衫。"
+            }
+          ],
           "translations": {
             "zh-CN": "衬衫"
           }
         },
         {
           "text": "trousers",
-          "example": "My brother wears blue trousers.",
+          "examples": [
+            {
+              "en": "My brother wears blue trousers.",
+              "zh": "我哥哥穿蓝色的裤子。 (wǒ gēge chuān lánsè de kùzi.)"
+            }
+          ],
           "translations": {
             "zh-CN": "裤子"
           }
         },
         {
           "text": "shorts",
-          "example": "He wears blue shorts.",
+          "examples": [
+            {
+              "en": "He wears blue shorts.",
+              "zh": "他穿蓝色的短裤。"
+            }
+          ],
           "translations": {
             "zh-CN": "短裤"
           }
         },
         {
           "text": "coat",
-          "example": "Put on your warm coat.",
+          "examples": [
+            {
+              "en": "Put on your warm coat.",
+              "zh": "穿上你的暖和外套。"
+            }
+          ],
           "translations": {
             "zh-CN": "外套；外衣；大衣"
           }
         },
         {
           "text": "cap",
-          "example": "Put on your blue cap.",
+          "examples": [
+            {
+              "en": "Put on your blue cap.",
+              "zh": "戴上你的蓝色帽子。"
+            }
+          ],
           "translations": {
             "zh-CN": "便帽"
           }
         },
         {
           "text": "shoes",
-          "example": "Put on your new shoes.",
+          "examples": [
+            {
+              "en": "Put on your new shoes.",
+              "zh": "穿上你的新鞋。"
+            }
+          ],
           "translations": {
             "zh-CN": "鞋子"
           }
         },
         {
           "text": "wear",
-          "example": "She wear a red dress.",
+          "examples": [
+            {
+              "en": "She wear a red dress.",
+              "zh": "她穿红色的裙子。"
+            }
+          ],
           "translations": {
             "zh-CN": "穿；戴；佩戴"
           }
         },
         {
           "text": "school",
-          "example": "Go to the big school.",
+          "examples": [
+            {
+              "en": "Go to the big school.",
+              "zh": "去大学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "（中、小）学校"
           }
         },
         {
           "text": "different",
-          "example": "We see different colored balls.",
+          "examples": [
+            {
+              "en": "We see different colored balls.",
+              "zh": "我们看到不同颜色的球。"
+            }
+          ],
           "translations": {
             "zh-CN": "不同的"
           }
         },
         {
           "text": "clothes",
-          "example": "He needs new clothes.",
+          "examples": [
+            {
+              "en": "He needs new clothes.",
+              "zh": "他需要新衣服。"
+            }
+          ],
           "translations": {
             "zh-CN": "衣服；服装"
           }
         },
         {
           "text": "uniform",
-          "example": "Wear your school uniform.",
+          "examples": [
+            {
+              "en": "Wear your school uniform.",
+              "zh": "穿你的校服。"
+            }
+          ],
           "translations": {
             "zh-CN": "制服；校服"
           }
         },
         {
           "text": "whose",
-          "example": "Whose book is this.",
+          "examples": [
+            {
+              "en": "Whose book is this.",
+              "zh": "这是谁的书？"
+            }
+          ],
           "translations": {
             "zh-CN": "谁的"
           }
         },
         {
           "text": "around the world",
-          "example": "See sights around the world.",
+          "examples": [
+            {
+              "en": "See sights around the world.",
+              "zh": "看世界各地的风景。"
+            }
+          ],
           "translations": {
             "zh-CN": "在世界各地"
           }
         },
         {
           "text": "take a look",
-          "example": "Take a look at this cat.",
+          "examples": [
+            {
+              "en": "Take a look at this cat.",
+              "zh": "看看这只猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "看一看"
           }
         },
         {
           "text": "of course",
-          "example": "Of course, I like apples.",
+          "examples": [
+            {
+              "en": "Of course, I like apples.",
+              "zh": "当然，我喜欢苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "当然"
           }
         },
         {
           "text": "a pair of",
-          "example": "She has a pair of shoes.",
+          "examples": [
+            {
+              "en": "She has a pair of shoes.",
+              "zh": "她有一双鞋子。"
+            }
+          ],
           "translations": {
             "zh-CN": "一条；一双；一对"
           }
@@ -392,161 +652,276 @@
       "words": [
         {
           "text": "grass",
-          "example": "The dog eats grass.",
+          "examples": [
+            {
+              "en": "The dog eats grass.",
+              "zh": "狗吃草。"
+            }
+          ],
           "translations": {
             "zh-CN": "草；青草"
           }
         },
         {
           "text": "river",
-          "example": "We walk by the river.",
+          "examples": [
+            {
+              "en": "We walk by the river.",
+              "zh": "我们沿着河边走。"
+            }
+          ],
           "translations": {
             "zh-CN": "河；江"
           }
         },
         {
           "text": "hear",
-          "example": "Can you hear my voice?",
+          "examples": [
+            {
+              "en": "Can you hear my voice?",
+              "zh": "你能听到我的声音吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "听见；听到"
           }
         },
         {
           "text": "bird",
-          "example": "See a small blue bird.",
+          "examples": [
+            {
+              "en": "See a small blue bird.",
+              "zh": "看一只小蓝色的鸟。"
+            }
+          ],
           "translations": {
             "zh-CN": "鸟"
           }
         },
         {
           "text": "duck",
-          "example": "The duck swims in pond.",
+          "examples": [
+            {
+              "en": "The duck swims in pond.",
+              "zh": "鸭子在池塘里游泳。"
+            }
+          ],
           "translations": {
             "zh-CN": "鸭子"
           }
         },
         {
           "text": "bee",
-          "example": "The little bee flies high.",
+          "examples": [
+            {
+              "en": "The little bee flies high.",
+              "zh": "那只小蜜蜂飞得很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "蜜蜂"
           }
         },
         {
           "text": "lake",
-          "example": "The lake is very blue.",
+          "examples": [
+            {
+              "en": "The lake is very blue.",
+              "zh": "这个湖非常蓝。"
+            }
+          ],
           "translations": {
             "zh-CN": "湖；湖泊"
           }
         },
         {
           "text": "chirp",
-          "example": "Bird will chirp loudly now.",
+          "examples": [
+            {
+              "en": "Bird will chirp loudly now.",
+              "zh": "小鸟现在会大声鸣叫。"
+            }
+          ],
           "translations": {
             "zh-CN": "（鸟叫声）"
           }
         },
         {
           "text": "buzz",
-          "example": "Bee makes a buzz sound.",
+          "examples": [
+            {
+              "en": "Bee makes a buzz sound.",
+              "zh": "蜜蜂发出嗡嗡声。"
+            }
+          ],
           "translations": {
             "zh-CN": "（蜜蜂声）"
           }
         },
         {
           "text": "by",
-          "example": "We walk by big trees.",
+          "examples": [
+            {
+              "en": "We walk by big trees.",
+              "zh": "我们走过大树。"
+            }
+          ],
           "translations": {
             "zh-CN": "在……旁边"
           }
         },
         {
           "text": "swish",
-          "example": "Wind made a swish noise.",
+          "examples": [
+            {
+              "en": "Wind made a swish noise.",
+              "zh": "风发出了沙沙的声响。"
+            }
+          ],
           "translations": {
             "zh-CN": "（风声）"
           }
         },
         {
           "text": "blow",
-          "example": "Wind makes a soft blow.",
+          "examples": [
+            {
+              "en": "Wind makes a soft blow.",
+              "zh": "风吹来一阵轻柔的气流/风。"
+            }
+          ],
           "translations": {
             "zh-CN": "刮；吹"
           }
         },
         {
           "text": "quack",
-          "example": "Duck goes quack loudly.",
+          "examples": [
+            {
+              "en": "Duck goes quack loudly.",
+              "zh": "鸭子大声地叫“嘎嘎”。"
+            }
+          ],
           "translations": {
             "zh-CN": "（鸭子叫声）"
           }
         },
         {
           "text": "past",
-          "example": "Yesterday was the past.",
+          "examples": [
+            {
+              "en": "Yesterday was the past.",
+              "zh": "昨天是过去。 (Yesterday was the past.)"
+            }
+          ],
           "translations": {
             "zh-CN": "经过"
           }
         },
         {
           "text": "walk",
-          "example": "We walk to the park.",
+          "examples": [
+            {
+              "en": "We walk to the park.",
+              "zh": "我们走到公园。"
+            }
+          ],
           "translations": {
             "zh-CN": "走；行走"
           }
         },
         {
           "text": "along",
-          "example": "Walk along the green grass.",
+          "examples": [
+            {
+              "en": "Walk along the green grass.",
+              "zh": "沿着绿草地走吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "沿着；顺着"
           }
         },
         {
           "text": "path",
-          "example": "Follow this green path.",
+          "examples": [
+            {
+              "en": "Follow this green path.",
+              "zh": "沿着这条绿色的路走。 (Follow this green path.)"
+            }
+          ],
           "translations": {
             "zh-CN": "小路；小径"
           }
         },
         {
           "text": "pitter-patter",
-          "example": "Rain made pitter-patter sounds.",
+          "examples": [
+            {
+              "en": "Rain made pitter-patter sounds.",
+              "zh": "雨发出了噼里啪啦的声音。"
+            }
+          ],
           "translations": {
             "zh-CN": "（雨声）"
           }
         },
         {
           "text": "time",
-          "example": "What time is it?",
+          "examples": [
+            {
+              "en": "What time is it?",
+              "zh": "现在几点了？"
+            }
+          ],
           "translations": {
             "zh-CN": "时间"
           }
         },
         {
           "text": "again",
-          "example": "Say it again please now.",
+          "examples": [
+            {
+              "en": "Say it again please now.",
+              "zh": "请你现在再说一遍。"
+            }
+          ],
           "translations": {
             "zh-CN": "再一次；又一次"
           }
         },
         {
           "text": "sound",
-          "example": "The bell makes a sound.",
+          "examples": [
+            {
+              "en": "The bell makes a sound.",
+              "zh": "那铃铛发出声音。"
+            }
+          ],
           "translations": {
             "zh-CN": "声音"
           }
         },
         {
           "text": "go outside",
-          "example": "Let us go outside now.",
+          "examples": [
+            {
+              "en": "Let us go outside now.",
+              "zh": "我们现在出去吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "去外面"
           }
         },
         {
           "text": "go home",
-          "example": "She goes home early.",
+          "examples": [
+            {
+              "en": "We go home now.",
+              "zh": "我们回家了。"
+            }
+          ],
           "translations": {
             "zh-CN": "回家"
           }
@@ -560,175 +935,300 @@
       "words": [
         {
           "text": "where",
-          "example": "Where is the big park.",
+          "examples": [
+            {
+              "en": "Where is the big park.",
+              "zh": "大公园在哪里？"
+            }
+          ],
           "translations": {
             "zh-CN": "哪里"
           }
         },
         {
           "text": "colour",
-          "example": "Red is a nice colour.",
+          "examples": [
+            {
+              "en": "Red is a nice colour.",
+              "zh": "红色是个好看的颜色。"
+            }
+          ],
           "translations": {
             "zh-CN": "颜色"
           }
         },
         {
           "text": "pink",
-          "example": "She wears a pink dress.",
+          "examples": [
+            {
+              "en": "She wears a pink dress.",
+              "zh": "她穿了一件粉色连衣裙。"
+            }
+          ],
           "translations": {
             "zh-CN": "粉红色；粉红色的"
           }
         },
         {
           "text": "blue",
-          "example": "The sky is blue today.",
+          "examples": [
+            {
+              "en": "The sky is blue today.",
+              "zh": "今天天空是蓝色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "蓝色；蓝色的"
           }
         },
         {
           "text": "red",
-          "example": "My pencil is red.",
+          "examples": [
+            {
+              "en": "My pencil is red.",
+              "zh": "我的铅笔是红色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "红色；红色的"
           }
         },
         {
           "text": "brown",
-          "example": "My dog has brown fur.",
+          "examples": [
+            {
+              "en": "My dog has brown fur.",
+              "zh": "我的狗有棕色的毛。"
+            }
+          ],
           "translations": {
             "zh-CN": "棕色；棕色的"
           }
         },
         {
           "text": "black",
-          "example": "The cat is black fur.",
+          "examples": [
+            {
+              "en": "The cat is black fur.",
+              "zh": "那只猫是黑毛的。"
+            }
+          ],
           "translations": {
             "zh-CN": "黑色；黑色的"
           }
         },
         {
           "text": "white",
-          "example": "The cat is white.",
+          "examples": [
+            {
+              "en": "The cat is white.",
+              "zh": "这只猫是白色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "白色；白色的"
           }
         },
         {
           "text": "purple",
-          "example": "The flower is purple.",
+          "examples": [
+            {
+              "en": "The flower is purple.",
+              "zh": "那朵花是紫色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "紫色；紫色的"
           }
         },
         {
           "text": "green",
-          "example": "Look at the green leaf.",
+          "examples": [
+            {
+              "en": "Look at the green leaf.",
+              "zh": "看那片绿叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "绿色；绿色的"
           }
         },
         {
           "text": "orange",
-          "example": "The apple is orange.",
+          "examples": [
+            {
+              "en": "The apple is orange.",
+              "zh": "这个苹果是橙色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "橘黄色；橘黄色的"
           }
         },
         {
           "text": "yellow",
-          "example": "The banana is yellow.",
+          "examples": [
+            {
+              "en": "The banana is yellow.",
+              "zh": "香蕉是黄色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "黄色；黄色的"
           }
         },
         {
           "text": "tree",
-          "example": "Tree has big leaves.",
+          "examples": [
+            {
+              "en": "Tree has big leaves.",
+              "zh": "树的叶子很大。 (shù de yèzi hěn dà.)"
+            }
+          ],
           "translations": {
             "zh-CN": "树；树木"
           }
         },
         {
           "text": "out",
-          "example": "Come out of here.",
+          "examples": [
+            {
+              "en": "Come out of here.",
+              "zh": "从这里出来。"
+            }
+          ],
           "translations": {
             "zh-CN": "在室外"
           }
         },
         {
           "text": "garden",
-          "example": "Mom plants in garden.",
+          "examples": [
+            {
+              "en": "Mom plants in garden.",
+              "zh": "妈妈在花园里种东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "花园"
           }
         },
         {
           "text": "up",
-          "example": "The ball went up high.",
+          "examples": [
+            {
+              "en": "The ball went up high.",
+              "zh": "球飞得很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "向（或在）较高位置；向上；在上面"
           }
         },
         {
           "text": "there",
-          "example": "Look there, the dog runs.",
+          "examples": [
+            {
+              "en": "Look there, the dog runs.",
+              "zh": "看那里，狗在跑。"
+            }
+          ],
           "translations": {
             "zh-CN": "（表示存在或发生）"
           }
         },
         {
           "text": "butterfly",
-          "example": "I see a blue butterfly.",
+          "examples": [
+            {
+              "en": "I see a blue butterfly.",
+              "zh": "我看到一只蓝色的蝴蝶。"
+            }
+          ],
           "translations": {
             "zh-CN": "蝴蝶"
           }
         },
         {
           "text": "lizard",
-          "example": "See the small lizard run.",
+          "examples": [
+            {
+              "en": "See the small lizard run.",
+              "zh": "看小蜥蜴跑。"
+            }
+          ],
           "translations": {
             "zh-CN": "蜥蜴"
           }
         },
         {
           "text": "now",
-          "example": "We play now games.",
+          "examples": [
+            {
+              "en": "We play now games.",
+              "zh": "我们现在玩游戏。"
+            }
+          ],
           "translations": {
             "zh-CN": "现在"
           }
         },
         {
           "text": "problem",
-          "example": "This math problem is hard.",
+          "examples": [
+            {
+              "en": "This math problem is hard.",
+              "zh": "这个数学题很难。"
+            }
+          ],
           "translations": {
             "zh-CN": "难题；困难"
           }
         },
         {
           "text": "sky",
-          "example": "Look at the big sky.",
+          "examples": [
+            {
+              "en": "Look at the big sky.",
+              "zh": "看那个大大的天空。"
+            }
+          ],
           "translations": {
             "zh-CN": "天；天空"
           }
         },
         {
           "text": "dark",
-          "example": "It is very dark outside.",
+          "examples": [
+            {
+              "en": "It is very dark outside.",
+              "zh": "外面非常黑。"
+            }
+          ],
           "translations": {
             "zh-CN": "黑暗的；昏暗的"
           }
         },
         {
           "text": "colourful",
-          "example": "Flowers are very colourful.",
+          "examples": [
+            {
+              "en": "Flowers are very colourful.",
+              "zh": "花儿颜色很鲜艳。"
+            }
+          ],
           "translations": {
             "zh-CN": "五彩缤纷的"
           }
         },
         {
           "text": "firework",
-          "example": "Look at the bright firework.",
+          "examples": [
+            {
+              "en": "Look at the bright firework.",
+              "zh": "快看那个亮亮的烟花。"
+            }
+          ],
           "translations": {
             "zh-CN": "烟花"
           }
@@ -742,147 +1242,252 @@
       "words": [
         {
           "text": "kitchen",
-          "example": "Mom cooks in the kitchen.",
+          "examples": [
+            {
+              "en": "Mom cooks in the kitchen.",
+              "zh": "妈妈在厨房做饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "厨房"
           }
         },
         {
           "text": "bathroom",
-          "example": "Wash hands in the bathroom.",
+          "examples": [
+            {
+              "en": "Wash hands in the bathroom.",
+              "zh": "在浴室洗手。"
+            }
+          ],
           "translations": {
             "zh-CN": "浴室；盥洗室"
           }
         },
         {
           "text": "bedroom",
-          "example": "My dog sleeps in his bedroom.",
+          "examples": [
+            {
+              "en": "My dog sleeps in his bedroom.",
+              "zh": "我的狗睡在它的卧室里。"
+            }
+          ],
           "translations": {
             "zh-CN": "卧室"
           }
         },
         {
           "text": "dining room",
-          "example": "We eat in the dining room.",
+          "examples": [
+            {
+              "en": "We eat in the dining room.",
+              "zh": "我们在餐厅吃饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "餐厅"
           }
         },
         {
           "text": "living room",
-          "example": "We sit in the living room.",
+          "examples": [
+            {
+              "en": "We sit in the living room.",
+              "zh": "我们坐在客厅里。"
+            }
+          ],
           "translations": {
             "zh-CN": "客厅；起居室"
           }
         },
         {
           "text": "study",
-          "example": "I study with my friend.",
+          "examples": [
+            {
+              "en": "I study with my friend.",
+              "zh": "我和我的朋友一起学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "书房"
           }
         },
         {
           "text": "desk",
-          "example": "My book is on the desk.",
+          "examples": [
+            {
+              "en": "My book is on the desk.",
+              "zh": "我的书在桌子上。"
+            }
+          ],
           "translations": {
             "zh-CN": "书桌"
           }
         },
         {
           "text": "chair",
-          "example": "Sit on the blue chair.",
+          "examples": [
+            {
+              "en": "Sit on the blue chair.",
+              "zh": "坐在蓝色的椅子上。"
+            }
+          ],
           "translations": {
             "zh-CN": "椅子"
           }
         },
         {
           "text": "sofa",
-          "example": "We sit on the sofa.",
+          "examples": [
+            {
+              "en": "We sit on the sofa.",
+              "zh": "我们坐在沙发上。"
+            }
+          ],
           "translations": {
             "zh-CN": "长沙发"
           }
         },
         {
           "text": "from",
-          "example": "Milk comes from the cow.",
+          "examples": [
+            {
+              "en": "Milk comes from the cow.",
+              "zh": "牛奶来自牛。"
+            }
+          ],
           "translations": {
             "zh-CN": "寄自；来自"
           }
         },
         {
           "text": "new",
-          "example": "This is a new book.",
+          "examples": [
+            {
+              "en": "This is a new book.",
+              "zh": "这是新书。"
+            }
+          ],
           "translations": {
             "zh-CN": "新的"
           }
         },
         {
           "text": "dear",
-          "example": "This book is dear to me.",
+          "examples": [
+            {
+              "en": "This book is dear to me.",
+              "zh": "这本书对我来说很珍贵。"
+            }
+          ],
           "translations": {
             "zh-CN": "亲爱的"
           }
         },
         {
           "text": "show",
-          "example": "Mom will show a picture.",
+          "examples": [
+            {
+              "en": "Mom will show a picture.",
+              "zh": "妈妈会展示一张照片。"
+            }
+          ],
           "translations": {
             "zh-CN": "给……看；展示"
           }
         },
         {
           "text": "write",
-          "example": "I write a letter.",
+          "examples": [
+            {
+              "en": "I write a letter.",
+              "zh": "我写一封信。"
+            }
+          ],
           "translations": {
             "zh-CN": "写字；写作"
           }
         },
         {
           "text": "window",
-          "example": "Look out the window.",
+          "examples": [
+            {
+              "en": "Look out the window.",
+              "zh": "看看窗外。"
+            }
+          ],
           "translations": {
             "zh-CN": "窗；窗户"
           }
         },
         {
           "text": "wish",
-          "example": "I wish you good luck.",
+          "examples": [
+            {
+              "en": "I wish you good luck.",
+              "zh": "祝你好运。"
+            }
+          ],
           "translations": {
             "zh-CN": "祝愿"
           }
         },
         {
           "text": "because",
-          "example": "I smile because you are kind.",
+          "examples": [
+            {
+              "en": "I smile because you are kind.",
+              "zh": "我笑是因为你很善良。"
+            }
+          ],
           "translations": {
             "zh-CN": "因为"
           }
         },
         {
           "text": "boat",
-          "example": "We see a small boat.",
+          "examples": [
+            {
+              "en": "We see a small boat.",
+              "zh": "我们看到一艘小船。"
+            }
+          ],
           "translations": {
             "zh-CN": "小船"
           }
         },
         {
           "text": "in front of",
-          "example": "The cat is in front of desk.",
+          "examples": [
+            {
+              "en": "The cat is in front of desk.",
+              "zh": "猫在桌子前面。"
+            }
+          ],
           "translations": {
             "zh-CN": "位于……之前"
           }
         },
         {
           "text": "look out of",
-          "example": "Look out of the window.",
+          "examples": [
+            {
+              "en": "Look out of the window.",
+              "zh": "看看窗外。"
+            }
+          ],
           "translations": {
             "zh-CN": "向……外看"
           }
         },
         {
           "text": "teddy bear",
-          "example": "Teddy bear is soft and brown.",
+          "examples": [
+            {
+              "en": "Teddy bear is soft and brown.",
+              "zh": "毛绒熊又软又棕。"
+            }
+          ],
           "translations": {
             "zh-CN": "泰迪熊"
           }
@@ -896,132 +1501,228 @@
       "words": [
         {
           "text": "welcome",
-          "example": "Say welcome to my friend.",
+          "examples": [
+            {
+              "en": "Say welcome to my friend.",
+              "zh": "欢迎我的朋友。 (Huānyíng wǒ de péngyǒu.)"
+            }
+          ],
           "translations": {
             "zh-CN": "欢迎"
           }
         },
         {
           "text": "classroom",
-          "example": "The classroom is very big.",
+          "examples": [
+            {
+              "en": "The classroom is very big.",
+              "zh": "教室非常大。"
+            }
+          ],
           "translations": {
             "zh-CN": "教室"
           }
         },
         {
           "text": "computer room",
-          "example": "Computer room has many screens.",
+          "examples": [
+            {
+              "en": "Computer room has many screens.",
+              "zh": "电脑室有很多屏幕。"
+            }
+          ],
           "translations": {
             "zh-CN": "电脑室"
           }
         },
         {
           "text": "toilet",
-          "example": "Go to the toilet.",
+          "examples": [
+            {
+              "en": "Go to the toilet.",
+              "zh": "去厕所。"
+            }
+          ],
           "translations": {
             "zh-CN": "厕所；卫生间；盥洗室"
           }
         },
         {
           "text": "sports ground",
-          "example": "Sports ground is for running.",
+          "examples": [
+            {
+              "en": "Sports ground is for running.",
+              "zh": "操场是用来跑步的。"
+            }
+          ],
           "translations": {
             "zh-CN": "操场"
           }
         },
         {
           "text": "library",
-          "example": "Go to the school library.",
+          "examples": [
+            {
+              "en": "Go to the school library.",
+              "zh": "去学校图书馆。"
+            }
+          ],
           "translations": {
             "zh-CN": "图书馆"
           }
         },
         {
           "text": "office",
-          "example": "Go to my office.",
+          "examples": [
+            {
+              "en": "Go to my office.",
+              "zh": "去我的办公室。"
+            }
+          ],
           "translations": {
             "zh-CN": "办公室"
           }
         },
         {
           "text": "picture",
-          "example": "See the pretty picture.",
+          "examples": [
+            {
+              "en": "See the pretty picture.",
+              "zh": "看这张漂亮的图片。"
+            }
+          ],
           "translations": {
             "zh-CN": "图画"
           }
         },
         {
           "text": "tomorrow",
-          "example": "See you tomorrow.",
+          "examples": [
+            {
+              "en": "See you tomorrow.",
+              "zh": "明天见。"
+            }
+          ],
           "translations": {
             "zh-CN": "明天"
           }
         },
         {
           "text": "also",
-          "example": "My dog can run also.",
+          "examples": [
+            {
+              "en": "My dog can run also.",
+              "zh": "我的狗也能跑。"
+            }
+          ],
           "translations": {
             "zh-CN": "也"
           }
         },
         {
           "text": "schoolbag",
-          "example": "Pack your blue schoolbag.",
+          "examples": [
+            {
+              "en": "Pack your blue schoolbag.",
+              "zh": "把你的蓝色书包拿好。"
+            }
+          ],
           "translations": {
             "zh-CN": "书包"
           }
         },
         {
           "text": "ruler",
-          "example": "Use the ruler to draw.",
+          "examples": [
+            {
+              "en": "Use the ruler to draw.",
+              "zh": "用尺子画图。"
+            }
+          ],
           "translations": {
             "zh-CN": "直尺"
           }
         },
         {
           "text": "pencil",
-          "example": "She draws with a pencil.",
+          "examples": [
+            {
+              "en": "She draws with a pencil.",
+              "zh": "她用铅笔画。"
+            }
+          ],
           "translations": {
             "zh-CN": "铅笔"
           }
         },
         {
           "text": "pen",
-          "example": "He uses his pen to write.",
+          "examples": [
+            {
+              "en": "He uses his pen to write.",
+              "zh": "他用他的笔来写字。 (He uses his pen to write.)"
+            }
+          ],
           "translations": {
             "zh-CN": "钢笔"
           }
         },
         {
           "text": "eraser",
-          "example": "I use an eraser on paper.",
+          "examples": [
+            {
+              "en": "I use an eraser on paper.",
+              "zh": "我在纸上用橡皮擦。"
+            }
+          ],
           "translations": {
             "zh-CN": "橡皮"
           }
         },
         {
           "text": "show ... around ...",
+          "examples": [
+            {
+              "en": "Mom will show me around park.",
+              "zh": "妈妈会带我参观公园。"
+            }
+          ],
           "translations": {
             "zh-CN": "带领……参观……"
           }
         },
         {
           "text": "art room",
-          "example": "Art room has bright colors.",
+          "examples": [
+            {
+              "en": "Art room has bright colors.",
+              "zh": "画室有鲜艳的颜色。"
+            }
+          ],
           "translations": {
             "zh-CN": "美术教室"
           }
         },
         {
           "text": "swimming pool",
-          "example": "The swimming pool is blue.",
+          "examples": [
+            {
+              "en": "The swimming pool is blue.",
+              "zh": "游泳池是蓝色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "游泳池"
           }
         },
         {
           "text": "lots of",
-          "example": "We have lots of apples.",
+          "examples": [
+            {
+              "en": "We have lots of apples.",
+              "zh": "我们有很多苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "大量的；很多的"
           }
@@ -1041,294 +1742,504 @@
       "words": [
         {
           "text": "Children’s Day",
-          "example": "Happy Children’s Day, sb.",
+          "examples": [
+            {
+              "en": "Happy Children’s Day, sb.",
+              "zh": "快乐儿童节，某人/大家。"
+            }
+          ],
           "translations": {
             "zh-CN": "儿童节"
           }
         },
         {
           "text": "go to the beach",
-          "example": "We go to the beach now.",
+          "examples": [
+            {
+              "en": "We go to the beach now.",
+              "zh": "我们现在去海边。"
+            }
+          ],
           "translations": {
             "zh-CN": "去海滩"
           }
         },
         {
           "text": "go to the cinema",
-          "example": "Let's go to the cinema.",
+          "examples": [
+            {
+              "en": "Let's go to the cinema.",
+              "zh": "我们去看电影吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "去电影院"
           }
         },
         {
           "text": "go to the park",
-          "example": "They go to the park often.",
+          "examples": [
+            {
+              "en": "They go to the park often.",
+              "zh": "他们经常去公园。"
+            }
+          ],
           "translations": {
             "zh-CN": "去公园"
           }
         },
         {
           "text": "go to the zoo",
-          "example": "We go to the zoo today.",
+          "examples": [
+            {
+              "en": "We go to the zoo today.",
+              "zh": "我们今天去动物园。"
+            }
+          ],
           "translations": {
             "zh-CN": "去动物园"
           }
         },
         {
           "text": "go to the museum",
-          "example": "She goes to the museum now.",
+          "examples": [
+            {
+              "en": "We go to the museum.",
+              "zh": "我们去博物馆。"
+            }
+          ],
           "translations": {
             "zh-CN": "去博物馆"
           }
         },
         {
           "text": "survey",
-          "example": "We take a class survey.",
+          "examples": [
+            {
+              "en": "We take a class survey.",
+              "zh": "我们做一份班级调查问卷。"
+            }
+          ],
           "translations": {
             "zh-CN": "调查"
           }
         },
         {
           "text": "elephant",
-          "example": "The elephant eats green leaves.",
+          "examples": [
+            {
+              "en": "The elephant eats green leaves.",
+              "zh": "大象吃绿色的叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "象"
           }
         },
         {
           "text": "film",
-          "example": "We watch a fun film now.",
+          "examples": [
+            {
+              "en": "We watch a fun film now.",
+              "zh": "我们现在看一部有趣的电影。"
+            }
+          ],
           "translations": {
             "zh-CN": "电影"
           }
         },
         {
           "text": "pizza",
-          "example": "We like hot pizza.",
+          "examples": [
+            {
+              "en": "We like hot pizza.",
+              "zh": "我们喜欢热披萨。"
+            }
+          ],
           "translations": {
             "zh-CN": "比萨饼；意大利饼"
           }
         },
         {
           "text": "shop",
-          "example": "Go to big shop now.",
+          "examples": [
+            {
+              "en": "Go to big shop now.",
+              "zh": "现在去大商店。"
+            }
+          ],
           "translations": {
             "zh-CN": "店铺"
           }
         },
         {
           "text": "eat",
-          "example": "Let us eat rice.",
+          "examples": [
+            {
+              "en": "Let us eat rice.",
+              "zh": "咱们吃米饭吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "吃"
           }
         },
         {
           "text": "classmate",
-          "example": "He is my best classmate.",
+          "examples": [
+            {
+              "en": "He is my best classmate.",
+              "zh": "他是我最好的同学。"
+            }
+          ],
           "translations": {
             "zh-CN": "同班同学"
           }
         },
         {
           "text": "song",
-          "example": "She sings a sweet song.",
+          "examples": [
+            {
+              "en": "She sings a sweet song.",
+              "zh": "她唱一首甜美的歌。"
+            }
+          ],
           "translations": {
             "zh-CN": "歌；歌曲"
           }
         },
         {
           "text": "science museum",
-          "example": "The science museum is big.",
+          "examples": [
+            {
+              "en": "The science museum is big.",
+              "zh": "科学博物馆很大。"
+            }
+          ],
           "translations": {
             "zh-CN": "科技馆"
           }
         },
         {
           "text": "Monday",
-          "example": "Monday is my favorite day.",
+          "examples": [
+            {
+              "en": "Monday is my favorite day.",
+              "zh": "星期一是我最喜欢的日子。 (Xīngqí yī shì wǒ zuì xǐhuān de rìzi.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期一"
           }
         },
         {
           "text": "Tuesday",
-          "example": "Today is Tuesday morning.",
+          "examples": [
+            {
+              "en": "Today is Tuesday morning.",
+              "zh": "今天是星期二的早晨。 (jīntiān shì xīngqī'èr de zǎochén.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期二"
           }
         },
         {
           "text": "Wednesday",
-          "example": "Today is Wednesday class.",
+          "examples": [
+            {
+              "en": "Today is Wednesday class.",
+              "zh": "今天是周三的课。 (Jīntiān shì Zhōusān de kè.)"
+            }
+          ],
           "translations": {
             "zh-CN": "星期三"
           }
         },
         {
           "text": "Thursday",
-          "example": "Thursday is my favorite day.",
+          "examples": [
+            {
+              "en": "Thursday is my favorite day.",
+              "zh": "星期四是我最喜欢的日子。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期四"
           }
         },
         {
           "text": "Friday",
-          "example": "We meet on Friday.",
+          "examples": [
+            {
+              "en": "We meet on Friday.",
+              "zh": "我们周五见面。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期五"
           }
         },
         {
           "text": "Saturday",
-          "example": "Saturday is my fun day.",
+          "examples": [
+            {
+              "en": "Saturday is my fun day.",
+              "zh": "星期六是我的开心日。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期六"
           }
         },
         {
           "text": "Sunday",
-          "example": "Sunday is my free day.",
+          "examples": [
+            {
+              "en": "Sunday is my free day.",
+              "zh": "星期天是我的休息日。"
+            }
+          ],
           "translations": {
             "zh-CN": "星期日"
           }
         },
         {
           "text": "one",
-          "example": "One boy eats one apple.",
+          "examples": [
+            {
+              "en": "One boy eats one apple.",
+              "zh": "一个男孩吃一个苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "一"
           }
         },
         {
           "text": "two",
-          "example": "Two cats like milk.",
+          "examples": [
+            {
+              "en": "Two cats like milk.",
+              "zh": "两只猫喜欢牛奶。"
+            }
+          ],
           "translations": {
             "zh-CN": "二"
           }
         },
         {
           "text": "three",
-          "example": "I have three red balls.",
+          "examples": [
+            {
+              "en": "I have three red balls.",
+              "zh": "我有三个红色的球。"
+            }
+          ],
           "translations": {
             "zh-CN": "三"
           }
         },
         {
           "text": "four",
-          "example": "Four cats play with a ball.",
+          "examples": [
+            {
+              "en": "Four cats play with a ball.",
+              "zh": "四只猫在玩一个球。"
+            }
+          ],
           "translations": {
             "zh-CN": "四"
           }
         },
         {
           "text": "five",
-          "example": "I have five red apples.",
+          "examples": [
+            {
+              "en": "I have five red apples.",
+              "zh": "我有五个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "五"
           }
         },
         {
           "text": "six",
-          "example": "I have six red apples.",
+          "examples": [
+            {
+              "en": "I have six red apples.",
+              "zh": "我有六个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "六"
           }
         },
         {
           "text": "seven",
-          "example": "I have seven red pens.",
+          "examples": [
+            {
+              "en": "I have seven red pens.",
+              "zh": "我有七支红笔。"
+            }
+          ],
           "translations": {
             "zh-CN": "七"
           }
         },
         {
           "text": "eight",
-          "example": "We see eight cats.",
+          "examples": [
+            {
+              "en": "We see eight cats.",
+              "zh": "我们看到八只猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "八"
           }
         },
         {
           "text": "nine",
-          "example": "I have nine red apples.",
+          "examples": [
+            {
+              "en": "I have nine red apples.",
+              "zh": "我有九个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "九"
           }
         },
         {
           "text": "ten",
-          "example": "I have ten red balls.",
+          "examples": [
+            {
+              "en": "I have ten red balls.",
+              "zh": "我有十个红色的球。"
+            }
+          ],
           "translations": {
             "zh-CN": "十"
           }
         },
         {
           "text": "eleven",
-          "example": "I have eleven red balls.",
+          "examples": [
+            {
+              "en": "I have eleven red balls.",
+              "zh": "我有十一个红球。"
+            }
+          ],
           "translations": {
             "zh-CN": "十一"
           }
         },
         {
           "text": "twelve",
-          "example": "I have twelve red pens.",
+          "examples": [
+            {
+              "en": "I have twelve red pens.",
+              "zh": "我有十二支红笔。"
+            }
+          ],
           "translations": {
             "zh-CN": "十二"
           }
         },
         {
           "text": "thirteen",
-          "example": "She is thirteen years old.",
+          "examples": [
+            {
+              "en": "She is thirteen years old.",
+              "zh": "她十三岁了。"
+            }
+          ],
           "translations": {
             "zh-CN": "十三"
           }
         },
         {
           "text": "fourteen",
-          "example": "Fourteen apples are on the table.",
+          "examples": [
+            {
+              "en": "Fourteen apples are on the table.",
+              "zh": "桌子上有十四个苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "十四"
           }
         },
         {
           "text": "fifteen",
-          "example": "Fifteen apples are on the table.",
+          "examples": [
+            {
+              "en": "Fifteen apples are on the table.",
+              "zh": "桌子上有十五个苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "十五"
           }
         },
         {
           "text": "sixteen",
-          "example": "He is sixteen years old.",
+          "examples": [
+            {
+              "en": "He is sixteen years old.",
+              "zh": "他十六岁了。"
+            }
+          ],
           "translations": {
             "zh-CN": "十六"
           }
         },
         {
           "text": "seventeen",
-          "example": "He is seventeen years old.",
+          "examples": [
+            {
+              "en": "He is seventeen years old.",
+              "zh": "他十七岁了。"
+            }
+          ],
           "translations": {
             "zh-CN": "十七"
           }
         },
         {
           "text": "eighteen",
-          "example": "He is eighteen years old.",
+          "examples": [
+            {
+              "en": "He is eighteen years old.",
+              "zh": "他十八岁了。"
+            }
+          ],
           "translations": {
             "zh-CN": "十八"
           }
         },
         {
           "text": "nineteen",
-          "example": "She is nineteen years old.",
+          "examples": [
+            {
+              "en": "She is nineteen years old.",
+              "zh": "她十九岁了。"
+            }
+          ],
           "translations": {
             "zh-CN": "十九"
           }
         },
         {
           "text": "twenty",
-          "example": "I have twenty red pens.",
+          "examples": [
+            {
+              "en": "I have twenty red pens.",
+              "zh": "我有二十支红色的笔。"
+            }
+          ],
           "translations": {
             "zh-CN": "二十"
           }

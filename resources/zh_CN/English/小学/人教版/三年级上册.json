@@ -9,7 +9,12 @@
           "text": "name",
           "is_bold": false,
           "phonetic": "neɪm",
-          "example": "What is your name?",
+          "examples": [
+            {
+              "en": "What is your name?",
+              "zh": "你叫什么名字？"
+            }
+          ],
           "translations": {
             "zh-CN": "名字"
           }
@@ -18,7 +23,12 @@
           "text": "nice",
           "is_bold": false,
           "phonetic": "nis",
-          "example": "She has a nice smile.",
+          "examples": [
+            {
+              "en": "She has a nice smile.",
+              "zh": "她有一个漂亮的微笑。"
+            }
+          ],
           "translations": {
             "zh-CN": "令人愉快的；友好的"
           }
@@ -27,7 +37,12 @@
           "text": "ear",
           "is_bold": true,
           "phonetic": "ɪr",
-          "example": "My ear hears loud sounds.",
+          "examples": [
+            {
+              "en": "My ear hears loud sounds.",
+              "zh": "我的耳朵听见响亮的声音。"
+            }
+          ],
           "translations": {
             "zh-CN": "耳朵"
           }
@@ -36,7 +51,12 @@
           "text": "hand",
           "is_bold": true,
           "phonetic": "hænd",
-          "example": "Give me your hand please.",
+          "examples": [
+            {
+              "en": "Give me your hand please.",
+              "zh": "请把你的手给我好吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "手"
           }
@@ -45,7 +65,12 @@
           "text": "eye",
           "is_bold": true,
           "phonetic": "aɪ",
-          "example": "Open your eye and look.",
+          "examples": [
+            {
+              "en": "Open your eye and look.",
+              "zh": "睁开你的眼睛看看。"
+            }
+          ],
           "translations": {
             "zh-CN": "眼睛"
           }
@@ -54,7 +79,12 @@
           "text": "mouth",
           "is_bold": true,
           "phonetic": "maʊθ",
-          "example": "Open your mouth wide.",
+          "examples": [
+            {
+              "en": "Open your mouth wide.",
+              "zh": "把嘴巴张大一点。"
+            }
+          ],
           "translations": {
             "zh-CN": "嘴"
           }
@@ -63,7 +93,12 @@
           "text": "arm",
           "is_bold": true,
           "phonetic": "ɑrm",
-          "example": "Lift your strong arm up.",
+          "examples": [
+            {
+              "en": "Lift your strong arm up.",
+              "zh": "把你强壮的手臂举起来。"
+            }
+          ],
           "translations": {
             "zh-CN": "胳膊"
           }
@@ -72,7 +107,12 @@
           "text": "can",
           "is_bold": false,
           "phonetic": "kən",
-          "example": "I can eat canned beans.",
+          "examples": [
+            {
+              "en": "I can eat canned beans.",
+              "zh": "我能吃罐头豆子。"
+            }
+          ],
           "translations": {
             "zh-CN": "可以"
           }
@@ -81,7 +121,12 @@
           "text": "share",
           "is_bold": true,
           "phonetic": "ʃɛr",
-          "example": "Can you share your pencil?",
+          "examples": [
+            {
+              "en": "Can you share your pencil?",
+              "zh": "你能借我你的铅笔吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "分享"
           }
@@ -90,7 +135,12 @@
           "text": "smile",
           "is_bold": true,
           "phonetic": "smaɪl",
-          "example": "She gives a big smile.",
+          "examples": [
+            {
+              "en": "She gives a big smile.",
+              "zh": "她露出了一个大大的微笑。"
+            }
+          ],
           "translations": {
             "zh-CN": "微笑；笑"
           }
@@ -99,7 +149,12 @@
           "text": "listen",
           "is_bold": true,
           "phonetic": "ˈlɪsən",
-          "example": "We listen to music.",
+          "examples": [
+            {
+              "en": "We listen to music.",
+              "zh": "我们听音乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "听；倾听"
           }
@@ -108,7 +163,12 @@
           "text": "help",
           "is_bold": true,
           "phonetic": "hɛlp",
-          "example": "Can you help me clean?",
+          "examples": [
+            {
+              "en": "Can you help me clean?",
+              "zh": "你能帮我打扫吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "帮助"
           }
@@ -117,7 +177,12 @@
           "text": "say",
           "is_bold": false,
           "phonetic": "seɪ",
-          "example": "Mom will say hello.",
+          "examples": [
+            {
+              "en": "Mom will say hello.",
+              "zh": "妈妈会说“你好”。"
+            }
+          ],
           "translations": {
             "zh-CN": "说；讲"
           }
@@ -126,7 +191,12 @@
           "text": "friend",
           "is_bold": false,
           "phonetic": "frɛnd",
-          "example": "My friend likes cats.",
+          "examples": [
+            {
+              "en": "My friend likes cats.",
+              "zh": "我的朋友喜欢猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "朋友"
           }
@@ -135,7 +205,12 @@
           "text": "good",
           "is_bold": false,
           "phonetic": "gʊd",
-          "example": "This apple is good.",
+          "examples": [
+            {
+              "en": "This apple is good.",
+              "zh": "这个苹果很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "好的"
           }
@@ -151,7 +226,12 @@
           "text": "mum",
           "is_bold": true,
           "phonetic": "məm",
-          "example": "Mum makes good food.",
+          "examples": [
+            {
+              "en": "Mum makes good food.",
+              "zh": "妈妈做饭很好吃。"
+            }
+          ],
           "translations": {
             "zh-CN": "（口语）妈妈"
           }
@@ -160,7 +240,12 @@
           "text": "dad",
           "is_bold": true,
           "phonetic": "dæd",
-          "example": "Dad reads a book now.",
+          "examples": [
+            {
+              "en": "Dad reads a book now.",
+              "zh": "爸爸现在看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "（口语）爸爸；爹爹"
           }
@@ -169,7 +254,12 @@
           "text": "grandma",
           "is_bold": true,
           "phonetic": "ˈgrændmɑ",
-          "example": "Grandma reads books.",
+          "examples": [
+            {
+              "en": "Grandma reads books.",
+              "zh": "奶奶看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "奶奶；姥姥"
           }
@@ -178,7 +268,12 @@
           "text": "grandpa",
           "is_bold": true,
           "phonetic": "ˈgrændˌpɑ",
-          "example": "Grandpa plays ball.",
+          "examples": [
+            {
+              "en": "Grandpa plays ball.",
+              "zh": "爷爷打球。"
+            }
+          ],
           "translations": {
             "zh-CN": "爷爷；姥爷"
           }
@@ -187,7 +282,12 @@
           "text": "grandfather",
           "is_bold": true,
           "phonetic": "ˈgrænˌfɑðər",
-          "example": "Grandpa reads big books.",
+          "examples": [
+            {
+              "en": "My grandfather reads a book.",
+              "zh": "我的爷爷读书。"
+            }
+          ],
           "translations": {
             "zh-CN": "（外）祖父；爷爷；姥爷；外公"
           }
@@ -196,7 +296,12 @@
           "text": "grandmother",
           "is_bold": true,
           "phonetic": "ˈgrændˌməðər",
-          "example": "Grandma smiles at us.",
+          "examples": [
+            {
+              "en": "My grandmother cooks yummy food.",
+              "zh": "我的奶奶做美味的食物。"
+            }
+          ],
           "translations": {
             "zh-CN": "（外）祖母；奶奶；姥姥；外婆"
           }
@@ -205,7 +310,12 @@
           "text": "mother",
           "is_bold": true,
           "phonetic": "ˈməðər",
-          "example": "My mother reads books.",
+          "examples": [
+            {
+              "en": "My mother reads books.",
+              "zh": "我妈妈读书。"
+            }
+          ],
           "translations": {
             "zh-CN": "母亲；妈妈"
           }
@@ -214,7 +324,12 @@
           "text": "father",
           "is_bold": true,
           "phonetic": "ˈfɑðər",
-          "example": "My father reads books.",
+          "examples": [
+            {
+              "en": "My father reads books.",
+              "zh": "我爸爸看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "父亲；爸爸"
           }
@@ -223,7 +338,12 @@
           "text": "me",
           "is_bold": true,
           "phonetic": "mi",
-          "example": "Give it to me.",
+          "examples": [
+            {
+              "en": "Give it to me.",
+              "zh": "把它给我。"
+            }
+          ],
           "translations": {
             "zh-CN": "我"
           }
@@ -232,7 +352,12 @@
           "text": "sister",
           "is_bold": true,
           "phonetic": "ˈsɪstər",
-          "example": "She has one little sister.",
+          "examples": [
+            {
+              "en": "She has one little sister.",
+              "zh": "她有一个妹妹。"
+            }
+          ],
           "translations": {
             "zh-CN": "姐；妹"
           }
@@ -241,7 +366,12 @@
           "text": "family",
           "is_bold": false,
           "phonetic": "ˈfæməli",
-          "example": "My family likes apples.",
+          "examples": [
+            {
+              "en": "My family likes apples.",
+              "zh": "我的家人喜欢苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "家；家庭"
           }
@@ -250,7 +380,12 @@
           "text": "have",
           "is_bold": false,
           "phonetic": "hæv",
-          "example": "I have two small dogs.",
+          "examples": [
+            {
+              "en": "I have two small dogs.",
+              "zh": "我有两只小狗。"
+            }
+          ],
           "translations": {
             "zh-CN": "有"
           }
@@ -259,7 +394,12 @@
           "text": "big",
           "is_bold": false,
           "phonetic": "bɪg",
-          "example": "The dog is a big friend.",
+          "examples": [
+            {
+              "en": "The dog is a big friend.",
+              "zh": "这只狗是一个大朋友。"
+            }
+          ],
           "translations": {
             "zh-CN": "大的"
           }
@@ -268,7 +408,12 @@
           "text": "cousin",
           "is_bold": true,
           "phonetic": "ˈkəzən",
-          "example": "My cousin lives near here.",
+          "examples": [
+            {
+              "en": "My cousin lives near here.",
+              "zh": "我表弟住在这附近。"
+            }
+          ],
           "translations": {
             "zh-CN": "堂（表）兄弟；堂（表）姐妹"
           }
@@ -277,7 +422,12 @@
           "text": "brother",
           "is_bold": true,
           "phonetic": "ˈbrəðər",
-          "example": "My little brother likes apples.",
+          "examples": [
+            {
+              "en": "My little brother likes apples.",
+              "zh": "我弟弟喜欢苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "哥；弟"
           }
@@ -286,7 +436,12 @@
           "text": "baby",
           "is_bold": true,
           "phonetic": "ˈbeɪbi",
-          "example": "The baby eats a banana.",
+          "examples": [
+            {
+              "en": "The baby eats a banana.",
+              "zh": "宝宝吃香蕉。"
+            }
+          ],
           "translations": {
             "zh-CN": "婴儿"
           }
@@ -295,7 +450,12 @@
           "text": "uncle",
           "is_bold": true,
           "phonetic": "ˈəŋkəl",
-          "example": "My uncle has a car.",
+          "examples": [
+            {
+              "en": "My uncle has a car.",
+              "zh": "我叔叔有一辆车。"
+            }
+          ],
           "translations": {
             "zh-CN": "伯父；叔父；舅父；姑父；姨父"
           }
@@ -304,7 +464,12 @@
           "text": "aunt",
           "is_bold": true,
           "phonetic": "ɔnt",
-          "example": "My aunt has a cat.",
+          "examples": [
+            {
+              "en": "My aunt has a cat.",
+              "zh": "我阿姨有一只猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "伯母；婶母；舅母；姑母；姨母"
           }
@@ -313,7 +478,12 @@
           "text": "small",
           "is_bold": false,
           "phonetic": "smɔl",
-          "example": "I have a small toy.",
+          "examples": [
+            {
+              "en": "I have a small toy.",
+              "zh": "我有一个小玩具。"
+            }
+          ],
           "translations": {
             "zh-CN": "小的"
           }
@@ -329,7 +499,12 @@
           "text": "like",
           "is_bold": false,
           "phonetic": "laɪk",
-          "example": "She likes red apples.",
+          "examples": [
+            {
+              "en": "I like red apples.",
+              "zh": "我喜欢红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "喜欢"
           }
@@ -338,7 +513,12 @@
           "text": "dog",
           "is_bold": true,
           "phonetic": "dɔg",
-          "example": "My dog likes to run.",
+          "examples": [
+            {
+              "en": "My dog likes to run.",
+              "zh": "我的狗喜欢跑。"
+            }
+          ],
           "translations": {
             "zh-CN": "狗"
           }
@@ -347,7 +527,12 @@
           "text": "pet",
           "is_bold": false,
           "phonetic": "pɛt",
-          "example": "My dog is a pet.",
+          "examples": [
+            {
+              "en": "My dog is a pet.",
+              "zh": "我的狗是宠物。"
+            }
+          ],
           "translations": {
             "zh-CN": "宠物"
           }
@@ -356,7 +541,12 @@
           "text": "cat",
           "is_bold": true,
           "phonetic": "kæt",
-          "example": "The small cat likes milk.",
+          "examples": [
+            {
+              "en": "The small cat likes milk.",
+              "zh": "那只小猫喜欢牛奶。"
+            }
+          ],
           "translations": {
             "zh-CN": "猫"
           }
@@ -365,7 +555,12 @@
           "text": "fish",
           "is_bold": true,
           "phonetic": "fɪʃ",
-          "example": "We can fish in the pond.",
+          "examples": [
+            {
+              "en": "We can fish in the pond.",
+              "zh": "我们可以在池塘里钓鱼。"
+            }
+          ],
           "translations": {
             "zh-CN": "鱼；鱼肉"
           }
@@ -374,7 +569,12 @@
           "text": "bird",
           "is_bold": true,
           "phonetic": "bərd",
-          "example": "See a small blue bird.",
+          "examples": [
+            {
+              "en": "See a small blue bird.",
+              "zh": "看一只小蓝色的鸟。"
+            }
+          ],
           "translations": {
             "zh-CN": "鸟"
           }
@@ -383,7 +583,12 @@
           "text": "rabbit",
           "is_bold": true,
           "phonetic": "ˈræbɪt",
-          "example": "A rabbit eats green grass.",
+          "examples": [
+            {
+              "en": "A rabbit eats green grass.",
+              "zh": "兔子吃青草。"
+            }
+          ],
           "translations": {
             "zh-CN": "兔"
           }
@@ -392,7 +597,12 @@
           "text": "go",
           "is_bold": false,
           "phonetic": "goʊ",
-          "example": "We go to school now.",
+          "examples": [
+            {
+              "en": "We go to school now.",
+              "zh": "我们现在去学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "去；走"
           }
@@ -401,7 +611,12 @@
           "text": "zoo",
           "is_bold": false,
           "phonetic": "zu",
-          "example": "We go to the zoo.",
+          "examples": [
+            {
+              "en": "We go to the zoo.",
+              "zh": "我们去动物园。"
+            }
+          ],
           "translations": {
             "zh-CN": "动物园"
           }
@@ -410,7 +625,12 @@
           "text": "fox",
           "is_bold": false,
           "phonetic": "fɑks",
-          "example": "The fox ran fast.",
+          "examples": [
+            {
+              "en": "The fox ran fast.",
+              "zh": "狐狸跑得很快。"
+            }
+          ],
           "translations": {
             "zh-CN": "狐狸"
           }
@@ -419,7 +639,12 @@
           "text": "Miss",
           "is_bold": false,
           "phonetic": "mɪs",
-          "example": "Miss Lin is very kind.",
+          "examples": [
+            {
+              "en": "Miss Lin is very kind.",
+              "zh": "林老师人很好/林小姐很善良。 (Lín lǎoshī rén hěn hǎo / Lín xiǎojiě hěn shànliáng.)"
+            }
+          ],
           "translations": {
             "zh-CN": "（学生对女教师的称呼）老师；女士"
           }
@@ -428,7 +653,12 @@
           "text": "panda",
           "is_bold": true,
           "phonetic": "ˈpændə",
-          "example": "I see a panda.",
+          "examples": [
+            {
+              "en": "I see a panda.",
+              "zh": "我看到一只熊猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "大熊猫"
           }
@@ -437,7 +667,12 @@
           "text": "red panda",
           "is_bold": false,
           "phonetic": "rɛd ˈpændə",
-          "example": "The red panda is brown.",
+          "examples": [
+            {
+              "en": "The red panda is brown.",
+              "zh": "这只红熊猫是棕色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "小熊猫"
           }
@@ -446,7 +681,12 @@
           "text": "cute",
           "is_bold": false,
           "phonetic": "kjut",
-          "example": "This cat is cute.",
+          "examples": [
+            {
+              "en": "This cat is cute.",
+              "zh": "这只猫很可爱。"
+            }
+          ],
           "translations": {
             "zh-CN": "可爱的"
           }
@@ -455,7 +695,12 @@
           "text": "monkey",
           "is_bold": true,
           "phonetic": "ˈməŋki",
-          "example": "Monkey likes to jump high.",
+          "examples": [
+            {
+              "en": "Monkey likes to jump high.",
+              "zh": "猴子喜欢跳得高。"
+            }
+          ],
           "translations": {
             "zh-CN": "猴子"
           }
@@ -464,7 +709,12 @@
           "text": "tiger",
           "is_bold": true,
           "phonetic": "ˈtaɪgər",
-          "example": "The big tiger eats meat.",
+          "examples": [
+            {
+              "en": "The big tiger eats meat.",
+              "zh": "那只大老虎吃肉。"
+            }
+          ],
           "translations": {
             "zh-CN": "老虎"
           }
@@ -473,7 +723,12 @@
           "text": "elephant",
           "is_bold": true,
           "phonetic": "ˈɛləfənt",
-          "example": "The elephant eats green leaves.",
+          "examples": [
+            {
+              "en": "The elephant eats green leaves.",
+              "zh": "大象吃绿色的叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "大象"
           }
@@ -482,7 +737,12 @@
           "text": "lion",
           "is_bold": true,
           "phonetic": "laɪən",
-          "example": "A lion roars loudly.",
+          "examples": [
+            {
+              "en": "A lion roars loudly.",
+              "zh": "狮子大声地吼叫。"
+            }
+          ],
           "translations": {
             "zh-CN": "狮；狮子"
           }
@@ -491,7 +751,12 @@
           "text": "animal",
           "is_bold": false,
           "phonetic": "ˈænəməl",
-          "example": "The dog is a cute animal.",
+          "examples": [
+            {
+              "en": "The dog is a cute animal.",
+              "zh": "这只狗是一只可爱的小动物。"
+            }
+          ],
           "translations": {
             "zh-CN": "动物"
           }
@@ -500,7 +765,12 @@
           "text": "giraffe",
           "is_bold": false,
           "phonetic": "ʤəræf",
-          "example": "The giraffe eats leaves.",
+          "examples": [
+            {
+              "en": "The giraffe eats leaves.",
+              "zh": "长颈鹿吃树叶。"
+            }
+          ],
           "translations": {
             "zh-CN": "长颈鹿"
           }
@@ -509,7 +779,12 @@
           "text": "tall",
           "is_bold": false,
           "phonetic": "tɔl",
-          "example": "The boy is very tall.",
+          "examples": [
+            {
+              "en": "The boy is very tall.",
+              "zh": "这个男孩很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "高的"
           }
@@ -518,7 +793,12 @@
           "text": "fast",
           "is_bold": false,
           "phonetic": "fæst",
-          "example": "The rabbit runs fast.",
+          "examples": [
+            {
+              "en": "The rabbit runs fast.",
+              "zh": "兔子跑得快。"
+            }
+          ],
           "translations": {
             "zh-CN": "快的"
           }
@@ -534,7 +814,12 @@
           "text": "apple",
           "is_bold": true,
           "phonetic": "ˈæpəl",
-          "example": "I eat one red apple.",
+          "examples": [
+            {
+              "en": "I eat one red apple.",
+              "zh": "我吃了一个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "苹果"
           }
@@ -543,7 +828,12 @@
           "text": "banana",
           "is_bold": true,
           "phonetic": "bəˈnænə",
-          "example": "My friend eats a banana.",
+          "examples": [
+            {
+              "en": "My friend eats a banana.",
+              "zh": "我的朋友吃香蕉。"
+            }
+          ],
           "translations": {
             "zh-CN": "香蕉"
           }
@@ -552,7 +842,12 @@
           "text": "farm",
           "is_bold": false,
           "phonetic": "fɑrm",
-          "example": "They farm on the land.",
+          "examples": [
+            {
+              "en": "They farm on the land.",
+              "zh": "他们在土地上种地/耕作。"
+            }
+          ],
           "translations": {
             "zh-CN": "农场"
           }
@@ -561,7 +856,12 @@
           "text": "air",
           "is_bold": true,
           "phonetic": "ɛr",
-          "example": "We breathe clean fresh air.",
+          "examples": [
+            {
+              "en": "We breathe clean fresh air.",
+              "zh": "我们呼吸新鲜空气。"
+            }
+          ],
           "translations": {
             "zh-CN": "空气"
           }
@@ -570,7 +870,12 @@
           "text": "orange",
           "is_bold": true,
           "phonetic": "ˈɔrɪnʤ",
-          "example": "The apple is orange.",
+          "examples": [
+            {
+              "en": "The apple is orange.",
+              "zh": "这个苹果是橙色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "橙子；柑橘"
           }
@@ -579,7 +884,12 @@
           "text": "grape",
           "is_bold": true,
           "phonetic": "greɪp",
-          "example": "I eat a small grape.",
+          "examples": [
+            {
+              "en": "I eat a small grape.",
+              "zh": "我吃一个小葡萄。"
+            }
+          ],
           "translations": {
             "zh-CN": "葡萄"
           }
@@ -588,7 +898,12 @@
           "text": "school",
           "is_bold": false,
           "phonetic": "skul",
-          "example": "Go to the big school.",
+          "examples": [
+            {
+              "en": "Go to the big school.",
+              "zh": "去大学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "学校"
           }
@@ -597,7 +912,12 @@
           "text": "garden",
           "is_bold": false,
           "phonetic": "ˈgɑrdən",
-          "example": "Mom plants in garden.",
+          "examples": [
+            {
+              "en": "Mom plants in garden.",
+              "zh": "妈妈在花园里种东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "花园"
           }
@@ -606,7 +926,12 @@
           "text": "need",
           "is_bold": false,
           "phonetic": "nid",
-          "example": "I need a new pen.",
+          "examples": [
+            {
+              "en": "I need a new pen.",
+              "zh": "我需要一支新笔。"
+            }
+          ],
           "translations": {
             "zh-CN": "需要"
           }
@@ -615,7 +940,12 @@
           "text": "water",
           "is_bold": true,
           "phonetic": "ˈwɔtər",
-          "example": "Drink clean water now.",
+          "examples": [
+            {
+              "en": "Drink clean water now.",
+              "zh": "现在喝干净的水。"
+            }
+          ],
           "translations": {
             "zh-CN": "给......浇水；水"
           }
@@ -624,7 +954,12 @@
           "text": "flower",
           "is_bold": true,
           "phonetic": "flaʊər",
-          "example": "A pretty flower grew.",
+          "examples": [
+            {
+              "en": "A pretty flower grew.",
+              "zh": "一朵漂亮的花开了。"
+            }
+          ],
           "translations": {
             "zh-CN": "花；花朵"
           }
@@ -633,7 +968,12 @@
           "text": "grass",
           "is_bold": true,
           "phonetic": "græs",
-          "example": "The dog eats grass.",
+          "examples": [
+            {
+              "en": "The dog eats grass.",
+              "zh": "狗吃草。"
+            }
+          ],
           "translations": {
             "zh-CN": "草；草地"
           }
@@ -642,7 +982,12 @@
           "text": "plant",
           "is_bold": false,
           "phonetic": "plænt",
-          "example": "We plant a small flower.",
+          "examples": [
+            {
+              "en": "We plant a small flower.",
+              "zh": "我们种了一朵小花。"
+            }
+          ],
           "translations": {
             "zh-CN": "种植；植物"
           }
@@ -651,7 +996,12 @@
           "text": "new",
           "is_bold": false,
           "phonetic": "nu",
-          "example": "This is a new book.",
+          "examples": [
+            {
+              "en": "This is a new book.",
+              "zh": "这是新书。"
+            }
+          ],
           "translations": {
             "zh-CN": "新的"
           }
@@ -660,7 +1010,12 @@
           "text": "tree",
           "is_bold": true,
           "phonetic": "tri",
-          "example": "Tree has big leaves.",
+          "examples": [
+            {
+              "en": "Tree has big leaves.",
+              "zh": "树的叶子很大。 (shù de yèzi hěn dà.)"
+            }
+          ],
           "translations": {
             "zh-CN": "树"
           }
@@ -669,7 +1024,12 @@
           "text": "sun",
           "is_bold": true,
           "phonetic": "sən",
-          "example": "The sun shines brightly.",
+          "examples": [
+            {
+              "en": "The sun shines brightly.",
+              "zh": "太阳照得很亮。"
+            }
+          ],
           "translations": {
             "zh-CN": "阳光；太阳"
           }
@@ -678,7 +1038,12 @@
           "text": "give",
           "is_bold": false,
           "phonetic": "gɪv",
-          "example": "Please give me water.",
+          "examples": [
+            {
+              "en": "Please give me water.",
+              "zh": "请给我水。"
+            }
+          ],
           "translations": {
             "zh-CN": "给"
           }
@@ -687,7 +1052,12 @@
           "text": "them",
           "is_bold": false,
           "phonetic": "ðɛm",
-          "example": "Give them the blue pen.",
+          "examples": [
+            {
+              "en": "Give them the blue pen.",
+              "zh": "把蓝色的笔给他们。"
+            }
+          ],
           "translations": {
             "zh-CN": "它们；他们；她们"
           }
@@ -703,7 +1073,12 @@
           "text": "colour",
           "is_bold": false,
           "phonetic": "ˈkələr",
-          "example": "Red is a nice colour.",
+          "examples": [
+            {
+              "en": "Red is a nice colour.",
+              "zh": "红色是个好看的颜色。"
+            }
+          ],
           "translations": {
             "zh-CN": "颜色"
           }
@@ -712,7 +1087,12 @@
           "text": "orange",
           "is_bold": true,
           "phonetic": "ˈɔrɪnʤ",
-          "example": "The apple is orange.",
+          "examples": [
+            {
+              "en": "The apple is orange.",
+              "zh": "这个苹果是橙色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "橙红色；橙红色的"
           }
@@ -721,7 +1101,12 @@
           "text": "green",
           "is_bold": true,
           "phonetic": "grin",
-          "example": "Look at the green leaf.",
+          "examples": [
+            {
+              "en": "Look at the green leaf.",
+              "zh": "看那片绿叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "绿色；绿色的"
           }
@@ -730,7 +1115,12 @@
           "text": "red",
           "is_bold": true,
           "phonetic": "rɛd",
-          "example": "My pencil is red.",
+          "examples": [
+            {
+              "en": "My pencil is red.",
+              "zh": "我的铅笔是红色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "红色；红色的"
           }
@@ -739,7 +1129,12 @@
           "text": "blue",
           "is_bold": true,
           "phonetic": "blu",
-          "example": "The sky is blue today.",
+          "examples": [
+            {
+              "en": "The sky is blue today.",
+              "zh": "今天天空是蓝色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "蓝色；蓝色的"
           }
@@ -748,7 +1143,12 @@
           "text": "make",
           "is_bold": false,
           "phonetic": "meɪk",
-          "example": "Can you make a cake?",
+          "examples": [
+            {
+              "en": "Can you make a cake?",
+              "zh": "你能做个蛋糕吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "使出现；做"
           }
@@ -757,7 +1157,12 @@
           "text": "purple",
           "is_bold": true,
           "phonetic": "ˈpərpəl",
-          "example": "The flower is purple.",
+          "examples": [
+            {
+              "en": "The flower is purple.",
+              "zh": "那朵花是紫色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "紫色；紫色的"
           }
@@ -766,7 +1171,12 @@
           "text": "brown",
           "is_bold": true,
           "phonetic": "braʊn",
-          "example": "My dog has brown fur.",
+          "examples": [
+            {
+              "en": "My dog has brown fur.",
+              "zh": "我的狗有棕色的毛。"
+            }
+          ],
           "translations": {
             "zh-CN": "棕色；棕色的"
           }
@@ -775,7 +1185,12 @@
           "text": "bear",
           "is_bold": false,
           "phonetic": "bɛr",
-          "example": "The big bear eats honey.",
+          "examples": [
+            {
+              "en": "The big bear eats honey.",
+              "zh": "那只大熊吃蜂蜜。"
+            }
+          ],
           "translations": {
             "zh-CN": "熊"
           }
@@ -784,7 +1199,12 @@
           "text": "yellow",
           "is_bold": true,
           "phonetic": "ˈjɛloʊ",
-          "example": "The banana is yellow.",
+          "examples": [
+            {
+              "en": "The banana is yellow.",
+              "zh": "香蕉是黄色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "黄色；黄色的"
           }
@@ -793,7 +1213,12 @@
           "text": "duck",
           "is_bold": false,
           "phonetic": "dək",
-          "example": "The duck swims in pond.",
+          "examples": [
+            {
+              "en": "The duck swims in pond.",
+              "zh": "鸭子在池塘里游泳。"
+            }
+          ],
           "translations": {
             "zh-CN": "鸭"
           }
@@ -802,7 +1227,12 @@
           "text": "sea",
           "is_bold": false,
           "phonetic": "si",
-          "example": "The sea is very blue.",
+          "examples": [
+            {
+              "en": "The sea is very blue.",
+              "zh": "海非常蓝。"
+            }
+          ],
           "translations": {
             "zh-CN": "海；海洋"
           }
@@ -811,7 +1241,12 @@
           "text": "some",
           "is_bold": false,
           "phonetic": "səm",
-          "example": "Some apples are red.",
+          "examples": [
+            {
+              "en": "Some apples are red.",
+              "zh": "有些苹果是红色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "一些"
           }
@@ -820,7 +1255,12 @@
           "text": "pink",
           "is_bold": true,
           "phonetic": "pɪŋk",
-          "example": "She wears a pink dress.",
+          "examples": [
+            {
+              "en": "She wears a pink dress.",
+              "zh": "她穿了一件粉色连衣裙。"
+            }
+          ],
           "translations": {
             "zh-CN": "粉色；粉色的"
           }
@@ -829,7 +1269,12 @@
           "text": "draw",
           "is_bold": false,
           "phonetic": "drɔ",
-          "example": "Can you draw a cat?",
+          "examples": [
+            {
+              "en": "Can you draw a cat?",
+              "zh": "你能画一只猫吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "画"
           }
@@ -838,7 +1283,12 @@
           "text": "white",
           "is_bold": true,
           "phonetic": "waɪt",
-          "example": "The cat is white.",
+          "examples": [
+            {
+              "en": "The cat is white.",
+              "zh": "这只猫是白色的。"
+            }
+          ],
           "translations": {
             "zh-CN": "白色；白色的"
           }
@@ -847,7 +1297,12 @@
           "text": "black",
           "is_bold": true,
           "phonetic": "blæk",
-          "example": "The cat is black fur.",
+          "examples": [
+            {
+              "en": "The cat is black fur.",
+              "zh": "那只猫是黑毛的。"
+            }
+          ],
           "translations": {
             "zh-CN": "黑色；黑色的"
           }
@@ -863,7 +1318,12 @@
           "text": "old",
           "is_bold": false,
           "phonetic": "oʊld",
-          "example": "My grandpa is old.",
+          "examples": [
+            {
+              "en": "My grandpa is old.",
+              "zh": "我爷爷很老。 (or: 我的爷爷年纪大了。)"
+            }
+          ],
           "translations": {
             "zh-CN": "（多少）岁；年纪；旧的"
           }
@@ -872,7 +1332,12 @@
           "text": "five",
           "is_bold": true,
           "phonetic": "faɪv",
-          "example": "I have five red apples.",
+          "examples": [
+            {
+              "en": "I have five red apples.",
+              "zh": "我有五个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "五"
           }
@@ -881,7 +1346,12 @@
           "text": "year",
           "is_bold": false,
           "phonetic": "jɪr",
-          "example": "She is a third year student.",
+          "examples": [
+            {
+              "en": "She is a third year student.",
+              "zh": "她是三年级的学生。"
+            }
+          ],
           "translations": {
             "zh-CN": "年纪；年"
           }
@@ -890,7 +1360,12 @@
           "text": "one",
           "is_bold": true,
           "phonetic": "wən",
-          "example": "One boy eats one apple.",
+          "examples": [
+            {
+              "en": "One boy eats one apple.",
+              "zh": "一个男孩吃一个苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "一"
           }
@@ -899,7 +1374,12 @@
           "text": "two",
           "is_bold": true,
           "phonetic": "tu",
-          "example": "Two cats like milk.",
+          "examples": [
+            {
+              "en": "Two cats like milk.",
+              "zh": "两只猫喜欢牛奶。"
+            }
+          ],
           "translations": {
             "zh-CN": "二"
           }
@@ -908,7 +1388,12 @@
           "text": "three",
           "is_bold": true,
           "phonetic": "θri",
-          "example": "I have three red balls.",
+          "examples": [
+            {
+              "en": "I have three red balls.",
+              "zh": "我有三个红色的球。"
+            }
+          ],
           "translations": {
             "zh-CN": "三"
           }
@@ -917,7 +1402,12 @@
           "text": "four",
           "is_bold": true,
           "phonetic": "fɔr",
-          "example": "Four cats play with a ball.",
+          "examples": [
+            {
+              "en": "Four cats play with a ball.",
+              "zh": "四只猫在玩一个球。"
+            }
+          ],
           "translations": {
             "zh-CN": "四"
           }
@@ -926,7 +1416,12 @@
           "text": "ten",
           "is_bold": true,
           "phonetic": "tɛn",
-          "example": "I have ten red balls.",
+          "examples": [
+            {
+              "en": "I have ten red balls.",
+              "zh": "我有十个红色的球。"
+            }
+          ],
           "translations": {
             "zh-CN": "十"
           }
@@ -935,7 +1430,12 @@
           "text": "six",
           "is_bold": true,
           "phonetic": "sɪks",
-          "example": "I have six red apples.",
+          "examples": [
+            {
+              "en": "I have six red apples.",
+              "zh": "我有六个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "六"
           }
@@ -944,7 +1444,12 @@
           "text": "seven",
           "is_bold": true,
           "phonetic": "ˈsɛvən",
-          "example": "I have seven red pens.",
+          "examples": [
+            {
+              "en": "I have seven red pens.",
+              "zh": "我有七支红笔。"
+            }
+          ],
           "translations": {
             "zh-CN": "七"
           }
@@ -953,7 +1458,12 @@
           "text": "eight",
           "is_bold": true,
           "phonetic": "eɪt",
-          "example": "We see eight cats.",
+          "examples": [
+            {
+              "en": "We see eight cats.",
+              "zh": "我们看到八只猫。"
+            }
+          ],
           "translations": {
             "zh-CN": "八"
           }
@@ -962,7 +1472,12 @@
           "text": "nine",
           "is_bold": true,
           "phonetic": "naɪn",
-          "example": "I have nine red apples.",
+          "examples": [
+            {
+              "en": "I have nine red apples.",
+              "zh": "我有九个红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "九"
           }
@@ -971,7 +1486,12 @@
           "text": "o'clock",
           "is_bold": false,
           "phonetic": "əˈklɑk",
-          "example": "It is three o'clock.",
+          "examples": [
+            {
+              "en": "It is three o'clock.",
+              "zh": "现在是三点。"
+            }
+          ],
           "translations": {
             "zh-CN": "（表示整点）......点钟"
           }
@@ -980,7 +1500,12 @@
           "text": "cut",
           "is_bold": false,
           "phonetic": "kət",
-          "example": "The cut is on my arm.",
+          "examples": [
+            {
+              "en": "The cut is on my arm.",
+              "zh": "那道伤在我手臂上。"
+            }
+          ],
           "translations": {
             "zh-CN": "切块"
           }
@@ -989,7 +1514,12 @@
           "text": "eat",
           "is_bold": false,
           "phonetic": "it",
-          "example": "Let us eat rice.",
+          "examples": [
+            {
+              "en": "Let us eat rice.",
+              "zh": "咱们吃米饭吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "吃"
           }
@@ -998,7 +1528,12 @@
           "text": "cake",
           "is_bold": false,
           "phonetic": "keɪk",
-          "example": "I eat a sweet cake.",
+          "examples": [
+            {
+              "en": "I eat a sweet cake.",
+              "zh": "我吃一个甜蛋糕。"
+            }
+          ],
           "translations": {
             "zh-CN": "蛋糕"
           }

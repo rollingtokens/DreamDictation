@@ -9,7 +9,12 @@
           "text": "physiology",
           "is_bold": false,
           "phonetic": "ˌfɪziˈɑləʤi",
-          "example": "Human physiology is very interesting.",
+          "examples": [
+            {
+              "en": "Human physiology is very interesting.",
+              "zh": "人体生理学非常有趣。"
+            }
+          ],
           "translations": {
             "zh-CN": "生理学；生理机能"
           }
@@ -18,7 +23,12 @@
           "text": "artemisinin",
           "is_bold": false,
           "phonetic": "artemisinin*",
-          "example": "Artemisinin helps fight the sickness.",
+          "examples": [
+            {
+              "en": "Artemisinin helps fight the sickness.",
+              "zh": "青蒿素有助于对抗这种疾病。"
+            }
+          ],
           "translations": {
             "zh-CN": "药青蒿素"
           }
@@ -27,7 +37,12 @@
           "text": "crucial",
           "is_bold": true,
           "phonetic": "ˈkruʃəl",
-          "example": "This step is crucial for success.",
+          "examples": [
+            {
+              "en": "This step is crucial for success.",
+              "zh": "这一步对成功至关重要。"
+            }
+          ],
           "translations": {
             "zh-CN": "至关重要的；关键性的"
           }
@@ -36,7 +51,12 @@
           "text": "malaria",
           "is_bold": false,
           "phonetic": "məˈlɛriə",
-          "example": "Malaria causes fever in many people.",
+          "examples": [
+            {
+              "en": "Malaria causes fever in many people.",
+              "zh": "疟疾会导致许多人的发烧。"
+            }
+          ],
           "translations": {
             "zh-CN": "疟疾"
           }
@@ -45,7 +65,12 @@
           "text": "vital",
           "is_bold": true,
           "phonetic": "ˈvaɪtəl",
-          "example": "Water is vital for all living things.",
+          "examples": [
+            {
+              "en": "Water is vital for all living things.",
+              "zh": "水对所有生物都是至关重要的。"
+            }
+          ],
           "translations": {
             "zh-CN": "必不可少的；极其重要的；充满生机的"
           }
@@ -54,7 +79,12 @@
           "text": "committed",
           "is_bold": false,
           "phonetic": "kəˈmɪtɪd",
-          "example": "She is committed to studying hard.",
+          "examples": [
+            {
+              "en": "She is committed to studying hard.",
+              "zh": "她致力于努力学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "尽心尽力的；坚定的；坚信的"
           }
@@ -63,7 +93,12 @@
           "text": "commit",
           "is_bold": true,
           "phonetic": "kəˈmɪt",
-          "example": "He will commit the mistake tomorrow.",
+          "examples": [
+            {
+              "en": "He will commit the mistake tomorrow.",
+              "zh": "他明天会犯这个错误。"
+            }
+          ],
           "translations": {
             "zh-CN": "承诺；保证；忠于；全心全意投入（工作、活动等）"
           }
@@ -72,7 +107,12 @@
           "text": "commit oneself to",
           "is_bold": true,
           "phonetic": "kəˈmɪt ˌwənˈsɛlf tɪ",
-          "example": "She will commit herself to study hard.",
+          "examples": [
+            {
+              "en": "She will commit herself to study hard.",
+              "zh": "她将全身心投入到努力学习中去。"
+            }
+          ],
           "translations": {
             "zh-CN": "承诺；保证（做某事、遵守协议或安排等）"
           }
@@ -81,7 +121,12 @@
           "text": "academy",
           "is_bold": false,
           "phonetic": "əˈkædəmi",
-          "example": "My friend goes to a science academy.",
+          "examples": [
+            {
+              "en": "My friend goes to a science academy.",
+              "zh": "我的朋友去一个科学学院。"
+            }
+          ],
           "translations": {
             "zh-CN": "（艺术、文学、科学等的）；研究院；学会；专科院校"
           }
@@ -90,7 +135,12 @@
           "text": "academic",
           "is_bold": true,
           "phonetic": "ˌækəˈdɛmɪk",
-          "example": "She reads an academic book about history.",
+          "examples": [
+            {
+              "en": "She reads an academic book about history.",
+              "zh": "她读一本关于历史的学术书。"
+            }
+          ],
           "translations": {
             "zh-CN": "学业的；学术的"
           }
@@ -99,7 +149,12 @@
           "text": "objective",
           "is_bold": true,
           "phonetic": "əˈbʤɛktɪv",
-          "example": "My main objective is learning English.",
+          "examples": [
+            {
+              "en": "My main objective is learning English.",
+              "zh": "我的主要目标是学好英语。"
+            }
+          ],
           "translations": {
             "zh-CN": "目标；目的；客观的"
           }
@@ -108,7 +163,12 @@
           "text": "botanical",
           "is_bold": true,
           "phonetic": "bəˈtænɪkəl",
-          "example": "The garden has many beautiful botanical plants.",
+          "examples": [
+            {
+              "en": "The garden has many beautiful botanical plants.",
+              "zh": "花园里有很多美丽的花卉植物。"
+            }
+          ],
           "translations": {
             "zh-CN": "植物学的"
           }
@@ -117,7 +177,12 @@
           "text": "evaluate",
           "is_bold": true,
           "phonetic": "ɪˈvæljuˌeɪt",
-          "example": "We must evaluate this math problem.",
+          "examples": [
+            {
+              "en": "We must evaluate this math problem.",
+              "zh": "我们必须评估这个数学题。"
+            }
+          ],
           "translations": {
             "zh-CN": "评价；评估"
           }
@@ -126,7 +191,12 @@
           "text": "property",
           "is_bold": true,
           "phonetic": "ˈprɑpərti",
-          "example": "This book has interesting property.",
+          "examples": [
+            {
+              "en": "This book has interesting property.",
+              "zh": "这本书有有趣的特性。"
+            }
+          ],
           "translations": {
             "zh-CN": "性质；特征；财产"
           }
@@ -135,7 +205,12 @@
           "text": "distinct",
           "is_bold": true,
           "phonetic": "dɪˈstɪŋkt",
-          "example": "The colors are very distinct now.",
+          "examples": [
+            {
+              "en": "The colors are very distinct now.",
+              "zh": "这些颜色现在很鲜明。"
+            }
+          ],
           "translations": {
             "zh-CN": "清晰的；清楚的；有区别的"
           }
@@ -144,7 +219,12 @@
           "text": "extract",
           "is_bold": false,
           "phonetic": "ˈɛkˌstrækt",
-          "example": "Can you extract the main idea?",
+          "examples": [
+            {
+              "en": "Can you extract the main idea?",
+              "zh": "你能提取出主要思想吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "提取物；摘录；提取；提炼；摘录；（用力）拔出"
           }
@@ -153,7 +233,12 @@
           "text": "wormwood",
           "is_bold": false,
           "phonetic": "ˈwərmˌwʊd",
-          "example": "She chewed the bitter wormwood leaf.",
+          "examples": [
+            {
+              "en": "She chewed the bitter wormwood leaf.",
+              "zh": "她嚼了苦的防风叶子。"
+            }
+          ],
           "translations": {
             "zh-CN": "蒿；洋艾"
           }
@@ -162,7 +247,12 @@
           "text": "boil",
           "is_bold": true,
           "phonetic": "bɔɪl",
-          "example": "The water will boil soon.",
+          "examples": [
+            {
+              "en": "The water will boil soon.",
+              "zh": "水很快就要沸腾了。"
+            }
+          ],
           "translations": {
             "zh-CN": "（使）沸腾；煮开；烧开；沸腾；沸点"
           }
@@ -171,7 +261,12 @@
           "text": "liquid",
           "is_bold": true,
           "phonetic": "ˈlɪkwɪd",
-          "example": "Water is a clear liquid.",
+          "examples": [
+            {
+              "en": "Water is a clear liquid.",
+              "zh": "水是一种清澈的液体。"
+            }
+          ],
           "translations": {
             "zh-CN": "液体；液体的；液态的"
           }
@@ -180,7 +275,12 @@
           "text": "obtain",
           "is_bold": true,
           "phonetic": "əbˈteɪn",
-          "example": "She can obtain a good grade.",
+          "examples": [
+            {
+              "en": "She can obtain a good grade.",
+              "zh": "她可以得到一个好成绩。"
+            }
+          ],
           "translations": {
             "zh-CN": "（尤指经努力）获得；赢得；（规章、习俗等）存在；流行"
           }
@@ -189,7 +289,12 @@
           "text": "acknowledge",
           "is_bold": true,
           "phonetic": "ækˈnɑlɪʤ",
-          "example": "Please acknowledge my homework submission now.",
+          "examples": [
+            {
+              "en": "Please acknowledge my homework submission now.",
+              "zh": "请现在确认我的作业提交。"
+            }
+          ],
           "translations": {
             "zh-CN": "承认（属实、权威等）；（公开）感谢"
           }
@@ -198,7 +303,12 @@
           "text": "defeat",
           "is_bold": true,
           "phonetic": "dɪˈfit",
-          "example": "The team can defeat them.",
+          "examples": [
+            {
+              "en": "The team can defeat them.",
+              "zh": "团队可以打败他们。"
+            }
+          ],
           "translations": {
             "zh-CN": "失败；挫败；击败；战胜"
           }
@@ -207,7 +317,12 @@
           "text": "analyse",
           "is_bold": true,
           "phonetic": "analyse*",
-          "example": "Please analyse this math problem now.",
+          "examples": [
+            {
+              "en": "Please analyse this math problem now.",
+              "zh": "请你现在分析一下这道数学题。"
+            }
+          ],
           "translations": {
             "zh-CN": "分析"
           }
@@ -216,7 +331,12 @@
           "text": "apparently",
           "is_bold": true,
           "phonetic": "əˈpɛrəntli",
-          "example": "Apparently, the test was quite easy.",
+          "examples": [
+            {
+              "en": "Apparently, the test was quite easy.",
+              "zh": "显然，这次考试相当简单。"
+            }
+          ],
           "translations": {
             "zh-CN": "显而易见；看来；显然"
           }
@@ -225,7 +345,12 @@
           "text": "substance",
           "is_bold": true,
           "phonetic": "ˈsəbstəns",
-          "example": "Water is a common substance in life.",
+          "examples": [
+            {
+              "en": "Water is a common substance in life.",
+              "zh": "水是生命中一种常见的物质。"
+            }
+          ],
           "translations": {
             "zh-CN": "物质；物品；事实根据"
           }
@@ -234,7 +359,12 @@
           "text": "insist",
           "is_bold": true,
           "phonetic": "ˌɪnˈsɪst",
-          "example": "Please insist on this book.",
+          "examples": [
+            {
+              "en": "Please insist on this book.",
+              "zh": "请坚持这本书。"
+            }
+          ],
           "translations": {
             "zh-CN": "坚持；坚决要求"
           }
@@ -243,7 +373,12 @@
           "text": "insist on",
           "is_bold": true,
           "phonetic": "ˌɪnˈsɪst ɔn",
-          "example": "He insists on eating all his vegetables.",
+          "examples": [
+            {
+              "en": "We insist on eating apples.",
+              "zh": "我们坚持吃苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "坚决要求"
           }
@@ -252,7 +387,12 @@
           "text": "scientific",
           "is_bold": true,
           "phonetic": "ˌsaɪənˈtɪfɪk",
-          "example": "This book has scientific facts.",
+          "examples": [
+            {
+              "en": "This book has scientific facts.",
+              "zh": "这本书有科学事实。 (Zhè běn shū yǒu kēxué shìshí.)"
+            }
+          ],
           "translations": {
             "zh-CN": "科学（上）的；关于科学的"
           }
@@ -261,7 +401,12 @@
           "text": "mostly",
           "is_bold": true,
           "phonetic": "ˈmoʊstli",
-          "example": "He is mostly at home today.",
+          "examples": [
+            {
+              "en": "He is mostly at home today.",
+              "zh": "他今天大部分时间都在家里。"
+            }
+          ],
           "translations": {
             "zh-CN": "主要地；一般地"
           }
@@ -270,7 +415,12 @@
           "text": "wear and tear",
           "is_bold": true,
           "phonetic": "wɛr ənd tɪr",
-          "example": "The shoes show wear and tear.",
+          "examples": [
+            {
+              "en": "The shoes show wear and tear.",
+              "zh": "这双鞋子显示出磨损的痕迹。"
+            }
+          ],
           "translations": {
             "zh-CN": "（正常使用造成的）磨损；损耗"
           }
@@ -279,7 +429,12 @@
           "text": "conclusion",
           "is_bold": true,
           "phonetic": "kənˈkluʒən",
-          "example": "The conclusion was that the test was hard.",
+          "examples": [
+            {
+              "en": "The conclusion was that the test was hard.",
+              "zh": "结论是这次考试很难的。"
+            }
+          ],
           "translations": {
             "zh-CN": "结论；推论"
           }
@@ -288,7 +443,12 @@
           "text": "penicillin",
           "is_bold": false,
           "phonetic": "ˌpɛnəˈsɪlən",
-          "example": "She takes penicillin for her cold.",
+          "examples": [
+            {
+              "en": "She takes penicillin for her cold.",
+              "zh": "她因为感冒吃了青霉素。"
+            }
+          ],
           "translations": {
             "zh-CN": "青霉素；盘尼西林"
           }
@@ -297,7 +457,12 @@
           "text": "flee fled, fled",
           "is_bold": false,
           "phonetic": "fli flɛd, flɛd",
-          "example": "The birds flee from the cat.",
+          "examples": [
+            {
+              "en": "The birds flee from the cat.",
+              "zh": "鸟儿们从猫那里逃跑了。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）迅速离开；逃跑"
           }
@@ -306,7 +471,12 @@
           "text": "circumstance usually pl",
           "is_bold": true,
           "phonetic": "ˈsərkəmˌstæns ˈjuʒəwəli pl*",
-          "example": "Bad circumstances affect our study.",
+          "examples": [
+            {
+              "en": "Bad circumstances affect our study.",
+              "zh": "不好的情况影响了我们的学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "［］条件；环境；状况"
           }
@@ -315,7 +485,12 @@
           "text": "novelist",
           "is_bold": true,
           "phonetic": "ˈnɑvələst",
-          "example": "He is a famous novelist.",
+          "examples": [
+            {
+              "en": "He is a famous novelist.",
+              "zh": "他是一位著名的小说家。"
+            }
+          ],
           "translations": {
             "zh-CN": "小说家"
           }
@@ -324,7 +499,12 @@
           "text": "novel",
           "is_bold": true,
           "phonetic": "ˈnɑvəl",
-          "example": "This novel is very interesting.",
+          "examples": [
+            {
+              "en": "This novel is very interesting.",
+              "zh": "这本小说很有意思。"
+            }
+          ],
           "translations": {
             "zh-CN": "（长篇）小说"
           }
@@ -333,7 +513,12 @@
           "text": "flow",
           "is_bold": true,
           "phonetic": "floʊ",
-          "example": "Water starts to flow down.",
+          "examples": [
+            {
+              "en": "Water starts to flow down.",
+              "zh": "水开始流下来。"
+            }
+          ],
           "translations": {
             "zh-CN": "流；流动；流畅；供应；流；流动"
           }
@@ -342,7 +527,12 @@
           "text": "chart",
           "is_bold": true,
           "phonetic": "ʧɑrt",
-          "example": "Draw a chart of your study time.",
+          "examples": [
+            {
+              "en": "Draw a chart of your study time.",
+              "zh": "画一个你的学习时间图表。"
+            }
+          ],
           "translations": {
             "zh-CN": "图表；记录；制订计划"
           }
@@ -351,7 +541,12 @@
           "text": "flow chart",
           "is_bold": true,
           "phonetic": "floʊ ʧɑrt",
-          "example": "The flow chart shows the process.",
+          "examples": [
+            {
+              "en": "The flow chart shows the process.",
+              "zh": "这个流程图显示了过程。"
+            }
+          ],
           "translations": {
             "zh-CN": "流程图"
           }
@@ -360,7 +555,12 @@
           "text": "found",
           "is_bold": true,
           "phonetic": "faʊnd",
-          "example": "He found a new school.",
+          "examples": [
+            {
+              "en": "He found a new school.",
+              "zh": "他找到了一所新学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "创建；建立；把……建立在"
           }
@@ -369,7 +569,12 @@
           "text": "infer",
           "is_bold": true,
           "phonetic": "ˌɪnˈfər",
-          "example": "We can infer his mood easily.",
+          "examples": [
+            {
+              "en": "We can infer his mood easily.",
+              "zh": "我们可以很容易地推断出他的心情。"
+            }
+          ],
           "translations": {
             "zh-CN": "推断；推定"
           }
@@ -378,7 +583,12 @@
           "text": "politician",
           "is_bold": true,
           "phonetic": "ˌpɑləˈtɪʃən",
-          "example": "She met a famous politician today.",
+          "examples": [
+            {
+              "en": "She met a famous politician today.",
+              "zh": "她今天遇到了一个著名的政客。"
+            }
+          ],
           "translations": {
             "zh-CN": "从政者；政治家；政客"
           }
@@ -387,7 +597,12 @@
           "text": "numerous",
           "is_bold": false,
           "phonetic": "ˈnumərəs",
-          "example": "There are numerous students here.",
+          "examples": [
+            {
+              "en": "There are numerous students here.",
+              "zh": "这里有很多学生。"
+            }
+          ],
           "translations": {
             "zh-CN": "众多的；许多的"
           }
@@ -396,7 +611,12 @@
           "text": "theory",
           "is_bold": true,
           "phonetic": "ˈθɪri",
-          "example": "This theory explains the world.",
+          "examples": [
+            {
+              "en": "This theory explains the world.",
+              "zh": "这个理论解释了世界。"
+            }
+          ],
           "translations": {
             "zh-CN": "理论；学说"
           }
@@ -405,7 +625,12 @@
           "text": "relativity",
           "is_bold": false,
           "phonetic": "ˌrɛləˈtɪvəti",
-          "example": "Einstein taught us relativity.",
+          "examples": [
+            {
+              "en": "Einstein taught us relativity.",
+              "zh": "爱因斯坦教了我们相对论。"
+            }
+          ],
           "translations": {
             "zh-CN": "相对论；相对性"
           }
@@ -414,7 +639,12 @@
           "text": "formula",
           "is_bold": false,
           "phonetic": "ˈfɔrmjələ",
-          "example": "This is a math formula.",
+          "examples": [
+            {
+              "en": "This is a math formula.",
+              "zh": "这是一个数学公式。"
+            }
+          ],
           "translations": {
             "zh-CN": "公式；方程式；配方"
           }
@@ -423,7 +653,12 @@
           "text": "genius",
           "is_bold": true,
           "phonetic": "ˈʤinjəs",
-          "example": "She is a math genius.",
+          "examples": [
+            {
+              "en": "She is a math genius.",
+              "zh": "她是一个数学天才。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）天才；天资；天赋"
           }
@@ -432,7 +667,12 @@
           "text": "gentle",
           "is_bold": true,
           "phonetic": "ˈʤɛnəl",
-          "example": "The cat has a gentle paw.",
+          "examples": [
+            {
+              "en": "The cat has a gentle paw.",
+              "zh": "这只猫有温柔的爪子。"
+            }
+          ],
           "translations": {
             "zh-CN": "温柔的；文静的"
           }
@@ -441,7 +681,12 @@
           "text": "patent",
           "is_bold": true,
           "phonetic": "ˈpætənt",
-          "example": "She got a new patent for her toy.",
+          "examples": [
+            {
+              "en": "She got a new patent for her toy.",
+              "zh": "她为她的玩具获得了一项新专利。"
+            }
+          ],
           "translations": {
             "zh-CN": "专利；专利证书；获得专利；有专利的；受专利保护的"
           }
@@ -450,7 +695,12 @@
           "text": "passion",
           "is_bold": false,
           "phonetic": "ˈpæʃən",
-          "example": "His passion is reading books.",
+          "examples": [
+            {
+              "en": "His passion is reading books.",
+              "zh": "他的爱好是读书。"
+            }
+          ],
           "translations": {
             "zh-CN": "酷爱；激情"
           }
@@ -459,7 +709,12 @@
           "text": "doctorate",
           "is_bold": false,
           "phonetic": "ˈdɑktərət",
-          "example": "He earned a doctorate degree.",
+          "examples": [
+            {
+              "en": "He earned a doctorate degree.",
+              "zh": "他获得了博士学位。"
+            }
+          ],
           "translations": {
             "zh-CN": "博士学位"
           }
@@ -468,7 +723,12 @@
           "text": "extraordinary",
           "is_bold": true,
           "phonetic": "ˌɛkstrəˈɔrdəˌnɛri",
-          "example": "He showed extraordinary talent in art.",
+          "examples": [
+            {
+              "en": "He showed extraordinary talent in art.",
+              "zh": "他在艺术方面有非凡的天赋。"
+            }
+          ],
           "translations": {
             "zh-CN": "不一般的；非凡的；意想不到的"
           }
@@ -477,7 +737,12 @@
           "text": "gradually",
           "is_bold": true,
           "phonetic": "ˈgræʤuəli",
-          "example": "The flowers grew gradually tall.",
+          "examples": [
+            {
+              "en": "The flowers grew gradually tall.",
+              "zh": "花慢慢地长高了。"
+            }
+          ],
           "translations": {
             "zh-CN": "逐渐地；逐步地"
           }
@@ -486,7 +751,12 @@
           "text": "photoelectric",
           "is_bold": false,
           "phonetic": "ˌfoʊtoʊɪˈlɛktrɪk",
-          "example": "The photoelectric effect is cool.",
+          "examples": [
+            {
+              "en": "The photoelectric effect is cool.",
+              "zh": "光电效应很酷。"
+            }
+          ],
           "translations": {
             "zh-CN": "光电的"
           }
@@ -495,7 +765,12 @@
           "text": "come to power",
           "is_bold": true,
           "phonetic": "kəm tɪ paʊər",
-          "example": "The new leader came to power.",
+          "examples": [
+            {
+              "en": "We come to power soon.",
+              "zh": "我们很快就掌握权力。"
+            }
+          ],
           "translations": {
             "zh-CN": "（开始）掌权；上台"
           }
@@ -504,7 +779,12 @@
           "text": "institution",
           "is_bold": true,
           "phonetic": "ˌɪnstɪˈtuʃən",
-          "example": "This school is a fine institution.",
+          "examples": [
+            {
+              "en": "This school is a fine institution.",
+              "zh": "这所学校是一所很好的机构。"
+            }
+          ],
           "translations": {
             "zh-CN": "社会公共机构；制度；习俗"
           }
@@ -513,7 +793,12 @@
           "text": "institute",
           "is_bold": true,
           "phonetic": "ˈɪnstɪˌtut",
-          "example": "She will institute a new rule.",
+          "examples": [
+            {
+              "en": "She will institute a new rule.",
+              "zh": "她将设立一条新规定。"
+            }
+          ],
           "translations": {
             "zh-CN": "（教育、专业等）机构；机构建筑"
           }
@@ -522,7 +807,12 @@
           "text": "consequence",
           "is_bold": true,
           "phonetic": "ˈkɑnsəkwəns",
-          "example": "The consequence of rain was wet ground.",
+          "examples": [
+            {
+              "en": "The consequence of rain was wet ground.",
+              "zh": "下雨的后果是地面湿了。"
+            }
+          ],
           "translations": {
             "zh-CN": "结果；后果"
           }
@@ -531,7 +821,12 @@
           "text": "take up a position",
           "is_bold": true,
           "phonetic": "teɪk əp ə pəˈzɪʃən",
-          "example": "She will take up a position in the club.",
+          "examples": [
+            {
+              "en": "She will take up a position in the club.",
+              "zh": "她将担任俱乐部的一个职位。"
+            }
+          ],
           "translations": {
             "zh-CN": "担任；任职"
           }
@@ -540,7 +835,12 @@
           "text": "moustache",
           "is_bold": false,
           "phonetic": "ˈməˌstæʃ",
-          "example": "He has a black moustache.",
+          "examples": [
+            {
+              "en": "He has a black moustache.",
+              "zh": "他有一撇黑色的胡子。"
+            }
+          ],
           "translations": {
             "zh-CN": "上唇的胡子；髭"
           }
@@ -549,7 +849,12 @@
           "text": "peculiarity",
           "is_bold": false,
           "phonetic": "pɪˌkjuliˈɛrəti",
-          "example": "His shyness is a funny peculiarity.",
+          "examples": [
+            {
+              "en": "His shyness is a funny peculiarity.",
+              "zh": "他的害羞是一个有趣的特点。"
+            }
+          ],
           "translations": {
             "zh-CN": "个性；特点；怪异的性质"
           }
@@ -558,7 +863,12 @@
           "text": "encounter",
           "is_bold": true,
           "phonetic": "ɪnˈkaʊnər",
-          "example": "We might encounter an old friend.",
+          "examples": [
+            {
+              "en": "We might encounter an old friend.",
+              "zh": "我们可能会遇到一个老朋友。"
+            }
+          ],
           "translations": {
             "zh-CN": "偶然碰到；遇到；邂逅；遭遇"
           }
@@ -567,7 +877,12 @@
           "text": "professor",
           "is_bold": true,
           "phonetic": "prəˈfɛsər",
-          "example": "My professor teaches math.",
+          "examples": [
+            {
+              "en": "My professor teaches math.",
+              "zh": "我的教授教数学。"
+            }
+          ],
           "translations": {
             "zh-CN": "教授"
           }
@@ -576,7 +891,12 @@
           "text": "mourn",
           "is_bold": false,
           "phonetic": "mɔrn",
-          "example": "They mourn their lost friend.",
+          "examples": [
+            {
+              "en": "They mourn their lost friend.",
+              "zh": "他们为失去的朋友哀悼。"
+            }
+          ],
           "translations": {
             "zh-CN": "哀悼；忧伤"
           }
@@ -585,7 +905,12 @@
           "text": "remarkable",
           "is_bold": true,
           "phonetic": "rɪˈmɑrkəbəl",
-          "example": "The view from here is remarkable.",
+          "examples": [
+            {
+              "en": "The view from here is remarkable.",
+              "zh": "从这里看到的景色很棒。"
+            }
+          ],
           "translations": {
             "zh-CN": "非凡的；显著的"
           }
@@ -594,7 +919,12 @@
           "text": "device",
           "is_bold": true,
           "phonetic": "dɪˈvaɪs",
-          "example": "This pen is a useful writing device.",
+          "examples": [
+            {
+              "en": "This pen is a useful writing device.",
+              "zh": "这支笔是一个有用的书写工具。"
+            }
+          ],
           "translations": {
             "zh-CN": "方法；技巧；装置；仪器"
           }
@@ -603,7 +933,12 @@
           "text": "sum",
           "is_bold": true,
           "phonetic": "səm",
-          "example": "The sum is ten dollars.",
+          "examples": [
+            {
+              "en": "The sum is ten dollars.",
+              "zh": "总共是十块钱。"
+            }
+          ],
           "translations": {
             "zh-CN": "总结；概括；金额；款项；总数；总和"
           }
@@ -612,7 +947,12 @@
           "text": "sum up",
           "is_bold": true,
           "phonetic": "səm əp",
-          "example": "Please sum up your ideas.",
+          "examples": [
+            {
+              "en": "Please sum up your ideas.",
+              "zh": "请把你的想法加起来/总结一下。"
+            }
+          ],
           "translations": {
             "zh-CN": "总结；概括"
           }
@@ -621,7 +961,12 @@
           "text": "draft",
           "is_bold": true,
           "phonetic": "dræft",
-          "example": "Please review this draft before class.",
+          "examples": [
+            {
+              "en": "Please review this draft before class.",
+              "zh": "请在课前看看这份草稿。"
+            }
+          ],
           "translations": {
             "zh-CN": "草稿；草案；起草；草拟"
           }
@@ -630,7 +975,12 @@
           "text": "Nobel Prize",
           "is_bold": false,
           "phonetic": "noʊˈbɛl praɪz",
-          "example": "She won the Nobel Prize.",
+          "examples": [
+            {
+              "en": "She won the Nobel Prize.",
+              "zh": "她获得了诺贝尔奖。"
+            }
+          ],
           "translations": {
             "zh-CN": "诺贝尔奖"
           }
@@ -639,7 +989,12 @@
           "text": "Alexander Fleming",
           "is_bold": false,
           "phonetic": "ˌælɪgˈzændər ˈflɛmɪŋ",
-          "example": "Fleming discovered penicillin.",
+          "examples": [
+            {
+              "en": "We read about Alexander Fleming.",
+              "zh": "我们读了关于亚历山大·弗莱明的。"
+            }
+          ],
           "translations": {
             "zh-CN": "亚历山大·弗莱明"
           }
@@ -648,7 +1003,12 @@
           "text": "Albert Einstein",
           "is_bold": false,
           "phonetic": "ˈælbərt ˈaɪnstaɪn",
-          "example": "Einstein studied relativity.",
+          "examples": [
+            {
+              "en": "We read about Albert Einstein.",
+              "zh": "我们读了关于阿尔伯特·爱因斯坦。"
+            }
+          ],
           "translations": {
             "zh-CN": "阿尔伯特·爱因斯坦"
           }
@@ -657,7 +1017,12 @@
           "text": "Hitler",
           "is_bold": false,
           "phonetic": "ˈhɪtlər",
-          "example": "Hitler led Germany in the war.",
+          "examples": [
+            {
+              "en": "Hitler led Germany in the war.",
+              "zh": "希特勒在战争中领导了德国。"
+            }
+          ],
           "translations": {
             "zh-CN": "希特勒"
           }
@@ -666,7 +1031,12 @@
           "text": "Elon Musk",
           "is_bold": false,
           "phonetic": "elon* məsk",
-          "example": "Elon Musk owns Tesla and SpaceX.",
+          "examples": [
+            {
+              "en": "Elon Musk owns Tesla and SpaceX.",
+              "zh": "埃隆·马斯克拥有特斯拉和SpaceX。"
+            }
+          ],
           "translations": {
             "zh-CN": "埃隆·马斯克"
           }
@@ -675,7 +1045,12 @@
           "text": "Florence Nightingale",
           "is_bold": false,
           "phonetic": "ˈflɔrəns ˈnaɪtɪŋgeɪl",
-          "example": "Florence Nightingale helped the sick people.",
+          "examples": [
+            {
+              "en": "Florence Nightingale helped the sick people.",
+              "zh": "弗洛伦斯·南丁格尔帮助了病人。"
+            }
+          ],
           "translations": {
             "zh-CN": "弗洛伦斯·南丁格尔"
           }
@@ -684,7 +1059,12 @@
           "text": "SARS",
           "is_bold": false,
           "phonetic": "sɑrz",
-          "example": "SARS caused sickness last year.",
+          "examples": [
+            {
+              "en": "SARS caused sickness last year.",
+              "zh": "SARS去年引起了疾病。"
+            }
+          ],
           "translations": {
             "zh-CN": "严重急性呼吸综合征"
           }
@@ -693,7 +1073,12 @@
           "text": "Switzerland",
           "is_bold": false,
           "phonetic": "sˈwɪtsərlənd",
-          "example": "My friend likes Switzerland very much.",
+          "examples": [
+            {
+              "en": "My friend likes Switzerland very much.",
+              "zh": "我的朋友非常喜欢瑞士。"
+            }
+          ],
           "translations": {
             "zh-CN": "瑞士（国家名）"
           }
@@ -702,7 +1087,12 @@
           "text": "Swiss",
           "is_bold": false,
           "phonetic": "swɪs",
-          "example": "We bought Swiss chocolate candy.",
+          "examples": [
+            {
+              "en": "We bought Swiss chocolate candy.",
+              "zh": "我们买了瑞士巧克力糖果。"
+            }
+          ],
           "translations": {
             "zh-CN": "瑞士的（）瑞士人"
           }
@@ -711,7 +1101,12 @@
           "text": "Isaac Newton",
           "is_bold": false,
           "phonetic": "ˈaɪzɪk ˈnutən",
-          "example": "Isaac Newton discovered gravity's law.",
+          "examples": [
+            {
+              "en": "Isaac Newton discovered gravity's law.",
+              "zh": "艾萨克·牛顿发现了万有引力定律。"
+            }
+          ],
           "translations": {
             "zh-CN": "艾萨克·牛顿"
           }
@@ -720,7 +1115,12 @@
           "text": "Jewish",
           "is_bold": false,
           "phonetic": "ʤuɪʃ",
-          "example": "The Jewish family ate challah bread.",
+          "examples": [
+            {
+              "en": "The Jewish family ate challah bread.",
+              "zh": "这个犹太家庭吃了烤面包（challah）。"
+            }
+          ],
           "translations": {
             "zh-CN": "犹太人的；犹太教的"
           }
@@ -729,7 +1129,12 @@
           "text": "Princeton",
           "is_bold": false,
           "phonetic": "ˈprɪnstən",
-          "example": "My friend lives near Princeton.",
+          "examples": [
+            {
+              "en": "My friend lives near Princeton.",
+              "zh": "我的朋友住在普林斯顿附近。"
+            }
+          ],
           "translations": {
             "zh-CN": "普林斯顿（美国城市）"
           }
@@ -745,7 +1150,12 @@
           "text": "phrase",
           "is_bold": true,
           "phonetic": "freɪz",
-          "example": "Good morning is a nice phrase.",
+          "examples": [
+            {
+              "en": "Good morning\" is a nice phrase.",
+              "zh": "“早上好”是一个很 nice 的短语。"
+            }
+          ],
           "translations": {
             "zh-CN": "短语；词组"
           }
@@ -754,7 +1164,12 @@
           "text": "persuade",
           "is_bold": true,
           "phonetic": "pərsˈweɪd",
-          "example": "Please persuade your friend to come.",
+          "examples": [
+            {
+              "en": "Please persuade your friend to come.",
+              "zh": "请说服你的朋友来。"
+            }
+          ],
           "translations": {
             "zh-CN": "劝说；说服"
           }
@@ -763,7 +1178,12 @@
           "text": "switch",
           "is_bold": true,
           "phonetic": "swɪʧ",
-          "example": "Please switch the light on.",
+          "examples": [
+            {
+              "en": "Please switch the light on.",
+              "zh": "请把灯打开/开一下灯。"
+            }
+          ],
           "translations": {
             "zh-CN": "转换；交换；（使）改变；转变；开关；转换器；改变"
           }
@@ -772,7 +1192,12 @@
           "text": "switch off/on",
           "is_bold": true,
           "phonetic": "swɪʧ off/on*",
-          "example": "Please switch off the light.",
+          "examples": [
+            {
+              "en": "Please switch off the light.",
+              "zh": "请关掉灯。"
+            }
+          ],
           "translations": {
             "zh-CN": "关开（电灯、机器等）"
           }
@@ -781,7 +1206,12 @@
           "text": "distant",
           "is_bold": true,
           "phonetic": "ˈdɪstənt",
-          "example": "The stars look very distant tonight.",
+          "examples": [
+            {
+              "en": "The stars look very distant tonight.",
+              "zh": "今晚星星看起来很遥远。"
+            }
+          ],
           "translations": {
             "zh-CN": "遥远的；远处的；疏远的；心不在焉的"
           }
@@ -790,7 +1220,12 @@
           "text": "secure",
           "is_bold": true,
           "phonetic": "sɪˈkjʊr",
-          "example": "Please keep your phone secure now.",
+          "examples": [
+            {
+              "en": "Please keep your phone secure now.",
+              "zh": "请现在把你的手机保管好。"
+            }
+          ],
           "translations": {
             "zh-CN": "安全的；安心的；可靠的；牢固的；获得；拴牢；保护"
           }
@@ -799,7 +1234,12 @@
           "text": "knob",
           "is_bold": false,
           "phonetic": "nɑb",
-          "example": "Turn the knob on the door.",
+          "examples": [
+            {
+              "en": "Turn the knob on the door.",
+              "zh": "拧开门上的旋钮。"
+            }
+          ],
           "translations": {
             "zh-CN": "旋钮；球形把手"
           }
@@ -808,7 +1248,12 @@
           "text": "appliance",
           "is_bold": false,
           "phonetic": "əˈplaɪəns",
-          "example": "The toaster is a small appliance.",
+          "examples": [
+            {
+              "en": "The toaster is a small appliance.",
+              "zh": "这个烤面包机是一个小电器。"
+            }
+          ],
           "translations": {
             "zh-CN": "电器；器具"
           }
@@ -817,7 +1262,12 @@
           "text": "remote",
           "is_bold": true,
           "phonetic": "rɪˈmoʊt",
-          "example": "The house is very remote.",
+          "examples": [
+            {
+              "en": "The house is very remote.",
+              "zh": "这房子很偏远。"
+            }
+          ],
           "translations": {
             "zh-CN": "远程的；偏远的"
           }
@@ -826,7 +1276,12 @@
           "text": "remote control",
           "is_bold": true,
           "phonetic": "rɪˈmoʊt kənˈtroʊl",
-          "example": "Use the remote control for TV.",
+          "examples": [
+            {
+              "en": "Use the remote control for TV.",
+              "zh": "用遥控器看电视。"
+            }
+          ],
           "translations": {
             "zh-CN": "遥控器；遥控"
           }
@@ -835,7 +1290,12 @@
           "text": "air conditioner",
           "is_bold": true,
           "phonetic": "ɛr kənˈdɪʃənər",
-          "example": "The air conditioner is very cold.",
+          "examples": [
+            {
+              "en": "The air conditioner is very cold.",
+              "zh": "空调很冷。"
+            }
+          ],
           "translations": {
             "zh-CN": "空调机；空调设备"
           }
@@ -844,7 +1304,12 @@
           "text": "automatic",
           "is_bold": true,
           "phonetic": "ˌɔtəˈmætɪk",
-          "example": "The coffee maker is an automatic device.",
+          "examples": [
+            {
+              "en": "The coffee maker is an automatic device.",
+              "zh": "这个咖啡机是一个自动设备。"
+            }
+          ],
           "translations": {
             "zh-CN": "自动的"
           }
@@ -853,7 +1318,12 @@
           "text": "integrated",
           "is_bold": false,
           "phonetic": "ˈɪnəˌgreɪtɪd",
-          "example": "This system is fully integrated now.",
+          "examples": [
+            {
+              "en": "This system is fully integrated now.",
+              "zh": "这个系统现在完全整合了。"
+            }
+          ],
           "translations": {
             "zh-CN": "各部分密切协调的；综合的"
           }
@@ -862,7 +1332,12 @@
           "text": "integrate",
           "is_bold": true,
           "phonetic": "ˈɪnəˌgreɪt",
-          "example": "We must integrate the new plan.",
+          "examples": [
+            {
+              "en": "We must integrate the new plan.",
+              "zh": "我们必须把新计划整合进来。"
+            }
+          ],
           "translations": {
             "zh-CN": "（使）合并；成为一体"
           }
@@ -871,7 +1346,12 @@
           "text": "sensor",
           "is_bold": false,
           "phonetic": "ˈsɛnsər",
-          "example": "A temperature sensor works well.",
+          "examples": [
+            {
+              "en": "A temperature sensor works well.",
+              "zh": "温度传感器工作得很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "传感器；敏感元件"
           }
@@ -880,7 +1360,12 @@
           "text": "efficient",
           "is_bold": true,
           "phonetic": "ɪˈfɪʃənt",
-          "example": "This machine is very efficient.",
+          "examples": [
+            {
+              "en": "This machine is very efficient.",
+              "zh": "这台机器非常有效率。"
+            }
+          ],
           "translations": {
             "zh-CN": "效率高的；有功效的"
           }
@@ -889,7 +1374,12 @@
           "text": "mode",
           "is_bold": true,
           "phonetic": "moʊd",
-          "example": "What cooking mode do you prefer?",
+          "examples": [
+            {
+              "en": "What cooking mode do you prefer?",
+              "zh": "你喜欢哪种烹饪模式？"
+            }
+          ],
           "translations": {
             "zh-CN": "模式；方式；风格"
           }
@@ -898,7 +1388,12 @@
           "text": "routine",
           "is_bold": true,
           "phonetic": "ruˈtin",
-          "example": "My morning routine is simple.",
+          "examples": [
+            {
+              "en": "My morning routine is simple.",
+              "zh": "我的早晨习惯很简单。"
+            }
+          ],
           "translations": {
             "zh-CN": "常规；正常顺序；常规的；日常的"
           }
@@ -907,7 +1402,12 @@
           "text": "daily routine",
           "is_bold": true,
           "phonetic": "ˈdeɪli ruˈtin",
-          "example": "My daily routine starts early.",
+          "examples": [
+            {
+              "en": "My daily routine starts early.",
+              "zh": "我的日常作息很早开始。"
+            }
+          ],
           "translations": {
             "zh-CN": "日常生活"
           }
@@ -916,7 +1416,12 @@
           "text": "preference",
           "is_bold": true,
           "phonetic": "ˈprɛfərəns",
-          "example": "Her preference is reading books.",
+          "examples": [
+            {
+              "en": "Her preference is reading books.",
+              "zh": "她的偏好是看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "爱好；偏爱"
           }
@@ -925,7 +1430,12 @@
           "text": "instant",
           "is_bold": true,
           "phonetic": "ˈɪnstənt",
-          "example": "We need an instant answer now.",
+          "examples": [
+            {
+              "en": "We need an instant answer now.",
+              "zh": "我们现在需要一个即时答案。"
+            }
+          ],
           "translations": {
             "zh-CN": "瞬间；片刻；立即的；速食的；速溶的"
           }
@@ -934,7 +1444,12 @@
           "text": "command",
           "is_bold": false,
           "phonetic": "kəˈmænd",
-          "example": "Mom gave the dog a command.",
+          "examples": [
+            {
+              "en": "Mom gave the dog a command.",
+              "zh": "妈妈给狗下达了命令。"
+            }
+          ],
           "translations": {
             "zh-CN": "指令；命令；控制；命令；控制"
           }
@@ -943,7 +1458,12 @@
           "text": "obey",
           "is_bold": false,
           "phonetic": "oʊˈbeɪ",
-          "example": "Students must obey their teacher.",
+          "examples": [
+            {
+              "en": "Students must obey their teacher.",
+              "zh": "学生们必须听老师的话（服从老师）。"
+            }
+          ],
           "translations": {
             "zh-CN": "服从；遵守"
           }
@@ -952,7 +1472,12 @@
           "text": "warning",
           "is_bold": true,
           "phonetic": "ˈwɔrnɪŋ",
-          "example": "Listen to the weather warning.",
+          "examples": [
+            {
+              "en": "Listen to the weather warning.",
+              "zh": "听天气预警吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "警告；警示；先兆"
           }
@@ -961,7 +1486,12 @@
           "text": "constant",
           "is_bold": true,
           "phonetic": "ˈkɑnstənt",
-          "example": "The temperature is a constant now.",
+          "examples": [
+            {
+              "en": "The temperature is a constant now.",
+              "zh": "温度现在是恒定的了。"
+            }
+          ],
           "translations": {
             "zh-CN": "不断的；重复的；不变的；常数；常量"
           }
@@ -970,7 +1500,12 @@
           "text": "early on",
           "is_bold": true,
           "phonetic": "ˈərli ɔn",
-          "example": "Early on, she liked red apples.",
+          "examples": [
+            {
+              "en": "Early on, she liked red apples.",
+              "zh": "一开始，她喜欢红苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "在初期；早先"
           }
@@ -979,7 +1514,12 @@
           "text": "abnormal",
           "is_bold": true,
           "phonetic": "æbˈnɔrməl",
-          "example": "The dog showed an abnormal behavior today.",
+          "examples": [
+            {
+              "en": "The dog showed an abnormal behavior today.",
+              "zh": "这只狗今天表现出不正常的行为。"
+            }
+          ],
           "translations": {
             "zh-CN": "不正常的；反常的"
           }
@@ -988,7 +1528,12 @@
           "text": "Swiss critical",
           "is_bold": true,
           "phonetic": "swɪs ˈkrɪtɪkəl",
-          "example": "Swiss critical thinking helps solve problems.",
+          "examples": [
+            {
+              "en": "Swiss critical thinking helps solve problems.",
+              "zh": "瑞士的批判性思维有助于解决问题。"
+            }
+          ],
           "translations": {
             "zh-CN": "严重的；关键的；批判性的"
           }
@@ -997,7 +1542,12 @@
           "text": "cancer",
           "is_bold": true,
           "phonetic": "ˈkænsər",
-          "example": "He has lung cancer in his body.",
+          "examples": [
+            {
+              "en": "He has lung cancer in his body.",
+              "zh": "他的身体有肺癌。"
+            }
+          ],
           "translations": {
             "zh-CN": "癌；癌症；毒瘤"
           }
@@ -1006,7 +1556,12 @@
           "text": "potentially",
           "is_bold": false,
           "phonetic": "pəˈtɛnʃəli",
-          "example": "Potentially, this book is very good.",
+          "examples": [
+            {
+              "en": "Potentially, this book is very good.",
+              "zh": "这个书可能非常好。"
+            }
+          ],
           "translations": {
             "zh-CN": "潜在地；可能地"
           }
@@ -1015,7 +1570,12 @@
           "text": "potential",
           "is_bold": true,
           "phonetic": "pəˈtɛnʃəl",
-          "example": "She has great potential to learn.",
+          "examples": [
+            {
+              "en": "She has great potential to learn.",
+              "zh": "她有很强的学习潜力。"
+            }
+          ],
           "translations": {
             "zh-CN": "可能的；潜在的；潜力；可能性"
           }
@@ -1024,7 +1584,12 @@
           "text": "leak",
           "is_bold": true,
           "phonetic": "lik",
-          "example": "There was a small leak in the pipe.",
+          "examples": [
+            {
+              "en": "There was a small leak in the pipe.",
+              "zh": "水管里漏了一点水。"
+            }
+          ],
           "translations": {
             "zh-CN": "漏；渗漏；透露；漏洞；裂缝；透露"
           }
@@ -1033,7 +1598,12 @@
           "text": "electrical",
           "is_bold": false,
           "phonetic": "ɪˈlɛktrɪkəl",
-          "example": "The car has an electrical problem.",
+          "examples": [
+            {
+              "en": "The car has an electrical problem.",
+              "zh": "这辆车有一个电气问题。"
+            }
+          ],
           "translations": {
             "zh-CN": "电的；用电的"
           }
@@ -1042,7 +1612,12 @@
           "text": "wiring",
           "is_bold": false,
           "phonetic": "ˈwaɪrɪŋ",
-          "example": "The house needs new wiring inside.",
+          "examples": [
+            {
+              "en": "The house needs new wiring inside.",
+              "zh": "这房子里面需要新的电线。"
+            }
+          ],
           "translations": {
             "zh-CN": "电线线路；线路系统"
           }
@@ -1051,7 +1626,12 @@
           "text": "wire",
           "is_bold": true,
           "phonetic": "waɪər",
-          "example": "The wire connects the lamp to the wall.",
+          "examples": [
+            {
+              "en": "The wire connects the lamp to the wall.",
+              "zh": "这根电线把灯连到墙上了。"
+            }
+          ],
           "translations": {
             "zh-CN": "电线；金属丝（或线）；接通电源；将……连接到"
           }
@@ -1060,7 +1640,12 @@
           "text": "detect",
           "is_bold": true,
           "phonetic": "dɪˈtɛkt",
-          "example": "Can you detect the small sound?",
+          "examples": [
+            {
+              "en": "Can you detect the small sound?",
+              "zh": "你能听到那个小声音吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "发现；查明"
           }
@@ -1069,7 +1654,12 @@
           "text": "relevant",
           "is_bold": true,
           "phonetic": "ˈrɛləvənt",
-          "example": "This book is very relevant to class.",
+          "examples": [
+            {
+              "en": "This book is very relevant to class.",
+              "zh": "这本书和课很相关。"
+            }
+          ],
           "translations": {
             "zh-CN": "有关的；有意义的"
           }
@@ -1078,7 +1668,12 @@
           "text": "catch fire",
           "is_bold": true,
           "phonetic": "kæʧ faɪər",
-          "example": "The dry leaves might catch fire.",
+          "examples": [
+            {
+              "en": "The dry leaves might catch fire.",
+              "zh": "干叶子可能会着火。"
+            }
+          ],
           "translations": {
             "zh-CN": "着火"
           }
@@ -1087,7 +1682,12 @@
           "text": "fantasy",
           "is_bold": true,
           "phonetic": "ˈfænəsi",
-          "example": "The dragon is a fantasy creature.",
+          "examples": [
+            {
+              "en": "The dragon is a fantasy creature.",
+              "zh": "那条龙是一个奇幻生物。"
+            }
+          ],
           "translations": {
             "zh-CN": "幻想；想象"
           }
@@ -1096,7 +1696,12 @@
           "text": "innovation",
           "is_bold": true,
           "phonetic": "ˌɪnəˈveɪʃən",
-          "example": "She showed great innovation in her art.",
+          "examples": [
+            {
+              "en": "She showed great innovation in her art.",
+              "zh": "她在她的艺术中展现了很大的创新。"
+            }
+          ],
           "translations": {
             "zh-CN": "创新；创造"
           }
@@ -1105,7 +1710,12 @@
           "text": "available",
           "is_bold": true,
           "phonetic": "əˈveɪləbəl",
-          "example": "Is a blue pen available now?",
+          "examples": [
+            {
+              "en": "Is a blue pen available now?",
+              "zh": "现在有蓝色笔吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "可获得的；可购得的；（人）有空的"
           }
@@ -1114,7 +1724,12 @@
           "text": "in this sense",
           "is_bold": true,
           "phonetic": "ɪn ðɪs sɛns",
-          "example": "In this sense, the book is very good.",
+          "examples": [
+            {
+              "en": "In this sense, the book is very good.",
+              "zh": "从这个方面来说，这本书非常好。"
+            }
+          ],
           "translations": {
             "zh-CN": "从这种（某种）意义上来讲"
           }
@@ -1123,7 +1738,12 @@
           "text": "nevertheless",
           "is_bold": true,
           "phonetic": "ˌnɛvərðəˈlɛs",
-          "example": "Nevertheless, they finished the test early.",
+          "examples": [
+            {
+              "en": "Nevertheless, they finished the test early.",
+              "zh": "尽管如此，他们还是提前完成了考试。"
+            }
+          ],
           "translations": {
             "zh-CN": "尽管如此；不过；然而"
           }
@@ -1132,7 +1752,12 @@
           "text": "structure",
           "is_bold": true,
           "phonetic": "ˈstrəkʧər",
-          "example": "The house has a good structure.",
+          "examples": [
+            {
+              "en": "The house has a good structure.",
+              "zh": "这房子结构很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "结构；体系；系统安排；精心组织"
           }
@@ -1141,7 +1766,12 @@
           "text": "security",
           "is_bold": true,
           "phonetic": "sɪˈkjʊrəti",
-          "example": "The school has good security.",
+          "examples": [
+            {
+              "en": "The school has good security.",
+              "zh": "这所学校安全很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "保护措施；安全工作"
           }
@@ -1150,7 +1780,12 @@
           "text": "crime",
           "is_bold": true,
           "phonetic": "kraɪm",
-          "example": "Theft is a serious crime against people.",
+          "examples": [
+            {
+              "en": "Theft is a serious crime against people.",
+              "zh": "盗窃是对人们的一种严重犯罪行为。"
+            }
+          ],
           "translations": {
             "zh-CN": "犯罪活动；不法行为"
           }
@@ -1159,7 +1794,12 @@
           "text": "combine",
           "is_bold": true,
           "phonetic": "ˈkɑmbaɪn",
-          "example": "They combine apples and oranges.",
+          "examples": [
+            {
+              "en": "They combine apples and oranges.",
+              "zh": "他们把苹果和橙子混合了。"
+            }
+          ],
           "translations": {
             "zh-CN": "（使）结合；混合"
           }
@@ -1168,7 +1808,12 @@
           "text": "nanobot",
           "is_bold": false,
           "phonetic": "nanobot*",
-          "example": "A tiny nanobot fixed the broken wire.",
+          "examples": [
+            {
+              "en": "A tiny nanobot fixed the broken wire.",
+              "zh": "一个微小的纳米机器人修好了断掉的电线。"
+            }
+          ],
           "translations": {
             "zh-CN": "纳米机器人"
           }
@@ -1177,7 +1822,12 @@
           "text": "artificial",
           "is_bold": true,
           "phonetic": "ˌɑrtəˈfɪʃəl",
-          "example": "This flower looks very artificial.",
+          "examples": [
+            {
+              "en": "This flower looks very artificial.",
+              "zh": "这朵花看起来很假（人造）。"
+            }
+          ],
           "translations": {
             "zh-CN": "人工的；人造的；假的"
           }
@@ -1186,7 +1836,12 @@
           "text": "artificial intelligence",
           "is_bold": true,
           "phonetic": "ˌɑrtəˈfɪʃəl ˌɪnˈtɛləʤəns",
-          "example": "Artificial intelligence can learn many things.",
+          "examples": [
+            {
+              "en": "Artificial intelligence can learn many things.",
+              "zh": "人工智能可以学习很多东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "人工智能"
           }
@@ -1195,7 +1850,12 @@
           "text": "clone",
           "is_bold": true,
           "phonetic": "kloʊn",
-          "example": "The plant can clone easily.",
+          "examples": [
+            {
+              "en": "The plant can clone easily.",
+              "zh": "这株植物很容易克隆。"
+            }
+          ],
           "translations": {
             "zh-CN": "克隆；以无性繁殖技术复制；克隆动物（或植物）"
           }
@@ -1204,7 +1864,12 @@
           "text": "predict",
           "is_bold": true,
           "phonetic": "prɪˈdɪkt",
-          "example": "Can you predict tomorrow's weather?",
+          "examples": [
+            {
+              "en": "Can you predict tomorrow's weather?",
+              "zh": "你能预测一下明天的天气吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "预测；预言；预料"
           }
@@ -1213,7 +1878,12 @@
           "text": "prediction",
           "is_bold": false,
           "phonetic": "priˈdɪkʃən",
-          "example": "The weather prediction is sunny.",
+          "examples": [
+            {
+              "en": "The weather prediction is sunny.",
+              "zh": "天气预报是晴天。"
+            }
+          ],
           "translations": {
             "zh-CN": "预测；预言"
           }
@@ -1222,7 +1892,12 @@
           "text": "forecast",
           "is_bold": true,
           "phonetic": "ˈfɔrˌkæst",
-          "example": "The forecast calls for rain.",
+          "examples": [
+            {
+              "en": "The forecast calls for rain.",
+              "zh": "预报说会下雨。 (yùbào shuō huì xià yǔ.)"
+            }
+          ],
           "translations": {
             "zh-CN": "预测；预报"
           }
@@ -1231,7 +1906,12 @@
           "text": "occupation",
           "is_bold": true,
           "phonetic": "ˌɑkjəˈpeɪʃən",
-          "example": "Teaching is her main occupation.",
+          "examples": [
+            {
+              "en": "Teaching is her main occupation.",
+              "zh": "教书是她的主要工作。"
+            }
+          ],
           "translations": {
             "zh-CN": "//职业；占领"
           }
@@ -1240,7 +1920,12 @@
           "text": "oppose",
           "is_bold": true,
           "phonetic": "əˈpoʊz",
-          "example": "Do you oppose this new rule?",
+          "examples": [
+            {
+              "en": "Do you oppose this new rule?",
+              "zh": "你反对这个新规定吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "反对；抵制；阻挠"
           }
@@ -1249,7 +1934,12 @@
           "text": "hence",
           "is_bold": true,
           "phonetic": "hɛns",
-          "example": "It rained hard, hence the game stopped.",
+          "examples": [
+            {
+              "en": "It rained hard, hence the game stopped.",
+              "zh": "下大雨，所以比赛停了。"
+            }
+          ],
           "translations": {
             "zh-CN": "因此；由此"
           }
@@ -1258,7 +1948,12 @@
           "text": "cease",
           "is_bold": true,
           "phonetic": "sis",
-          "example": "Please cease making that loud noise.",
+          "examples": [
+            {
+              "en": "Please cease making that loud noise.",
+              "zh": "请停止发出那个响声。"
+            }
+          ],
           "translations": {
             "zh-CN": "（使）停止；终止"
           }
@@ -1267,7 +1962,12 @@
           "text": "deceased",
           "is_bold": false,
           "phonetic": "dɪˈsist",
-          "example": "The deceased left a nice letter.",
+          "examples": [
+            {
+              "en": "The deceased left a nice letter.",
+              "zh": "死者留下了一封不错的信。"
+            }
+          ],
           "translations": {
             "zh-CN": "已死的；亡故的"
           }
@@ -1276,7 +1976,12 @@
           "text": "absence",
           "is_bold": true,
           "phonetic": "ˈæbsəns",
-          "example": "His absence made the class feel quiet.",
+          "examples": [
+            {
+              "en": "His absence made the class feel quiet.",
+              "zh": "他不在，让教室感觉很安静。"
+            }
+          ],
           "translations": {
             "zh-CN": "不存在；缺乏；缺席"
           }
@@ -1285,7 +1990,12 @@
           "text": "rural",
           "is_bold": true,
           "phonetic": "ˈrʊrəl",
-          "example": "They live in a rural village now.",
+          "examples": [
+            {
+              "en": "They live in a rural village now.",
+              "zh": "他们现在住在一个乡村村庄里。"
+            }
+          ],
           "translations": {
             "zh-CN": "乡村的；农村的"
           }
@@ -1294,7 +2004,12 @@
           "text": "advocate",
           "is_bold": true,
           "phonetic": "ˈædvəˌkeɪt",
-          "example": "She will advocate for better school lunch.",
+          "examples": [
+            {
+              "en": "She will advocate for better school lunch.",
+              "zh": "她会提倡更好的学校午餐。"
+            }
+          ],
           "translations": {
             "zh-CN": "提倡；支持；拥护；提倡者；支持者；拥护者"
           }
@@ -1303,7 +2018,12 @@
           "text": "emphasis",
           "is_bold": true,
           "phonetic": "ˈɛmfəsɪs",
-          "example": "Put emphasis on your homework today.",
+          "examples": [
+            {
+              "en": "Put emphasis on your homework today.",
+              "zh": "今天请强调你的家庭作业。"
+            }
+          ],
           "translations": {
             "zh-CN": "强调；重视；重要性"
           }
@@ -1312,7 +2032,12 @@
           "text": "luxury",
           "is_bold": true,
           "phonetic": "ˈləgʒəri",
-          "example": "This hotel offers great luxury.",
+          "examples": [
+            {
+              "en": "This hotel offers great luxury.",
+              "zh": "这家酒店提供很棒的奢华体验。"
+            }
+          ],
           "translations": {
             "zh-CN": "奢华"
           }
@@ -1321,7 +2046,12 @@
           "text": "keep in touch",
           "is_bold": true,
           "phonetic": "kip ɪn təʧ",
-          "example": "Let's keep in touch after school.",
+          "examples": [
+            {
+              "en": "Let's keep in touch after school.",
+              "zh": "放学后我们保持联系吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "（与……）保持联系；了解（某课题或领域的情况）"
           }
@@ -1330,7 +2060,12 @@
           "text": "career",
           "is_bold": true,
           "phonetic": "kərɪr",
-          "example": "She chose a teaching career.",
+          "examples": [
+            {
+              "en": "She chose a teaching career.",
+              "zh": "她选择了教书的工作。"
+            }
+          ],
           "translations": {
             "zh-CN": "职业；事业"
           }
@@ -1339,7 +2074,12 @@
           "text": "prospect",
           "is_bold": true,
           "phonetic": "ˈprɑspɛkt",
-          "example": "The job has good prospect.",
+          "examples": [
+            {
+              "en": "The job has good prospect.",
+              "zh": "这份工作很有前途。"
+            }
+          ],
           "translations": {
             "zh-CN": "可能性；前景"
           }
@@ -1348,7 +2088,12 @@
           "text": "resist",
           "is_bold": false,
           "phonetic": "rɪˈzɪst",
-          "example": "The students resist the difficult math test.",
+          "examples": [
+            {
+              "en": "The students resist the difficult math test.",
+              "zh": "学生们抵制/抗拒这道难的数学题。"
+            }
+          ],
           "translations": {
             "zh-CN": "抵制；反抗；抵挡"
           }
@@ -1357,7 +2102,12 @@
           "text": "resistance",
           "is_bold": true,
           "phonetic": "rɪˈzɪstəns",
-          "example": "The people show much resistance.",
+          "examples": [
+            {
+              "en": "The people show much resistance.",
+              "zh": "这些人表现出很大的抵抗。"
+            }
+          ],
           "translations": {
             "zh-CN": "抵制；反对；抗拒"
           }
@@ -1366,7 +2116,12 @@
           "text": "paragraph",
           "is_bold": true,
           "phonetic": "ˈpɛrəˌgræf",
-          "example": "Write one paragraph about school.",
+          "examples": [
+            {
+              "en": "Write one paragraph about school.",
+              "zh": "写一段关于学校的文字。"
+            }
+          ],
           "translations": {
             "zh-CN": "段；段落"
           }
@@ -1375,7 +2130,12 @@
           "text": "signpost",
           "is_bold": false,
           "phonetic": "ˈsaɪnˌpoʊst",
-          "example": "The signpost shows the way to school.",
+          "examples": [
+            {
+              "en": "The signpost shows the way to school.",
+              "zh": "路标指明了去学校的路。"
+            }
+          ],
           "translations": {
             "zh-CN": "路标"
           }
@@ -1384,7 +2144,12 @@
           "text": "essay",
           "is_bold": true,
           "phonetic": "ˈɛˌseɪ",
-          "example": "Write an essay about my dog.",
+          "examples": [
+            {
+              "en": "Write an essay about my dog.",
+              "zh": "写一篇关于我狗的作文。"
+            }
+          ],
           "translations": {
             "zh-CN": "文章"
           }
@@ -1393,7 +2158,12 @@
           "text": "accurate",
           "is_bold": true,
           "phonetic": "ˈækjərət",
-          "example": "His answer was very accurate.",
+          "examples": [
+            {
+              "en": "His answer was very accurate.",
+              "zh": "他的回答非常准确。"
+            }
+          ],
           "translations": {
             "zh-CN": "精确的；准确的"
           }
@@ -1402,7 +2172,12 @@
           "text": "librarian",
           "is_bold": true,
           "phonetic": "laɪˈbrɛˌriən",
-          "example": "The librarian helps us find books.",
+          "examples": [
+            {
+              "en": "The librarian helps us find books.",
+              "zh": "图书管理员帮我们找书。"
+            }
+          ],
           "translations": {
             "zh-CN": "图书管理员；图书馆馆长"
           }
@@ -1411,7 +2186,12 @@
           "text": "Melbourne",
           "is_bold": false,
           "phonetic": "ˈmɛlbərn",
-          "example": "We visited Melbourne last summer.",
+          "examples": [
+            {
+              "en": "We visited Melbourne last summer.",
+              "zh": "我们去年夏天去了墨尔本。"
+            }
+          ],
           "translations": {
             "zh-CN": "墨尔本（澳大利亚城市）"
           }
@@ -1420,7 +2200,12 @@
           "text": "Christian",
           "is_bold": false,
           "phonetic": "ˈkrɪsʧɪn",
-          "example": "My friend is a Christian boy.",
+          "examples": [
+            {
+              "en": "My friend is a Christian boy.",
+              "zh": "我的朋友是一个基督徒男孩。"
+            }
+          ],
           "translations": {
             "zh-CN": "基督教徒；基督教的"
           }
@@ -1429,7 +2214,12 @@
           "text": "the Amish",
           "is_bold": false,
           "phonetic": "ðə ˈɑmɪʃ",
-          "example": "The Amish live in a small town.",
+          "examples": [
+            {
+              "en": "The Amish live in a small town.",
+              "zh": "阿米什人住在一个小镇上。"
+            }
+          ],
           "translations": {
             "zh-CN": "阿曼门诺派"
           }
@@ -1445,7 +2235,12 @@
           "text": "buffet",
           "is_bold": true,
           "phonetic": "ˈbəfət",
-          "example": "We ate at the hotel buffet tonight.",
+          "examples": [
+            {
+              "en": "We ate at the hotel buffet tonight.",
+              "zh": "我们今晚在酒店自助餐吃了饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "连续猛击；打来打去；自助餐"
           }
@@ -1454,7 +2249,12 @@
           "text": "cloth",
           "is_bold": true,
           "phonetic": "klɔθ",
-          "example": "She wears a blue cloth.",
+          "examples": [
+            {
+              "en": "She wears a blue cloth.",
+              "zh": "她穿蓝色的布料。"
+            }
+          ],
           "translations": {
             "zh-CN": "（一块）布；织物；布料"
           }
@@ -1463,7 +2263,12 @@
           "text": "edge",
           "is_bold": true,
           "phonetic": "ɛʤ",
-          "example": "The book has a sharp edge.",
+          "examples": [
+            {
+              "en": "The book has a sharp edge.",
+              "zh": "这本书有一个锋利的边缘。"
+            }
+          ],
           "translations": {
             "zh-CN": "边；边缘；边线；刀刃；（使）徐徐移动；给……加边"
           }
@@ -1472,7 +2277,12 @@
           "text": "valley",
           "is_bold": true,
           "phonetic": "ˈvæli",
-          "example": "We walked through the green valley.",
+          "examples": [
+            {
+              "en": "We walked through the green valley.",
+              "zh": "我们穿过绿色的山谷。"
+            }
+          ],
           "translations": {
             "zh-CN": "谷；山谷；溪谷"
           }
@@ -1481,7 +2291,12 @@
           "text": "vast",
           "is_bold": true,
           "phonetic": "væst",
-          "example": "The desert has vast landscapes.",
+          "examples": [
+            {
+              "en": "The desert has vast landscapes.",
+              "zh": "这片沙漠有广阔的景色。"
+            }
+          ],
           "translations": {
             "zh-CN": "辽阔的；巨大的；庞大的"
           }
@@ -1490,7 +2305,12 @@
           "text": "glacier",
           "is_bold": false,
           "phonetic": "ˈgleɪʃər",
-          "example": "A large glacier moved down the hill.",
+          "examples": [
+            {
+              "en": "A large glacier moved down the hill.",
+              "zh": "一座大冰川从山上移动下来了。"
+            }
+          ],
           "translations": {
             "zh-CN": "冰川"
           }
@@ -1499,7 +2319,12 @@
           "text": "reindeer",
           "is_bold": false,
           "phonetic": "ˈreɪnˌdɪr",
-          "example": "The reindeer ran in the snow.",
+          "examples": [
+            {
+              "en": "The reindeer ran in the snow.",
+              "zh": "驯鹿在雪地里跑着。"
+            }
+          ],
           "translations": {
             "zh-CN": "驯鹿"
           }
@@ -1508,7 +2333,12 @@
           "text": "territory",
           "is_bold": true,
           "phonetic": "ˈtɛrɪˌtɔri",
-          "example": "This park is my territory.",
+          "examples": [
+            {
+              "en": "This park is my territory.",
+              "zh": "这个公园是我的地盘。"
+            }
+          ],
           "translations": {
             "zh-CN": "领土；版图；领域；地盘"
           }
@@ -1517,7 +2347,12 @@
           "text": "ban",
           "is_bold": true,
           "phonetic": "bæn",
-          "example": "The school will ban cell phones now.",
+          "examples": [
+            {
+              "en": "The school will ban cell phones now.",
+              "zh": "学校现在要禁止手机了。"
+            }
+          ],
           "translations": {
             "zh-CN": "明令禁止；取缔；禁令"
           }
@@ -1526,7 +2361,12 @@
           "text": "boundary",
           "is_bold": true,
           "phonetic": "ˈbaʊndəri",
-          "example": "The park has a stone boundary around it.",
+          "examples": [
+            {
+              "en": "The park has a stone boundary around it.",
+              "zh": "公园周围有一个石头的边界。"
+            }
+          ],
           "translations": {
             "zh-CN": "边界；界限；分界线"
           }
@@ -1535,7 +2375,12 @@
           "text": "cottage",
           "is_bold": true,
           "phonetic": "ˈkɑtɪʤ",
-          "example": "They live near a small cottage.",
+          "examples": [
+            {
+              "en": "They live near a small cottage.",
+              "zh": "他们住在一个小小屋附近。"
+            }
+          ],
           "translations": {
             "zh-CN": "小屋；（尤指）村舍；小别墅"
           }
@@ -1544,7 +2389,12 @@
           "text": "visible",
           "is_bold": true,
           "phonetic": "ˈvɪzəbəl",
-          "example": "A big dog is visible here.",
+          "examples": [
+            {
+              "en": "A big dog is visible here.",
+              "zh": "这里能看到一只大狗。"
+            }
+          ],
           "translations": {
             "zh-CN": "看得见的；可见的"
           }
@@ -1553,7 +2403,12 @@
           "text": "on the move",
           "is_bold": true,
           "phonetic": "ɔn ðə muv",
-          "example": "The hikers are on the move.",
+          "examples": [
+            {
+              "en": "The hikers are on the move.",
+              "zh": "这位徒步者正在移动/行动中。"
+            }
+          ],
           "translations": {
             "zh-CN": "在行进中；在移动中"
           }
@@ -1562,7 +2417,12 @@
           "text": "accompany",
           "is_bold": true,
           "phonetic": "əˈkəmpəni",
-          "example": "My sister will accompany me to class.",
+          "examples": [
+            {
+              "en": "My sister will accompany me to class.",
+              "zh": "我姐姐会陪我上课。"
+            }
+          ],
           "translations": {
             "zh-CN": "陪同；陪伴；伴随；（尤指用钢琴）为……伴奏"
           }
@@ -1571,7 +2431,12 @@
           "text": "adopt",
           "is_bold": true,
           "phonetic": "əˈdɑpt",
-          "example": "We will adopt a new study plan.",
+          "examples": [
+            {
+              "en": "We will adopt a new study plan.",
+              "zh": "我们要采用一个新的学习计划。"
+            }
+          ],
           "translations": {
             "zh-CN": "采用；采取；采纳；领养"
           }
@@ -1580,7 +2445,12 @@
           "text": "sour",
           "is_bold": true,
           "phonetic": "saʊər",
-          "example": "The lemon tastes sour.",
+          "examples": [
+            {
+              "en": "The lemon tastes sour.",
+              "zh": "柠檬尝起来酸酸的。"
+            }
+          ],
           "translations": {
             "zh-CN": "酸的；有酸味的"
           }
@@ -1589,7 +2459,12 @@
           "text": "set out",
           "is_bold": true,
           "phonetic": "sɛt aʊt",
-          "example": "We set out at seven o'clock.",
+          "examples": [
+            {
+              "en": "We set out at seven o'clock.",
+              "zh": "我们在七点出发了。"
+            }
+          ],
           "translations": {
             "zh-CN": "出发；启程；（怀着目标）开始工作"
           }
@@ -1598,7 +2473,12 @@
           "text": "bless",
           "is_bold": true,
           "phonetic": "blɛs",
-          "example": "God will bless my good friend.",
+          "examples": [
+            {
+              "en": "God will bless my good friend.",
+              "zh": "上帝会祝福我的好朋友。"
+            }
+          ],
           "translations": {
             "zh-CN": "祝福"
           }
@@ -1607,7 +2487,12 @@
           "text": "live off",
           "is_bold": true,
           "phonetic": "lɪv ɔf",
-          "example": "They live off apples and bread.",
+          "examples": [
+            {
+              "en": "They live off apples and bread.",
+              "zh": "他们靠苹果和面包生活。"
+            }
+          ],
           "translations": {
             "zh-CN": "依靠……生活；以吃……为生"
           }
@@ -1616,7 +2501,12 @@
           "text": "prohibition",
           "is_bold": false,
           "phonetic": "ˌproʊəˈbɪʃən",
-          "example": "Smoking is a strict prohibition.",
+          "examples": [
+            {
+              "en": "Smoking is a strict prohibition.",
+              "zh": "吸烟是严格禁止的。"
+            }
+          ],
           "translations": {
             "zh-CN": "禁止；阻止；禁令"
           }
@@ -1625,7 +2515,12 @@
           "text": "prohibit",
           "is_bold": true,
           "phonetic": "proʊˈhɪbət",
-          "example": "Please prohibit noise in class.",
+          "examples": [
+            {
+              "en": "Please prohibit noise in class.",
+              "zh": "请禁止在教室里制造噪音。"
+            }
+          ],
           "translations": {
             "zh-CN": "（尤指以法令）禁止；阻止"
           }
@@ -1634,7 +2529,12 @@
           "text": "journalist",
           "is_bold": true,
           "phonetic": "ˈʤərnəlɪst",
-          "example": "A journalist writes many articles.",
+          "examples": [
+            {
+              "en": "A journalist writes many articles.",
+              "zh": "记者写了很多文章。"
+            }
+          ],
           "translations": {
             "zh-CN": "新闻记者；新闻工作者"
           }
@@ -1643,7 +2543,12 @@
           "text": "sneeze",
           "is_bold": true,
           "phonetic": "sniz",
-          "example": "The baby starts to sneeze loudly.",
+          "examples": [
+            {
+              "en": "The baby starts to sneeze loudly.",
+              "zh": "嬰兒開始大聲打噴嚏。"
+            }
+          ],
           "translations": {
             "zh-CN": "打喷嚏；喷嚏；喷嚏声"
           }
@@ -1652,7 +2557,12 @@
           "text": "teapot",
           "is_bold": true,
           "phonetic": "ˈtiˌpɑt",
-          "example": "She poured hot water in teapot.",
+          "examples": [
+            {
+              "en": "She poured hot water in teapot.",
+              "zh": "她把热水倒进茶壶里。"
+            }
+          ],
           "translations": {
             "zh-CN": "茶壶"
           }
@@ -1661,7 +2571,12 @@
           "text": "label",
           "is_bold": true,
           "phonetic": "ˈleɪbəl",
-          "example": "Please label the books clearly.",
+          "examples": [
+            {
+              "en": "Please label the books clearly.",
+              "zh": "请把书标清楚。"
+            }
+          ],
           "translations": {
             "zh-CN": "用标签标明；贴标签；标签；标记"
           }
@@ -1670,7 +2585,12 @@
           "text": "cream",
           "is_bold": true,
           "phonetic": "krim",
-          "example": "She put cream on her face.",
+          "examples": [
+            {
+              "en": "She put cream on her face.",
+              "zh": "她在脸上涂了面霜。"
+            }
+          ],
           "translations": {
             "zh-CN": "奶油；乳脂；护肤霜；奶油色的；淡黄色的"
           }
@@ -1679,7 +2599,12 @@
           "text": "leopard",
           "is_bold": false,
           "phonetic": "ˈlɛpərd",
-          "example": "A leopard has spots on its coat.",
+          "examples": [
+            {
+              "en": "A leopard has spots on its coat.",
+              "zh": "豹子皮上有斑点。"
+            }
+          ],
           "translations": {
             "zh-CN": "豹"
           }
@@ -1688,7 +2613,12 @@
           "text": "stretch",
           "is_bold": true,
           "phonetic": "strɛʧ",
-          "example": "Stretch your arms before running.",
+          "examples": [
+            {
+              "en": "Stretch your arms before running.",
+              "zh": "跑步前伸展你的手臂。"
+            }
+          ],
           "translations": {
             "zh-CN": "延伸；延续；伸展；舒展"
           }
@@ -1697,7 +2627,12 @@
           "text": "rewarding",
           "is_bold": false,
           "phonetic": "rɪˈwɔrdɪŋ",
-          "example": "Learning English is very rewarding.",
+          "examples": [
+            {
+              "en": "Learning English is very rewarding.",
+              "zh": "学英语非常有益/回报。"
+            }
+          ],
           "translations": {
             "zh-CN": "值得做的；有益的"
           }
@@ -1706,7 +2641,12 @@
           "text": "bush",
           "is_bold": false,
           "phonetic": "bʊʃ",
-          "example": "The small bush grew near my house.",
+          "examples": [
+            {
+              "en": "The small bush grew near my house.",
+              "zh": "那小灌木长在我家附近。"
+            }
+          ],
           "translations": {
             "zh-CN": "灌木"
           }
@@ -1715,7 +2655,12 @@
           "text": "lung",
           "is_bold": true,
           "phonetic": "ləŋ",
-          "example": "My lung feels a little tight.",
+          "examples": [
+            {
+              "en": "My lung feels a little tight.",
+              "zh": "我的肺感觉有点紧。"
+            }
+          ],
           "translations": {
             "zh-CN": "肺"
           }
@@ -1724,7 +2669,12 @@
           "text": "cycle",
           "is_bold": true,
           "phonetic": "ˈsaɪkəl",
-          "example": "The Earth goes in a cycle.",
+          "examples": [
+            {
+              "en": "The Earth goes in a cycle.",
+              "zh": "地球是按周期运动的。 (or: 地球有循环。)"
+            }
+          ],
           "translations": {
             "zh-CN": "自行车；摩托车；循环；骑自行车"
           }
@@ -1733,7 +2683,12 @@
           "text": "corridor",
           "is_bold": false,
           "phonetic": "ˈkɔrɪdər",
-          "example": "The corridor leads to the gym.",
+          "examples": [
+            {
+              "en": "The corridor leads to the gym.",
+              "zh": "这条走廊通向健身房。"
+            }
+          ],
           "translations": {
             "zh-CN": "狭长地带；走廊；过道；通道"
           }
@@ -1742,7 +2697,12 @@
           "text": "pedal",
           "is_bold": false,
           "phonetic": "ˈpɛdəl",
-          "example": "He can pedal the bike fast.",
+          "examples": [
+            {
+              "en": "He can pedal the bike fast.",
+              "zh": "他可以快速地骑自行车。"
+            }
+          ],
           "translations": {
             "zh-CN": "（自行车等的）脚镫子；踏板；骑自行车；踩踏板"
           }
@@ -1751,7 +2711,12 @@
           "text": "fountain",
           "is_bold": true,
           "phonetic": "ˈfaʊntən",
-          "example": "The small fountain sprays cool water.",
+          "examples": [
+            {
+              "en": "The small fountain sprays cool water.",
+              "zh": "小喷泉喷出凉水。"
+            }
+          ],
           "translations": {
             "zh-CN": "喷泉；人工喷泉；喷水池"
           }
@@ -1760,7 +2725,12 @@
           "text": "route",
           "is_bold": true,
           "phonetic": "rut",
-          "example": "We found a good route home.",
+          "examples": [
+            {
+              "en": "We found a good route home.",
+              "zh": "我们找到了回家的好路线。"
+            }
+          ],
           "translations": {
             "zh-CN": "路线；路途；途径"
           }
@@ -1769,7 +2739,12 @@
           "text": "ahead",
           "is_bold": true,
           "phonetic": "əˈhɛd",
-          "example": "The bus is ahead of my friend.",
+          "examples": [
+            {
+              "en": "The bus is ahead of my friend.",
+              "zh": "公车在我朋友前面。"
+            }
+          ],
           "translations": {
             "zh-CN": "向前；在前面；提前"
           }
@@ -1778,7 +2753,12 @@
           "text": "theme",
           "is_bold": true,
           "phonetic": "θim",
-          "example": "Love is the theme of this book.",
+          "examples": [
+            {
+              "en": "Love is the theme of this book.",
+              "zh": "爱是这本书的主题。"
+            }
+          ],
           "translations": {
             "zh-CN": "有特定主题的；主题；主题思想"
           }
@@ -1787,7 +2767,12 @@
           "text": "theme park",
           "is_bold": true,
           "phonetic": "θim pɑrk",
-          "example": "They visited a theme park today.",
+          "examples": [
+            {
+              "en": "They visited a theme park today.",
+              "zh": "他们今天参观了一个主题公园。"
+            }
+          ],
           "translations": {
             "zh-CN": "主题公园；主题乐园"
           }
@@ -1796,7 +2781,12 @@
           "text": "roller coaster",
           "is_bold": false,
           "phonetic": "ˈroʊlər ˈkoʊstər",
-          "example": "The roller coaster was very fun.",
+          "examples": [
+            {
+              "en": "The roller coaster was very fun.",
+              "zh": "这个过山车非常有趣。"
+            }
+          ],
           "translations": {
             "zh-CN": "过山车"
           }
@@ -1805,7 +2795,12 @@
           "text": "incredible",
           "is_bold": true,
           "phonetic": "ˌɪnˈkrɛdəbəl",
-          "example": "This view is incredible to see.",
+          "examples": [
+            {
+              "en": "This view is incredible to see.",
+              "zh": "这个景色看起来太棒了。"
+            }
+          ],
           "translations": {
             "zh-CN": "极好的；极大的；难以置信的"
           }
@@ -1814,7 +2809,12 @@
           "text": "appeal",
           "is_bold": true,
           "phonetic": "əˈpil",
-          "example": "The bright colors appeal to my eyes.",
+          "examples": [
+            {
+              "en": "The bright colors appeal to my eyes.",
+              "zh": "这些鲜艳的颜色吸引了我的眼睛。"
+            }
+          ],
           "translations": {
             "zh-CN": "有吸引力；呼吁；恳求；上诉；吸引力；呼吁；上诉；请求"
           }
@@ -1823,7 +2823,12 @@
           "text": "appeal to",
           "is_bold": true,
           "phonetic": "əˈpil tɪ",
-          "example": "The picture will appeal to many people.",
+          "examples": [
+            {
+              "en": "The picture will appeal to many people.",
+              "zh": "这张照片会吸引很多人。"
+            }
+          ],
           "translations": {
             "zh-CN": "有吸引力；有感染力；呼吁；上诉；打动"
           }
@@ -1832,7 +2837,12 @@
           "text": "pirate",
           "is_bold": false,
           "phonetic": "ˈpaɪrət",
-          "example": "That movie has a pirate character.",
+          "examples": [
+            {
+              "en": "That movie has a pirate character.",
+              "zh": "那部电影有一个海盗角色。"
+            }
+          ],
           "translations": {
             "zh-CN": "海盗；盗版者；盗印；窃用"
           }
@@ -1841,7 +2851,12 @@
           "text": "adorable",
           "is_bold": true,
           "phonetic": "əˈdɔrəbəl",
-          "example": "Puppy is an adorable little dog.",
+          "examples": [
+            {
+              "en": "Puppy is an adorable little dog.",
+              "zh": "小狗是一只可爱的小狗。"
+            }
+          ],
           "translations": {
             "zh-CN": "可爱的；讨人喜爱的"
           }
@@ -1850,7 +2865,12 @@
           "text": "wander",
           "is_bold": true,
           "phonetic": "ˈwɑndər",
-          "example": "The dog likes to wander in the park.",
+          "examples": [
+            {
+              "en": "The dog likes to wander in the park.",
+              "zh": "这只狗喜欢在公园里四处走动。"
+            }
+          ],
           "translations": {
             "zh-CN": "游荡；闲逛；流浪；闲逛；漫游；走失；离散；走神"
           }
@@ -1859,7 +2879,12 @@
           "text": "amusement",
           "is_bold": false,
           "phonetic": "əmˈjuzmənt",
-          "example": "The park brings much amusement to my family.",
+          "examples": [
+            {
+              "en": "The park brings much amusement to my family.",
+              "zh": "这个公园给我的家人带来了很多乐趣。"
+            }
+          ],
           "translations": {
             "zh-CN": "娱乐（活动）；愉悦"
           }
@@ -1868,7 +2893,12 @@
           "text": "amuse",
           "is_bold": true,
           "phonetic": "əmˈjuz",
-          "example": "The funny movie will amuse my sister.",
+          "examples": [
+            {
+              "en": "The funny movie will amuse my sister.",
+              "zh": "那部有趣的电影会逗我的妹妹开心。"
+            }
+          ],
           "translations": {
             "zh-CN": "（提供）消遣；（使）娱乐"
           }
@@ -1877,7 +2907,12 @@
           "text": "enormous",
           "is_bold": true,
           "phonetic": "ɪˈnɔrmɪs",
-          "example": "Mount Everest is an enormous mountain.",
+          "examples": [
+            {
+              "en": "Mount Everest is an enormous mountain.",
+              "zh": "珠穆朗玛峰是一座巨大的山。"
+            }
+          ],
           "translations": {
             "zh-CN": "巨大的；极大的"
           }
@@ -1886,7 +2921,12 @@
           "text": "swing swung, swung",
           "is_bold": true,
           "phonetic": "swɪŋ swəŋ, swəŋ",
-          "example": "The ball swung high in the air.",
+          "examples": [
+            {
+              "en": "The ball swung high in the air.",
+              "zh": "球在空中高高地摆动着。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）（使）摆动；摇摆；转弯；（使）突然转向"
           }
@@ -1895,7 +2935,12 @@
           "text": "iron",
           "is_bold": true,
           "phonetic": "aɪərn",
-          "example": "Iron makes the shirt smooth.",
+          "examples": [
+            {
+              "en": "Iron makes the shirt smooth.",
+              "zh": "熨烫让衬衫变得平滑。"
+            }
+          ],
           "translations": {
             "zh-CN": "铁；铁器；铸铁；熨斗；（用熨斗）熨；烫平"
           }
@@ -1904,7 +2949,12 @@
           "text": "fashion",
           "is_bold": true,
           "phonetic": "ˈfæʃən",
-          "example": "Blue is the new fashion.",
+          "examples": [
+            {
+              "en": "Blue is the new fashion.",
+              "zh": "蓝色是新的时尚。"
+            }
+          ],
           "translations": {
             "zh-CN": "时尚；时兴；流行款式"
           }
@@ -1913,7 +2963,12 @@
           "text": "rare",
           "is_bold": true,
           "phonetic": "rɛr",
-          "example": "This flower is very rare in our garden.",
+          "examples": [
+            {
+              "en": "This flower is very rare in our garden.",
+              "zh": "这朵花在我们花园里很稀有。"
+            }
+          ],
           "translations": {
             "zh-CN": "稀少的；珍贵的；（肉）半熟的"
           }
@@ -1922,7 +2977,12 @@
           "text": "steam",
           "is_bold": true,
           "phonetic": "stim",
-          "example": "Steam comes from the hot water.",
+          "examples": [
+            {
+              "en": "Steam comes from the hot water.",
+              "zh": "蒸汽来自热水。"
+            }
+          ],
           "translations": {
             "zh-CN": "蒸汽；水蒸气；蒸汽动力；蒸发；散发蒸汽；冒水汽"
           }
@@ -1931,7 +2991,12 @@
           "text": "superb",
           "is_bold": true,
           "phonetic": "sʊˈpərb",
-          "example": "She has a superb singing voice.",
+          "examples": [
+            {
+              "en": "She has a superb singing voice.",
+              "zh": "她有一个很棒的歌声。"
+            }
+          ],
           "translations": {
             "zh-CN": "极佳的；卓越的"
           }
@@ -1940,7 +3005,12 @@
           "text": "aquarium",
           "is_bold": false,
           "phonetic": "əkˈwɛriəm",
-          "example": "We saw fish in the aquarium.",
+          "examples": [
+            {
+              "en": "We saw fish in the aquarium.",
+              "zh": "我们在水族馆里看到了鱼。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）；水族馆；水族玻璃槽；养鱼缸"
           }
@@ -1949,7 +3019,12 @@
           "text": "up to",
           "is_bold": true,
           "phonetic": "əp tɪ",
-          "example": "This work is up to me.",
+          "examples": [
+            {
+              "en": "This work is up to me.",
+              "zh": "这件事交给我了。/ 这个工作是我的。"
+            }
+          ],
           "translations": {
             "zh-CN": "达到（某数量、程度等）；直到；不多于；（体力或智力上）能胜任"
           }
@@ -1958,7 +3033,12 @@
           "text": "polar",
           "is_bold": true,
           "phonetic": "ˈpoʊlər",
-          "example": "The polar bear lives near ice.",
+          "examples": [
+            {
+              "en": "The polar bear lives near ice.",
+              "zh": "北极熊住在冰块附近。"
+            }
+          ],
           "translations": {
             "zh-CN": "（近）极地的；南极（或北极）的；磁极的"
           }
@@ -1967,7 +3047,12 @@
           "text": "upside down",
           "is_bold": true,
           "phonetic": "ˈəpˈsaɪd daʊn",
-          "example": "The ball is upside down.",
+          "examples": [
+            {
+              "en": "The ball is upside down.",
+              "zh": "球是倒着的。"
+            }
+          ],
           "translations": {
             "zh-CN": "颠倒；倒转；翻转"
           }
@@ -1976,7 +3061,12 @@
           "text": "splendid",
           "is_bold": true,
           "phonetic": "ˈsplɛndɪd",
-          "example": "That view is truly splendid.",
+          "examples": [
+            {
+              "en": "That view is truly splendid.",
+              "zh": "那景色真是太棒了。"
+            }
+          ],
           "translations": {
             "zh-CN": "壮丽的；雄伟的；极佳的；非常好的"
           }
@@ -1985,7 +3075,12 @@
           "text": "display",
           "is_bold": true,
           "phonetic": "dɪˈspleɪ",
-          "example": "See the flower display today.",
+          "examples": [
+            {
+              "en": "See the flower display today.",
+              "zh": "今天看看花卉展示吧。"
+            }
+          ],
           "translations": {
             "zh-CN": "展览；陈列；展览品；显示；陈列"
           }
@@ -1994,7 +3089,12 @@
           "text": "appetite",
           "is_bold": true,
           "phonetic": "ˈæpəˌtaɪt",
-          "example": "My dog has a big appetite for bones.",
+          "examples": [
+            {
+              "en": "My dog has a big appetite for bones.",
+              "zh": "我的狗对骨头胃口很大。"
+            }
+          ],
           "translations": {
             "zh-CN": "食欲；胃口；强烈欲望"
           }
@@ -2003,7 +3103,12 @@
           "text": "entertainment",
           "is_bold": true,
           "phonetic": "ˌɛnərˈteɪnmənt",
-          "example": "Music is good entertainment for us.",
+          "examples": [
+            {
+              "en": "Music is good entertainment for us.",
+              "zh": "音乐对我们来说是很好的娱乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "娱乐；招待；娱乐活动；文娱节目"
           }
@@ -2012,7 +3117,12 @@
           "text": "column",
           "is_bold": true,
           "phonetic": "ˈkɑləm",
-          "example": "Read the news in the column.",
+          "examples": [
+            {
+              "en": "Read the news in the column.",
+              "zh": "在栏目里读新闻。"
+            }
+          ],
           "translations": {
             "zh-CN": "（书、报纸印刷页上的）栏；专栏；柱（形物）"
           }
@@ -2021,7 +3131,12 @@
           "text": "Sami",
           "is_bold": false,
           "phonetic": "ˈsæmi",
-          "example": "Sami people live in the north.",
+          "examples": [
+            {
+              "en": "Sami people live in the north.",
+              "zh": "萨米人住在北方。"
+            }
+          ],
           "translations": {
             "zh-CN": "萨米人；（居住在斯堪的纳维亚北部的拉普人）"
           }
@@ -2030,7 +3145,12 @@
           "text": "Sarek National Park",
           "is_bold": false,
           "phonetic": "sarek* ˈnæʃənəl pɑrk",
-          "example": "We saw animals in Sarek National Park.",
+          "examples": [
+            {
+              "en": "We saw animals in Sarek National Park.",
+              "zh": "我们在萨雷克国家公园看到了动物。"
+            }
+          ],
           "translations": {
             "zh-CN": "萨勒克国家公园"
           }
@@ -2039,7 +3159,12 @@
           "text": "Sweden",
           "is_bold": false,
           "phonetic": "sˈwidən",
-          "example": "My friend likes Sweden very much.",
+          "examples": [
+            {
+              "en": "My friend likes Sweden very much.",
+              "zh": "我的朋友非常喜欢瑞典。"
+            }
+          ],
           "translations": {
             "zh-CN": "瑞典（国家名）"
           }
@@ -2048,7 +3173,12 @@
           "text": "the Arctic Circle",
           "is_bold": false,
           "phonetic": "ðə ˈɑrtɪk ˈsərkəl",
-          "example": "The sun shines near the Arctic Circle.",
+          "examples": [
+            {
+              "en": "The sun shines near the Arctic Circle.",
+              "zh": "太阳在北极圈附近照耀。"
+            }
+          ],
           "translations": {
             "zh-CN": "北极圈"
           }
@@ -2057,7 +3187,12 @@
           "text": "Rapa River",
           "is_bold": false,
           "phonetic": "rapa* ˈrɪvər",
-          "example": "Water flows down Rapa River.",
+          "examples": [
+            {
+              "en": "Water flows down Rapa River.",
+              "zh": "水流过拉帕河。"
+            }
+          ],
           "translations": {
             "zh-CN": "拉帕河"
           }
@@ -2066,7 +3201,12 @@
           "text": "Siberian",
           "is_bold": false,
           "phonetic": "saɪˈbɪriən",
-          "example": "Siberian people eat tasty fish.",
+          "examples": [
+            {
+              "en": "Siberian people eat tasty fish.",
+              "zh": "西伯利亚人吃美味的鱼。"
+            }
+          ],
           "translations": {
             "zh-CN": "西伯利亚（人）的；西伯利亚人"
           }
@@ -2075,7 +3215,12 @@
           "text": "Dollywood",
           "is_bold": false,
           "phonetic": "dollywood*",
-          "example": "We went to Dollywood last summer.",
+          "examples": [
+            {
+              "en": "We went to Dollywood last summer.",
+              "zh": "我们去年夏天去了多利伍德。"
+            }
+          ],
           "translations": {
             "zh-CN": "多莉山主题公园"
           }
@@ -2091,7 +3236,12 @@
           "text": "interaction",
           "is_bold": true,
           "phonetic": "ˌɪnərˈækʃən",
-          "example": "There was good interaction with friends.",
+          "examples": [
+            {
+              "en": "There was good interaction with friends.",
+              "zh": "和朋友们互动得很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "交流；相互影响"
           }
@@ -2100,7 +3250,12 @@
           "text": "vary",
           "is_bold": true,
           "phonetic": "ˈvɛri",
-          "example": "The weather will vary tomorrow morning.",
+          "examples": [
+            {
+              "en": "The weather will vary tomorrow morning.",
+              "zh": "明早天气会变化。"
+            }
+          ],
           "translations": {
             "zh-CN": "（根据情况）变化；改变"
           }
@@ -2109,7 +3264,12 @@
           "text": "appropriate",
           "is_bold": true,
           "phonetic": "əˈproʊpriˌeɪt",
-          "example": "Wear an appropriate uniform for school.",
+          "examples": [
+            {
+              "en": "Wear an appropriate uniform for school.",
+              "zh": "上合适的校服去学校。"
+            }
+          ],
           "translations": {
             "zh-CN": "合适的；恰当的"
           }
@@ -2118,7 +3278,12 @@
           "text": "by contrast",
           "is_bold": true,
           "phonetic": "baɪ ˈkɑntræst",
-          "example": "My dog is small, by contrast a cat is big.",
+          "examples": [
+            {
+              "en": "My dog is small, by contrast a cat is big.",
+              "zh": "我的狗很小，相比之下猫就很大。"
+            }
+          ],
           "translations": {
             "zh-CN": "相比之下"
           }
@@ -2127,7 +3292,12 @@
           "text": "approve",
           "is_bold": true,
           "phonetic": "əˈpruv",
-          "example": "The teacher will approve my homework.",
+          "examples": [
+            {
+              "en": "The teacher will approve my homework.",
+              "zh": "老师会批准我的作业。"
+            }
+          ],
           "translations": {
             "zh-CN": "赞成；同意；批准；通过"
           }
@@ -2136,7 +3306,12 @@
           "text": "demonstrate",
           "is_bold": true,
           "phonetic": "ˈdɛmənˌstreɪt",
-          "example": "She can demonstrate her drawing skills well.",
+          "examples": [
+            {
+              "en": "She can demonstrate her drawing skills well.",
+              "zh": "她能很好地展示她的画画技巧。"
+            }
+          ],
           "translations": {
             "zh-CN": "表现；表达；说明；证明"
           }
@@ -2145,7 +3320,12 @@
           "text": "gesture",
           "is_bold": false,
           "phonetic": "ˈʤɛsʧər",
-          "example": "He made a waving gesture.",
+          "examples": [
+            {
+              "en": "He made a waving gesture.",
+              "zh": "他做了个挥手的动作。"
+            }
+          ],
           "translations": {
             "zh-CN": "手势；姿势；姿态"
           }
@@ -2154,7 +3334,12 @@
           "text": "witness",
           "is_bold": true,
           "phonetic": "ˈwɪtnəs",
-          "example": "He was a witness to the accident.",
+          "examples": [
+            {
+              "en": "He was a witness to the accident.",
+              "zh": "他是那起事故的目击者。"
+            }
+          ],
           "translations": {
             "zh-CN": "当场看到；目击；见证；目击者；证人"
           }
@@ -2163,7 +3348,12 @@
           "text": "employ",
           "is_bold": true,
           "phonetic": "ɪmˈplɔɪ",
-          "example": "My mom will employ a tutor.",
+          "examples": [
+            {
+              "en": "My mom will employ a tutor.",
+              "zh": "我妈妈会雇一个家庭教师。"
+            }
+          ],
           "translations": {
             "zh-CN": "使用；应用；雇用"
           }
@@ -2172,7 +3362,12 @@
           "text": "identical",
           "is_bold": true,
           "phonetic": "aɪˈdɛntɪkəl",
-          "example": "The two apples are identical.",
+          "examples": [
+            {
+              "en": "The two apples are identical.",
+              "zh": "这两个苹果一模一样。"
+            }
+          ],
           "translations": {
             "zh-CN": "相同的"
           }
@@ -2181,7 +3376,12 @@
           "text": "interpret",
           "is_bold": true,
           "phonetic": "ˌɪnˈtərprət",
-          "example": "She can interpret the song.",
+          "examples": [
+            {
+              "en": "She can interpret the song.",
+              "zh": "她能理解这首歌的意思。"
+            }
+          ],
           "translations": {
             "zh-CN": "把……理解（解释）为；口译"
           }
@@ -2190,7 +3390,12 @@
           "text": "differ",
           "is_bold": true,
           "phonetic": "ˈdɪfər",
-          "example": "The two colors differ greatly.",
+          "examples": [
+            {
+              "en": "The two colors differ greatly.",
+              "zh": "这两种颜色差别很大。"
+            }
+          ],
           "translations": {
             "zh-CN": "相异；不同于"
           }
@@ -2199,7 +3404,12 @@
           "text": "by comparison",
           "is_bold": true,
           "phonetic": "baɪ kəmˈpɛrəsən",
-          "example": "By comparison, my book is smaller.",
+          "examples": [
+            {
+              "en": "By comparison, my book is smaller.",
+              "zh": "比较起来，我的书更小。"
+            }
+          ],
           "translations": {
             "zh-CN": "（与……）相比较"
           }
@@ -2208,7 +3418,12 @@
           "text": "cheek",
           "is_bold": true,
           "phonetic": "ʧik",
-          "example": "The dog licked my cheek.",
+          "examples": [
+            {
+              "en": "The dog licked my cheek.",
+              "zh": "那只狗舔了我的脸颊。"
+            }
+          ],
           "translations": {
             "zh-CN": "面颊；脸颊"
           }
@@ -2217,7 +3432,12 @@
           "text": "favour",
           "is_bold": true,
           "phonetic": "ˈfeɪvər",
-          "example": "She shows favour to her little brother.",
+          "examples": [
+            {
+              "en": "She shows favour to her little brother.",
+              "zh": "她偏爱她的弟弟。"
+            }
+          ],
           "translations": {
             "zh-CN": "较喜欢；选择；有利于；帮助；恩惠；赞同"
           }
@@ -2226,7 +3446,12 @@
           "text": "bow",
           "is_bold": true,
           "phonetic": "boʊ",
-          "example": "He gave a deep bow to his teacher.",
+          "examples": [
+            {
+              "en": "He gave a deep bow to his teacher.",
+              "zh": "他向老师深深地鞠了一躬。"
+            }
+          ],
           "translations": {
             "zh-CN": "鞠躬；点头；低（头）；弓；蝴蝶结"
           }
@@ -2235,7 +3460,12 @@
           "text": "waist",
           "is_bold": true,
           "phonetic": "weɪst",
-          "example": "The belt fits his waist.",
+          "examples": [
+            {
+              "en": "The belt fits his waist.",
+              "zh": "这条腰带适合他的腰。"
+            }
+          ],
           "translations": {
             "zh-CN": "腰；腰部"
           }
@@ -2244,7 +3474,12 @@
           "text": "make inferences",
           "is_bold": true,
           "phonetic": "meɪk ˈɪnfərˌɛnsɪz",
-          "example": "We must make inferences from this.",
+          "examples": [
+            {
+              "en": "We must make inferences from this.",
+              "zh": "我们必须从这个推断出来。"
+            }
+          ],
           "translations": {
             "zh-CN": "推理；推断"
           }
@@ -2253,7 +3488,12 @@
           "text": "break down",
           "is_bold": true,
           "phonetic": "breɪk daʊn",
-          "example": "Please break down the problem.",
+          "examples": [
+            {
+              "en": "Please break down the problem.",
+              "zh": "请把问题分解一下。"
+            }
+          ],
           "translations": {
             "zh-CN": "消除；分解；打破"
           }
@@ -2262,7 +3502,12 @@
           "text": "barrier",
           "is_bold": true,
           "phonetic": "ˈbɛriər",
-          "example": "The wall is a high barrier for the dog.",
+          "examples": [
+            {
+              "en": "The wall is a high barrier for the dog.",
+              "zh": "这面墙是狗的一个高高的障碍物。"
+            }
+          ],
           "translations": {
             "zh-CN": "隔阂；障碍"
           }
@@ -2271,7 +3516,12 @@
           "text": "fake",
           "is_bold": false,
           "phonetic": "feɪk",
-          "example": "The smile was a fake one.",
+          "examples": [
+            {
+              "en": "The smile was a fake one.",
+              "zh": "那个笑是假的。"
+            }
+          ],
           "translations": {
             "zh-CN": "假装的；假的；冒充的"
           }
@@ -2280,7 +3530,12 @@
           "text": "anger",
           "is_bold": true,
           "phonetic": "ˈæŋgər",
-          "example": "His anger made his face red.",
+          "examples": [
+            {
+              "en": "His anger made his face red.",
+              "zh": "他的愤怒让他的脸变红了。"
+            }
+          ],
           "translations": {
             "zh-CN": "愤怒；怒气；使生气；激怒"
           }
@@ -2289,7 +3544,12 @@
           "text": "reliable",
           "is_bold": true,
           "phonetic": "rɪˈlaɪəbəl",
-          "example": "My friend is a reliable student.",
+          "examples": [
+            {
+              "en": "My friend is a reliable student.",
+              "zh": "我的朋友是一个可靠的学生。"
+            }
+          ],
           "translations": {
             "zh-CN": "可靠的；可信赖的"
           }
@@ -2298,7 +3558,12 @@
           "text": "incident",
           "is_bold": true,
           "phonetic": "ˈɪnsədənt",
-          "example": "A small accident was a sudden incident.",
+          "examples": [
+            {
+              "en": "A small accident was a sudden incident.",
+              "zh": "一个小事故是一个突然的事件。"
+            }
+          ],
           "translations": {
             "zh-CN": "发生的事情；严重事件；冲突"
           }
@@ -2307,7 +3572,12 @@
           "text": "trial",
           "is_bold": true,
           "phonetic": "traɪəl",
-          "example": "This test was a hard trial.",
+          "examples": [
+            {
+              "en": "This test was a hard trial.",
+              "zh": "这次考试是一场艰难的考验。"
+            }
+          ],
           "translations": {
             "zh-CN": "审讯；审判；试验；试用"
           }
@@ -2316,7 +3586,12 @@
           "text": "slight",
           "is_bold": false,
           "phonetic": "slaɪt",
-          "example": "He showed slight anger today.",
+          "examples": [
+            {
+              "en": "He showed slight anger today.",
+              "zh": "他今天表现出一点点生气。"
+            }
+          ],
           "translations": {
             "zh-CN": "轻微的；略微的；细小的"
           }
@@ -2325,7 +3600,12 @@
           "text": "slightly",
           "is_bold": true,
           "phonetic": "sˈlaɪtli",
-          "example": "It felt slightly cold outside.",
+          "examples": [
+            {
+              "en": "It felt slightly cold outside.",
+              "zh": "外面感觉有点冷。"
+            }
+          ],
           "translations": {
             "zh-CN": "略微；稍微"
           }
@@ -2334,7 +3614,12 @@
           "text": "twin",
           "is_bold": true,
           "phonetic": "twɪn",
-          "example": "My twin is happy.",
+          "examples": [
+            {
+              "en": "My twin is happy.",
+              "zh": "我的双胞胎很开心。"
+            }
+          ],
           "translations": {
             "zh-CN": "双胞胎之一的；孪生之一的；孪生之一；双胞胎之一"
           }
@@ -2343,7 +3628,12 @@
           "text": "nonverbal",
           "is_bold": false,
           "phonetic": "nɑnˈvərbəl",
-          "example": "She used nonverbal cues often.",
+          "examples": [
+            {
+              "en": "She used nonverbal cues often.",
+              "zh": "她经常使用非语言的信号（或：肢体语言）。"
+            }
+          ],
           "translations": {
             "zh-CN": "不涉及言语的；非言语的"
           }
@@ -2352,7 +3642,12 @@
           "text": "assessment",
           "is_bold": false,
           "phonetic": "əˈsɛsmənt",
-          "example": "The math assessment was very hard.",
+          "examples": [
+            {
+              "en": "The math assessment was very hard.",
+              "zh": "数学测试的评估非常难。"
+            }
+          ],
           "translations": {
             "zh-CN": "评价；评定"
           }
@@ -2361,7 +3656,12 @@
           "text": "assess",
           "is_bold": true,
           "phonetic": "əˈsɛs",
-          "example": "The teacher will assess my math test.",
+          "examples": [
+            {
+              "en": "The teacher will assess my math test.",
+              "zh": "老师会评估我的数学测试。"
+            }
+          ],
           "translations": {
             "zh-CN": "评估；评价"
           }
@@ -2370,7 +3670,12 @@
           "text": "internal",
           "is_bold": true,
           "phonetic": "ˌɪnˈtərnəl",
-          "example": "He has an internal fear.",
+          "examples": [
+            {
+              "en": "He has an internal fear.",
+              "zh": "他有一个内在的恐惧。"
+            }
+          ],
           "translations": {
             "zh-CN": "内部的；里面的"
           }
@@ -2379,7 +3684,12 @@
           "text": "straighten up",
           "is_bold": true,
           "phonetic": "ˈstreɪtən əp",
-          "example": "Please straighten up your desk.",
+          "examples": [
+            {
+              "en": "Please straighten up your desk.",
+              "zh": "请把你的桌子弄直一点。"
+            }
+          ],
           "translations": {
             "zh-CN": "直起来；整理；收拾整齐"
           }
@@ -2388,7 +3698,12 @@
           "text": "slump",
           "is_bold": false,
           "phonetic": "sləmp",
-          "example": "He began to slump after the test.",
+          "examples": [
+            {
+              "en": "He began to slump after the test.",
+              "zh": "他考试后开始垮下来。"
+            }
+          ],
           "translations": {
             "zh-CN": "垂头弯腰地走（或坐等）"
           }
@@ -2397,7 +3712,12 @@
           "text": "pose",
           "is_bold": true,
           "phonetic": "poʊz",
-          "example": "She will pose for a picture.",
+          "examples": [
+            {
+              "en": "She will pose for a picture.",
+              "zh": "她会摆姿势拍照。"
+            }
+          ],
           "translations": {
             "zh-CN": "故作姿态；（为画像、拍照等摆的）姿势；摆好姿势；造成（威胁、问题等）"
           }
@@ -2406,7 +3726,12 @@
           "text": "bend bent, bent",
           "is_bold": true,
           "phonetic": "bɛnd bɛnt, bɛnt",
-          "example": "Please bend your head down.",
+          "examples": [
+            {
+              "en": "Please bend your head down.",
+              "zh": "请把头弯下去。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）（使）弯曲；倾斜；偏向"
           }
@@ -2415,7 +3740,12 @@
           "text": "reveal",
           "is_bold": true,
           "phonetic": "rɪˈvil",
-          "example": "The curtain will reveal the stage.",
+          "examples": [
+            {
+              "en": "The curtain will reveal the stage.",
+              "zh": "窗帘会揭开舞台。"
+            }
+          ],
           "translations": {
             "zh-CN": "揭示；显示；露出"
           }
@@ -2424,7 +3754,12 @@
           "text": "clarify",
           "is_bold": true,
           "phonetic": "ˈklɛrəˌfaɪ",
-          "example": "Please clarify this difficult point.",
+          "examples": [
+            {
+              "en": "Please clarify this difficult point.",
+              "zh": "请把这个难点说清楚。"
+            }
+          ],
           "translations": {
             "zh-CN": "使更清晰易懂；阐明；澄清"
           }
@@ -2433,7 +3768,12 @@
           "text": "in other words",
           "is_bold": true,
           "phonetic": "ɪn ˈəðər wərdz",
-          "example": "In other words, it means study hard.",
+          "examples": [
+            {
+              "en": "In other words, it means study hard.",
+              "zh": "换句话说，意思是努力学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "换句话说；也就是说"
           }
@@ -2442,7 +3782,12 @@
           "text": "educator",
           "is_bold": true,
           "phonetic": "ˈɛʤəˌkeɪtər",
-          "example": "She is a kind educator.",
+          "examples": [
+            {
+              "en": "She is a kind educator.",
+              "zh": "她是一位善良的教育者。"
+            }
+          ],
           "translations": {
             "zh-CN": "教师；教育工作者；教育家"
           }
@@ -2451,7 +3796,12 @@
           "text": "tick",
           "is_bold": false,
           "phonetic": "tɪk",
-          "example": "Please tick the correct box.",
+          "examples": [
+            {
+              "en": "Please tick the correct box.",
+              "zh": "请勾选正确的方框。"
+            }
+          ],
           "translations": {
             "zh-CN": "给（试卷、问题等）打钩号；（钟表）发出嘀嗒声；钩号"
           }
@@ -2460,7 +3810,12 @@
           "text": "tendency",
           "is_bold": true,
           "phonetic": "ˈtɛndənsi",
-          "example": "Her tendency is to read before sleeping.",
+          "examples": [
+            {
+              "en": "Her tendency is to read before sleeping.",
+              "zh": "她的倾向是睡前看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "趋势；倾向"
           }
@@ -2469,7 +3824,12 @@
           "text": "lower",
           "is_bold": true,
           "phonetic": "loʊər",
-          "example": "Put the book lower.",
+          "examples": [
+            {
+              "en": "Put the book lower.",
+              "zh": "把书放低一点。"
+            }
+          ],
           "translations": {
             "zh-CN": "把……放低；降低；减少；下面的；下方的；较小的"
           }
@@ -2478,7 +3838,12 @@
           "text": "imply",
           "is_bold": true,
           "phonetic": "ˌɪmˈplaɪ",
-          "example": "His smile implies happiness today.",
+          "examples": [
+            {
+              "en": "Your smile imply happiness.",
+              "zh": "你的微笑暗示着快乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "意味着；暗示"
           }
@@ -2487,7 +3852,12 @@
           "text": "barely",
           "is_bold": true,
           "phonetic": "ˈbɛrli",
-          "example": "She barely finished her homework.",
+          "examples": [
+            {
+              "en": "She barely finished her homework.",
+              "zh": "她几乎完成了作业。"
+            }
+          ],
           "translations": {
             "zh-CN": "几乎不；勉强才能；刚刚"
           }
@@ -2496,7 +3866,12 @@
           "text": "chin",
           "is_bold": false,
           "phonetic": "ʧɪn",
-          "example": "He rested his hand on his chin.",
+          "examples": [
+            {
+              "en": "He rested his hand on his chin.",
+              "zh": "他把手放在下巴上。"
+            }
+          ],
           "translations": {
             "zh-CN": "下巴"
           }
@@ -2505,7 +3880,12 @@
           "text": "occupy",
           "is_bold": true,
           "phonetic": "ˈɑkjəˌpaɪ",
-          "example": "The book will occupy your desk.",
+          "examples": [
+            {
+              "en": "The book will occupy your desk.",
+              "zh": "这本书会占据你的桌子。"
+            }
+          ],
           "translations": {
             "zh-CN": "占据；占用"
           }
@@ -2514,7 +3894,12 @@
           "text": "stare",
           "is_bold": true,
           "phonetic": "stɛr",
-          "example": "He will stare at the cat.",
+          "examples": [
+            {
+              "en": "He will stare at the cat.",
+              "zh": "他会盯着那只猫看。"
+            }
+          ],
           "translations": {
             "zh-CN": "盯着看；凝视；凝视"
           }
@@ -2523,7 +3908,12 @@
           "text": "ceiling",
           "is_bold": true,
           "phonetic": "ˈsilɪŋ",
-          "example": "The ceiling is white and smooth.",
+          "examples": [
+            {
+              "en": "The ceiling is white and smooth.",
+              "zh": "天花板是白色的，而且很光滑。"
+            }
+          ],
           "translations": {
             "zh-CN": "天花板；上限"
           }
@@ -2532,7 +3922,12 @@
           "text": "distract",
           "is_bold": false,
           "phonetic": "dɪˈstrækt",
-          "example": "Loud music can distract the student.",
+          "examples": [
+            {
+              "en": "Loud music can distract the student.",
+              "zh": "吵闹的音乐会分散学生的注意力。"
+            }
+          ],
           "translations": {
             "zh-CN": "分散（注意力）；使分心"
           }
@@ -2541,7 +3936,12 @@
           "text": "perceive",
           "is_bold": true,
           "phonetic": "pərˈsiv",
-          "example": "She can perceive the small sound.",
+          "examples": [
+            {
+              "en": "She can perceive the small sound.",
+              "zh": "她能察觉到那个小声音。"
+            }
+          ],
           "translations": {
             "zh-CN": "察觉；看待；理解"
           }
@@ -2550,7 +3950,12 @@
           "text": "distinguish",
           "is_bold": true,
           "phonetic": "dɪˈstɪŋgwɪʃ",
-          "example": "Can you distinguish cats from dogs?",
+          "examples": [
+            {
+              "en": "Can you distinguish cats from dogs?",
+              "zh": "你能区分猫和狗吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "区分；辨别"
           }
@@ -2559,7 +3964,12 @@
           "text": "anxiety",
           "is_bold": true,
           "phonetic": "æŋˈzaɪəti",
-          "example": "My test brings much anxiety today.",
+          "examples": [
+            {
+              "en": "My test brings much anxiety today.",
+              "zh": "我的考试今天带来了很多焦虑。"
+            }
+          ],
           "translations": {
             "zh-CN": "焦虑；担心；害怕"
           }
@@ -2568,7 +3978,12 @@
           "text": "chest",
           "is_bold": true,
           "phonetic": "ʧɛst",
-          "example": "The chest has many old books.",
+          "examples": [
+            {
+              "en": "The chest has many old books.",
+              "zh": "这个箱子里有很多旧书。"
+            }
+          ],
           "translations": {
             "zh-CN": "胸部；胸膛"
           }
@@ -2577,7 +3992,12 @@
           "text": "embarrassed",
           "is_bold": true,
           "phonetic": "ɪmˈbɛrəst",
-          "example": "He felt very embarrassed.",
+          "examples": [
+            {
+              "en": "He felt very embarrassed.",
+              "zh": "他感到很尴尬。"
+            }
+          ],
           "translations": {
             "zh-CN": "难堪的；尴尬的"
           }
@@ -2586,7 +4006,12 @@
           "text": "ashamed",
           "is_bold": true,
           "phonetic": "əˈʃeɪmd",
-          "example": "She felt ashamed of her bad test score.",
+          "examples": [
+            {
+              "en": "She felt ashamed of her bad test score.",
+              "zh": "她为自己糟糕的考试分数感到羞愧。"
+            }
+          ],
           "translations": {
             "zh-CN": "羞愧；惭愧"
           }
@@ -2595,7 +4020,12 @@
           "text": "merely",
           "is_bold": true,
           "phonetic": "ˈmɪrli",
-          "example": "He is merely reading a book now.",
+          "examples": [
+            {
+              "en": "He is merely reading a book now.",
+              "zh": "他现在只是在看书。"
+            }
+          ],
           "translations": {
             "zh-CN": "只是；仅仅；只不过"
           }
@@ -2604,7 +4034,12 @@
           "text": "call on",
           "is_bold": true,
           "phonetic": "kɔl ɔn",
-          "example": "The teacher will call on Tom.",
+          "examples": [
+            {
+              "en": "The teacher will call on Tom.",
+              "zh": "老师会叫汤姆回答问题。"
+            }
+          ],
           "translations": {
             "zh-CN": "（短暂地）访问；要求（某人讲话等）；正式邀请"
           }
@@ -2613,7 +4048,12 @@
           "text": "bother",
           "is_bold": true,
           "phonetic": "ˈbɑðər",
-          "example": "This homework might bother you.",
+          "examples": [
+            {
+              "en": "This homework might bother you.",
+              "zh": "这个家庭作业可能会让你烦恼。"
+            }
+          ],
           "translations": {
             "zh-CN": "费心；麻烦；因……操心；麻烦；不便"
           }
@@ -2622,7 +4062,12 @@
           "text": "weep",
           "is_bold": true,
           "phonetic": "wip",
-          "example": "The baby starts to weep loudly.",
+          "examples": [
+            {
+              "en": "The baby starts to weep loudly.",
+              "zh": "婴儿开始大声哭泣。"
+            }
+          ],
           "translations": {
             "zh-CN": "哭泣；流泪"
           }
@@ -2631,7 +4076,12 @@
           "text": "at work",
           "is_bold": true,
           "phonetic": "æt wərk",
-          "example": "The rain is at work.",
+          "examples": [
+            {
+              "en": "The rain is at work.",
+              "zh": "雨在工作（/雨下着）。"
+            }
+          ],
           "translations": {
             "zh-CN": "有某种影响；在工作"
           }
@@ -2640,7 +4090,12 @@
           "text": "conflict",
           "is_bold": true,
           "phonetic": "ˈkɑnflɪkt",
-          "example": "There was a conflict in the group.",
+          "examples": [
+            {
+              "en": "There was a conflict in the group.",
+              "zh": "小组里有分歧/冲突。"
+            }
+          ],
           "translations": {
             "zh-CN": "矛盾；冲突；冲突；抵触"
           }
@@ -2649,7 +4104,12 @@
           "text": "inquire",
           "is_bold": true,
           "phonetic": "ˌɪnkˈwaɪr",
-          "example": "Please inquire about the test.",
+          "examples": [
+            {
+              "en": "Please inquire about the test.",
+              "zh": "请问一下这个测试。"
+            }
+          ],
           "translations": {
             "zh-CN": "询问；打听"
           }
@@ -2658,7 +4118,12 @@
           "text": "ultimately",
           "is_bold": true,
           "phonetic": "ˈəltəmətli",
-          "example": "He will ultimately finish his book.",
+          "examples": [
+            {
+              "en": "He will ultimately finish his book.",
+              "zh": "他最终会完成他的书。"
+            }
+          ],
           "translations": {
             "zh-CN": "最终；最后"
           }
@@ -2667,7 +4132,12 @@
           "text": "adjust",
           "is_bold": true,
           "phonetic": "əˈʤəst",
-          "example": "Please adjust your chair for comfort.",
+          "examples": [
+            {
+              "en": "Please adjust your chair for comfort.",
+              "zh": "请调整一下你的椅子，让它更舒服。"
+            }
+          ],
           "translations": {
             "zh-CN": "调整；调节；适应；（使）习惯"
           }
@@ -2676,7 +4146,12 @@
           "text": "intervene",
           "is_bold": false,
           "phonetic": "ˌɪntərˈvin",
-          "example": "Mom will intervene in the fight.",
+          "examples": [
+            {
+              "en": "Mom will intervene in the fight.",
+              "zh": "妈妈会在打架时插手。"
+            }
+          ],
           "translations": {
             "zh-CN": "干预；介入"
           }
@@ -2685,7 +4160,12 @@
           "text": "react",
           "is_bold": true,
           "phonetic": "riækt",
-          "example": "How will the plant react?",
+          "examples": [
+            {
+              "en": "How will the plant react?",
+              "zh": "这株植物会怎么反应？"
+            }
+          ],
           "translations": {
             "zh-CN": "（对……）起反应；回应；（对食物等）有不良反应"
           }
@@ -2694,7 +4174,12 @@
           "text": "component",
           "is_bold": true,
           "phonetic": "kəmˈpoʊnənt",
-          "example": "A wheel has many components.",
+          "examples": [
+            {
+              "en": "This is a key component of the robot.",
+              "zh": "这是这个机器人的一个关键组件。"
+            }
+          ],
           "translations": {
             "zh-CN": "组成部分；零件"
           }
@@ -2703,7 +4188,12 @@
           "text": "tone",
           "is_bold": true,
           "phonetic": "toʊn",
-          "example": "His tone was very angry today.",
+          "examples": [
+            {
+              "en": "His tone was very angry today.",
+              "zh": "他今天语气非常生气。"
+            }
+          ],
           "translations": {
             "zh-CN": "语气；腔调；口吻"
           }
@@ -2712,7 +4202,12 @@
           "text": "Brazil",
           "is_bold": false,
           "phonetic": "brəˈzɪl",
-          "example": "We like Brazil much.",
+          "examples": [
+            {
+              "en": "We like Brazil much.",
+              "zh": "我们非常喜欢巴西。"
+            }
+          ],
           "translations": {
             "zh-CN": "巴西（国家名）"
           }
@@ -2721,7 +4216,12 @@
           "text": "Bulgaria",
           "is_bold": false,
           "phonetic": "bəlˈgɛriə",
-          "example": "They visited Bulgaria last summer.",
+          "examples": [
+            {
+              "en": "They visited Bulgaria last summer.",
+              "zh": "他们去年夏天去了保加利亚。"
+            }
+          ],
           "translations": {
             "zh-CN": "保加利亚（国家名）"
           }
@@ -2730,7 +4230,12 @@
           "text": "Albania",
           "is_bold": false,
           "phonetic": "ælˈbeɪniə",
-          "example": "She likes Albania's beautiful coast.",
+          "examples": [
+            {
+              "en": "We visit Albania next summer.",
+              "zh": "我们明年夏天去阿尔巴尼亚。"
+            }
+          ],
           "translations": {
             "zh-CN": "阿尔巴尼亚（国家名）"
           }
@@ -2746,7 +4251,12 @@
           "text": "hybrid",
           "is_bold": false,
           "phonetic": "ˈhaɪbrɪd",
-          "example": "This car is a hybrid model.",
+          "examples": [
+            {
+              "en": "This car is a hybrid model.",
+              "zh": "这辆车是混合动力型号。"
+            }
+          ],
           "translations": {
             "zh-CN": "杂交植（动）物；合成物；混合动力车"
           }
@@ -2755,7 +4265,12 @@
           "text": "devote",
           "is_bold": true,
           "phonetic": "dɪˈvoʊt",
-          "example": "She will devote time to her studies.",
+          "examples": [
+            {
+              "en": "She will devote time to her studies.",
+              "zh": "她会把时间奉献给学习。"
+            }
+          ],
           "translations": {
             "zh-CN": "把……献（给）；把……专用于；专心于"
           }
@@ -2764,7 +4279,12 @@
           "text": "devote ... to",
           "is_bold": true,
           "phonetic": "dɪˈvoʊt  tɪ",
-          "example": "She devotes time to her studies.",
+          "examples": [
+            {
+              "en": "She devotes time to her studies.",
+              "zh": "她把时间都花在学习上。 (devotes: 花费/投入)"
+            }
+          ],
           "translations": {
             "zh-CN": "把……用于；献身；致力；专心"
           }
@@ -2773,7 +4293,12 @@
           "text": "shortage",
           "is_bold": true,
           "phonetic": "ˈʃɔrtɪʤ",
-          "example": "There is a shortage of clean water.",
+          "examples": [
+            {
+              "en": "There is a shortage of clean water.",
+              "zh": "干净的水很短缺。 (shortage: 短缺/缺乏)"
+            }
+          ],
           "translations": {
             "zh-CN": "不足；缺少；短缺"
           }
@@ -2782,7 +4307,12 @@
           "text": "tackle",
           "is_bold": true,
           "phonetic": "ˈtækəl",
-          "example": "We must tackle this math problem.",
+          "examples": [
+            {
+              "en": "We must tackle this math problem.",
+              "zh": "我们必须解决这个问题。 (tackle: 处理/解决)"
+            }
+          ],
           "translations": {
             "zh-CN": "解决（难题）；应付（局面）；处理"
           }
@@ -2791,7 +4321,12 @@
           "text": "crisis",
           "is_bold": true,
           "phonetic": "ˈkraɪsəs",
-          "example": "The city faces an economic crisis.",
+          "examples": [
+            {
+              "en": "The city faces an economic crisis.",
+              "zh": "这个城市面临经济危机。 (faces: 面临)"
+            }
+          ],
           "translations": {
             "zh-CN": "（）危机；危急关头"
           }
@@ -2800,7 +4335,12 @@
           "text": "boost",
           "is_bold": true,
           "phonetic": "bust",
-          "example": "Exercise can boost your energy.",
+          "examples": [
+            {
+              "en": "Exercise can boost your energy.",
+              "zh": "运动可以提高你的精力。 (boost: 提高/增强)"
+            }
+          ],
           "translations": {
             "zh-CN": "使增长；使兴旺；增长；提高；激励"
           }
@@ -2809,7 +4349,12 @@
           "text": "yield",
           "is_bold": false,
           "phonetic": "jild",
-          "example": "The farm will yield many apples.",
+          "examples": [
+            {
+              "en": "The farm will yield many apples.",
+              "zh": "这农场会产出很多苹果。 (yield: 产出/收成)"
+            }
+          ],
           "translations": {
             "zh-CN": "产量；产出；出产（作物）；产生（收益、效益等）；屈服；让步"
           }
@@ -2818,7 +4363,12 @@
           "text": "convince",
           "is_bold": true,
           "phonetic": "kənˈvɪns",
-          "example": "Can you convince your mom?",
+          "examples": [
+            {
+              "en": "Can you convince your mom?",
+              "zh": "你能说服你的妈妈吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "使相信；使确信；说服"
           }
@@ -2827,7 +4377,12 @@
           "text": "characteristic",
           "is_bold": true,
           "phonetic": "ˌkɛrɪktərˈɪstɪk",
-          "example": "The dog has a friendly characteristic.",
+          "examples": [
+            {
+              "en": "The dog has a friendly characteristic.",
+              "zh": "这只狗有一个友好的特点。"
+            }
+          ],
           "translations": {
             "zh-CN": "特征；特点；品质；典型的；独特的"
           }
@@ -2836,7 +4391,12 @@
           "text": "attain",
           "is_bold": true,
           "phonetic": "əˈteɪn",
-          "example": "She wants to attain a high score.",
+          "examples": [
+            {
+              "en": "She wants to attain a high score.",
+              "zh": "她想达到一个高分。"
+            }
+          ],
           "translations": {
             "zh-CN": "（通常经过努力）获得；得到"
           }
@@ -2845,7 +4405,12 @@
           "text": "conventional",
           "is_bold": true,
           "phonetic": "kənˈvɛnʃənəl",
-          "example": "Wearing a uniform is conventional.",
+          "examples": [
+            {
+              "en": "Wearing a uniform is conventional.",
+              "zh": "穿校服是传统的/普遍的。"
+            }
+          ],
           "translations": {
             "zh-CN": "传统的；习惯的"
           }
@@ -2854,7 +4419,12 @@
           "text": "pollinate",
           "is_bold": false,
           "phonetic": "ˈpɑləˌneɪt",
-          "example": "Bees help to pollinate the flowers.",
+          "examples": [
+            {
+              "en": "Bees help to pollinate the flowers.",
+              "zh": "蜜蜂帮助授粉花朵。"
+            }
+          ],
           "translations": {
             "zh-CN": "授粉；传粉"
           }
@@ -2863,7 +4433,12 @@
           "text": "assumption",
           "is_bold": true,
           "phonetic": "əˈsəmpʃən",
-          "example": "My assumption is that class starts soon.",
+          "examples": [
+            {
+              "en": "My assumption is that class starts soon.",
+              "zh": "我的假设是课快开始了。"
+            }
+          ],
           "translations": {
             "zh-CN": "假定；设定；（责任的）；承担；（权力的）获得"
           }
@@ -2872,7 +4447,12 @@
           "text": "intense",
           "is_bold": true,
           "phonetic": "ˌɪnˈtɛns",
-          "example": "She felt an intense happiness today.",
+          "examples": [
+            {
+              "en": "She felt an intense happiness today.",
+              "zh": "她今天感到非常开心。"
+            }
+          ],
           "translations": {
             "zh-CN": "热切的；十分强烈的；激烈的"
           }
@@ -2881,7 +4461,12 @@
           "text": "overcome",
           "is_bold": true,
           "phonetic": "ˈoʊvərˌkəm",
-          "example": "She can overcome her fear easily.",
+          "examples": [
+            {
+              "en": "She can overcome her fear easily.",
+              "zh": "她能很容易地克服她的恐惧。"
+            }
+          ],
           "translations": {
             "zh-CN": "克服；战胜"
           }
@@ -2890,7 +4475,12 @@
           "text": "overcame, overcome",
           "is_bold": false,
           "phonetic": "ˈoʊvərˈkeɪm, ˈoʊvərˌkəm",
-          "example": "He overcame his fear of heights.",
+          "examples": [
+            {
+              "en": "He overcame his fear of heights.",
+              "zh": "他克服了对高度的恐惧。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）克服；解决；战胜"
           }
@@ -2899,7 +4489,12 @@
           "text": "expand",
           "is_bold": true,
           "phonetic": "ɪkˈspænd",
-          "example": "We want to expand our small garden.",
+          "examples": [
+            {
+              "en": "We want to expand our small garden.",
+              "zh": "我们想扩大我们的小花园。"
+            }
+          ],
           "translations": {
             "zh-CN": "扩大；增加；扩展；发展（业务）"
           }
@@ -2908,7 +4503,12 @@
           "text": "output",
           "is_bold": true,
           "phonetic": "ˈaʊtˌpʊt",
-          "example": "My computer output is a picture.",
+          "examples": [
+            {
+              "en": "My computer output is a picture.",
+              "zh": "我的电脑输出的是一张图片。"
+            }
+          ],
           "translations": {
             "zh-CN": "产量；输出；输出量"
           }
@@ -2917,7 +4517,12 @@
           "text": "output, output",
           "is_bold": false,
           "phonetic": "ˈaʊtˌpʊt, ˈaʊtˌpʊt",
-          "example": "The factory has high daily output.",
+          "examples": [
+            {
+              "en": "The factory has high daily output.",
+              "zh": "这家工厂日产量很高。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）输出"
           }
@@ -2926,7 +4531,12 @@
           "text": "estimate",
           "is_bold": true,
           "phonetic": "ˈɛstəˌmeɪt",
-          "example": "We estimate the test will take one hour.",
+          "examples": [
+            {
+              "en": "We estimate the test will take one hour.",
+              "zh": "我们估计测试需要一个小时。"
+            }
+          ],
           "translations": {
             "zh-CN": "估计；估价；估算；估计；估算"
           }
@@ -2935,7 +4545,12 @@
           "text": "domestic",
           "is_bold": true,
           "phonetic": "dəˈmɛstɪk",
-          "example": "They buy domestic apples from a farm.",
+          "examples": [
+            {
+              "en": "They buy domestic apples from a farm.",
+              "zh": "他们从农场买国内苹果。"
+            }
+          ],
           "translations": {
             "zh-CN": "本国的；国内的；家用的；家庭的"
           }
@@ -2944,7 +4559,12 @@
           "text": "consumption",
           "is_bold": true,
           "phonetic": "kənˈsəmʃən",
-          "example": "Oil consumption increases with warmer weather.",
+          "examples": [
+            {
+              "en": "Oil consumption increases with warmer weather.",
+              "zh": "天气越暖，油耗就越高。"
+            }
+          ],
           "translations": {
             "zh-CN": "消耗；消耗量；消费"
           }
@@ -2953,7 +4573,12 @@
           "text": "comprise",
           "is_bold": true,
           "phonetic": "kəmˈpraɪz",
-          "example": "The class comprises twenty students and two teachers.",
+          "examples": [
+            {
+              "en": "The class comprise many students.",
+              "zh": "这班级包括许多学生。"
+            }
+          ],
           "translations": {
             "zh-CN": "包括；包含；由……组成"
           }
@@ -2962,7 +4587,12 @@
           "text": "be comprised of",
           "is_bold": true,
           "phonetic": "bi kəmˈpraɪzd əv",
-          "example": "My backpack is comprised of books, pens, and lunch.",
+          "examples": [
+            {
+              "en": "My backpack is comprised of books, pens, and lunch.",
+              "zh": "我的背包里装了书、笔和午饭。"
+            }
+          ],
           "translations": {
             "zh-CN": "包括；包含；由……组成（或构成）"
           }
@@ -2971,7 +4601,12 @@
           "text": "generate",
           "is_bold": true,
           "phonetic": "ˈʤɛnərˌeɪt",
-          "example": "The computer can generate new ideas.",
+          "examples": [
+            {
+              "en": "The computer can generate new ideas.",
+              "zh": "电脑可以产生新点子。"
+            }
+          ],
           "translations": {
             "zh-CN": "产生；引起"
           }
@@ -2980,7 +4615,12 @@
           "text": "strain",
           "is_bold": false,
           "phonetic": "streɪn",
-          "example": "Running puts strain on one's legs.",
+          "examples": [
+            {
+              "en": "Running puts strain on one's legs.",
+              "zh": "跑步会给腿带来压力。"
+            }
+          ],
           "translations": {
             "zh-CN": "（动、植物的）系；品种；拉伤；压力"
           }
@@ -2989,7 +4629,12 @@
           "text": "leisure",
           "is_bold": true,
           "phonetic": "ˈlɛʒər",
-          "example": "We have time for leisure today.",
+          "examples": [
+            {
+              "en": "We have time for leisure today.",
+              "zh": "我们今天有时间休息/娱乐。"
+            }
+          ],
           "translations": {
             "zh-CN": "闲暇；休闲；空闲"
           }
@@ -2998,7 +4643,12 @@
           "text": "deep down",
           "is_bold": true,
           "phonetic": "dip daʊn",
-          "example": "Deep down, she feels happy inside.",
+          "examples": [
+            {
+              "en": "Deep down, she feels happy inside.",
+              "zh": "在心里深处，她感到很开心。"
+            }
+          ],
           "translations": {
             "zh-CN": "在内心深处；本质上；实际上"
           }
@@ -3007,7 +4657,12 @@
           "text": "soil",
           "is_bold": true,
           "phonetic": "sɔɪl",
-          "example": "Plants grow in soil.",
+          "examples": [
+            {
+              "en": "Plants grow in soil.",
+              "zh": "植物在土壤里生长。"
+            }
+          ],
           "translations": {
             "zh-CN": "泥土；土壤；国土；领土"
           }
@@ -3016,7 +4671,12 @@
           "text": "celebrity",
           "is_bold": true,
           "phonetic": "səˈlɛbrɪti",
-          "example": "That singer is a big celebrity.",
+          "examples": [
+            {
+              "en": "That singer is a big celebrity.",
+              "zh": "那歌手是个大明星。"
+            }
+          ],
           "translations": {
             "zh-CN": "名望；名誉；名人；名流"
           }
@@ -3025,7 +4685,12 @@
           "text": "envision",
           "is_bold": false,
           "phonetic": "ɛnˈvɪʒən",
-          "example": "She can envision a bright future.",
+          "examples": [
+            {
+              "en": "She can envision a bright future.",
+              "zh": "她能想象一个光明的未来。"
+            }
+          ],
           "translations": {
             "zh-CN": "展望；想象"
           }
@@ -3034,7 +4699,12 @@
           "text": "sorghum",
           "is_bold": false,
           "phonetic": "ˈsɔrgəm",
-          "example": "We planted sweet sorghum seeds.",
+          "examples": [
+            {
+              "en": "We planted sweet sorghum seeds.",
+              "zh": "我们种了甜高粱的种子。"
+            }
+          ],
           "translations": {
             "zh-CN": "高粱；高粱米"
           }
@@ -3043,7 +4713,12 @@
           "text": "broom",
           "is_bold": false,
           "phonetic": "brum",
-          "example": "Mom uses a broom to sweep.",
+          "examples": [
+            {
+              "en": "Mom uses a broom to sweep.",
+              "zh": "妈妈用扫帚打扫。"
+            }
+          ],
           "translations": {
             "zh-CN": "扫把；扫帚；金雀花"
           }
@@ -3052,7 +4727,12 @@
           "text": "grain",
           "is_bold": true,
           "phonetic": "greɪn",
-          "example": "We eat rice and wheat grain.",
+          "examples": [
+            {
+              "en": "We eat rice and wheat grain.",
+              "zh": "我们吃米和小麦粒。"
+            }
+          ],
           "translations": {
             "zh-CN": "谷物；谷粒；颗粒"
           }
@@ -3061,7 +4741,12 @@
           "text": "vision",
           "is_bold": true,
           "phonetic": "ˈvɪʒən",
-          "example": "His vision is very clear now.",
+          "examples": [
+            {
+              "en": "His vision is very clear now.",
+              "zh": "他的愿景现在很清楚。"
+            }
+          ],
           "translations": {
             "zh-CN": "想象；视力；视野；影像"
           }
@@ -3070,7 +4755,12 @@
           "text": "reality",
           "is_bold": true,
           "phonetic": "ˌriˈæləˌti",
-          "example": "This is my daily reality.",
+          "examples": [
+            {
+              "en": "This is my daily reality.",
+              "zh": "这是我的日常生活。"
+            }
+          ],
           "translations": {
             "zh-CN": "现实；实际情况；事实"
           }
@@ -3079,7 +4769,12 @@
           "text": "salty",
           "is_bold": true,
           "phonetic": "ˈsɔlti",
-          "example": "These chips are very salty.",
+          "examples": [
+            {
+              "en": "These chips are very salty.",
+              "zh": "这些薯片很咸。"
+            }
+          ],
           "translations": {
             "zh-CN": "含盐的；咸的"
           }
@@ -3088,7 +4783,12 @@
           "text": "urban",
           "is_bold": true,
           "phonetic": "ˈərbən",
-          "example": "He lives in an urban area.",
+          "examples": [
+            {
+              "en": "He lives in an urban area.",
+              "zh": "他住在一个城市地区。"
+            }
+          ],
           "translations": {
             "zh-CN": "城市的；都市的；城镇的"
           }
@@ -3097,7 +4797,12 @@
           "text": "bomb",
           "is_bold": true,
           "phonetic": "bɔm",
-          "example": "The army will bomb the big city.",
+          "examples": [
+            {
+              "en": "The army will bomb the big city.",
+              "zh": "军队会轰炸大城市。"
+            }
+          ],
           "translations": {
             "zh-CN": "炸弹；轰炸；对……投炸弹"
           }
@@ -3106,7 +4811,12 @@
           "text": "tunnel",
           "is_bold": false,
           "phonetic": "ˈtənəl",
-          "example": "The train went through the tunnel.",
+          "examples": [
+            {
+              "en": "The train went through the tunnel.",
+              "zh": "火车穿过了隧道。"
+            }
+          ],
           "translations": {
             "zh-CN": "地下通道；地道；隧道"
           }
@@ -3115,7 +4825,12 @@
           "text": "extension",
           "is_bold": true,
           "phonetic": "ɪkˈstɛnʃən",
-          "example": "We need an extension for homework.",
+          "examples": [
+            {
+              "en": "We need an extension for homework.",
+              "zh": "我们需要作业的延期。"
+            }
+          ],
           "translations": {
             "zh-CN": "扩建部分；扩大；电话分机"
           }
@@ -3124,7 +4839,12 @@
           "text": "chemical",
           "is_bold": true,
           "phonetic": "ˈkɛmɪkəl",
-          "example": "The water has a chemical smell.",
+          "examples": [
+            {
+              "en": "The water has a chemical smell.",
+              "zh": "水有化学的味道/气味。"
+            }
+          ],
           "translations": {
             "zh-CN": "与化学有关的；化学的；化学制品；化学品"
           }
@@ -3133,7 +4853,12 @@
           "text": "wheat",
           "is_bold": true,
           "phonetic": "wit",
-          "example": "We eat wheat every day.",
+          "examples": [
+            {
+              "en": "We eat wheat every day.",
+              "zh": "我们每天吃小麦。"
+            }
+          ],
           "translations": {
             "zh-CN": "小麦；小麦籽"
           }
@@ -3142,7 +4867,12 @@
           "text": "flavour",
           "is_bold": true,
           "phonetic": "flavour*",
-          "example": "This cake has a nice flavour.",
+          "examples": [
+            {
+              "en": "This cake has a nice flavour.",
+              "zh": "这个蛋糕味道很好。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）；味道；特点；特色"
           }
@@ -3151,7 +4881,12 @@
           "text": "fertiliser",
           "is_bold": false,
           "phonetic": "fertiliser*",
-          "example": "The plant needs more fertiliser.",
+          "examples": [
+            {
+              "en": "The plant needs more fertiliser.",
+              "zh": "这株植物需要更多的肥料。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）肥料"
           }
@@ -3160,7 +4895,12 @@
           "text": "nutritional",
           "is_bold": true,
           "phonetic": "nuˈtrɪʃənəl",
-          "example": "It has nutritional value for growth.",
+          "examples": [
+            {
+              "en": "It has nutritional value for growth.",
+              "zh": "它对生长有营养价值。"
+            }
+          ],
           "translations": {
             "zh-CN": "营养（物）的"
           }
@@ -3169,7 +4909,12 @@
           "text": "nutritious",
           "is_bold": false,
           "phonetic": "nuˈtrɪʃəs",
-          "example": "Apples are very nutritious food.",
+          "examples": [
+            {
+              "en": "Apples are very nutritious food.",
+              "zh": "苹果是一种很有营养的食物。"
+            }
+          ],
           "translations": {
             "zh-CN": "有营养的；营养丰富的"
           }
@@ -3178,7 +4923,12 @@
           "text": "nutrition",
           "is_bold": true,
           "phonetic": "nuˈtrɪʃən",
-          "example": "Good food needs good nutrition.",
+          "examples": [
+            {
+              "en": "Good food needs good nutrition.",
+              "zh": "好吃的需要好的营养。"
+            }
+          ],
           "translations": {
             "zh-CN": "营养；滋养"
           }
@@ -3187,7 +4937,12 @@
           "text": "alleviate",
           "is_bold": false,
           "phonetic": "əˈliviˌeɪt",
-          "example": "Medicine can alleviate the pain.",
+          "examples": [
+            {
+              "en": "Medicine can alleviate the pain.",
+              "zh": "药可以减轻疼痛。"
+            }
+          ],
           "translations": {
             "zh-CN": "减轻；缓解"
           }
@@ -3196,7 +4951,12 @@
           "text": "poverty",
           "is_bold": false,
           "phonetic": "ˈpɑvərti",
-          "example": "Poverty affects many people.",
+          "examples": [
+            {
+              "en": "Poverty affects many people.",
+              "zh": "贫困影响了很多人。"
+            }
+          ],
           "translations": {
             "zh-CN": "贫穷；贫困"
           }
@@ -3205,7 +4965,12 @@
           "text": "organic",
           "is_bold": true,
           "phonetic": "ɔrˈgænɪk",
-          "example": "Organic food tastes very good.",
+          "examples": [
+            {
+              "en": "Organic food tastes very good.",
+              "zh": "有机食品味道非常好。"
+            }
+          ],
           "translations": {
             "zh-CN": "有机的；不使用化肥的；有机物的"
           }
@@ -3214,7 +4979,12 @@
           "text": "pesticide",
           "is_bold": false,
           "phonetic": "ˈpɛstəˌsaɪd",
-          "example": "The farmer sprayed pesticide on crops.",
+          "examples": [
+            {
+              "en": "The farmer sprayed pesticide on crops.",
+              "zh": "农民给庄稼喷了杀虫剂。"
+            }
+          ],
           "translations": {
             "zh-CN": "杀虫剂；除害药物"
           }
@@ -3223,7 +4993,12 @@
           "text": "widespread",
           "is_bold": true,
           "phonetic": "ˈwaɪdˈsprɛd",
-          "example": "Good news was widespread in town.",
+          "examples": [
+            {
+              "en": "Good news was widespread in town.",
+              "zh": "好消息在镇上传开了。"
+            }
+          ],
           "translations": {
             "zh-CN": "分布广的；普遍的；广泛的"
           }
@@ -3232,7 +5007,12 @@
           "text": "bacterium",
           "is_bold": false,
           "phonetic": "bækˈtɪriəm",
-          "example": "The doctor found a bacterium in my throat.",
+          "examples": [
+            {
+              "en": "The doctor found a bacterium in my throat.",
+              "zh": "医生在我的喉咙里发现了一种细菌。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）细菌"
           }
@@ -3241,7 +5021,12 @@
           "text": "in turn",
           "is_bold": true,
           "phonetic": "ɪn tərn",
-          "example": "He studied math, in turn, learned science.",
+          "examples": [
+            {
+              "en": "He studied math, in turn, learned science.",
+              "zh": "他学了数学，接着又学了科学。"
+            }
+          ],
           "translations": {
             "zh-CN": "相应地；转而；依次；轮流"
           }
@@ -3250,7 +5035,12 @@
           "text": "digest",
           "is_bold": true,
           "phonetic": "ˈdaɪʤɛst",
-          "example": "We must digest the new lesson.",
+          "examples": [
+            {
+              "en": "We must digest the new lesson.",
+              "zh": "我们必须消化（理解）这节新课。"
+            }
+          ],
           "translations": {
             "zh-CN": "消化；领会；领悟；摘要；文摘"
           }
@@ -3259,7 +5049,12 @@
           "text": "essential",
           "is_bold": true,
           "phonetic": "ɛˈsɛnʃəl",
-          "example": "Water is an essential thing for life.",
+          "examples": [
+            {
+              "en": "Water is an essential thing for life.",
+              "zh": "水是生命必需的东西。"
+            }
+          ],
           "translations": {
             "zh-CN": "完全必要的；极其重要的"
           }
@@ -3268,7 +5063,12 @@
           "text": "mineral",
           "is_bold": true,
           "phonetic": "ˈmɪnərəl",
-          "example": "Rocks contain many mineral samples.",
+          "examples": [
+            {
+              "en": "Rocks contain many mineral samples.",
+              "zh": "岩石含有许多矿物样本。"
+            }
+          ],
           "translations": {
             "zh-CN": "矿物；矿物质"
           }
@@ -3277,7 +5077,12 @@
           "text": "alternative",
           "is_bold": true,
           "phonetic": "ɔlˈtərnətɪv",
-          "example": "We need an alternative route home.",
+          "examples": [
+            {
+              "en": "We need an alternative route home.",
+              "zh": "我们需要一条回家的备用路线。"
+            }
+          ],
           "translations": {
             "zh-CN": "可供选择的事物；可供替代的；非传统的"
           }
@@ -3286,7 +5091,12 @@
           "text": "grocery [pl.]",
           "is_bold": true,
           "phonetic": "ˈgroʊsəri [pl*.]",
-          "example": "We bought milk at the grocery.",
+          "examples": [
+            {
+              "en": "We bought milk at the grocery.",
+              "zh": "我们在杂货店买了牛奶。"
+            }
+          ],
           "translations": {
             "zh-CN": "食品杂货店；食品杂货"
           }
@@ -3295,7 +5105,12 @@
           "text": "instance",
           "is_bold": true,
           "phonetic": "ˈɪnstəns",
-          "example": "This is an instance of a cat.",
+          "examples": [
+            {
+              "en": "This is an instance of a cat.",
+              "zh": "这是猫的一个例子/一个实例。"
+            }
+          ],
           "translations": {
             "zh-CN": "例子；实例；事例"
           }
@@ -3304,7 +5119,12 @@
           "text": "for instance",
           "is_bold": true,
           "phonetic": "fər ˈɪnstəns",
-          "example": "For instance, apples are sweet.",
+          "examples": [
+            {
+              "en": "For instance, apples are sweet.",
+              "zh": "例如，苹果是甜的。"
+            }
+          ],
           "translations": {
             "zh-CN": "例如；比如"
           }
@@ -3313,7 +5133,12 @@
           "text": "depth",
           "is_bold": true,
           "phonetic": "dɛpθ",
-          "example": "The ocean has great depth.",
+          "examples": [
+            {
+              "en": "The ocean has great depth.",
+              "zh": "海洋有很大的深度。"
+            }
+          ],
           "translations": {
             "zh-CN": "向下（或向里）的距离；深（度）"
           }
@@ -3322,7 +5147,12 @@
           "text": "root",
           "is_bold": true,
           "phonetic": "rut",
-          "example": "A tree grows a root.",
+          "examples": [
+            {
+              "en": "A tree grows a root.",
+              "zh": "一棵树长出根。"
+            }
+          ],
           "translations": {
             "zh-CN": "根；根茎；根部；根源"
           }
@@ -3331,7 +5161,12 @@
           "text": "entirely",
           "is_bold": true,
           "phonetic": "ɪnˈtaɪərli",
-          "example": "She felt entirely happy today.",
+          "examples": [
+            {
+              "en": "She felt entirely happy today.",
+              "zh": "她今天感觉非常开心。"
+            }
+          ],
           "translations": {
             "zh-CN": "全部地；完整地；完全地"
           }
@@ -3340,7 +5175,12 @@
           "text": "aspect",
           "is_bold": true,
           "phonetic": "ˈæˌspɛkt",
-          "example": "The good aspect of math is easy.",
+          "examples": [
+            {
+              "en": "The good aspect of math is easy.",
+              "zh": "数学的好方面是容易的。"
+            }
+          ],
           "translations": {
             "zh-CN": "方面；层面"
           }
@@ -3349,7 +5189,12 @@
           "text": "Vietnam",
           "is_bold": false,
           "phonetic": "viˌɛtˈnɑm",
-          "example": "My friend lives in Vietnam.",
+          "examples": [
+            {
+              "en": "My friend lives in Vietnam.",
+              "zh": "我的朋友住在越南。"
+            }
+          ],
           "translations": {
             "zh-CN": "越南（国家名）"
           }
@@ -3358,7 +5203,12 @@
           "text": "LED",
           "is_bold": false,
           "phonetic": "lɛd",
-          "example": "The screen uses an LED light.",
+          "examples": [
+            {
+              "en": "The screen uses an LED light.",
+              "zh": "这个屏幕用的是LED灯。"
+            }
+          ],
           "translations": {
             "zh-CN": "（）发光二极管"
           }
@@ -3367,7 +5217,12 @@
           "text": "DDT",
           "is_bold": false,
           "phonetic": "ˌdiˌdiˈti",
-          "example": "The farmer sprayed DDT on the plants.",
+          "examples": [
+            {
+              "en": "The farmer sprayed DDT on the plants.",
+              "zh": "农民在植物上喷了DDT。"
+            }
+          ],
           "translations": {
             "zh-CN": "滴滴涕（旧时尤用作农业杀虫剂）"
           }
