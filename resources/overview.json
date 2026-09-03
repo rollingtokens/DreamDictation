@@ -108,74 +108,6 @@
               ]
             },
             {
-              "id": "大学",
-              "displayName": "大学",
-              "publishers": [
-                {
-                  "id": "四六级",
-                  "displayName": "大学英语四六级",
-                  "books": [
-                    {
-                      "id": "四级词汇",
-                      "displayName": "英语四级词汇（全量）",
-                      "path": "zh_CN/English/大学/四六级/英语四级词汇.json"
-                    },
-                    {
-                      "id": "六级词汇",
-                      "displayName": "英语六级词汇（全量）",
-                      "path": "zh_CN/English/大学/四六级/英语六级词汇.json"
-                    },
-                    {
-                      "id": "四级核心",
-                      "displayName": "四级高频核心词",
-                      "path": "zh_CN/English/大学/四六级/四级高频核心词.json"
-                    },
-                    {
-                      "id": "六级核心",
-                      "displayName": "六级高频核心词",
-                      "path": "zh_CN/English/大学/四六级/六级高频核心词.json"
-                    }
-                  ]
-                },
-                {
-                  "id": "考研雅思托福",
-                  "displayName": "考研/雅思/托福",
-                  "books": [
-                    {
-                      "id": "考研词汇",
-                      "displayName": "考研词汇（全量）",
-                      "path": "zh_CN/English/大学/四六级/考研词汇.json"
-                    },
-                    {
-                      "id": "考研核心",
-                      "displayName": "考研高频核心词",
-                      "path": "zh_CN/English/大学/四六级/考研高频核心词.json"
-                    },
-                    {
-                      "id": "雅思词汇",
-                      "displayName": "雅思词汇（全量）",
-                      "path": "zh_CN/English/大学/四六级/雅思词汇.json"
-                    },
-                    {
-                      "id": "雅思核心",
-                      "displayName": "雅思高频核心词",
-                      "path": "zh_CN/English/大学/四六级/雅思高频核心词.json"
-                    },
-                    {
-                      "id": "托福词汇",
-                      "displayName": "托福词汇（全量）",
-                      "path": "zh_CN/English/大学/四六级/托福词汇.json"
-                    },
-                    {
-                      "id": "托福核心",
-                      "displayName": "托福高频核心词",
-                      "path": "zh_CN/English/大学/四六级/托福高频核心词.json"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id": "初中",
               "displayName": "初中",
               "publishers": [
@@ -276,6 +208,74 @@
                       "id": "选必四",
                       "displayName": "选择性必修第四册",
                       "path": "zh_CN/English/高中/人教版/选择性必修第四册.json"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "大学",
+              "displayName": "大学",
+              "publishers": [
+                {
+                  "id": "四六级",
+                  "displayName": "大学英语四六级",
+                  "books": [
+                    {
+                      "id": "四级词汇",
+                      "displayName": "英语四级词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/英语四级词汇.json"
+                    },
+                    {
+                      "id": "六级词汇",
+                      "displayName": "英语六级词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/英语六级词汇.json"
+                    },
+                    {
+                      "id": "四级核心",
+                      "displayName": "四级高频核心词",
+                      "path": "zh_CN/English/大学/四六级/四级高频核心词.json"
+                    },
+                    {
+                      "id": "六级核心",
+                      "displayName": "六级高频核心词",
+                      "path": "zh_CN/English/大学/四六级/六级高频核心词.json"
+                    }
+                  ]
+                },
+                {
+                  "id": "考研雅思托福",
+                  "displayName": "考研/雅思/托福",
+                  "books": [
+                    {
+                      "id": "考研词汇",
+                      "displayName": "考研词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/考研词汇.json"
+                    },
+                    {
+                      "id": "考研核心",
+                      "displayName": "考研高频核心词",
+                      "path": "zh_CN/English/大学/四六级/考研高频核心词.json"
+                    },
+                    {
+                      "id": "雅思词汇",
+                      "displayName": "雅思词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/雅思词汇.json"
+                    },
+                    {
+                      "id": "雅思核心",
+                      "displayName": "雅思高频核心词",
+                      "path": "zh_CN/English/大学/四六级/雅思高频核心词.json"
+                    },
+                    {
+                      "id": "托福词汇",
+                      "displayName": "托福词汇（全量）",
+                      "path": "zh_CN/English/大学/四六级/托福词汇.json"
+                    },
+                    {
+                      "id": "托福核心",
+                      "displayName": "托福高频核心词",
+                      "path": "zh_CN/English/大学/四六级/托福高频核心词.json"
                     }
                   ]
                 }
