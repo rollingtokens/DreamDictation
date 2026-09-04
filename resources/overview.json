@@ -284,45 +284,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "en-US",
-      "displayName": "North America",
-      "subjects": [
-        {
-          "id": "English",
-          "displayName": "English",
-          "grades": [
-            {
-              "id": "spelling-bee",
-              "displayName": "Spelling Bee",
-              "publishers": [
-                {
-                  "id": "words-of-the-champions",
-                  "displayName": "Words of the Champions 2026 (Scripps)",
-                  "books": [
-                    {
-                      "id": "one-bee",
-                      "displayName": "One Bee (1,000 words)",
-                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_one_bee.json"
-                    },
-                    {
-                      "id": "two-bee",
-                      "displayName": "Two Bee (2,000 words)",
-                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_two_bee.json"
-                    },
-                    {
-                      "id": "three-bee",
-                      "displayName": "Three Bee (1,000 words)",
-                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_three_bee.json"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ]
 }
