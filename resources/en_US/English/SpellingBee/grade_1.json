@@ -1,0 +1,5438 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Grade 1 Spelling Bee",
+      "order": 1,
+      "words": [
+        {
+          "text": "able",
+          "phonetic": "'ebl",
+          "examples": [
+            {
+              "en": "He is an able student now."
+            }
+          ]
+        },
+        {
+          "text": "ache",
+          "phonetic": "ek",
+          "examples": [
+            {
+              "en": "My head starts to ache now."
+            }
+          ]
+        },
+        {
+          "text": "act",
+          "phonetic": "ækt",
+          "examples": [
+            {
+              "en": "The bear will act like a king."
+            }
+          ]
+        },
+        {
+          "text": "add",
+          "phonetic": "æd",
+          "examples": [
+            {
+              "en": "Please add two apples."
+            }
+          ]
+        },
+        {
+          "text": "age",
+          "phonetic": "edʒ",
+          "examples": [
+            {
+              "en": "What is your age now?"
+            }
+          ]
+        },
+        {
+          "text": "ago",
+          "phonetic": "ə'ɡo",
+          "examples": [
+            {
+              "en": "I saw him two days ago."
+            }
+          ]
+        },
+        {
+          "text": "aid",
+          "phonetic": "ed",
+          "examples": [
+            {
+              "en": "The teacher gave us much aid."
+            }
+          ]
+        },
+        {
+          "text": "aim",
+          "phonetic": "em",
+          "examples": [
+            {
+              "en": "My aim is to score a hundred."
+            }
+          ]
+        },
+        {
+          "text": "air",
+          "phonetic": "ɛr",
+          "examples": [
+            {
+              "en": "We breathe clean fresh air."
+            }
+          ]
+        },
+        {
+          "text": "ant",
+          "phonetic": "ænt",
+          "examples": [
+            {
+              "en": "The small ant walks slow."
+            }
+          ]
+        },
+        {
+          "text": "app",
+          "phonetic": "æp",
+          "examples": [
+            {
+              "en": "Use this learning app every day."
+            }
+          ]
+        },
+        {
+          "text": "area",
+          "phonetic": "'ɛrɪə",
+          "examples": [
+            {
+              "en": "This park is a green area."
+            }
+          ]
+        },
+        {
+          "text": "arm",
+          "phonetic": "ɑrm",
+          "examples": [
+            {
+              "en": "Lift your strong arm up."
+            }
+          ]
+        },
+        {
+          "text": "army",
+          "phonetic": "'ɑrmi",
+          "examples": [
+            {
+              "en": "The army marches in the park."
+            }
+          ]
+        },
+        {
+          "text": "art",
+          "phonetic": "ɑrt",
+          "examples": [
+            {
+              "en": "This painting is great art."
+            }
+          ]
+        },
+        {
+          "text": "ash",
+          "phonetic": "æʃ",
+          "examples": [
+            {
+              "en": "The fire left white ash on the floor."
+            }
+          ]
+        },
+        {
+          "text": "asia",
+          "phonetic": "ˈeʒə;ˈeʃə",
+          "examples": [
+            {
+              "en": "China is in Asia."
+            }
+          ]
+        },
+        {
+          "text": "ask",
+          "phonetic": "æsk",
+          "examples": [
+            {
+              "en": "I ask my mom a question."
+            }
+          ]
+        },
+        {
+          "text": "ate",
+          "phonetic": "eɪt",
+          "examples": [
+            {
+              "en": "sb ate an apple."
+            }
+          ]
+        },
+        {
+          "text": "aunt",
+          "phonetic": "ænt",
+          "examples": [
+            {
+              "en": "My aunt has a cat."
+            }
+          ]
+        },
+        {
+          "text": "away",
+          "phonetic": "əˈwe",
+          "examples": [
+            {
+              "en": "The dog ran far away."
+            }
+          ]
+        },
+        {
+          "text": "baby",
+          "phonetic": "bebɪ",
+          "examples": [
+            {
+              "en": "The baby eats a banana."
+            }
+          ]
+        },
+        {
+          "text": "back",
+          "phonetic": "bæk",
+          "examples": [
+            {
+              "en": "The dog ran back to home."
+            }
+          ]
+        },
+        {
+          "text": "bad",
+          "phonetic": "bæd",
+          "examples": [
+            {
+              "en": "The weather is very bad today."
+            }
+          ]
+        },
+        {
+          "text": "bag",
+          "phonetic": "bæɡ",
+          "examples": [
+            {
+              "en": "Put book in my bag."
+            }
+          ]
+        },
+        {
+          "text": "ball",
+          "phonetic": "bɔl",
+          "examples": [
+            {
+              "en": "Kick the red ball high."
+            }
+          ]
+        },
+        {
+          "text": "ban",
+          "phonetic": "bæn",
+          "examples": [
+            {
+              "en": "The school will ban cell phones now."
+            }
+          ]
+        },
+        {
+          "text": "band",
+          "phonetic": "bænd",
+          "examples": [
+            {
+              "en": "The music band plays a song."
+            }
+          ]
+        },
+        {
+          "text": "bank",
+          "phonetic": "bæŋk",
+          "examples": [
+            {
+              "en": "The river runs near the bank."
+            }
+          ]
+        },
+        {
+          "text": "bar",
+          "phonetic": "bɑr",
+          "examples": [
+            {
+              "en": "The tall bar held sweet juice."
+            }
+          ]
+        },
+        {
+          "text": "bat",
+          "phonetic": "bæt",
+          "examples": [
+            {
+              "en": "The boy hit the ball with a bat."
+            }
+          ]
+        },
+        {
+          "text": "bay",
+          "phonetic": "be",
+          "examples": [
+            {
+              "en": "The boat sailed into a calm bay."
+            }
+          ]
+        },
+        {
+          "text": "bds",
+          "phonetic": "bds*",
+          "examples": [
+            {
+              "en": "Use the BDS map."
+            }
+          ]
+        },
+        {
+          "text": "bear",
+          "phonetic": "bɛr",
+          "examples": [
+            {
+              "en": "The big bear eats honey."
+            }
+          ]
+        },
+        {
+          "text": "bed",
+          "phonetic": "bɛd",
+          "examples": [
+            {
+              "en": "My cat sleeps on the soft bed."
+            }
+          ]
+        },
+        {
+          "text": "bee",
+          "phonetic": "bi",
+          "examples": [
+            {
+              "en": "The little bee flies high."
+            }
+          ]
+        },
+        {
+          "text": "beef",
+          "phonetic": "bif",
+          "examples": [
+            {
+              "en": "We eat red beef for dinner."
+            }
+          ]
+        },
+        {
+          "text": "beg",
+          "phonetic": "bɛɡ",
+          "examples": [
+            {
+              "en": "My little brother will beg for candy."
+            }
+          ]
+        },
+        {
+          "text": "bell",
+          "phonetic": "bɛl",
+          "examples": [
+            {
+              "en": "The school bell rings loud."
+            }
+          ]
+        },
+        {
+          "text": "ben",
+          "phonetic": "bɛn",
+          "examples": [
+            {
+              "en": "Ben likes to play soccer."
+            }
+          ]
+        },
+        {
+          "text": "best",
+          "phonetic": "bɛst",
+          "examples": [
+            {
+              "en": "This is my best friend."
+            }
+          ]
+        },
+        {
+          "text": "bet",
+          "phonetic": "bɛt",
+          "examples": [
+            {
+              "en": "I bet you can eat three apples."
+            }
+          ]
+        },
+        {
+          "text": "bid",
+          "phonetic": "bɪd",
+          "examples": [
+            {
+              "en": "My father will bid on a new house."
+            }
+          ]
+        },
+        {
+          "text": "big",
+          "phonetic": "bɪɡ",
+          "examples": [
+            {
+              "en": "The dog is a big friend."
+            }
+          ]
+        },
+        {
+          "text": "bike",
+          "phonetic": "baɪk",
+          "examples": [
+            {
+              "en": "I ride my bike to school."
+            }
+          ]
+        },
+        {
+          "text": "bill",
+          "phonetic": "bɪl",
+          "examples": [
+            {
+              "en": "The store gave us a big bill."
+            }
+          ]
+        },
+        {
+          "text": "bin",
+          "phonetic": "bɪn",
+          "examples": [
+            {
+              "en": "The bin is near the door."
+            }
+          ]
+        },
+        {
+          "text": "bird",
+          "phonetic": "bɝd",
+          "examples": [
+            {
+              "en": "See a small blue bird."
+            }
+          ]
+        },
+        {
+          "text": "bit",
+          "phonetic": "bɪt",
+          "examples": [
+            {
+              "en": "I ate a small bit of bread."
+            }
+          ]
+        },
+        {
+          "text": "blow",
+          "phonetic": "blo",
+          "examples": [
+            {
+              "en": "Wind makes a soft blow."
+            }
+          ]
+        },
+        {
+          "text": "blue",
+          "phonetic": "blu",
+          "examples": [
+            {
+              "en": "The sky is blue today."
+            }
+          ]
+        },
+        {
+          "text": "boat",
+          "phonetic": "bot",
+          "examples": [
+            {
+              "en": "We see a small boat."
+            }
+          ]
+        },
+        {
+          "text": "body",
+          "phonetic": "ˈbɑdi",
+          "examples": [
+            {
+              "en": "My body feels very good."
+            }
+          ]
+        },
+        {
+          "text": "book",
+          "phonetic": "bʊk",
+          "examples": [
+            {
+              "en": "I read a big book."
+            }
+          ]
+        },
+        {
+          "text": "born",
+          "phonetic": "bɔrn",
+          "examples": [
+            {
+              "en": "My dog was born today."
+            }
+          ]
+        },
+        {
+          "text": "boss",
+          "phonetic": "bɑs",
+          "examples": [
+            {
+              "en": "My teacher is our class boss."
+            }
+          ]
+        },
+        {
+          "text": "both",
+          "phonetic": "boθ",
+          "examples": [
+            {
+              "en": "Tom and Lily like both apples."
+            }
+          ]
+        },
+        {
+          "text": "bow",
+          "phonetic": "baʊ",
+          "examples": [
+            {
+              "en": "He gave a deep bow to his teacher."
+            }
+          ]
+        },
+        {
+          "text": "bowl",
+          "phonetic": "bol",
+          "examples": [
+            {
+              "en": "Eat rice in a bowl."
+            }
+          ]
+        },
+        {
+          "text": "box",
+          "phonetic": "bɑks",
+          "examples": [
+            {
+              "en": "Put book in my box."
+            }
+          ]
+        },
+        {
+          "text": "boy",
+          "phonetic": "bɔɪ",
+          "examples": [
+            {
+              "en": "The little boy runs fast."
+            }
+          ]
+        },
+        {
+          "text": "bun",
+          "phonetic": "bʌn",
+          "examples": [
+            {
+              "en": "I eat one sweet bun every morning."
+            }
+          ]
+        },
+        {
+          "text": "burn",
+          "phonetic": "bɝn",
+          "examples": [
+            {
+              "en": "The fire will burn the wood."
+            }
+          ]
+        },
+        {
+          "text": "bus",
+          "phonetic": "bʌs",
+          "examples": [
+            {
+              "en": "We ride the bus to school."
+            }
+          ]
+        },
+        {
+          "text": "busy",
+          "phonetic": "'bɪzi",
+          "examples": [
+            {
+              "en": "My mom is very busy today."
+            }
+          ]
+        },
+        {
+          "text": "buy",
+          "phonetic": "baɪ",
+          "examples": [
+            {
+              "en": "Mom will buy a book."
+            }
+          ]
+        },
+        {
+          "text": "bye",
+          "phonetic": "baɪ",
+          "examples": [
+            {
+              "en": "Say bye to my good friend."
+            }
+          ]
+        },
+        {
+          "text": "cab",
+          "phonetic": "kæb",
+          "examples": [
+            {
+              "en": "We took a yellow cab to school."
+            }
+          ]
+        },
+        {
+          "text": "cake",
+          "phonetic": "kek",
+          "examples": [
+            {
+              "en": "I eat a sweet cake."
+            }
+          ]
+        },
+        {
+          "text": "call",
+          "phonetic": "kɔl",
+          "examples": [
+            {
+              "en": "Please call my friend now."
+            }
+          ]
+        },
+        {
+          "text": "camp",
+          "phonetic": "kæmp",
+          "examples": [
+            {
+              "en": "We go to summer camp."
+            }
+          ]
+        },
+        {
+          "text": "cap",
+          "phonetic": "kæp",
+          "examples": [
+            {
+              "en": "Put on your blue cap."
+            }
+          ]
+        },
+        {
+          "text": "car",
+          "phonetic": "kɑr",
+          "examples": [
+            {
+              "en": "My dad drives a red car."
+            }
+          ]
+        },
+        {
+          "text": "card",
+          "phonetic": "kɑrd",
+          "examples": [
+            {
+              "en": "Mom gave me a nice card."
+            }
+          ]
+        },
+        {
+          "text": "care",
+          "phonetic": "kɛr",
+          "examples": [
+            {
+              "en": "She shows great care for her dog."
+            }
+          ]
+        },
+        {
+          "text": "cat",
+          "phonetic": "kæt",
+          "examples": [
+            {
+              "en": "The small cat likes milk."
+            }
+          ]
+        },
+        {
+          "text": "cave",
+          "phonetic": "kev",
+          "examples": [
+            {
+              "en": "The bear lives in a cave."
+            }
+          ]
+        },
+        {
+          "text": "cba",
+          "phonetic": "cba*",
+          "examples": [
+            {
+              "en": "They watch CBA games often."
+            }
+          ]
+        },
+        {
+          "text": "cent",
+          "phonetic": "sɛnt",
+          "examples": [
+            {
+              "en": "This apple costs one cent."
+            }
+          ]
+        },
+        {
+          "text": "city",
+          "phonetic": "'sɪti",
+          "examples": [
+            {
+              "en": "Shanghai is a big city."
+            }
+          ]
+        },
+        {
+          "text": "clap",
+          "phonetic": "klæp",
+          "examples": [
+            {
+              "en": "Please clap for good work."
+            }
+          ]
+        },
+        {
+          "text": "club",
+          "phonetic": "klʌb",
+          "examples": [
+            {
+              "en": "We join the art club."
+            }
+          ]
+        },
+        {
+          "text": "coal",
+          "phonetic": "kol",
+          "examples": [
+            {
+              "en": "He puts coal in the fire."
+            }
+          ]
+        },
+        {
+          "text": "coat",
+          "phonetic": "kot",
+          "examples": [
+            {
+              "en": "Put on your warm coat."
+            }
+          ]
+        },
+        {
+          "text": "coco",
+          "phonetic": "ˈkoʊˌkoʊ",
+          "examples": [
+            {
+              "en": "Coco likes eating apples."
+            }
+          ]
+        },
+        {
+          "text": "coin",
+          "phonetic": "kɔɪn",
+          "examples": [
+            {
+              "en": "Mom will coin a new coin."
+            }
+          ]
+        },
+        {
+          "text": "coke",
+          "phonetic": "kok",
+          "examples": [
+            {
+              "en": "He drinks cold coke daily."
+            }
+          ]
+        },
+        {
+          "text": "cold",
+          "phonetic": "kold",
+          "examples": [
+            {
+              "en": "It is very cold today."
+            }
+          ]
+        },
+        {
+          "text": "come",
+          "phonetic": "kʌm",
+          "examples": [
+            {
+              "en": "Come to my house now."
+            }
+          ]
+        },
+        {
+          "text": "cook",
+          "phonetic": "kʊk",
+          "examples": [
+            {
+              "en": "Mom will cook dinner."
+            }
+          ]
+        },
+        {
+          "text": "cool",
+          "phonetic": "kul",
+          "examples": [
+            {
+              "en": "The weather feels cool."
+            }
+          ]
+        },
+        {
+          "text": "copy",
+          "phonetic": "'kɑpi",
+          "examples": [
+            {
+              "en": "Please copy this page for me."
+            }
+          ]
+        },
+        {
+          "text": "cow",
+          "phonetic": "kaʊ",
+          "examples": [
+            {
+              "en": "The cow eats green grass."
+            }
+          ]
+        },
+        {
+          "text": "cry",
+          "phonetic": "kraɪ",
+          "examples": [
+            {
+              "en": "The baby starts to cry."
+            }
+          ]
+        },
+        {
+          "text": "cue",
+          "phonetic": "kju",
+          "examples": [
+            {
+              "en": "The green light is a cue."
+            }
+          ]
+        },
+        {
+          "text": "cup",
+          "phonetic": "kʌp",
+          "examples": [
+            {
+              "en": "She drinks milk in a cup."
+            }
+          ]
+        },
+        {
+          "text": "cut",
+          "phonetic": "kʌt",
+          "examples": [
+            {
+              "en": "The cut is on my arm."
+            }
+          ]
+        },
+        {
+          "text": "cute",
+          "phonetic": "kjut",
+          "examples": [
+            {
+              "en": "This cat is cute."
+            }
+          ]
+        },
+        {
+          "text": "dad",
+          "phonetic": "dæd",
+          "examples": [
+            {
+              "en": "Dad reads a book now."
+            }
+          ]
+        },
+        {
+          "text": "dam",
+          "phonetic": "dæm",
+          "examples": [
+            {
+              "en": "They built a dam near the river."
+            }
+          ]
+        },
+        {
+          "text": "dare",
+          "phonetic": "dɛr",
+          "examples": [
+            {
+              "en": "Do you dare to jump?"
+            }
+          ]
+        },
+        {
+          "text": "dark",
+          "phonetic": "dɑrk",
+          "examples": [
+            {
+              "en": "It is very dark outside."
+            }
+          ]
+        },
+        {
+          "text": "date",
+          "phonetic": "det",
+          "examples": [
+            {
+              "en": "What is today's date?"
+            }
+          ]
+        },
+        {
+          "text": "day",
+          "phonetic": "de",
+          "examples": [
+            {
+              "en": "Today is a sunny day."
+            }
+          ]
+        },
+        {
+          "text": "ddt",
+          "phonetic": "ˌdiˌdiˈti",
+          "examples": [
+            {
+              "en": "The farmer sprayed DDT on the plants."
+            }
+          ]
+        },
+        {
+          "text": "dead",
+          "phonetic": "dɛd",
+          "examples": [
+            {
+              "en": "The flower is dead now."
+            }
+          ]
+        },
+        {
+          "text": "deaf",
+          "phonetic": "dɛf",
+          "examples": [
+            {
+              "en": "My grandpa is deaf today."
+            }
+          ]
+        },
+        {
+          "text": "deal",
+          "phonetic": "dil",
+          "examples": [
+            {
+              "en": "Please deal the cards."
+            }
+          ]
+        },
+        {
+          "text": "dear",
+          "phonetic": "dɪr",
+          "examples": [
+            {
+              "en": "This book is dear to me."
+            }
+          ]
+        },
+        {
+          "text": "deep",
+          "phonetic": "dip",
+          "examples": [
+            {
+              "en": "The well has deep water."
+            }
+          ]
+        },
+        {
+          "text": "desk",
+          "phonetic": "dɛsk",
+          "examples": [
+            {
+              "en": "My book is on the desk."
+            }
+          ]
+        },
+        {
+          "text": "die",
+          "phonetic": "daɪ",
+          "examples": [
+            {
+              "en": "The candle will die soon."
+            }
+          ]
+        },
+        {
+          "text": "dig",
+          "phonetic": "dɪɡ",
+          "examples": [
+            {
+              "en": "Let's dig a big hole."
+            }
+          ]
+        },
+        {
+          "text": "dip",
+          "phonetic": "dɪp",
+          "examples": [
+            {
+              "en": "Dip the bread in soup."
+            }
+          ]
+        },
+        {
+          "text": "dish",
+          "phonetic": "dɪʃ",
+          "examples": [
+            {
+              "en": "This dish looks very good."
+            }
+          ]
+        },
+        {
+          "text": "dog",
+          "phonetic": "dɔɡ",
+          "examples": [
+            {
+              "en": "My dog likes to run."
+            }
+          ]
+        },
+        {
+          "text": "doll",
+          "phonetic": "dɑl",
+          "examples": [
+            {
+              "en": "She plays with a doll."
+            }
+          ]
+        },
+        {
+          "text": "door",
+          "phonetic": "dɔr",
+          "examples": [
+            {
+              "en": "Open the front door."
+            }
+          ]
+        },
+        {
+          "text": "dot",
+          "phonetic": "dɑt",
+          "examples": [
+            {
+              "en": "Put a dot on the map."
+            }
+          ]
+        },
+        {
+          "text": "draw",
+          "phonetic": "drɔ",
+          "examples": [
+            {
+              "en": "Can you draw a cat?"
+            }
+          ]
+        },
+        {
+          "text": "drop",
+          "phonetic": "drɑp",
+          "examples": [
+            {
+              "en": "A drop of water fell."
+            }
+          ]
+        },
+        {
+          "text": "drug",
+          "phonetic": "drʌg",
+          "examples": [
+            {
+              "en": "She took a small drug."
+            }
+          ]
+        },
+        {
+          "text": "drum",
+          "phonetic": "drʌm",
+          "examples": [
+            {
+              "en": "The band played a drum."
+            }
+          ]
+        },
+        {
+          "text": "dry",
+          "phonetic": "draɪ",
+          "examples": [
+            {
+              "en": "My hands feel very dry."
+            }
+          ]
+        },
+        {
+          "text": "duck",
+          "phonetic": "dʌk",
+          "examples": [
+            {
+              "en": "The duck swims in pond."
+            }
+          ]
+        },
+        {
+          "text": "due",
+          "phonetic": "du",
+          "examples": [
+            {
+              "en": "The homework is due tomorrow."
+            }
+          ]
+        },
+        {
+          "text": "duty",
+          "phonetic": "'dʊti",
+          "examples": [
+            {
+              "en": "My duty is to help mom."
+            }
+          ]
+        },
+        {
+          "text": "dvd",
+          "phonetic": "ˌdiˌviˈdi",
+          "examples": [
+            {
+              "en": "She watched a movie on DVD."
+            }
+          ]
+        },
+        {
+          "text": "each",
+          "phonetic": "itʃ",
+          "examples": [
+            {
+              "en": "Each student has a pencil."
+            }
+          ]
+        },
+        {
+          "text": "ear",
+          "phonetic": "ɪr",
+          "examples": [
+            {
+              "en": "My ear hears loud sounds."
+            }
+          ]
+        },
+        {
+          "text": "east",
+          "phonetic": "ist",
+          "examples": [
+            {
+              "en": "We go east today."
+            }
+          ]
+        },
+        {
+          "text": "easy",
+          "phonetic": "'izi",
+          "examples": [
+            {
+              "en": "This test is easy."
+            }
+          ]
+        },
+        {
+          "text": "eat",
+          "phonetic": "it",
+          "examples": [
+            {
+              "en": "Let us eat rice."
+            }
+          ]
+        },
+        {
+          "text": "edge",
+          "phonetic": "ɛdʒ",
+          "examples": [
+            {
+              "en": "The book has a sharp edge."
+            }
+          ]
+        },
+        {
+          "text": "egg",
+          "phonetic": "ɛɡ",
+          "examples": [
+            {
+              "en": "I eat one egg."
+            }
+          ]
+        },
+        {
+          "text": "else",
+          "phonetic": "ɛls",
+          "examples": [
+            {
+              "en": "Do you want else candy?"
+            }
+          ]
+        },
+        {
+          "text": "end",
+          "phonetic": "ɛnd",
+          "examples": [
+            {
+              "en": "The race will end soon."
+            }
+          ]
+        },
+        {
+          "text": "era",
+          "phonetic": "ˈɪrə",
+          "examples": [
+            {
+              "en": "The Stone Age was an ancient era."
+            }
+          ]
+        },
+        {
+          "text": "eve",
+          "phonetic": "iv",
+          "examples": [
+            {
+              "en": "Tomorrow is the party eve."
+            }
+          ]
+        },
+        {
+          "text": "even",
+          "phonetic": "'ivən",
+          "examples": [
+            {
+              "en": "Two is an even number."
+            }
+          ]
+        },
+        {
+          "text": "ever",
+          "phonetic": "'ɛvɚ",
+          "examples": [
+            {
+              "en": "Have you ever seen snow?"
+            }
+          ]
+        },
+        {
+          "text": "eye",
+          "phonetic": "aɪ",
+          "examples": [
+            {
+              "en": "Open your eye and look."
+            }
+          ]
+        },
+        {
+          "text": "face",
+          "phonetic": "fes",
+          "examples": [
+            {
+              "en": "She has a nice face."
+            }
+          ]
+        },
+        {
+          "text": "fact",
+          "phonetic": "fækt",
+          "examples": [
+            {
+              "en": "This is a true historical fact."
+            }
+          ]
+        },
+        {
+          "text": "fail",
+          "phonetic": "fel",
+          "examples": [
+            {
+              "en": "The student will fail the test."
+            }
+          ]
+        },
+        {
+          "text": "fair",
+          "phonetic": "fɛr",
+          "examples": [
+            {
+              "en": "The weather is fair today."
+            }
+          ]
+        },
+        {
+          "text": "fall",
+          "phonetic": "fɔl",
+          "examples": [
+            {
+              "en": "Leaves fall from trees."
+            }
+          ]
+        },
+        {
+          "text": "fan",
+          "phonetic": "fæn",
+          "examples": [
+            {
+              "en": "I fan the small fire."
+            }
+          ]
+        },
+        {
+          "text": "far",
+          "phonetic": "fɑr",
+          "examples": [
+            {
+              "en": "The school is far away."
+            }
+          ]
+        },
+        {
+          "text": "farm",
+          "phonetic": "fɑrm",
+          "examples": [
+            {
+              "en": "They farm on the land."
+            }
+          ]
+        },
+        {
+          "text": "fast",
+          "phonetic": "fæst",
+          "examples": [
+            {
+              "en": "The rabbit runs fast."
+            }
+          ]
+        },
+        {
+          "text": "fat",
+          "phonetic": "fæt",
+          "examples": [
+            {
+              "en": "My dog is fat."
+            }
+          ]
+        },
+        {
+          "text": "fax",
+          "phonetic": "fæks",
+          "examples": [
+            {
+              "en": "Can you fax this paper quickly?"
+            }
+          ]
+        },
+        {
+          "text": "fear",
+          "phonetic": "fɪr",
+          "examples": [
+            {
+              "en": "She feels great fear now."
+            }
+          ]
+        },
+        {
+          "text": "fee",
+          "phonetic": "fi",
+          "examples": [
+            {
+              "en": "She paid the entrance fee."
+            }
+          ]
+        },
+        {
+          "text": "feed",
+          "phonetic": "fid",
+          "examples": [
+            {
+              "en": "Mom will feed the dog."
+            }
+          ]
+        },
+        {
+          "text": "feel",
+          "phonetic": "fiːl",
+          "examples": [
+            {
+              "en": "I feel happy today."
+            }
+          ]
+        },
+        {
+          "text": "fell",
+          "phonetic": "fɛl",
+          "examples": [
+            {
+              "en": "The cat fell down."
+            }
+          ]
+        },
+        {
+          "text": "felt",
+          "phonetic": "fɛlt",
+          "examples": [
+            {
+              "en": "I felt happy today."
+            }
+          ]
+        },
+        {
+          "text": "few",
+          "phonetic": "fju",
+          "examples": [
+            {
+              "en": "Few birds fly in the sky."
+            }
+          ]
+        },
+        {
+          "text": "fill",
+          "phonetic": "fɪl",
+          "examples": [
+            {
+              "en": "Please fill the glass with water."
+            }
+          ]
+        },
+        {
+          "text": "film",
+          "phonetic": "fɪlm",
+          "examples": [
+            {
+              "en": "We watch a fun film now."
+            }
+          ]
+        },
+        {
+          "text": "fin",
+          "phonetic": "fɪn",
+          "examples": [
+            {
+              "en": "The fish has a blue fin."
+            }
+          ]
+        },
+        {
+          "text": "find",
+          "phonetic": "faɪnd",
+          "examples": [
+            {
+              "en": "Find a blue pen."
+            }
+          ]
+        },
+        {
+          "text": "fine",
+          "phonetic": "faɪn",
+          "examples": [
+            {
+              "en": "The weather is very fine today."
+            }
+          ]
+        },
+        {
+          "text": "fire",
+          "phonetic": "faɪr",
+          "examples": [
+            {
+              "en": "See the bright fire."
+            }
+          ]
+        },
+        {
+          "text": "fish",
+          "phonetic": "fɪʃ",
+          "examples": [
+            {
+              "en": "We can fish in the pond."
+            }
+          ]
+        },
+        {
+          "text": "fit",
+          "phonetic": "fɪt",
+          "examples": [
+            {
+              "en": "This shirt is very fit."
+            }
+          ]
+        },
+        {
+          "text": "five",
+          "phonetic": "faɪv",
+          "examples": [
+            {
+              "en": "I have five red apples."
+            }
+          ]
+        },
+        {
+          "text": "fix",
+          "phonetic": "fɪks",
+          "examples": [
+            {
+              "en": "Can you fix this chair?"
+            }
+          ]
+        },
+        {
+          "text": "flag",
+          "phonetic": "flæg",
+          "examples": [
+            {
+              "en": "See the red flag there."
+            }
+          ]
+        },
+        {
+          "text": "flat",
+          "phonetic": "flæt",
+          "examples": [
+            {
+              "en": "The table is very flat."
+            }
+          ]
+        },
+        {
+          "text": "flu",
+          "phonetic": "flu",
+          "examples": [
+            {
+              "en": "He has the bad flu."
+            }
+          ]
+        },
+        {
+          "text": "fly",
+          "phonetic": "flaɪ",
+          "examples": [
+            {
+              "en": "Birds can fly high."
+            }
+          ]
+        },
+        {
+          "text": "fog",
+          "phonetic": "fɔɡ",
+          "examples": [
+            {
+              "en": "Fog covered the tall trees."
+            }
+          ]
+        },
+        {
+          "text": "food",
+          "phonetic": "fud",
+          "examples": [
+            {
+              "en": "We eat yummy food."
+            }
+          ]
+        },
+        {
+          "text": "fork",
+          "phonetic": "fɔrk",
+          "examples": [
+            {
+              "en": "Use a fork to eat soup."
+            }
+          ]
+        },
+        {
+          "text": "form",
+          "phonetic": "fɔrm",
+          "examples": [
+            {
+              "en": "This shape has a form."
+            }
+          ]
+        },
+        {
+          "text": "four",
+          "phonetic": "fɔr",
+          "examples": [
+            {
+              "en": "Four cats play with a ball."
+            }
+          ]
+        },
+        {
+          "text": "fox",
+          "phonetic": "fɑks",
+          "examples": [
+            {
+              "en": "The fox ran fast."
+            }
+          ]
+        },
+        {
+          "text": "fred",
+          "phonetic": "frɛd",
+          "examples": [
+            {
+              "en": "Fred likes to eat apples."
+            }
+          ]
+        },
+        {
+          "text": "free",
+          "phonetic": "fri",
+          "examples": [
+            {
+              "en": "This apple is free."
+            }
+          ]
+        },
+        {
+          "text": "frog",
+          "phonetic": "frɔɡ",
+          "examples": [
+            {
+              "en": "The frog jumps high."
+            }
+          ]
+        },
+        {
+          "text": "fry",
+          "phonetic": "fraɪ",
+          "examples": [
+            {
+              "en": "I like to fry eggs."
+            }
+          ]
+        },
+        {
+          "text": "full",
+          "phonetic": "fʊl",
+          "examples": [
+            {
+              "en": "The book is full of pictures."
+            }
+          ]
+        },
+        {
+          "text": "fun",
+          "phonetic": "fʌn",
+          "examples": [
+            {
+              "en": "This game is fun."
+            }
+          ]
+        },
+        {
+          "text": "fur",
+          "phonetic": "fɝ",
+          "examples": [
+            {
+              "en": "The cat has soft fur."
+            }
+          ]
+        },
+        {
+          "text": "game",
+          "phonetic": "ɡem",
+          "examples": [
+            {
+              "en": "Play a fun game now."
+            }
+          ]
+        },
+        {
+          "text": "gap",
+          "phonetic": "gæp",
+          "examples": [
+            {
+              "en": "There is a gap in my notes."
+            }
+          ]
+        },
+        {
+          "text": "gas",
+          "phonetic": "ɡæs",
+          "examples": [
+            {
+              "en": "We need more cooking gas."
+            }
+          ]
+        },
+        {
+          "text": "gate",
+          "phonetic": "ɡet",
+          "examples": [
+            {
+              "en": "Open the garden gate now."
+            }
+          ]
+        },
+        {
+          "text": "gave",
+          "phonetic": "geɪv",
+          "examples": [
+            {
+              "en": "He gave me a book."
+            }
+          ]
+        },
+        {
+          "text": "gay",
+          "phonetic": "ɡe",
+          "examples": [
+            {
+              "en": "My friend looks very gay."
+            }
+          ]
+        },
+        {
+          "text": "get",
+          "phonetic": "ɡɛt",
+          "examples": [
+            {
+              "en": "I get a red apple."
+            }
+          ]
+        },
+        {
+          "text": "gift",
+          "phonetic": "ɡɪft",
+          "examples": [
+            {
+              "en": "She has a nice gift."
+            }
+          ]
+        },
+        {
+          "text": "girl",
+          "phonetic": "ɡɝl",
+          "examples": [
+            {
+              "en": "A girl runs fast."
+            }
+          ]
+        },
+        {
+          "text": "give",
+          "phonetic": "ɡɪv",
+          "examples": [
+            {
+              "en": "Please give me water."
+            }
+          ]
+        },
+        {
+          "text": "glad",
+          "phonetic": "ɡlæd",
+          "examples": [
+            {
+              "en": "I am glad to see you."
+            }
+          ]
+        },
+        {
+          "text": "glue",
+          "phonetic": "ɡlu",
+          "examples": [
+            {
+              "en": "Use glue for the paper."
+            }
+          ]
+        },
+        {
+          "text": "goal",
+          "phonetic": "ɡol",
+          "examples": [
+            {
+              "en": "He scored a big goal."
+            }
+          ]
+        },
+        {
+          "text": "goat",
+          "phonetic": "ɡot",
+          "examples": [
+            {
+              "en": "The goat eats green grass."
+            }
+          ]
+        },
+        {
+          "text": "god",
+          "phonetic": "ɡɑd",
+          "examples": [
+            {
+              "en": "We pray to god daily."
+            }
+          ]
+        },
+        {
+          "text": "gold",
+          "phonetic": "ɡold",
+          "examples": [
+            {
+              "en": "The ring is gold."
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "phonetic": "ɡʊd",
+          "examples": [
+            {
+              "en": "This apple is good."
+            }
+          ]
+        },
+        {
+          "text": "grow",
+          "phonetic": "ɡro",
+          "examples": [
+            {
+              "en": "The flower will grow big."
+            }
+          ]
+        },
+        {
+          "text": "gun",
+          "phonetic": "ɡʌn",
+          "examples": [
+            {
+              "en": "He has a small gun."
+            }
+          ]
+        },
+        {
+          "text": "guy",
+          "phonetic": "gaɪ",
+          "examples": [
+            {
+              "en": "The young guy eats an apple."
+            }
+          ]
+        },
+        {
+          "text": "gym",
+          "phonetic": "ʤɪm",
+          "examples": [
+            {
+              "en": "Play in the gym."
+            }
+          ]
+        },
+        {
+          "text": "hair",
+          "phonetic": "hɛr",
+          "examples": [
+            {
+              "en": "She has long black hair."
+            }
+          ]
+        },
+        {
+          "text": "half",
+          "phonetic": "hæf",
+          "examples": [
+            {
+              "en": "I ate half an apple."
+            }
+          ]
+        },
+        {
+          "text": "hall",
+          "phonetic": "hɔl",
+          "examples": [
+            {
+              "en": "We met in the school hall."
+            }
+          ]
+        },
+        {
+          "text": "ham",
+          "phonetic": "hæm",
+          "examples": [
+            {
+              "en": "Her acting was too ham."
+            }
+          ]
+        },
+        {
+          "text": "hand",
+          "phonetic": "hænd",
+          "examples": [
+            {
+              "en": "Give me your hand please."
+            }
+          ]
+        },
+        {
+          "text": "hard",
+          "phonetic": "hɑrd",
+          "examples": [
+            {
+              "en": "The rock is very hard."
+            }
+          ]
+        },
+        {
+          "text": "hat",
+          "phonetic": "hæt",
+          "examples": [
+            {
+              "en": "She wears a red hat."
+            }
+          ]
+        },
+        {
+          "text": "hate",
+          "phonetic": "het",
+          "examples": [
+            {
+              "en": "We hate eating spinach."
+            }
+          ]
+        },
+        {
+          "text": "hay",
+          "phonetic": "heɪ",
+          "examples": [
+            {
+              "en": "We feed the cows with hay."
+            }
+          ]
+        },
+        {
+          "text": "head",
+          "phonetic": "hɛd",
+          "examples": [
+            {
+              "en": "The dog has a big head."
+            }
+          ]
+        },
+        {
+          "text": "hear",
+          "phonetic": "hɪr",
+          "examples": [
+            {
+              "en": "Can you hear my voice?"
+            }
+          ]
+        },
+        {
+          "text": "heat",
+          "phonetic": "hit",
+          "examples": [
+            {
+              "en": "Sun gives much heat."
+            }
+          ]
+        },
+        {
+          "text": "help",
+          "phonetic": "hɛlp",
+          "examples": [
+            {
+              "en": "Can you help me clean?"
+            }
+          ]
+        },
+        {
+          "text": "hen",
+          "phonetic": "hɛn",
+          "examples": [
+            {
+              "en": "The hen lays a brown egg."
+            }
+          ]
+        },
+        {
+          "text": "hers",
+          "phonetic": "hɝz",
+          "examples": [
+            {
+              "en": "This book is hers."
+            }
+          ]
+        },
+        {
+          "text": "hey",
+          "phonetic": "he",
+          "examples": [
+            {
+              "en": "Hey, look at this ball."
+            }
+          ]
+        },
+        {
+          "text": "high",
+          "phonetic": "haɪ",
+          "examples": [
+            {
+              "en": "The tree is high."
+            }
+          ]
+        },
+        {
+          "text": "hike",
+          "phonetic": "haɪk",
+          "examples": [
+            {
+              "en": "We like to hike in the park."
+            }
+          ]
+        },
+        {
+          "text": "hill",
+          "phonetic": "hɪl",
+          "examples": [
+            {
+              "en": "We walk on the hill."
+            }
+          ]
+        },
+        {
+          "text": "hit",
+          "phonetic": "hɪt",
+          "examples": [
+            {
+              "en": "The ball will hit the wall."
+            }
+          ]
+        },
+        {
+          "text": "hive",
+          "phonetic": "haɪv",
+          "examples": [
+            {
+              "en": "Bees live in a big hive."
+            }
+          ]
+        },
+        {
+          "text": "hole",
+          "phonetic": "hol",
+          "examples": [
+            {
+              "en": "The ball went in the hole."
+            }
+          ]
+        },
+        {
+          "text": "home",
+          "phonetic": "hom",
+          "examples": [
+            {
+              "en": "I go home to my mom."
+            }
+          ]
+        },
+        {
+          "text": "hope",
+          "phonetic": "hop",
+          "examples": [
+            {
+              "en": "We hope for good weather."
+            }
+          ]
+        },
+        {
+          "text": "hot",
+          "phonetic": "hɑt",
+          "examples": [
+            {
+              "en": "The soup is hot."
+            }
+          ]
+        },
+        {
+          "text": "hour",
+          "phonetic": "'aʊɚ",
+          "examples": [
+            {
+              "en": "Study for one hour."
+            }
+          ]
+        },
+        {
+          "text": "hug",
+          "phonetic": "hʌɡ",
+          "examples": [
+            {
+              "en": "She gave him a big hug."
+            }
+          ]
+        },
+        {
+          "text": "huge",
+          "phonetic": "hjudʒ",
+          "examples": [
+            {
+              "en": "That building is huge."
+            }
+          ]
+        },
+        {
+          "text": "hur",
+          "phonetic": "hər",
+          "examples": [
+            {
+              "en": "We saw a big hur yesterday."
+            }
+          ]
+        },
+        {
+          "text": "hurt",
+          "phonetic": "hərt",
+          "examples": [
+            {
+              "en": "This fall will hurt my knee."
+            }
+          ]
+        },
+        {
+          "text": "hut",
+          "phonetic": "hət",
+          "examples": [
+            {
+              "en": "They lived in a small hut near the field."
+            }
+          ]
+        },
+        {
+          "text": "ice",
+          "phonetic": "aɪs",
+          "examples": [
+            {
+              "en": "I eat cold ice cream."
+            }
+          ]
+        },
+        {
+          "text": "idea",
+          "phonetic": "aɪ'diə",
+          "examples": [
+            {
+              "en": "She has a good idea."
+            }
+          ]
+        },
+        {
+          "text": "ill",
+          "phonetic": "ɪl",
+          "examples": [
+            {
+              "en": "He feels ill today."
+            }
+          ]
+        },
+        {
+          "text": "inch",
+          "phonetic": "ɪntʃ",
+          "examples": [
+            {
+              "en": "He grew one inch last year."
+            }
+          ]
+        },
+        {
+          "text": "ink",
+          "phonetic": "ɪŋk",
+          "examples": [
+            {
+              "en": "Please sign with ink."
+            }
+          ]
+        },
+        {
+          "text": "inn",
+          "phonetic": "ɪn",
+          "examples": [
+            {
+              "en": "They stayed at a small inn."
+            }
+          ]
+        },
+        {
+          "text": "iow",
+          "phonetic": "iow*",
+          "examples": [
+            {
+              "en": "My mood feels low."
+            }
+          ]
+        },
+        {
+          "text": "iron",
+          "phonetic": "'aɪɚn",
+          "examples": [
+            {
+              "en": "Iron makes the shirt smooth."
+            }
+          ]
+        },
+        {
+          "text": "jack",
+          "phonetic": "ʤæk",
+          "examples": [
+            {
+              "en": "Jack eats an apple."
+            }
+          ]
+        },
+        {
+          "text": "jam",
+          "phonetic": "dʒæm",
+          "examples": [
+            {
+              "en": "Mom put jam on toast."
+            }
+          ]
+        },
+        {
+          "text": "jan",
+          "phonetic": "ʤæn",
+          "examples": [
+            {
+              "en": "Jan brought a red apple."
+            }
+          ]
+        },
+        {
+          "text": "jane",
+          "phonetic": "ʤeɪn",
+          "examples": [
+            {
+              "en": "Jane eats an apple."
+            }
+          ]
+        },
+        {
+          "text": "jar",
+          "phonetic": "dʒɑr",
+          "examples": [
+            {
+              "en": "Put the cookies in a jar."
+            }
+          ]
+        },
+        {
+          "text": "jaw",
+          "phonetic": "dʒɔ",
+          "examples": [
+            {
+              "en": "His strong jaw looks wide."
+            }
+          ]
+        },
+        {
+          "text": "jet",
+          "phonetic": "dʒɛt",
+          "examples": [
+            {
+              "en": "The jet flew high in the sky."
+            }
+          ]
+        },
+        {
+          "text": "jim",
+          "phonetic": "ʤɪm",
+          "examples": [
+            {
+              "en": "Jim runs very fast."
+            }
+          ]
+        },
+        {
+          "text": "job",
+          "phonetic": "ʤɑb",
+          "examples": [
+            {
+              "en": "My dad has a new job."
+            }
+          ]
+        },
+        {
+          "text": "jog",
+          "phonetic": "dʒɑɡ",
+          "examples": [
+            {
+              "en": "He likes to jog before school."
+            }
+          ]
+        },
+        {
+          "text": "join",
+          "phonetic": "dʒɔɪn",
+          "examples": [
+            {
+              "en": "We will join the class."
+            }
+          ]
+        },
+        {
+          "text": "joke",
+          "phonetic": "dʒok",
+          "examples": [
+            {
+              "en": "Tell me a funny joke now."
+            }
+          ]
+        },
+        {
+          "text": "joy",
+          "phonetic": "dʒɔɪ",
+          "examples": [
+            {
+              "en": "She feels much joy."
+            }
+          ]
+        },
+        {
+          "text": "judy",
+          "phonetic": "ˈʤudi",
+          "examples": [
+            {
+              "en": "Judy has a red ball."
+            }
+          ]
+        },
+        {
+          "text": "july",
+          "phonetic": "ˌʤuˈlaɪ",
+          "examples": [
+            {
+              "en": "July is hot weather."
+            }
+          ]
+        },
+        {
+          "text": "jump",
+          "phonetic": "dʒʌmp",
+          "examples": [
+            {
+              "en": "The frog can jump high."
+            }
+          ]
+        },
+        {
+          "text": "june",
+          "phonetic": "dʒun",
+          "examples": [
+            {
+              "en": "June is a warm month."
+            }
+          ]
+        },
+        {
+          "text": "kate",
+          "phonetic": "keɪt",
+          "examples": [
+            {
+              "en": "Kate eats a big apple."
+            }
+          ]
+        },
+        {
+          "text": "keep",
+          "phonetic": "kip",
+          "examples": [
+            {
+              "en": "Keep the small dog."
+            }
+          ]
+        },
+        {
+          "text": "key",
+          "phonetic": "ki",
+          "examples": [
+            {
+              "en": "Press the green key."
+            }
+          ]
+        },
+        {
+          "text": "kick",
+          "phonetic": "kɪk",
+          "examples": [
+            {
+              "en": "Kick the ball very high."
+            }
+          ]
+        },
+        {
+          "text": "kid",
+          "phonetic": "kɪd",
+          "examples": [
+            {
+              "en": "The kid likes apples."
+            }
+          ]
+        },
+        {
+          "text": "kill",
+          "phonetic": "kɪl",
+          "examples": [
+            {
+              "en": "A snake can kill."
+            }
+          ]
+        },
+        {
+          "text": "kilo",
+          "phonetic": "'kilo",
+          "examples": [
+            {
+              "en": "This apple is one kilo."
+            }
+          ]
+        },
+        {
+          "text": "kind",
+          "phonetic": "kaɪnd",
+          "examples": [
+            {
+              "en": "She is a kind girl."
+            }
+          ]
+        },
+        {
+          "text": "king",
+          "phonetic": "kɪŋ",
+          "examples": [
+            {
+              "en": "The king wears a crown."
+            }
+          ]
+        },
+        {
+          "text": "kiss",
+          "phonetic": "kɪs",
+          "examples": [
+            {
+              "en": "She gave him a sweet kiss."
+            }
+          ]
+        },
+        {
+          "text": "kit",
+          "phonetic": "kɪt",
+          "examples": [
+            {
+              "en": "He bought a new art kit."
+            }
+          ]
+        },
+        {
+          "text": "kite",
+          "phonetic": "kaɪt",
+          "examples": [
+            {
+              "en": "We fly a kite high."
+            }
+          ]
+        },
+        {
+          "text": "knee",
+          "phonetic": "ni",
+          "examples": [
+            {
+              "en": "Bend your knee down low."
+            }
+          ]
+        },
+        {
+          "text": "know",
+          "phonetic": "no",
+          "examples": [
+            {
+              "en": "I know my good friend."
+            }
+          ]
+        },
+        {
+          "text": "lab",
+          "phonetic": "læb",
+          "examples": [
+            {
+              "en": "We work in the science lab."
+            }
+          ]
+        },
+        {
+          "text": "lady",
+          "phonetic": "'ledi",
+          "examples": [
+            {
+              "en": "That lady smiles at us."
+            }
+          ]
+        },
+        {
+          "text": "lake",
+          "phonetic": "lek",
+          "examples": [
+            {
+              "en": "The lake is very blue."
+            }
+          ]
+        },
+        {
+          "text": "lamb",
+          "phonetic": "læm",
+          "examples": [
+            {
+              "en": "The lamb eats green grass."
+            }
+          ]
+        },
+        {
+          "text": "lamp",
+          "phonetic": "læmp",
+          "examples": [
+            {
+              "en": "Turn on the lamp now."
+            }
+          ]
+        },
+        {
+          "text": "land",
+          "phonetic": "lænd",
+          "examples": [
+            {
+              "en": "We walk on the land."
+            }
+          ]
+        },
+        {
+          "text": "lap",
+          "phonetic": "læp",
+          "examples": [
+            {
+              "en": "The cat slept in my lap."
+            }
+          ]
+        },
+        {
+          "text": "last",
+          "phonetic": "læst",
+          "examples": [
+            {
+              "en": "This is the last apple."
+            }
+          ]
+        },
+        {
+          "text": "late",
+          "phonetic": "let",
+          "examples": [
+            {
+              "en": "He came in late."
+            }
+          ]
+        },
+        {
+          "text": "law",
+          "phonetic": "lɔ",
+          "examples": [
+            {
+              "en": "The law helps keep order."
+            }
+          ]
+        },
+        {
+          "text": "lay",
+          "phonetic": "le",
+          "examples": [
+            {
+              "en": "The cat will lay on the rug."
+            }
+          ]
+        },
+        {
+          "text": "lazy",
+          "phonetic": "'lezi",
+          "examples": [
+            {
+              "en": "Tom is a lazy boy."
+            }
+          ]
+        },
+        {
+          "text": "lead",
+          "phonetic": "lid",
+          "examples": [
+            {
+              "en": "He can lead the class well."
+            }
+          ]
+        },
+        {
+          "text": "leaf",
+          "phonetic": "lif",
+          "examples": [
+            {
+              "en": "Green leaf falls down."
+            }
+          ]
+        },
+        {
+          "text": "led",
+          "phonetic": "lɛd",
+          "examples": [
+            {
+              "en": "The screen uses an LED light."
+            }
+          ]
+        },
+        {
+          "text": "lee",
+          "phonetic": "li",
+          "examples": [
+            {
+              "en": "Lee is my good friend."
+            }
+          ]
+        },
+        {
+          "text": "left",
+          "phonetic": "lɛft",
+          "examples": [
+            {
+              "en": "The book is left here."
+            }
+          ]
+        },
+        {
+          "text": "leg",
+          "phonetic": "lɛɡ",
+          "examples": [
+            {
+              "en": "My short leg hurts."
+            }
+          ]
+        },
+        {
+          "text": "let",
+          "phonetic": "lɛt",
+          "examples": [
+            {
+              "en": "Let sb play with toys."
+            }
+          ]
+        },
+        {
+          "text": "lid",
+          "phonetic": "lɪd",
+          "examples": [
+            {
+              "en": "Put the lid on the jar."
+            }
+          ]
+        },
+        {
+          "text": "lie",
+          "phonetic": "laɪ",
+          "examples": [
+            {
+              "en": "The cat likes to lie down."
+            }
+          ]
+        },
+        {
+          "text": "lif",
+          "phonetic": "lif*",
+          "examples": [
+            {
+              "en": "The lif goes up fast."
+            }
+          ]
+        },
+        {
+          "text": "life",
+          "phonetic": "laɪf",
+          "examples": [
+            {
+              "en": "Life is very fun."
+            }
+          ]
+        },
+        {
+          "text": "lift",
+          "phonetic": "lɪft",
+          "examples": [
+            {
+              "en": "Can you lift this heavy box?"
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "phonetic": "laɪk",
+          "examples": [
+            {
+              "en": "I like red apples."
+            }
+          ]
+        },
+        {
+          "text": "lily",
+          "phonetic": "ˈlɪli",
+          "examples": [
+            {
+              "en": "Lily eats a red apple."
+            }
+          ]
+        },
+        {
+          "text": "line",
+          "phonetic": "laɪn",
+          "examples": [
+            {
+              "en": "Please stand in one line."
+            }
+          ]
+        },
+        {
+          "text": "lion",
+          "phonetic": "'laɪən",
+          "examples": [
+            {
+              "en": "A lion roars loudly."
+            }
+          ]
+        },
+        {
+          "text": "lip",
+          "phonetic": "lɪp",
+          "examples": [
+            {
+              "en": "She kissed the red lip."
+            }
+          ]
+        },
+        {
+          "text": "lisa",
+          "phonetic": "ˈlisə",
+          "examples": [
+            {
+              "en": "Lisa likes blue shoes."
+            }
+          ]
+        },
+        {
+          "text": "list",
+          "phonetic": "lɪst",
+          "examples": [
+            {
+              "en": "Make a list of toys."
+            }
+          ]
+        },
+        {
+          "text": "live",
+          "phonetic": "laɪv；lɪv",
+          "examples": [
+            {
+              "en": "We live in a town."
+            }
+          ]
+        },
+        {
+          "text": "lock",
+          "phonetic": "lɑk",
+          "examples": [
+            {
+              "en": "Please lock the front door."
+            }
+          ]
+        },
+        {
+          "text": "log",
+          "phonetic": "lɔg",
+          "examples": [
+            {
+              "en": "Write the event in the log."
+            }
+          ]
+        },
+        {
+          "text": "long",
+          "phonetic": "lɔŋ",
+          "examples": [
+            {
+              "en": "This road is very long."
+            }
+          ]
+        },
+        {
+          "text": "look",
+          "phonetic": "lʊk",
+          "examples": [
+            {
+              "en": "Look at the big tree."
+            }
+          ]
+        },
+        {
+          "text": "lost",
+          "phonetic": "lɔst",
+          "examples": [
+            {
+              "en": "I am a lost child."
+            }
+          ]
+        },
+        {
+          "text": "lot",
+          "phonetic": "lɑt",
+          "examples": [
+            {
+              "en": "She has a lot of toys."
+            }
+          ]
+        },
+        {
+          "text": "loud",
+          "phonetic": "laʊd",
+          "examples": [
+            {
+              "en": "The dog is very loud."
+            }
+          ]
+        },
+        {
+          "text": "love",
+          "phonetic": "lʌv",
+          "examples": [
+            {
+              "en": "I love my mom."
+            }
+          ]
+        },
+        {
+          "text": "low",
+          "phonetic": "loʊ",
+          "examples": [
+            {
+              "en": "My voice is low today."
+            }
+          ]
+        },
+        {
+          "text": "luck",
+          "phonetic": "lʌk",
+          "examples": [
+            {
+              "en": "Good luck on your test today."
+            }
+          ]
+        },
+        {
+          "text": "lucy",
+          "phonetic": "ˈlusi",
+          "examples": [
+            {
+              "en": "Lucy likes to play ball."
+            }
+          ]
+        },
+        {
+          "text": "mad",
+          "phonetic": "mæd",
+          "examples": [
+            {
+              "en": "The dog was mad at the cat."
+            }
+          ]
+        },
+        {
+          "text": "mail",
+          "phonetic": "mel",
+          "examples": [
+            {
+              "en": "I got a letter in the mail."
+            }
+          ]
+        },
+        {
+          "text": "main",
+          "phonetic": "meɪn",
+          "examples": [
+            {
+              "en": "This is the main part of book."
+            }
+          ]
+        },
+        {
+          "text": "make",
+          "phonetic": "mek",
+          "examples": [
+            {
+              "en": "Can you make a cake?"
+            }
+          ]
+        },
+        {
+          "text": "man",
+          "phonetic": "mæn",
+          "examples": [
+            {
+              "en": "The man runs fast."
+            }
+          ]
+        },
+        {
+          "text": "many",
+          "phonetic": "'mɛni",
+          "examples": [
+            {
+              "en": "Many students like apples."
+            }
+          ]
+        },
+        {
+          "text": "map",
+          "phonetic": "mæp",
+          "examples": [
+            {
+              "en": "Look at the map."
+            }
+          ]
+        },
+        {
+          "text": "mark",
+          "phonetic": "mɑrk",
+          "examples": [
+            {
+              "en": "Mark the correct answer."
+            }
+          ]
+        },
+        {
+          "text": "mat",
+          "phonetic": "mæt",
+          "examples": [
+            {
+              "en": "Please put your feet on the mat."
+            }
+          ]
+        },
+        {
+          "text": "math",
+          "phonetic": "mæθ",
+          "examples": [
+            {
+              "en": "Math class is fun for me."
+            }
+          ]
+        },
+        {
+          "text": "meal",
+          "phonetic": "mil",
+          "examples": [
+            {
+              "en": "We eat a big meal today."
+            }
+          ]
+        },
+        {
+          "text": "mean",
+          "phonetic": "min",
+          "examples": [
+            {
+              "en": "The score was mean for him."
+            }
+          ]
+        },
+        {
+          "text": "meat",
+          "phonetic": "mit",
+          "examples": [
+            {
+              "en": "I eat red meat."
+            }
+          ]
+        },
+        {
+          "text": "meet",
+          "phonetic": "mit",
+          "examples": [
+            {
+              "en": "We meet at school."
+            }
+          ]
+        },
+        {
+          "text": "mend",
+          "phonetic": "mɛnd",
+          "examples": [
+            {
+              "en": "Can you mend my torn shirt."
+            }
+          ]
+        },
+        {
+          "text": "menu",
+          "phonetic": "'mɛnju",
+          "examples": [
+            {
+              "en": "Look at the lunch menu."
+            }
+          ]
+        },
+        {
+          "text": "mess",
+          "phonetic": "mɛs",
+          "examples": [
+            {
+              "en": "The room is a mess."
+            }
+          ]
+        },
+        {
+          "text": "mice",
+          "phonetic": "maɪs",
+          "examples": [
+            {
+              "en": "See many mice in the room."
+            }
+          ]
+        },
+        {
+          "text": "mike",
+          "phonetic": "maɪk",
+          "examples": [
+            {
+              "en": "Mike likes to eat apples."
+            }
+          ]
+        },
+        {
+          "text": "mile",
+          "phonetic": "maɪl",
+          "examples": [
+            {
+              "en": "We walk ten mile today."
+            }
+          ]
+        },
+        {
+          "text": "milk",
+          "phonetic": "mɪlk",
+          "examples": [
+            {
+              "en": "Drink cold milk now."
+            }
+          ]
+        },
+        {
+          "text": "mind",
+          "phonetic": "maɪnd",
+          "examples": [
+            {
+              "en": "Please use your mind to think."
+            }
+          ]
+        },
+        {
+          "text": "mine",
+          "phonetic": "maɪn",
+          "examples": [
+            {
+              "en": "We see a mine there."
+            }
+          ]
+        },
+        {
+          "text": "miss",
+          "phonetic": "mɪs",
+          "examples": [
+            {
+              "en": "Miss Lin is very kind."
+            }
+          ]
+        },
+        {
+          "text": "mix",
+          "phonetic": "mɪks",
+          "examples": [
+            {
+              "en": "Please mix sugar and milk."
+            }
+          ]
+        },
+        {
+          "text": "mom",
+          "phonetic": "mɑm",
+          "examples": [
+            {
+              "en": "Mom cooks dinner every night."
+            }
+          ]
+        },
+        {
+          "text": "moon",
+          "phonetic": "mun",
+          "examples": [
+            {
+              "en": "The moon shines bright."
+            }
+          ]
+        },
+        {
+          "text": "mop",
+          "phonetic": "mɑp",
+          "examples": [
+            {
+              "en": "She will mop the floor now."
+            }
+          ]
+        },
+        {
+          "text": "more",
+          "phonetic": "mɔr",
+          "examples": [
+            {
+              "en": "I want more apples."
+            }
+          ]
+        },
+        {
+          "text": "most",
+          "phonetic": "most",
+          "examples": [
+            {
+              "en": "She has most toys."
+            }
+          ]
+        },
+        {
+          "text": "move",
+          "phonetic": "muv",
+          "examples": [
+            {
+              "en": "Please move the chair."
+            }
+          ]
+        },
+        {
+          "text": "mrs",
+          "phonetic": "ˈmɪsɪz",
+          "examples": [
+            {
+              "en": "Mrs Li is my teacher."
+            }
+          ]
+        },
+        {
+          "text": "much",
+          "phonetic": "mʌtʃ",
+          "examples": [
+            {
+              "en": "I have much homework."
+            }
+          ]
+        },
+        {
+          "text": "mud",
+          "phonetic": "mʌd",
+          "examples": [
+            {
+              "en": "The dog will mud the floor."
+            }
+          ]
+        },
+        {
+          "text": "mule",
+          "phonetic": "mjul",
+          "examples": [
+            {
+              "en": "The mule is big."
+            }
+          ]
+        },
+        {
+          "text": "mum",
+          "phonetic": "məm",
+          "examples": [
+            {
+              "en": "Mum makes good food."
+            }
+          ]
+        },
+        {
+          "text": "must",
+          "phonetic": "mʌst",
+          "examples": [
+            {
+              "en": "You must finish homework."
+            }
+          ]
+        },
+        {
+          "text": "nail",
+          "phonetic": "nel",
+          "examples": [
+            {
+              "en": "Hit the nail with hammer."
+            }
+          ]
+        },
+        {
+          "text": "name",
+          "phonetic": "nem",
+          "examples": [
+            {
+              "en": "What is your name?"
+            }
+          ]
+        },
+        {
+          "text": "nba",
+          "phonetic": "ˈɛnˌbiˈeɪ",
+          "examples": [
+            {
+              "en": "My brother likes the NBA."
+            }
+          ]
+        },
+        {
+          "text": "near",
+          "phonetic": "nɪr",
+          "examples": [
+            {
+              "en": "The store is near my home."
+            }
+          ]
+        },
+        {
+          "text": "neck",
+          "phonetic": "nɛk",
+          "examples": [
+            {
+              "en": "The dog licked its neck."
+            }
+          ]
+        },
+        {
+          "text": "need",
+          "phonetic": "nid",
+          "examples": [
+            {
+              "en": "I need a new pen."
+            }
+          ]
+        },
+        {
+          "text": "nest",
+          "phonetic": "nɛst",
+          "examples": [
+            {
+              "en": "Birds build a nest high."
+            }
+          ]
+        },
+        {
+          "text": "net",
+          "phonetic": "nɛt",
+          "examples": [
+            {
+              "en": "The net caught the small fish."
+            }
+          ]
+        },
+        {
+          "text": "new",
+          "phonetic": "nu",
+          "examples": [
+            {
+              "en": "This is a new book."
+            }
+          ]
+        },
+        {
+          "text": "news",
+          "phonetic": "nuz",
+          "examples": [
+            {
+              "en": "What is the latest news today."
+            }
+          ]
+        },
+        {
+          "text": "next",
+          "phonetic": "nɛkst",
+          "examples": [
+            {
+              "en": "We go next to school."
+            }
+          ]
+        },
+        {
+          "text": "nice",
+          "phonetic": "naɪs",
+          "examples": [
+            {
+              "en": "She has a nice smile."
+            }
+          ]
+        },
+        {
+          "text": "nine",
+          "phonetic": "naɪn",
+          "examples": [
+            {
+              "en": "I have nine red apples."
+            }
+          ]
+        },
+        {
+          "text": "nod",
+          "phonetic": "nɑd",
+          "examples": [
+            {
+              "en": "She will nod her head."
+            }
+          ]
+        },
+        {
+          "text": "none",
+          "phonetic": "nʌn",
+          "examples": [
+            {
+              "en": "None of the apples are red."
+            }
+          ]
+        },
+        {
+          "text": "noon",
+          "phonetic": "nun",
+          "examples": [
+            {
+              "en": "We meet at noon time."
+            }
+          ]
+        },
+        {
+          "text": "nor",
+          "phonetic": "nɔr",
+          "examples": [
+            {
+              "en": "He can swim nor run fast."
+            }
+          ]
+        },
+        {
+          "text": "nose",
+          "phonetic": "noz",
+          "examples": [
+            {
+              "en": "His nose is red."
+            }
+          ]
+        },
+        {
+          "text": "note",
+          "phonetic": "not",
+          "examples": [
+            {
+              "en": "Please take a quick note now."
+            }
+          ]
+        },
+        {
+          "text": "nut",
+          "phonetic": "nʌt",
+          "examples": [
+            {
+              "en": "The squirrel will nut the acorns."
+            }
+          ]
+        },
+        {
+          "text": "odd",
+          "phonetic": "ɑd",
+          "examples": [
+            {
+              "en": "That dog has an odd bark."
+            }
+          ]
+        },
+        {
+          "text": "oil",
+          "phonetic": "ɔɪl",
+          "examples": [
+            {
+              "en": "We drink cooking oil daily."
+            }
+          ]
+        },
+        {
+          "text": "old",
+          "phonetic": "old",
+          "examples": [
+            {
+              "en": "My grandpa is old."
+            }
+          ]
+        },
+        {
+          "text": "once",
+          "phonetic": "wʌns",
+          "examples": [
+            {
+              "en": "I ate ice cream once today."
+            }
+          ]
+        },
+        {
+          "text": "open",
+          "phonetic": "'opən",
+          "examples": [
+            {
+              "en": "The door is open."
+            }
+          ]
+        },
+        {
+          "text": "ours",
+          "phonetic": "ɑrz",
+          "examples": [
+            {
+              "en": "This ball is ours."
+            }
+          ]
+        },
+        {
+          "text": "owe",
+          "phonetic": "o",
+          "examples": [
+            {
+              "en": "We owe him a big thank you."
+            }
+          ]
+        },
+        {
+          "text": "page",
+          "phonetic": "peɪʤ",
+          "examples": [
+            {
+              "en": "Turn to page ten in the book."
+            }
+          ]
+        },
+        {
+          "text": "pair",
+          "phonetic": "pɛr",
+          "examples": [
+            {
+              "en": "I wear a red pair."
+            }
+          ]
+        },
+        {
+          "text": "pal",
+          "phonetic": "pæl",
+          "examples": [
+            {
+              "en": "My pal likes games."
+            }
+          ]
+        },
+        {
+          "text": "pam",
+          "phonetic": "pæm",
+          "examples": [
+            {
+              "en": "Pam eats sweet candy."
+            }
+          ]
+        },
+        {
+          "text": "pan",
+          "phonetic": "pæn",
+          "examples": [
+            {
+              "en": "She cooks eggs in the pan."
+            }
+          ]
+        },
+        {
+          "text": "park",
+          "phonetic": "pɑrk",
+          "examples": [
+            {
+              "en": "We play in the park."
+            }
+          ]
+        },
+        {
+          "text": "part",
+          "phonetic": "pɑrt",
+          "examples": [
+            {
+              "en": "This is a small part."
+            }
+          ]
+        },
+        {
+          "text": "pass",
+          "phonetic": "pæs",
+          "examples": [
+            {
+              "en": "Can you pass the ball?"
+            }
+          ]
+        },
+        {
+          "text": "past",
+          "phonetic": "pæst",
+          "examples": [
+            {
+              "en": "Yesterday was the past."
+            }
+          ]
+        },
+        {
+          "text": "path",
+          "phonetic": "pæθ",
+          "examples": [
+            {
+              "en": "Follow this green path."
+            }
+          ]
+        },
+        {
+          "text": "pay",
+          "phonetic": "pe",
+          "examples": [
+            {
+              "en": "Mom will pay for milk."
+            }
+          ]
+        },
+        {
+          "text": "pea",
+          "phonetic": "pi",
+          "examples": [
+            {
+              "en": "I see a green pea."
+            }
+          ]
+        },
+        {
+          "text": "pear",
+          "phonetic": "pɛr",
+          "examples": [
+            {
+              "en": "I eat a sweet pear."
+            }
+          ]
+        },
+        {
+          "text": "pen",
+          "phonetic": "pɛn",
+          "examples": [
+            {
+              "en": "He uses his pen to write."
+            }
+          ]
+        },
+        {
+          "text": "per",
+          "phonetic": "pɚ",
+          "examples": [
+            {
+              "en": "Per hour, he works hard."
+            }
+          ]
+        },
+        {
+          "text": "pet",
+          "phonetic": "pɛt",
+          "examples": [
+            {
+              "en": "My dog is a pet."
+            }
+          ]
+        },
+        {
+          "text": "pick",
+          "phonetic": "pɪk",
+          "examples": [
+            {
+              "en": "Please pick one apple."
+            }
+          ]
+        },
+        {
+          "text": "pie",
+          "phonetic": "paɪ",
+          "examples": [
+            {
+              "en": "Eat sweet apple pie."
+            }
+          ]
+        },
+        {
+          "text": "pig",
+          "phonetic": "pɪɡ",
+          "examples": [
+            {
+              "en": "The pig runs fast."
+            }
+          ]
+        },
+        {
+          "text": "pin",
+          "phonetic": "pɪn",
+          "examples": [
+            {
+              "en": "He used a small pin."
+            }
+          ]
+        },
+        {
+          "text": "pink",
+          "phonetic": "pɪŋk",
+          "examples": [
+            {
+              "en": "She wears a pink dress."
+            }
+          ]
+        },
+        {
+          "text": "pity",
+          "phonetic": "'pɪti",
+          "examples": [
+            {
+              "en": "We feel pity for the dog."
+            }
+          ]
+        },
+        {
+          "text": "plan",
+          "phonetic": "plæn",
+          "examples": [
+            {
+              "en": "We have a good plan."
+            }
+          ]
+        },
+        {
+          "text": "play",
+          "phonetic": "ple",
+          "examples": [
+            {
+              "en": "They play ball outside."
+            }
+          ]
+        },
+        {
+          "text": "plus",
+          "phonetic": "plʌs",
+          "examples": [
+            {
+              "en": "One plus two is three."
+            }
+          ]
+        },
+        {
+          "text": "poem",
+          "phonetic": "'poəm",
+          "examples": [
+            {
+              "en": "I read a nice poem."
+            }
+          ]
+        },
+        {
+          "text": "pond",
+          "phonetic": "pɑnd",
+          "examples": [
+            {
+              "en": "They made a small pond."
+            }
+          ]
+        },
+        {
+          "text": "pool",
+          "phonetic": "pul",
+          "examples": [
+            {
+              "en": "We swim in the pool."
+            }
+          ]
+        },
+        {
+          "text": "poor",
+          "phonetic": "pʊr",
+          "examples": [
+            {
+              "en": "They have poor food."
+            }
+          ]
+        },
+        {
+          "text": "pop",
+          "phonetic": "pɑp",
+          "examples": [
+            {
+              "en": "See the pop near the milk."
+            }
+          ]
+        },
+        {
+          "text": "pork",
+          "phonetic": "pɔrk",
+          "examples": [
+            {
+              "en": "Mom buys pork at the store."
+            }
+          ]
+        },
+        {
+          "text": "post",
+          "phonetic": "post",
+          "examples": [
+            {
+              "en": "Please put up the post."
+            }
+          ]
+        },
+        {
+          "text": "pot",
+          "phonetic": "pɑt",
+          "examples": [
+            {
+              "en": "Mom put rice in a pot."
+            }
+          ]
+        },
+        {
+          "text": "pub",
+          "phonetic": "pʌb",
+          "examples": [
+            {
+              "en": "We went to a small pub."
+            }
+          ]
+        },
+        {
+          "text": "pull",
+          "phonetic": "pʊl",
+          "examples": [
+            {
+              "en": "Please pull the rope."
+            }
+          ]
+        },
+        {
+          "text": "push",
+          "phonetic": "pʊʃ",
+          "examples": [
+            {
+              "en": "Please push the red button."
+            }
+          ]
+        },
+        {
+          "text": "put",
+          "phonetic": "pʊt",
+          "examples": [
+            {
+              "en": "Put the book on table."
+            }
+          ]
+        },
+        {
+          "text": "race",
+          "phonetic": "res",
+          "examples": [
+            {
+              "en": "We run a long race."
+            }
+          ]
+        },
+        {
+          "text": "rag",
+          "phonetic": "ræɡ",
+          "examples": [
+            {
+              "en": "She used an old rag to clean."
+            }
+          ]
+        },
+        {
+          "text": "rain",
+          "phonetic": "reɪn",
+          "examples": [
+            {
+              "en": "It will rain today."
+            }
+          ]
+        },
+        {
+          "text": "rap",
+          "phonetic": "ræp",
+          "examples": [
+            {
+              "en": "He likes to rap about his life."
+            }
+          ]
+        },
+        {
+          "text": "rat",
+          "phonetic": "ræt",
+          "examples": [
+            {
+              "en": "A rat ran across the floor."
+            }
+          ]
+        },
+        {
+          "text": "raw",
+          "phonetic": "rɔ",
+          "examples": [
+            {
+              "en": "The apple is still raw."
+            }
+          ]
+        },
+        {
+          "text": "ray",
+          "phonetic": "reɪ",
+          "examples": [
+            {
+              "en": "Sunlight shines in a bright ray."
+            }
+          ]
+        },
+        {
+          "text": "read",
+          "phonetic": "rid; (read, read) rɛd",
+          "examples": [
+            {
+              "en": "I read a book."
+            }
+          ]
+        },
+        {
+          "text": "real",
+          "phonetic": "'riəl",
+          "examples": [
+            {
+              "en": "This is a real apple."
+            }
+          ]
+        },
+        {
+          "text": "red",
+          "phonetic": "rɛd",
+          "examples": [
+            {
+              "en": "My pencil is red."
+            }
+          ]
+        },
+        {
+          "text": "rest",
+          "phonetic": "rɛst",
+          "examples": [
+            {
+              "en": "Take a rest now, Tim."
+            }
+          ]
+        },
+        {
+          "text": "rice",
+          "phonetic": "raɪs",
+          "examples": [
+            {
+              "en": "I like white rice very much."
+            }
+          ]
+        },
+        {
+          "text": "rich",
+          "phonetic": "rɪtʃ",
+          "examples": [
+            {
+              "en": "My uncle is a rich man."
+            }
+          ]
+        },
+        {
+          "text": "rid",
+          "phonetic": "rɪd",
+          "examples": [
+            {
+              "en": "We must rid the room of dust."
+            }
+          ]
+        },
+        {
+          "text": "rio",
+          "phonetic": "ˈrioʊ",
+          "examples": [
+            {
+              "en": "We saw Rio beach today."
+            }
+          ]
+        },
+        {
+          "text": "rise",
+          "phonetic": "raɪz",
+          "examples": [
+            {
+              "en": "The sun will rise soon."
+            }
+          ]
+        },
+        {
+          "text": "risk",
+          "phonetic": "rɪsk",
+          "examples": [
+            {
+              "en": "We take a small risk."
+            }
+          ]
+        },
+        {
+          "text": "road",
+          "phonetic": "rod",
+          "examples": [
+            {
+              "en": "A road goes to school."
+            }
+          ]
+        },
+        {
+          "text": "rob",
+          "phonetic": "rɑb",
+          "examples": [
+            {
+              "en": "A thief might rob our small shop."
+            }
+          ]
+        },
+        {
+          "text": "rock",
+          "phonetic": "rɑk",
+          "examples": [
+            {
+              "en": "A big rock fell down."
+            }
+          ]
+        },
+        {
+          "text": "rode",
+          "phonetic": "roʊd",
+          "examples": [
+            {
+              "en": "Tom rode his bicycle fast."
+            }
+          ]
+        },
+        {
+          "text": "role",
+          "phonetic": "rol",
+          "examples": [
+            {
+              "en": "She plays the main role."
+            }
+          ]
+        },
+        {
+          "text": "roof",
+          "phonetic": "ruf",
+          "examples": [
+            {
+              "en": "The roof is red and big."
+            }
+          ]
+        },
+        {
+          "text": "room",
+          "phonetic": "rum",
+          "examples": [
+            {
+              "en": "My room has a blue bed."
+            }
+          ]
+        },
+        {
+          "text": "root",
+          "phonetic": "rut",
+          "examples": [
+            {
+              "en": "A tree grows a root."
+            }
+          ]
+        },
+        {
+          "text": "rope",
+          "phonetic": "rop",
+          "examples": [
+            {
+              "en": "The dog pulls the rope."
+            }
+          ]
+        },
+        {
+          "text": "rose",
+          "phonetic": "roz",
+          "examples": [
+            {
+              "en": "She wore a rose dress."
+            }
+          ]
+        },
+        {
+          "text": "rot",
+          "phonetic": "rɑt",
+          "examples": [
+            {
+              "en": "The apple began to rot."
+            }
+          ]
+        },
+        {
+          "text": "row",
+          "phonetic": "ro",
+          "examples": [
+            {
+              "en": "Look at the first row."
+            }
+          ]
+        },
+        {
+          "text": "roy",
+          "phonetic": "rɔɪ",
+          "examples": [
+            {
+              "en": "Roy plays basketball well."
+            }
+          ]
+        },
+        {
+          "text": "rsvp",
+          "phonetic": "rsvp*",
+          "examples": [
+            {
+              "en": "Please RSVP soon."
+            }
+          ]
+        },
+        {
+          "text": "rule",
+          "phonetic": "rul",
+          "examples": [
+            {
+              "en": "Follow the school rule."
+            }
+          ]
+        },
+        {
+          "text": "run",
+          "phonetic": "rʌn",
+          "examples": [
+            {
+              "en": "We run fast every day."
+            }
+          ]
+        },
+        {
+          "text": "rush",
+          "phonetic": "rʌʃ",
+          "examples": [
+            {
+              "en": "The rush was very fast."
+            }
+          ]
+        },
+        {
+          "text": "sad",
+          "phonetic": "sæd",
+          "examples": [
+            {
+              "en": "The dog looks sad."
+            }
+          ]
+        },
+        {
+          "text": "safe",
+          "phonetic": "sef",
+          "examples": [
+            {
+              "en": "My room is safe."
+            }
+          ]
+        },
+        {
+          "text": "sail",
+          "phonetic": "sel",
+          "examples": [
+            {
+              "en": "They will sail to China."
+            }
+          ]
+        },
+        {
+          "text": "sale",
+          "phonetic": "sel",
+          "examples": [
+            {
+              "en": "The store has a big sale today."
+            }
+          ]
+        },
+        {
+          "text": "salt",
+          "phonetic": "sɔlt",
+          "examples": [
+            {
+              "en": "We need more salt for the soup."
+            }
+          ]
+        },
+        {
+          "text": "sam",
+          "phonetic": "sæm",
+          "examples": [
+            {
+              "en": "Sam plays with a ball."
+            }
+          ]
+        },
+        {
+          "text": "sand",
+          "phonetic": "sænd",
+          "examples": [
+            {
+              "en": "The sand is on the beach."
+            }
+          ]
+        },
+        {
+          "text": "save",
+          "phonetic": "sev",
+          "examples": [
+            {
+              "en": "Please save the book."
+            }
+          ]
+        },
+        {
+          "text": "saw",
+          "phonetic": "sɔ",
+          "examples": [
+            {
+              "en": "She saw big dog."
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "phonetic": "se",
+          "examples": [
+            {
+              "en": "Mom will say hello."
+            }
+          ]
+        },
+        {
+          "text": "sea",
+          "phonetic": "si",
+          "examples": [
+            {
+              "en": "The sea is very blue."
+            }
+          ]
+        },
+        {
+          "text": "seat",
+          "phonetic": "sit",
+          "examples": [
+            {
+              "en": "Take this seat by the window."
+            }
+          ]
+        },
+        {
+          "text": "see",
+          "phonetic": "si",
+          "examples": [
+            {
+              "en": "Can you see the cat?"
+            }
+          ]
+        },
+        {
+          "text": "seed",
+          "phonetic": "sid",
+          "examples": [
+            {
+              "en": "Plant a small seed."
+            }
+          ]
+        },
+        {
+          "text": "seem",
+          "phonetic": "sim",
+          "examples": [
+            {
+              "en": "You seem happy today."
+            }
+          ]
+        },
+        {
+          "text": "sell",
+          "phonetic": "sɛl",
+          "examples": [
+            {
+              "en": "They sell red apples."
+            }
+          ]
+        },
+        {
+          "text": "send",
+          "phonetic": "sɛnd",
+          "examples": [
+            {
+              "en": "Mom will send a letter."
+            }
+          ]
+        },
+        {
+          "text": "set",
+          "phonetic": "sɛt",
+          "examples": [
+            {
+              "en": "Please put the books on this set table."
+            }
+          ]
+        },
+        {
+          "text": "sew",
+          "phonetic": "so",
+          "examples": [
+            {
+              "en": "Can you sew this button on?"
+            }
+          ]
+        },
+        {
+          "text": "sex",
+          "phonetic": "sɛks",
+          "examples": [
+            {
+              "en": "Boy showed interest in sex."
+            }
+          ]
+        },
+        {
+          "text": "ship",
+          "phonetic": "ʃɪp",
+          "examples": [
+            {
+              "en": "Ship goes to the port."
+            }
+          ]
+        },
+        {
+          "text": "shoe",
+          "phonetic": "ʃu",
+          "examples": [
+            {
+              "en": "Put shoe on my foot."
+            }
+          ]
+        },
+        {
+          "text": "shop",
+          "phonetic": "ʃɑp",
+          "examples": [
+            {
+              "en": "Go to big shop now."
+            }
+          ]
+        },
+        {
+          "text": "show",
+          "phonetic": "ʃo",
+          "examples": [
+            {
+              "en": "Mom will show a picture."
+            }
+          ]
+        },
+        {
+          "text": "shy",
+          "phonetic": "ʃaɪ",
+          "examples": [
+            {
+              "en": "The boy is shy today."
+            }
+          ]
+        },
+        {
+          "text": "sick",
+          "phonetic": "sɪk",
+          "examples": [
+            {
+              "en": "I feel sick now."
+            }
+          ]
+        },
+        {
+          "text": "side",
+          "phonetic": "saɪd",
+          "examples": [
+            {
+              "en": "My house is on the side."
+            }
+          ]
+        },
+        {
+          "text": "sign",
+          "phonetic": "saɪn",
+          "examples": [
+            {
+              "en": "Please sign this paper."
+            }
+          ]
+        },
+        {
+          "text": "silk",
+          "phonetic": "sɪlk",
+          "examples": [
+            {
+              "en": "She wears a silk dress today."
+            }
+          ]
+        },
+        {
+          "text": "sing",
+          "phonetic": "sɪŋ",
+          "examples": [
+            {
+              "en": "Birds sing sweet songs."
+            }
+          ]
+        },
+        {
+          "text": "sir",
+          "phonetic": "sɝ",
+          "examples": [
+            {
+              "en": "Sir, can you help me."
+            }
+          ]
+        },
+        {
+          "text": "sit",
+          "phonetic": "sɪt",
+          "examples": [
+            {
+              "en": "Please sit on the chair."
+            }
+          ]
+        },
+        {
+          "text": "six",
+          "phonetic": "sɪks",
+          "examples": [
+            {
+              "en": "I have six red apples."
+            }
+          ]
+        },
+        {
+          "text": "size",
+          "phonetic": "saɪz",
+          "examples": [
+            {
+              "en": "What is your shoe size?"
+            }
+          ]
+        },
+        {
+          "text": "ski",
+          "phonetic": "ski",
+          "examples": [
+            {
+              "en": "We go ski on the mountain."
+            }
+          ]
+        },
+        {
+          "text": "skip",
+          "phonetic": "skɪp",
+          "examples": [
+            {
+              "en": "We like to skip rope."
+            }
+          ]
+        },
+        {
+          "text": "sky",
+          "phonetic": "skaɪ",
+          "examples": [
+            {
+              "en": "Look at the big sky."
+            }
+          ]
+        },
+        {
+          "text": "sled",
+          "phonetic": "slɛd",
+          "examples": [
+            {
+              "en": "The dog rides sled."
+            }
+          ]
+        },
+        {
+          "text": "slow",
+          "phonetic": "sloʊ",
+          "examples": [
+            {
+              "en": "Walk slow to the park."
+            }
+          ]
+        },
+        {
+          "text": "snow",
+          "phonetic": "sno",
+          "examples": [
+            {
+              "en": "Snow falls from the sky."
+            }
+          ]
+        },
+        {
+          "text": "soap",
+          "phonetic": "sop",
+          "examples": [
+            {
+              "en": "Wash your hands with soap."
+            }
+          ]
+        },
+        {
+          "text": "sob",
+          "phonetic": "sɑb",
+          "examples": [
+            {
+              "en": "She began to sob quietly."
+            }
+          ]
+        },
+        {
+          "text": "sock",
+          "phonetic": "sɑk",
+          "examples": [
+            {
+              "en": "Put on your sock now."
+            }
+          ]
+        },
+        {
+          "text": "sofa",
+          "phonetic": "'sofə",
+          "examples": [
+            {
+              "en": "We sit on the sofa."
+            }
+          ]
+        },
+        {
+          "text": "soft",
+          "phonetic": "sɔft",
+          "examples": [
+            {
+              "en": "The cat is soft."
+            }
+          ]
+        },
+        {
+          "text": "soil",
+          "phonetic": "sɔɪl",
+          "examples": [
+            {
+              "en": "Plants grow in soil."
+            }
+          ]
+        },
+        {
+          "text": "some",
+          "phonetic": "səm",
+          "examples": [
+            {
+              "en": "Some apples are red."
+            }
+          ]
+        },
+        {
+          "text": "son",
+          "phonetic": "sʌn",
+          "examples": [
+            {
+              "en": "My son likes to run."
+            }
+          ]
+        },
+        {
+          "text": "song",
+          "phonetic": "sɔŋ",
+          "examples": [
+            {
+              "en": "She sings a sweet song."
+            }
+          ]
+        },
+        {
+          "text": "soon",
+          "phonetic": "sun",
+          "examples": [
+            {
+              "en": "We will eat soon."
+            }
+          ]
+        },
+        {
+          "text": "sort",
+          "phonetic": "sɔrt",
+          "examples": [
+            {
+              "en": "Sort apples by color."
+            }
+          ]
+        },
+        {
+          "text": "soup",
+          "phonetic": "sup",
+          "examples": [
+            {
+              "en": "Mom made hot soup."
+            }
+          ]
+        },
+        {
+          "text": "sour",
+          "phonetic": "'saʊɚ",
+          "examples": [
+            {
+              "en": "The lemon tastes sour."
+            }
+          ]
+        },
+        {
+          "text": "sow",
+          "phonetic": "so",
+          "examples": [
+            {
+              "en": "The farmer will sow seeds tomorrow."
+            }
+          ]
+        },
+        {
+          "text": "spy",
+          "phonetic": "spaɪ",
+          "examples": [
+            {
+              "en": "The spy saw the secret map."
+            }
+          ]
+        },
+        {
+          "text": "star",
+          "phonetic": "stɑr",
+          "examples": [
+            {
+              "en": "Look at the bright star."
+            }
+          ]
+        },
+        {
+          "text": "stay",
+          "phonetic": "ste",
+          "examples": [
+            {
+              "en": "Please stay in your seat."
+            }
+          ]
+        },
+        {
+          "text": "step",
+          "phonetic": "stɛp",
+          "examples": [
+            {
+              "en": "Take one small step forward."
+            }
+          ]
+        },
+        {
+          "text": "stop",
+          "phonetic": "stɑp",
+          "examples": [
+            {
+              "en": "Please stop running."
+            }
+          ]
+        },
+        {
+          "text": "sum",
+          "phonetic": "səm",
+          "examples": [
+            {
+              "en": "The sum is ten dollars."
+            }
+          ]
+        },
+        {
+          "text": "sun",
+          "phonetic": "sʌn",
+          "examples": [
+            {
+              "en": "The sun shines brightly."
+            }
+          ]
+        },
+        {
+          "text": "sure",
+          "phonetic": "ʃʊər; ʃʊr",
+          "examples": [
+            {
+              "en": "Are you sure about this?"
+            }
+          ]
+        },
+        {
+          "text": "swim",
+          "phonetic": "swɪm",
+          "examples": [
+            {
+              "en": "We like to swim in water."
+            }
+          ]
+        },
+        {
+          "text": "tail",
+          "phonetic": "tel",
+          "examples": [
+            {
+              "en": "Dog has a long tail."
+            }
+          ]
+        },
+        {
+          "text": "take",
+          "phonetic": "tek",
+          "examples": [
+            {
+              "en": "Please take this book."
+            }
+          ]
+        },
+        {
+          "text": "tale",
+          "phonetic": "tel",
+          "examples": [
+            {
+              "en": "She told me an old tale."
+            }
+          ]
+        },
+        {
+          "text": "talk",
+          "phonetic": "tɔk",
+          "examples": [
+            {
+              "en": "We talk about new toys."
+            }
+          ]
+        },
+        {
+          "text": "tall",
+          "phonetic": "tɔl",
+          "examples": [
+            {
+              "en": "The boy is very tall."
+            }
+          ]
+        },
+        {
+          "text": "tap",
+          "phonetic": "tæp",
+          "examples": [
+            {
+              "en": "Please tap the desk."
+            }
+          ]
+        },
+        {
+          "text": "tape",
+          "phonetic": "tep",
+          "examples": [
+            {
+              "en": "Use tape to seal box."
+            }
+          ]
+        },
+        {
+          "text": "task",
+          "phonetic": "tæsk",
+          "examples": [
+            {
+              "en": "This is my math task."
+            }
+          ]
+        },
+        {
+          "text": "tax",
+          "phonetic": "tæks",
+          "examples": [
+            {
+              "en": "We must pay tax on the book."
+            }
+          ]
+        },
+        {
+          "text": "taxi",
+          "phonetic": "'tæksi",
+          "examples": [
+            {
+              "en": "We taxi to the park."
+            }
+          ]
+        },
+        {
+          "text": "tea",
+          "phonetic": "ti",
+          "examples": [
+            {
+              "en": "Mom makes tea for us."
+            }
+          ]
+        },
+        {
+          "text": "team",
+          "phonetic": "tim",
+          "examples": [
+            {
+              "en": "They play on a team."
+            }
+          ]
+        },
+        {
+          "text": "tell",
+          "phonetic": "tɛl",
+          "examples": [
+            {
+              "en": "Tell me your name now."
+            }
+          ]
+        },
+        {
+          "text": "ten",
+          "phonetic": "tɛn",
+          "examples": [
+            {
+              "en": "I have ten red balls."
+            }
+          ]
+        },
+        {
+          "text": "tent",
+          "phonetic": "tɛnt",
+          "examples": [
+            {
+              "en": "Let's sleep in the tent tonight."
+            }
+          ]
+        },
+        {
+          "text": "term",
+          "phonetic": "tɝm",
+          "examples": [
+            {
+              "en": "This word is a new term for us."
+            }
+          ]
+        },
+        {
+          "text": "test",
+          "phonetic": "tɛst",
+          "examples": [
+            {
+              "en": "We took a math test today."
+            }
+          ]
+        },
+        {
+          "text": "text",
+          "phonetic": "tɛkst",
+          "examples": [
+            {
+              "en": "Please read this text aloud."
+            }
+          ]
+        },
+        {
+          "text": "thin",
+          "phonetic": "θɪn",
+          "examples": [
+            {
+              "en": "My arm is thin now."
+            }
+          ]
+        },
+        {
+          "text": "tidy",
+          "phonetic": "'taɪdi",
+          "examples": [
+            {
+              "en": "My desk is very tidy."
+            }
+          ]
+        },
+        {
+          "text": "tie",
+          "phonetic": "taɪ",
+          "examples": [
+            {
+              "en": "Tie your shoe with a tie."
+            }
+          ]
+        },
+        {
+          "text": "till",
+          "phonetic": "tɪl",
+          "examples": [
+            {
+              "en": "We till the field now."
+            }
+          ]
+        },
+        {
+          "text": "tim",
+          "phonetic": "tɪm",
+          "examples": [
+            {
+              "en": "Tim likes to play ball."
+            }
+          ]
+        },
+        {
+          "text": "time",
+          "phonetic": "taɪm",
+          "examples": [
+            {
+              "en": "What time is it?"
+            }
+          ]
+        },
+        {
+          "text": "timo",
+          "phonetic": "timo*",
+          "examples": [
+            {
+              "en": "Timo plays with his ball."
+            }
+          ]
+        },
+        {
+          "text": "tin",
+          "phonetic": "tɪn",
+          "examples": [
+            {
+              "en": "He bought a tin of apples."
+            }
+          ]
+        },
+        {
+          "text": "tiny",
+          "phonetic": "'taɪni",
+          "examples": [
+            {
+              "en": "A tiny bird sat on the branch."
+            }
+          ]
+        },
+        {
+          "text": "tip",
+          "phonetic": "tɪp",
+          "examples": [
+            {
+              "en": "Give the waiter a small tip."
+            }
+          ]
+        },
+        {
+          "text": "tofu",
+          "phonetic": "ˈtoʊfu",
+          "examples": [
+            {
+              "en": "I eat soft tofu every day."
+            }
+          ]
+        },
+        {
+          "text": "tom",
+          "phonetic": "tɑm",
+          "examples": [
+            {
+              "en": "Tom plays with a ball."
+            }
+          ]
+        },
+        {
+          "text": "ton",
+          "phonetic": "tʌn",
+          "examples": [
+            {
+              "en": "We have many ton of rice."
+            }
+          ]
+        },
+        {
+          "text": "took",
+          "phonetic": "tʊk",
+          "examples": [
+            {
+              "en": "He took a photo."
+            }
+          ]
+        },
+        {
+          "text": "tool",
+          "phonetic": "tul",
+          "examples": [
+            {
+              "en": "Use a pencil tool."
+            }
+          ]
+        },
+        {
+          "text": "top",
+          "phonetic": "tɑp",
+          "examples": [
+            {
+              "en": "The ball is at the top."
+            }
+          ]
+        },
+        {
+          "text": "town",
+          "phonetic": "taʊn",
+          "examples": [
+            {
+              "en": "They live in a small town."
+            }
+          ]
+        },
+        {
+          "text": "toy",
+          "phonetic": "tɔɪ",
+          "examples": [
+            {
+              "en": "My toy car is red."
+            }
+          ]
+        },
+        {
+          "text": "tree",
+          "phonetic": "tri",
+          "examples": [
+            {
+              "en": "Tree has big leaves."
+            }
+          ]
+        },
+        {
+          "text": "trip",
+          "phonetic": "trɪp",
+          "examples": [
+            {
+              "en": "We take a short trip."
+            }
+          ]
+        },
+        {
+          "text": "true",
+          "phonetic": "tru",
+          "examples": [
+            {
+              "en": "This answer is TRUE now."
+            }
+          ]
+        },
+        {
+          "text": "try",
+          "phonetic": "traɪ",
+          "examples": [
+            {
+              "en": "Try to eat this apple."
+            }
+          ]
+        },
+        {
+          "text": "turn",
+          "phonetic": "tɝn",
+          "examples": [
+            {
+              "en": "Turn left at the corner."
+            }
+          ]
+        },
+        {
+          "text": "twin",
+          "phonetic": "twɪn",
+          "examples": [
+            {
+              "en": "My twin is happy."
+            }
+          ]
+        },
+        {
+          "text": "type",
+          "phonetic": "taɪp",
+          "examples": [
+            {
+              "en": "This book is a type."
+            }
+          ]
+        },
+        {
+          "text": "ugly",
+          "phonetic": "'ʌɡli",
+          "examples": [
+            {
+              "en": "The flower looks ugly."
+            }
+          ]
+        },
+        {
+          "text": "unit",
+          "phonetic": "'junɪt",
+          "examples": [
+            {
+              "en": "We study one new unit."
+            }
+          ]
+        },
+        {
+          "text": "ups",
+          "phonetic": "əps",
+          "examples": [
+            {
+              "en": "The company saw ups and downs."
+            }
+          ]
+        },
+        {
+          "text": "usa",
+          "phonetic": "ˈjuˈɛˈseɪ",
+          "examples": [
+            {
+              "en": "I like the USA."
+            }
+          ]
+        },
+        {
+          "text": "use",
+          "phonetic": "juz",
+          "examples": [
+            {
+              "en": "Can you use this pen?"
+            }
+          ]
+        },
+        {
+          "text": "vase",
+          "phonetic": "veɪs; veɪz",
+          "examples": [
+            {
+              "en": "The vase holds red flowers."
+            }
+          ]
+        },
+        {
+          "text": "vcd",
+          "phonetic": "vcd*",
+          "examples": [
+            {
+              "en": "The VCD plays a fun movie."
+            }
+          ]
+        },
+        {
+          "text": "via",
+          "phonetic": "ˈvaɪə, ˈviə",
+          "examples": [
+            {
+              "en": "We went to school via the subway."
+            }
+          ]
+        },
+        {
+          "text": "wag",
+          "phonetic": "wæɡ",
+          "examples": [
+            {
+              "en": "My dog likes to wag its tail fast."
+            }
+          ]
+        },
+        {
+          "text": "wait",
+          "phonetic": "wet",
+          "examples": [
+            {
+              "en": "Please wait for your friend."
+            }
+          ]
+        },
+        {
+          "text": "walk",
+          "phonetic": "wɔk",
+          "examples": [
+            {
+              "en": "We walk to the park."
+            }
+          ]
+        },
+        {
+          "text": "wall",
+          "phonetic": "wɔl",
+          "examples": [
+            {
+              "en": "The wall is very tall."
+            }
+          ]
+        },
+        {
+          "text": "want",
+          "phonetic": "wɑnt",
+          "examples": [
+            {
+              "en": "I want a red apple."
+            }
+          ]
+        },
+        {
+          "text": "war",
+          "phonetic": "wɔr",
+          "examples": [
+            {
+              "en": "The war was very big."
+            }
+          ]
+        },
+        {
+          "text": "warm",
+          "phonetic": "wɔrm",
+          "examples": [
+            {
+              "en": "The sun feels warm now."
+            }
+          ]
+        },
+        {
+          "text": "wash",
+          "phonetic": "wɑːʃ",
+          "examples": [
+            {
+              "en": "Please wash your hands."
+            }
+          ]
+        },
+        {
+          "text": "wax",
+          "phonetic": "waks",
+          "examples": [
+            {
+              "en": "We need to wax the wooden floor."
+            }
+          ]
+        },
+        {
+          "text": "way",
+          "phonetic": "we",
+          "examples": [
+            {
+              "en": "Go this way home."
+            }
+          ]
+        },
+        {
+          "text": "wear",
+          "phonetic": "wɛr",
+          "examples": [
+            {
+              "en": "She wear a red dress."
+            }
+          ]
+        },
+        {
+          "text": "web",
+          "phonetic": "wɛb",
+          "examples": [
+            {
+              "en": "We saw a spider spin a web."
+            }
+          ]
+        },
+        {
+          "text": "week",
+          "phonetic": "wik",
+          "examples": [
+            {
+              "en": "I study one week now."
+            }
+          ]
+        },
+        {
+          "text": "well",
+          "phonetic": "wɛl",
+          "examples": [
+            {
+              "en": "She sings very well."
+            }
+          ]
+        },
+        {
+          "text": "went",
+          "phonetic": "wɛnt",
+          "examples": [
+            {
+              "en": "She went to school."
+            }
+          ]
+        },
+        {
+          "text": "west",
+          "phonetic": "wɛst",
+          "examples": [
+            {
+              "en": "The sun sets in the west."
+            }
+          ]
+        },
+        {
+          "text": "wet",
+          "phonetic": "wɛt",
+          "examples": [
+            {
+              "en": "My shirt feels wet now."
+            }
+          ]
+        },
+        {
+          "text": "wife",
+          "phonetic": "wʌɪf",
+          "examples": [
+            {
+              "en": "My mom is my wife."
+            }
+          ]
+        },
+        {
+          "text": "wild",
+          "phonetic": "waɪld",
+          "examples": [
+            {
+              "en": "The wild dog ran fast."
+            }
+          ]
+        },
+        {
+          "text": "win",
+          "phonetic": "wɪn",
+          "examples": [
+            {
+              "en": "We win the game."
+            }
+          ]
+        },
+        {
+          "text": "wind",
+          "phonetic": "wɪnd; (for v.) waɪnd",
+          "examples": [
+            {
+              "en": "Wind blows in the park."
+            }
+          ]
+        },
+        {
+          "text": "wish",
+          "phonetic": "wɪʃ",
+          "examples": [
+            {
+              "en": "I wish you good luck."
+            }
+          ]
+        },
+        {
+          "text": "woke",
+          "phonetic": "woʊk",
+          "examples": [
+            {
+              "en": "He woke up early."
+            }
+          ]
+        },
+        {
+          "text": "woo",
+          "phonetic": "wu",
+          "examples": [
+            {
+              "en": "They try to woo the pretty girl."
+            }
+          ]
+        },
+        {
+          "text": "wood",
+          "phonetic": "wʊd",
+          "examples": [
+            {
+              "en": "We see wood in the park."
+            }
+          ]
+        },
+        {
+          "text": "word",
+          "phonetic": "wɝd",
+          "examples": [
+            {
+              "en": "Say a nice word to sb."
+            }
+          ]
+        },
+        {
+          "text": "work",
+          "phonetic": "wɝk",
+          "examples": [
+            {
+              "en": "Mom does work at home."
+            }
+          ]
+        },
+        {
+          "text": "wwf",
+          "phonetic": "wwf*",
+          "examples": [
+            {
+              "en": "WWF protects the Earth well."
+            }
+          ]
+        },
+        {
+          "text": "yard",
+          "phonetic": "jɑrd",
+          "examples": [
+            {
+              "en": "The dog ran in the yard."
+            }
+          ]
+        },
+        {
+          "text": "year",
+          "phonetic": "yir",
+          "examples": [
+            {
+              "en": "She is a third year student."
+            }
+          ]
+        },
+        {
+          "text": "yet",
+          "phonetic": "jɛt",
+          "examples": [
+            {
+              "en": "He did not finish, yet he tried."
+            }
+          ]
+        },
+        {
+          "text": "zip",
+          "phonetic": "zɪp",
+          "examples": [
+            {
+              "en": "Close the jacket with a zip."
+            }
+          ]
+        },
+        {
+          "text": "zoo",
+          "phonetic": "zu",
+          "examples": [
+            {
+              "en": "We go to the zoo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

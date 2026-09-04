@@ -1,0 +1,5438 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Grade 5 Spelling Bee",
+      "order": 1,
+      "words": [
+        {
+          "text": "abandon",
+          "phonetic": "ə'bændən",
+          "examples": [
+            {
+              "en": "Do not abandon your homework today."
+            }
+          ]
+        },
+        {
+          "text": "ability",
+          "phonetic": "ə'bɪləti",
+          "examples": [
+            {
+              "en": "She has good drawing ability."
+            }
+          ]
+        },
+        {
+          "text": "abolish",
+          "phonetic": "ə'bɑlɪʃ",
+          "examples": [
+            {
+              "en": "They want to abolish old rules."
+            }
+          ]
+        },
+        {
+          "text": "absence",
+          "phonetic": "'æbsns",
+          "examples": [
+            {
+              "en": "His absence made the class feel quiet."
+            }
+          ]
+        },
+        {
+          "text": "academy",
+          "phonetic": "ə'kædəmi",
+          "examples": [
+            {
+              "en": "My friend goes to a science academy."
+            }
+          ]
+        },
+        {
+          "text": "account",
+          "phonetic": "ə'kaʊnt",
+          "examples": [
+            {
+              "en": "Please check your bank account balance today."
+            }
+          ]
+        },
+        {
+          "text": "achieve",
+          "phonetic": "ə'tʃiv",
+          "examples": [
+            {
+              "en": "We want to achieve good grades."
+            }
+          ]
+        },
+        {
+          "text": "acquire",
+          "phonetic": "ə'kwaɪr",
+          "examples": [
+            {
+              "en": "She wants to acquire new English words."
+            }
+          ]
+        },
+        {
+          "text": "actress",
+          "phonetic": "'æktrɪs",
+          "examples": [
+            {
+              "en": "The actress sings a nice song."
+            }
+          ]
+        },
+        {
+          "text": "address",
+          "phonetic": "ə'drɛs",
+          "examples": [
+            {
+              "en": "Please write your home address here."
+            }
+          ]
+        },
+        {
+          "text": "advance",
+          "phonetic": "əd'væns",
+          "examples": [
+            {
+              "en": "We need to make an advance on homework."
+            }
+          ]
+        },
+        {
+          "text": "advisor",
+          "phonetic": "ædˈvaɪzər",
+          "examples": [
+            {
+              "en": "My uncle is a good advisor."
+            }
+          ]
+        },
+        {
+          "text": "african",
+          "phonetic": "'æfrɪkən",
+          "examples": [
+            {
+              "en": "The African lion is very strong."
+            }
+          ]
+        },
+        {
+          "text": "against",
+          "phonetic": "ə'ɡɛnst",
+          "examples": [
+            {
+              "en": "The cat jumped against the wall."
+            }
+          ]
+        },
+        {
+          "text": "airline",
+          "phonetic": "'ɛrlaɪn",
+          "examples": [
+            {
+              "en": "The airline flies to Beijing."
+            }
+          ]
+        },
+        {
+          "text": "airmail",
+          "phonetic": "'ɛrmel",
+          "examples": [
+            {
+              "en": "My friend sent an apple by airmail."
+            }
+          ]
+        },
+        {
+          "text": "airport",
+          "phonetic": "'ɛr'pɔrt",
+          "examples": [
+            {
+              "en": "We go to the airport by bus."
+            }
+          ]
+        },
+        {
+          "text": "albania",
+          "phonetic": "ælˈbeɪniə",
+          "examples": [
+            {
+              "en": "We visit Albania next summer."
+            }
+          ]
+        },
+        {
+          "text": "alberta",
+          "phonetic": "ælˈbərtə",
+          "examples": [
+            {
+              "en": "We study about Alberta now."
+            }
+          ]
+        },
+        {
+          "text": "alcohol",
+          "phonetic": "'ælkəhɔl",
+          "examples": [
+            {
+              "en": "My father drinks some alcohol every night."
+            }
+          ]
+        },
+        {
+          "text": "algebra",
+          "phonetic": "'ældʒɪbrə",
+          "examples": [
+            {
+              "en": "My teacher teaches us algebra every day."
+            }
+          ]
+        },
+        {
+          "text": "already",
+          "phonetic": "ɔl'rɛdi",
+          "examples": [
+            {
+              "en": "She has already eaten an apple."
+            }
+          ]
+        },
+        {
+          "text": "amateur",
+          "phonetic": "ˈæmətər",
+          "examples": [
+            {
+              "en": "He is an amateur photographer with a new camera."
+            }
+          ]
+        },
+        {
+          "text": "amazing",
+          "phonetic": "ə'mezɪŋ",
+          "examples": [
+            {
+              "en": "The sunset is amazing today."
+            }
+          ]
+        },
+        {
+          "text": "america",
+          "phonetic": "əˈmɛrɪkə",
+          "examples": [
+            {
+              "en": "I like music from America."
+            }
+          ]
+        },
+        {
+          "text": "analyse",
+          "phonetic": "analyse*",
+          "examples": [
+            {
+              "en": "Please analyse this math problem now."
+            }
+          ]
+        },
+        {
+          "text": "analyze",
+          "phonetic": "'ænə,laɪz",
+          "examples": [
+            {
+              "en": "Please analyze this math problem now."
+            }
+          ]
+        },
+        {
+          "text": "ancient",
+          "phonetic": "ˈeɪnʃənt",
+          "examples": [
+            {
+              "en": "The ancient building is very tall."
+            }
+          ]
+        },
+        {
+          "text": "andrews",
+          "phonetic": "ˈænˌdruz",
+          "examples": [
+            {
+              "en": "We visited Andrews last summer."
+            }
+          ]
+        },
+        {
+          "text": "annoyed",
+          "phonetic": "əˈnɔɪd",
+          "examples": [
+            {
+              "en": "She felt annoyed by the noise."
+            }
+          ]
+        },
+        {
+          "text": "another",
+          "phonetic": "ə'nʌðɚ",
+          "examples": [
+            {
+              "en": "I see another red ball."
+            }
+          ]
+        },
+        {
+          "text": "antique",
+          "phonetic": "æn'tik",
+          "examples": [
+            {
+              "en": "My grandma has an antique vase."
+            }
+          ]
+        },
+        {
+          "text": "anxiety",
+          "phonetic": "æŋ'zaɪəti",
+          "examples": [
+            {
+              "en": "My test brings much anxiety today."
+            }
+          ]
+        },
+        {
+          "text": "anxious",
+          "phonetic": "'æŋkʃəs",
+          "examples": [
+            {
+              "en": "She feels very anxious before the test."
+            }
+          ]
+        },
+        {
+          "text": "anybody",
+          "phonetic": "ˈɛnibədi",
+          "examples": [
+            {
+              "en": "Anybody can help with this."
+            }
+          ]
+        },
+        {
+          "text": "apology",
+          "phonetic": "ə'pɑlədʒi",
+          "examples": [
+            {
+              "en": "He gave an apology for his mistake."
+            }
+          ]
+        },
+        {
+          "text": "applaud",
+          "phonetic": "ə'plɔd",
+          "examples": [
+            {
+              "en": "We loudly applaud my friend's good drawing."
+            }
+          ]
+        },
+        {
+          "text": "appoint",
+          "phonetic": "ə'pɔɪnt",
+          "examples": [
+            {
+              "en": "The teacher will appoint my friend leader."
+            }
+          ]
+        },
+        {
+          "text": "approve",
+          "phonetic": "ə'prʊv",
+          "examples": [
+            {
+              "en": "The teacher will approve my homework."
+            }
+          ]
+        },
+        {
+          "text": "archery",
+          "phonetic": "ˈɑrʧəri",
+          "examples": [
+            {
+              "en": "She enjoys archery practice after school."
+            }
+          ]
+        },
+        {
+          "text": "arrange",
+          "phonetic": "ə'rendʒ",
+          "examples": [
+            {
+              "en": "Please arrange your books on the desk."
+            }
+          ]
+        },
+        {
+          "text": "arrival",
+          "phonetic": "ə'raɪvəl",
+          "examples": [
+            {
+              "en": "The train's arrival was very late."
+            }
+          ]
+        },
+        {
+          "text": "article",
+          "phonetic": "'ɑrtɪkl",
+          "examples": [
+            {
+              "en": "Read this interesting new article today."
+            }
+          ]
+        },
+        {
+          "text": "artwork",
+          "phonetic": "ˈɑrtˌwərk",
+          "examples": [
+            {
+              "en": "This artwork is very beautiful."
+            }
+          ]
+        },
+        {
+          "text": "ashamed",
+          "phonetic": "ə'ʃemd",
+          "examples": [
+            {
+              "en": "She felt ashamed of her bad test score."
+            }
+          ]
+        },
+        {
+          "text": "athlete",
+          "phonetic": "'æθlit",
+          "examples": [
+            {
+              "en": "My brother is a fast athlete."
+            }
+          ]
+        },
+        {
+          "text": "attempt",
+          "phonetic": "ə'tɛmpt",
+          "examples": [
+            {
+              "en": "He made a good attempt on the test."
+            }
+          ]
+        },
+        {
+          "text": "attract",
+          "phonetic": "ə'trækt",
+          "examples": [
+            {
+              "en": "The bright sun will attract my friend."
+            }
+          ]
+        },
+        {
+          "text": "average",
+          "phonetic": "'ævərɪdʒ",
+          "examples": [
+            {
+              "en": "My score is the average of ten tests."
+            }
+          ]
+        },
+        {
+          "text": "awesome",
+          "phonetic": "'ɔsəm",
+          "examples": [
+            {
+              "en": "This math test was truly awesome."
+            }
+          ]
+        },
+        {
+          "text": "awkward",
+          "phonetic": "'ɔkwɚd",
+          "examples": [
+            {
+              "en": "The silence felt very awkward after the joke."
+            }
+          ]
+        },
+        {
+          "text": "baggage",
+          "phonetic": "'bæɡɪdʒ",
+          "examples": [
+            {
+              "en": "Put your heavy baggage in the trunk."
+            }
+          ]
+        },
+        {
+          "text": "balance",
+          "phonetic": "'bæləns",
+          "examples": [
+            {
+              "en": "Keep your diet in good balance."
+            }
+          ]
+        },
+        {
+          "text": "balcony",
+          "phonetic": "'bælkəni",
+          "examples": [
+            {
+              "en": "My mom waters plants on the balcony."
+            }
+          ]
+        },
+        {
+          "text": "balloon",
+          "phonetic": "bə'lun",
+          "examples": [
+            {
+              "en": "The red balloon is big."
+            }
+          ]
+        },
+        {
+          "text": "bandage",
+          "phonetic": "'bændɪdʒ",
+          "examples": [
+            {
+              "en": "Please put a bandage on your knee."
+            }
+          ]
+        },
+        {
+          "text": "bargain",
+          "phonetic": "ˈbɑːɡɪn",
+          "examples": [
+            {
+              "en": "We found a good bargain on new shoes."
+            }
+          ]
+        },
+        {
+          "text": "barrier",
+          "phonetic": "'bærɪɚ",
+          "examples": [
+            {
+              "en": "The wall is a high barrier for the dog."
+            }
+          ]
+        },
+        {
+          "text": "bathtub",
+          "phonetic": "bæθtʌb",
+          "examples": [
+            {
+              "en": "My mom cleans the bathtub every day."
+            }
+          ]
+        },
+        {
+          "text": "battery",
+          "phonetic": "'bæt(ə)rɪ",
+          "examples": [
+            {
+              "en": "My phone needs a new battery."
+            }
+          ]
+        },
+        {
+          "text": "because",
+          "phonetic": "bɪ'kɔz",
+          "examples": [
+            {
+              "en": "I smile because you are kind."
+            }
+          ]
+        },
+        {
+          "text": "bedroom",
+          "phonetic": "'bɛdrum",
+          "examples": [
+            {
+              "en": "My dog sleeps in his bedroom."
+            }
+          ]
+        },
+        {
+          "text": "beehive",
+          "phonetic": "'bihaɪv",
+          "examples": [
+            {
+              "en": "The beehive is in my garden."
+            }
+          ]
+        },
+        {
+          "text": "belgium",
+          "phonetic": "'bɛldʒəm",
+          "examples": [
+            {
+              "en": "My friend likes Belgium food."
+            }
+          ]
+        },
+        {
+          "text": "believe",
+          "phonetic": "bɪ'liv",
+          "examples": [
+            {
+              "en": "I believe my teacher is kind."
+            }
+          ]
+        },
+        {
+          "text": "beneath",
+          "phonetic": "bɪˈniːθ",
+          "examples": [
+            {
+              "en": "The cat slept beneath the big table."
+            }
+          ]
+        },
+        {
+          "text": "benefit",
+          "phonetic": "'bɛnɪfɪt",
+          "examples": [
+            {
+              "en": "Reading books gives me a great benefit."
+            }
+          ]
+        },
+        {
+          "text": "besides",
+          "phonetic": "bɪ'saɪdz",
+          "examples": [
+            {
+              "en": "He likes apples besides bananas."
+            }
+          ]
+        },
+        {
+          "text": "between",
+          "phonetic": "bɪ'twin",
+          "examples": [
+            {
+              "en": "The cat sleeps between two chairs."
+            }
+          ]
+        },
+        {
+          "text": "bicycle",
+          "phonetic": "'baɪsɪkl",
+          "examples": [
+            {
+              "en": "My brother rides his bicycle to school."
+            }
+          ]
+        },
+        {
+          "text": "billion",
+          "phonetic": "'bɪljən",
+          "examples": [
+            {
+              "en": "The Earth has a billion stars."
+            }
+          ]
+        },
+        {
+          "text": "biology",
+          "phonetic": "baɪ'ɑlədʒi",
+          "examples": [
+            {
+              "en": "We study the biology of plants."
+            }
+          ]
+        },
+        {
+          "text": "biscuit",
+          "phonetic": "'bɪskɪt",
+          "examples": [
+            {
+              "en": "I eat one sweet biscuit now."
+            }
+          ]
+        },
+        {
+          "text": "blanket",
+          "phonetic": "'blæŋkɪt",
+          "examples": [
+            {
+              "en": "She used a warm blanket on her bed."
+            }
+          ]
+        },
+        {
+          "text": "blister",
+          "phonetic": "ˈblɪstər",
+          "examples": [
+            {
+              "en": "A blister formed on my foot."
+            }
+          ]
+        },
+        {
+          "text": "blogger",
+          "phonetic": "ˈblɔgər",
+          "examples": [
+            {
+              "en": "He is a famous food blogger."
+            }
+          ]
+        },
+        {
+          "text": "blossom",
+          "phonetic": "ˈblɑsəm",
+          "examples": [
+            {
+              "en": "The cherry blossom is very pretty."
+            }
+          ]
+        },
+        {
+          "text": "blurred",
+          "phonetic": "blərd",
+          "examples": [
+            {
+              "en": "The photo looks very blurred now."
+            }
+          ]
+        },
+        {
+          "text": "boating",
+          "phonetic": "'bəutiŋ",
+          "examples": [
+            {
+              "en": "We like boating on lake."
+            }
+          ]
+        },
+        {
+          "text": "bowling",
+          "phonetic": "'bolɪŋ",
+          "examples": [
+            {
+              "en": "My dad likes bowling at the arcade."
+            }
+          ]
+        },
+        {
+          "text": "boycott",
+          "phonetic": "'bɔɪkɑt",
+          "examples": [
+            {
+              "en": "We will boycott the new sugary drink."
+            }
+          ]
+        },
+        {
+          "text": "braille",
+          "phonetic": "breɪl",
+          "examples": [
+            {
+              "en": "Braille is for blind people."
+            }
+          ]
+        },
+        {
+          "text": "bravery",
+          "phonetic": "'brevəri",
+          "examples": [
+            {
+              "en": "His bravery showed great courage today."
+            }
+          ]
+        },
+        {
+          "text": "breathe",
+          "phonetic": "brið",
+          "examples": [
+            {
+              "en": "Please breathe deeply for a minute."
+            }
+          ]
+        },
+        {
+          "text": "brewery",
+          "phonetic": "'bruəri",
+          "examples": [
+            {
+              "en": "The big brewery makes cold beer."
+            }
+          ]
+        },
+        {
+          "text": "britain",
+          "phonetic": "'brɪtən",
+          "examples": [
+            {
+              "en": "I like the culture of Britain."
+            }
+          ]
+        },
+        {
+          "text": "british",
+          "phonetic": "'brɪtɪʃ",
+          "examples": [
+            {
+              "en": "She likes British tea very much."
+            }
+          ]
+        },
+        {
+          "text": "brother",
+          "phonetic": "'brʌðɚ",
+          "examples": [
+            {
+              "en": "My little brother likes apples."
+            }
+          ]
+        },
+        {
+          "text": "burglar",
+          "phonetic": "'bɝɡlɚ",
+          "examples": [
+            {
+              "en": "The burglar stole my bike from the porch."
+            }
+          ]
+        },
+        {
+          "text": "burnett",
+          "phonetic": "bərˈnɛt",
+          "examples": [
+            {
+              "en": "Burnett wrote a good story."
+            }
+          ]
+        },
+        {
+          "text": "burning",
+          "phonetic": "ˈbərnɪŋ",
+          "examples": [
+            {
+              "en": "The leaves are burning in the sun."
+            }
+          ]
+        },
+        {
+          "text": "butcher",
+          "phonetic": "ˈbʊtʃər",
+          "examples": [
+            {
+              "en": "The butcher cuts meat for my family."
+            }
+          ]
+        },
+        {
+          "text": "cabbage",
+          "phonetic": "ˈkæbɪdʒ",
+          "examples": [
+            {
+              "en": "My mom buys green cabbage today."
+            }
+          ]
+        },
+        {
+          "text": "calorie",
+          "phonetic": "ˈkælɔˌri",
+          "examples": [
+            {
+              "en": "This apple has many calorie."
+            }
+          ]
+        },
+        {
+          "text": "canteen",
+          "phonetic": "kænˈtiːn",
+          "examples": [
+            {
+              "en": "We eat lunch in the school canteen."
+            }
+          ]
+        },
+        {
+          "text": "capable",
+          "phonetic": "ˈkeɪpəbəl",
+          "examples": [
+            {
+              "en": "She is capable of solving hard problems."
+            }
+          ]
+        },
+        {
+          "text": "capital",
+          "phonetic": "'kæpɪtl",
+          "examples": [
+            {
+              "en": "Beijing is China's capital city."
+            }
+          ]
+        },
+        {
+          "text": "capsule",
+          "phonetic": "ˈkæpsul",
+          "examples": [
+            {
+              "en": "She took a vitamin capsule with water."
+            }
+          ]
+        },
+        {
+          "text": "captain",
+          "phonetic": "ˈkæptən",
+          "examples": [
+            {
+              "en": "The captain leads our class."
+            }
+          ]
+        },
+        {
+          "text": "caption",
+          "phonetic": "'kæpʃən",
+          "examples": [
+            {
+              "en": "Please add a nice caption to this photo."
+            }
+          ]
+        },
+        {
+          "text": "cardiac",
+          "phonetic": "ˈkɑrdiˌæk",
+          "examples": [
+            {
+              "en": "He has a cardiac problem."
+            }
+          ]
+        },
+        {
+          "text": "careful",
+          "phonetic": "'kɛrfl",
+          "examples": [
+            {
+              "en": "Be careful with my ball."
+            }
+          ]
+        },
+        {
+          "text": "carrier",
+          "phonetic": "'kærɪɚ",
+          "examples": [
+            {
+              "en": "The phone is a message carrier."
+            }
+          ]
+        },
+        {
+          "text": "cartoon",
+          "phonetic": "kɑr'tun",
+          "examples": [
+            {
+              "en": "My friend likes a cartoon."
+            }
+          ]
+        },
+        {
+          "text": "caution",
+          "phonetic": "'kɔʃən",
+          "examples": [
+            {
+              "en": "Give me this caution before running fast."
+            }
+          ]
+        },
+        {
+          "text": "ceiling",
+          "phonetic": "'silɪŋ",
+          "examples": [
+            {
+              "en": "The ceiling is white and smooth."
+            }
+          ]
+        },
+        {
+          "text": "central",
+          "phonetic": "'sɛntrəl",
+          "examples": [
+            {
+              "en": "School is the central place here."
+            }
+          ]
+        },
+        {
+          "text": "century",
+          "phonetic": "'sɛntʃəri",
+          "examples": [
+            {
+              "en": "This century is very exciting."
+            }
+          ]
+        },
+        {
+          "text": "ceramic",
+          "phonetic": "sərˈæmɪk",
+          "examples": [
+            {
+              "en": "She bought a nice ceramic cup."
+            }
+          ]
+        },
+        {
+          "text": "certain",
+          "phonetic": "'sɝtn",
+          "examples": [
+            {
+              "en": "Certain students like math class."
+            }
+          ]
+        },
+        {
+          "text": "chandra",
+          "phonetic": "ˈʧændrə",
+          "examples": [
+            {
+              "en": "Chandra likes reading books."
+            }
+          ]
+        },
+        {
+          "text": "channel",
+          "phonetic": "'tʃænl",
+          "examples": [
+            {
+              "en": "TV can channel many shows."
+            }
+          ]
+        },
+        {
+          "text": "chapter",
+          "phonetic": "'tʃæptɚ",
+          "examples": [
+            {
+              "en": "Read the first chapter slowly."
+            }
+          ]
+        },
+        {
+          "text": "charity",
+          "phonetic": "ˈʧɛrɪti",
+          "examples": [
+            {
+              "en": "She works for charity."
+            }
+          ]
+        },
+        {
+          "text": "cheetah",
+          "phonetic": "ˈʧitə",
+          "examples": [
+            {
+              "en": "The cheetah runs fast."
+            }
+          ]
+        },
+        {
+          "text": "chemist",
+          "phonetic": "'kɛmɪst",
+          "examples": [
+            {
+              "en": "A chemist mixes the blue powder."
+            }
+          ]
+        },
+        {
+          "text": "chicago",
+          "phonetic": "ʃəˈkɑˌgoʊ",
+          "examples": [
+            {
+              "en": "We visit Chicago next summer."
+            }
+          ]
+        },
+        {
+          "text": "chicken",
+          "phonetic": "ˈtʃɪkən",
+          "examples": [
+            {
+              "en": "The chicken is small."
+            }
+          ]
+        },
+        {
+          "text": "chimney",
+          "phonetic": "'tʃɪmni",
+          "examples": [
+            {
+              "en": "Smoke came from the chimney."
+            }
+          ]
+        },
+        {
+          "text": "chinese",
+          "phonetic": "ʧaɪˈniz",
+          "examples": [
+            {
+              "en": "She speaks Chinese well."
+            }
+          ]
+        },
+        {
+          "text": "cholera",
+          "phonetic": "ˈkɑlərə",
+          "examples": [
+            {
+              "en": "Cholera causes bad stomach sickness."
+            }
+          ]
+        },
+        {
+          "text": "circuit",
+          "phonetic": "'sɝkɪt",
+          "examples": [
+            {
+              "en": "The light runs in a small circuit."
+            }
+          ]
+        },
+        {
+          "text": "citizen",
+          "phonetic": "'sɪtɪzn",
+          "examples": [
+            {
+              "en": "Every citizen must learn English."
+            }
+          ]
+        },
+        {
+          "text": "clarify",
+          "phonetic": "'klærəfaɪ",
+          "examples": [
+            {
+              "en": "Please clarify this difficult point."
+            }
+          ]
+        },
+        {
+          "text": "classic",
+          "phonetic": "'klæsɪk",
+          "examples": [
+            {
+              "en": "This book is a classic novel."
+            }
+          ]
+        },
+        {
+          "text": "cleaned",
+          "phonetic": "klind",
+          "examples": [
+            {
+              "en": "Mom cleaned the room well."
+            }
+          ]
+        },
+        {
+          "text": "cleaner",
+          "phonetic": "'klinɚ",
+          "examples": [
+            {
+              "en": "The cleaner washes the floor."
+            }
+          ]
+        },
+        {
+          "text": "clearly",
+          "phonetic": "'klɪrli",
+          "examples": [
+            {
+              "en": "She spoke very clearly."
+            }
+          ]
+        },
+        {
+          "text": "climate",
+          "phonetic": "'klaɪmət",
+          "examples": [
+            {
+              "en": "China has a warm climate."
+            }
+          ]
+        },
+        {
+          "text": "climber",
+          "phonetic": "ˈklaɪmər",
+          "examples": [
+            {
+              "en": "The climber reached the top."
+            }
+          ]
+        },
+        {
+          "text": "closing",
+          "phonetic": "ˈkloʊzɪŋ",
+          "examples": [
+            {
+              "en": "The book has a happy closing scene."
+            }
+          ]
+        },
+        {
+          "text": "clothes",
+          "phonetic": "kloz",
+          "examples": [
+            {
+              "en": "He needs new clothes."
+            }
+          ]
+        },
+        {
+          "text": "collect",
+          "phonetic": "kə'lɛkt",
+          "examples": [
+            {
+              "en": "Please collect these papers."
+            }
+          ]
+        },
+        {
+          "text": "college",
+          "phonetic": "'kɑlɪdʒ",
+          "examples": [
+            {
+              "en": "She goes to college soon."
+            }
+          ]
+        },
+        {
+          "text": "colombo",
+          "phonetic": "kəˈləmboʊ",
+          "examples": [
+            {
+              "en": "We saw Colombo city today."
+            }
+          ]
+        },
+        {
+          "text": "combine",
+          "phonetic": "kəm'baɪn",
+          "examples": [
+            {
+              "en": "They combine apples and oranges."
+            }
+          ]
+        },
+        {
+          "text": "comfort",
+          "phonetic": "'kʌmfɚt",
+          "examples": [
+            {
+              "en": "The blanket gave me comfort."
+            }
+          ]
+        },
+        {
+          "text": "command",
+          "phonetic": "kə'mænd",
+          "examples": [
+            {
+              "en": "Mom gave the dog a command."
+            }
+          ]
+        },
+        {
+          "text": "comment",
+          "phonetic": "'kɑmɛnt",
+          "examples": [
+            {
+              "en": "He made a nice comment about math."
+            }
+          ]
+        },
+        {
+          "text": "company",
+          "phonetic": "'kʌmpəni",
+          "examples": [
+            {
+              "en": "My uncle works at a company."
+            }
+          ]
+        },
+        {
+          "text": "compare",
+          "phonetic": "kəm'pɛr",
+          "examples": [
+            {
+              "en": "Please compare these two apples."
+            }
+          ]
+        },
+        {
+          "text": "compass",
+          "phonetic": "'kʌmpəs",
+          "examples": [
+            {
+              "en": "Use the compass to find north."
+            }
+          ]
+        },
+        {
+          "text": "compete",
+          "phonetic": "kəm'pit",
+          "examples": [
+            {
+              "en": "We must compete in the race."
+            }
+          ]
+        },
+        {
+          "text": "complex",
+          "phonetic": "kəm'plɛks; 'kɑm,plɛks",
+          "examples": [
+            {
+              "en": "The math problem is very complex."
+            }
+          ]
+        },
+        {
+          "text": "compose",
+          "phonetic": "kəmˈpoʊz",
+          "examples": [
+            {
+              "en": "She will compose a new song."
+            }
+          ]
+        },
+        {
+          "text": "comrade",
+          "phonetic": "'kɑmræd",
+          "examples": [
+            {
+              "en": "My comrade is a good friend."
+            }
+          ]
+        },
+        {
+          "text": "concept",
+          "phonetic": "'kɑnsɛpt",
+          "examples": [
+            {
+              "en": "This idea is a new concept."
+            }
+          ]
+        },
+        {
+          "text": "concern",
+          "phonetic": "kən'sɝn",
+          "examples": [
+            {
+              "en": "Health is my main concern."
+            }
+          ]
+        },
+        {
+          "text": "concert",
+          "phonetic": "'kɑnsɚt",
+          "examples": [
+            {
+              "en": "We went to the concert last night."
+            }
+          ]
+        },
+        {
+          "text": "condemn",
+          "phonetic": "kən'dɛm",
+          "examples": [
+            {
+              "en": "They condemn his bad behavior loudly."
+            }
+          ]
+        },
+        {
+          "text": "conduct",
+          "phonetic": "kən'dʌkt",
+          "examples": [
+            {
+              "en": "Please conduct the experiment carefully now."
+            }
+          ]
+        },
+        {
+          "text": "confirm",
+          "phonetic": "kən'fɝm",
+          "examples": [
+            {
+              "en": "Please confirm the meeting time."
+            }
+          ]
+        },
+        {
+          "text": "confuse",
+          "phonetic": "kən'fjʊz",
+          "examples": [
+            {
+              "en": "Loud noise can confuse students."
+            }
+          ]
+        },
+        {
+          "text": "connect",
+          "phonetic": "kə'nɛkt",
+          "examples": [
+            {
+              "en": "Can you connect the blue wire?"
+            }
+          ]
+        },
+        {
+          "text": "conquer",
+          "phonetic": "ˈkɑŋkər",
+          "examples": [
+            {
+              "en": "The army will conquer the city."
+            }
+          ]
+        },
+        {
+          "text": "consist",
+          "phonetic": "kən'sɪst",
+          "examples": [
+            {
+              "en": "This soup will consist of vegetables."
+            }
+          ]
+        },
+        {
+          "text": "consult",
+          "phonetic": "kən'sʌlt",
+          "examples": [
+            {
+              "en": "Please consult your teacher often."
+            }
+          ]
+        },
+        {
+          "text": "consume",
+          "phonetic": "kənˈsum",
+          "examples": [
+            {
+              "en": "We consume too much candy daily."
+            }
+          ]
+        },
+        {
+          "text": "contact",
+          "phonetic": "ˈkɑnˌtækt",
+          "examples": [
+            {
+              "en": "Please contact your teacher soon."
+            }
+          ]
+        },
+        {
+          "text": "contain",
+          "phonetic": "kən'ten",
+          "examples": [
+            {
+              "en": "The box can contain many pencils."
+            }
+          ]
+        },
+        {
+          "text": "content",
+          "phonetic": "'kɑntɛnt",
+          "examples": [
+            {
+              "en": "The book has interesting content inside."
+            }
+          ]
+        },
+        {
+          "text": "contest",
+          "phonetic": "ˈkɑntɛst",
+          "examples": [
+            {
+              "en": "Win the school contest."
+            }
+          ]
+        },
+        {
+          "text": "context",
+          "phonetic": "ˈkɑntɛkst",
+          "examples": [
+            {
+              "en": "Know the context before reading the book."
+            }
+          ]
+        },
+        {
+          "text": "control",
+          "phonetic": "kən'trol",
+          "examples": [
+            {
+              "en": "Mom can control the music."
+            }
+          ]
+        },
+        {
+          "text": "cooking",
+          "phonetic": "ˈkʊkɪŋ",
+          "examples": [
+            {
+              "en": "Mom likes cooking dinner."
+            }
+          ]
+        },
+        {
+          "text": "correct",
+          "phonetic": "kə'rɛkt",
+          "examples": [
+            {
+              "en": "The answer is correct."
+            }
+          ]
+        },
+        {
+          "text": "corrupt",
+          "phonetic": "kə'rʌpt",
+          "examples": [
+            {
+              "en": "His money became corrupt quickly."
+            }
+          ]
+        },
+        {
+          "text": "costume",
+          "phonetic": "ˈkɑstum",
+          "examples": [
+            {
+              "en": "She wore a blue costume."
+            }
+          ]
+        },
+        {
+          "text": "cottage",
+          "phonetic": "'kɑtɪdʒ",
+          "examples": [
+            {
+              "en": "They live near a small cottage."
+            }
+          ]
+        },
+        {
+          "text": "council",
+          "phonetic": "ˈkaʊnsəl",
+          "examples": [
+            {
+              "en": "The school council meets every Monday."
+            }
+          ]
+        },
+        {
+          "text": "counter",
+          "phonetic": "'kaʊntɚ",
+          "examples": [
+            {
+              "en": "Please put your book on the counter."
+            }
+          ]
+        },
+        {
+          "text": "country",
+          "phonetic": "'kʌntri",
+          "examples": [
+            {
+              "en": "China is a big country."
+            }
+          ]
+        },
+        {
+          "text": "couplet",
+          "phonetic": "couplet*",
+          "examples": [
+            {
+              "en": "This poem has a nice couplet."
+            }
+          ]
+        },
+        {
+          "text": "courage",
+          "phonetic": "'kɝrɪdʒ",
+          "examples": [
+            {
+              "en": "He has great courage to speak."
+            }
+          ]
+        },
+        {
+          "text": "crowded",
+          "phonetic": "'kraʊdɪd",
+          "examples": [
+            {
+              "en": "The bus was very crowded this morning."
+            }
+          ]
+        },
+        {
+          "text": "crucial",
+          "phonetic": "ˈkruʃəl",
+          "examples": [
+            {
+              "en": "This step is crucial for success."
+            }
+          ]
+        },
+        {
+          "text": "cuisine",
+          "phonetic": "kwɪ'zin",
+          "examples": [
+            {
+              "en": "Chinese cuisine tastes delicious to me."
+            }
+          ]
+        },
+        {
+          "text": "culture",
+          "phonetic": "'kʌltʃɚ",
+          "examples": [
+            {
+              "en": "We study Chinese culture now."
+            }
+          ]
+        },
+        {
+          "text": "curious",
+          "phonetic": "'kjʊrɪəs",
+          "examples": [
+            {
+              "en": "He is curious about the stars."
+            }
+          ]
+        },
+        {
+          "text": "current",
+          "phonetic": "ˈkɑrənt",
+          "examples": [
+            {
+              "en": "What is the current weather like?"
+            }
+          ]
+        },
+        {
+          "text": "curtain",
+          "phonetic": "'kɝtn",
+          "examples": [
+            {
+              "en": "Pull back the window curtain."
+            }
+          ]
+        },
+        {
+          "text": "cushion",
+          "phonetic": "'kʊʃən",
+          "examples": [
+            {
+              "en": "Sit on a soft cushion."
+            }
+          ]
+        },
+        {
+          "text": "customs",
+          "phonetic": "'kʌstəmz",
+          "examples": [
+            {
+              "en": "Many local customs are very interesting."
+            }
+          ]
+        },
+        {
+          "text": "cycling",
+          "phonetic": "ˈsaɪkəlɪŋ",
+          "examples": [
+            {
+              "en": "He likes cycling fast."
+            }
+          ]
+        },
+        {
+          "text": "cyclist",
+          "phonetic": "'saɪklɪst",
+          "examples": [
+            {
+              "en": "A cyclist rode to school today."
+            }
+          ]
+        },
+        {
+          "text": "cypress",
+          "phonetic": "ˈsaɪprɪs",
+          "examples": [
+            {
+              "en": "A tall cypress grew there."
+            }
+          ]
+        },
+        {
+          "text": "dancing",
+          "phonetic": "ˈdænsɪŋ",
+          "examples": [
+            {
+              "en": "She likes dancing very much."
+            }
+          ]
+        },
+        {
+          "text": "declare",
+          "phonetic": "dɪ'klɛr",
+          "examples": [
+            {
+              "en": "The teacher will declare the winner."
+            }
+          ]
+        },
+        {
+          "text": "decline",
+          "phonetic": "dɪ'klaɪn",
+          "examples": [
+            {
+              "en": "Sales began to decline last month."
+            }
+          ]
+        },
+        {
+          "text": "defence",
+          "phonetic": "dɪˈfɛns",
+          "examples": [
+            {
+              "en": "China needs strong defence now."
+            }
+          ]
+        },
+        {
+          "text": "defense",
+          "phonetic": "dɪ'fɛns",
+          "examples": [
+            {
+              "en": "The team showed strong defense."
+            }
+          ]
+        },
+        {
+          "text": "delight",
+          "phonetic": "dɪ'laɪt",
+          "examples": [
+            {
+              "en": "Seeing her brought great delight."
+            }
+          ]
+        },
+        {
+          "text": "deliver",
+          "phonetic": "dɪ'lɪvɚ",
+          "examples": [
+            {
+              "en": "The mailman will deliver the letter."
+            }
+          ]
+        },
+        {
+          "text": "denmark",
+          "phonetic": "ˈdɛnˌmɑrk",
+          "examples": [
+            {
+              "en": "We visited Denmark last summer."
+            }
+          ]
+        },
+        {
+          "text": "dentist",
+          "phonetic": "'dɛntɪst",
+          "examples": [
+            {
+              "en": "The dentist sees my tooth."
+            }
+          ]
+        },
+        {
+          "text": "deposit",
+          "phonetic": "dɪ'pɑzɪt",
+          "examples": [
+            {
+              "en": "Please deposit your money here."
+            }
+          ]
+        },
+        {
+          "text": "depress",
+          "phonetic": "dɪˈprɛs",
+          "examples": [
+            {
+              "en": "Bad news can depress your mood."
+            }
+          ]
+        },
+        {
+          "text": "deserve",
+          "phonetic": "dɪ'zɝv",
+          "examples": [
+            {
+              "en": "You deserve a good present."
+            }
+          ]
+        },
+        {
+          "text": "despair",
+          "phonetic": "dɪˈspɛr",
+          "examples": [
+            {
+              "en": "He felt despair about the test."
+            }
+          ]
+        },
+        {
+          "text": "despite",
+          "phonetic": "dɪˈspaɪt",
+          "examples": [
+            {
+              "en": "Despite the rain, we went outside."
+            }
+          ]
+        },
+        {
+          "text": "dessert",
+          "phonetic": "dɪ'zɝt",
+          "examples": [
+            {
+              "en": "Ice cream is a good dessert."
+            }
+          ]
+        },
+        {
+          "text": "destroy",
+          "phonetic": "dɪ'strɔɪ",
+          "examples": [
+            {
+              "en": "The wind can destroy the house."
+            }
+          ]
+        },
+        {
+          "text": "develop",
+          "phonetic": "dɪ'vɛləp",
+          "examples": [
+            {
+              "en": "We need to develop our skills."
+            }
+          ]
+        },
+        {
+          "text": "dewdrop",
+          "phonetic": "dewdrop*",
+          "examples": [
+            {
+              "en": "A dewdrop sat on the leaf."
+            }
+          ]
+        },
+        {
+          "text": "diagram",
+          "phonetic": "'daɪəɡræm",
+          "examples": [
+            {
+              "en": "Please diagram this math problem well."
+            }
+          ]
+        },
+        {
+          "text": "dialect",
+          "phonetic": "ˈdaɪəˌlɛkt",
+          "examples": [
+            {
+              "en": "He speaks a local dialect well."
+            }
+          ]
+        },
+        {
+          "text": "diamond",
+          "phonetic": "'daɪəmənd",
+          "examples": [
+            {
+              "en": "She wears a diamond ring."
+            }
+          ]
+        },
+        {
+          "text": "digital",
+          "phonetic": "'dɪdʒɪtl",
+          "examples": [
+            {
+              "en": "My phone is digital now."
+            }
+          ]
+        },
+        {
+          "text": "dignity",
+          "phonetic": "'dɪɡnəti",
+          "examples": [
+            {
+              "en": "She showed great dignity always."
+            }
+          ]
+        },
+        {
+          "text": "dilemma",
+          "phonetic": "dɪˈlemə",
+          "examples": [
+            {
+              "en": "I have a choice dilemma."
+            }
+          ]
+        },
+        {
+          "text": "dioxide",
+          "phonetic": "daɪ'ɑksaɪd",
+          "examples": [
+            {
+              "en": "Carbon dioxide is gas."
+            }
+          ]
+        },
+        {
+          "text": "diploma",
+          "phonetic": "dɪ'plomə",
+          "examples": [
+            {
+              "en": "She got her high school diploma today."
+            }
+          ]
+        },
+        {
+          "text": "discuss",
+          "phonetic": "dɪ'skʌs",
+          "examples": [
+            {
+              "en": "We discuss the homework now."
+            }
+          ]
+        },
+        {
+          "text": "disease",
+          "phonetic": "dɪ'ziz",
+          "examples": [
+            {
+              "en": "He has a bad disease."
+            }
+          ]
+        },
+        {
+          "text": "dislike",
+          "phonetic": "dɪs'laɪk",
+          "examples": [
+            {
+              "en": "I dislike eating broccoli."
+            }
+          ]
+        },
+        {
+          "text": "dismiss",
+          "phonetic": "dɪs'mɪs",
+          "examples": [
+            {
+              "en": "The teacher will dismiss the class soon."
+            }
+          ]
+        },
+        {
+          "text": "disobey",
+          "phonetic": "'dɪsə'be",
+          "examples": [
+            {
+              "en": "He will disobey his teacher."
+            }
+          ]
+        },
+        {
+          "text": "display",
+          "phonetic": "dɪˈspleɪ",
+          "examples": [
+            {
+              "en": "See the flower display today."
+            }
+          ]
+        },
+        {
+          "text": "distant",
+          "phonetic": "'dɪstənt",
+          "examples": [
+            {
+              "en": "The stars look very distant tonight."
+            }
+          ]
+        },
+        {
+          "text": "disturb",
+          "phonetic": "dɪ'stɝb",
+          "examples": [
+            {
+              "en": "Please do not disturb my sleep."
+            }
+          ]
+        },
+        {
+          "text": "diverse",
+          "phonetic": "daɪ'vɝs",
+          "examples": [
+            {
+              "en": "They have diverse hobbies and interests."
+            }
+          ]
+        },
+        {
+          "text": "dolphin",
+          "phonetic": "ˈdɑlfən",
+          "examples": [
+            {
+              "en": "A dolphin jumped out of the blue sea."
+            }
+          ]
+        },
+        {
+          "text": "doorway",
+          "phonetic": "ˈdɔrˌweɪ",
+          "examples": [
+            {
+              "en": "The door is near the doorway."
+            }
+          ]
+        },
+        {
+          "text": "drawing",
+          "phonetic": "'drɔɪŋ",
+          "examples": [
+            {
+              "en": "She is good at drawing pictures."
+            }
+          ]
+        },
+        {
+          "text": "dreamed",
+          "phonetic": "drimd",
+          "examples": [
+            {
+              "en": "Dreamed of flying when small."
+            }
+          ]
+        },
+        {
+          "text": "drought",
+          "phonetic": "draʊt",
+          "examples": [
+            {
+              "en": "The drought made the grass brown."
+            }
+          ]
+        },
+        {
+          "text": "dustbin",
+          "phonetic": "'dʌstbɪn",
+          "examples": [
+            {
+              "en": "Put the trash in the dustbin."
+            }
+          ]
+        },
+        {
+          "text": "dynamic",
+          "phonetic": "daɪ'næmɪk",
+          "examples": [
+            {
+              "en": "The city has dynamic energy now."
+            }
+          ]
+        },
+        {
+          "text": "dynasty",
+          "phonetic": "'daɪnəsti",
+          "examples": [
+            {
+              "en": "The Han Dynasty was very long."
+            }
+          ]
+        },
+        {
+          "text": "earring",
+          "phonetic": "ˈɪrɪŋ",
+          "examples": [
+            {
+              "en": "She wears a pretty earring."
+            }
+          ]
+        },
+        {
+          "text": "eastern",
+          "phonetic": "'istɚn",
+          "examples": [
+            {
+              "en": "The eastern sun rises early."
+            }
+          ]
+        },
+        {
+          "text": "ecology",
+          "phonetic": "ɪ'kɑlədʒi",
+          "examples": [
+            {
+              "en": "Ecology studies plant and animal life."
+            }
+          ]
+        },
+        {
+          "text": "economy",
+          "phonetic": "ɪˈkɑnəmi",
+          "examples": [
+            {
+              "en": "We save money for the economy."
+            }
+          ]
+        },
+        {
+          "text": "ecuador",
+          "phonetic": "ˈɛkwəˌdɔr",
+          "examples": [
+            {
+              "en": "My friend lives in Ecuador."
+            }
+          ]
+        },
+        {
+          "text": "edition",
+          "phonetic": "ɪ'dɪʃən",
+          "examples": [
+            {
+              "en": "This is the second edition book."
+            }
+          ]
+        },
+        {
+          "text": "edmonds",
+          "phonetic": "ˈɛdməndz",
+          "examples": [
+            {
+              "en": "My friend lives near Edmonds."
+            }
+          ]
+        },
+        {
+          "text": "educate",
+          "phonetic": "'ɛdʒuket",
+          "examples": [
+            {
+              "en": "Teachers help us to educate."
+            }
+          ]
+        },
+        {
+          "text": "elderly",
+          "phonetic": "ˈɛldərli",
+          "examples": [
+            {
+              "en": "The elderly woman smiles at us."
+            }
+          ]
+        },
+        {
+          "text": "elegant",
+          "phonetic": "'ɛləgənt",
+          "examples": [
+            {
+              "en": "Her dress is very elegant and pretty."
+            }
+          ]
+        },
+        {
+          "text": "emotion",
+          "phonetic": "ˈiˌmoʊʃən",
+          "examples": [
+            {
+              "en": "Joy is a strong emotion."
+            }
+          ]
+        },
+        {
+          "text": "emperor",
+          "phonetic": "'ɛmpərɚ",
+          "examples": [
+            {
+              "en": "The emperor wears a crown."
+            }
+          ]
+        },
+        {
+          "text": "england",
+          "phonetic": "'iŋɡlənd",
+          "examples": [
+            {
+              "en": "We like England very much."
+            }
+          ]
+        },
+        {
+          "text": "english",
+          "phonetic": "ɪŋɡlɪʃ",
+          "examples": [
+            {
+              "en": "She likes English class."
+            }
+          ]
+        },
+        {
+          "text": "evening",
+          "phonetic": "'ivnɪŋ",
+          "examples": [
+            {
+              "en": "We see the evening sun."
+            }
+          ]
+        },
+        {
+          "text": "exactly",
+          "phonetic": "ɪɡ'zæktli",
+          "examples": [
+            {
+              "en": "The answer is exactly correct now."
+            }
+          ]
+        },
+        {
+          "text": "examine",
+          "phonetic": "ɪg'zæmɪn",
+          "examples": [
+            {
+              "en": "We must examine the new book."
+            }
+          ]
+        },
+        {
+          "text": "example",
+          "phonetic": "ɪg'zæmpl",
+          "examples": [
+            {
+              "en": "Apples are a good example."
+            }
+          ]
+        },
+        {
+          "text": "excited",
+          "phonetic": "ɪkˈsaɪtɪd",
+          "examples": [
+            {
+              "en": "Tom is feeling excited today."
+            }
+          ]
+        },
+        {
+          "text": "explain",
+          "phonetic": "ɪk'splen",
+          "examples": [
+            {
+              "en": "Can you explain this math problem."
+            }
+          ]
+        },
+        {
+          "text": "express",
+          "phonetic": "ɪk'sprɛs",
+          "examples": [
+            {
+              "en": "She can express her happy feelings."
+            }
+          ]
+        },
+        {
+          "text": "factory",
+          "phonetic": "'fæktri",
+          "examples": [
+            {
+              "en": "The car is at the factory."
+            }
+          ]
+        },
+        {
+          "text": "failure",
+          "phonetic": "'feljɚ",
+          "examples": [
+            {
+              "en": "His computer had a system failure."
+            }
+          ]
+        },
+        {
+          "text": "fantasy",
+          "phonetic": "'fæntəsi",
+          "examples": [
+            {
+              "en": "The dragon is a fantasy creature."
+            }
+          ]
+        },
+        {
+          "text": "faraway",
+          "phonetic": "ˈfɑrəˈweɪ",
+          "examples": [
+            {
+              "en": "The stars are faraway lights."
+            }
+          ]
+        },
+        {
+          "text": "fashion",
+          "phonetic": "ˈfæʃən",
+          "examples": [
+            {
+              "en": "Blue is the new fashion."
+            }
+          ]
+        },
+        {
+          "text": "feature",
+          "phonetic": "ˈfiʧər",
+          "examples": [
+            {
+              "en": "A big feature is color."
+            }
+          ]
+        },
+        {
+          "text": "feeling",
+          "phonetic": "'filɪŋ",
+          "examples": [
+            {
+              "en": "I have a happy feeling today."
+            }
+          ]
+        },
+        {
+          "text": "fiction",
+          "phonetic": "'fɪkʃən",
+          "examples": [
+            {
+              "en": "She reads a good fiction book."
+            }
+          ]
+        },
+        {
+          "text": "fifteen",
+          "phonetic": ",fɪf'tin",
+          "examples": [
+            {
+              "en": "Fifteen apples are on the table."
+            }
+          ]
+        },
+        {
+          "text": "finland",
+          "phonetic": "ˈfɪnˌlænd",
+          "examples": [
+            {
+              "en": "My friend lives in Finland."
+            }
+          ]
+        },
+        {
+          "text": "finnish",
+          "phonetic": "ˈfɪnɪʃ",
+          "examples": [
+            {
+              "en": "She speaks Finnish very well."
+            }
+          ]
+        },
+        {
+          "text": "fireman",
+          "phonetic": "ˈfaɪrmən",
+          "examples": [
+            {
+              "en": "The fireman helps the cat."
+            }
+          ]
+        },
+        {
+          "text": "firstly",
+          "phonetic": "ˈfərstli",
+          "examples": [
+            {
+              "en": "Firstly, I eat breakfast every day."
+            }
+          ]
+        },
+        {
+          "text": "folding",
+          "phonetic": "ˈfoʊldɪŋ",
+          "examples": [
+            {
+              "en": "This is a folding chair."
+            }
+          ]
+        },
+        {
+          "text": "foreign",
+          "phonetic": "'fɔrən",
+          "examples": [
+            {
+              "en": "She likes foreign movies."
+            }
+          ]
+        },
+        {
+          "text": "forever",
+          "phonetic": "fɚ'ɛvɚ",
+          "examples": [
+            {
+              "en": "I will be happy forever."
+            }
+          ]
+        },
+        {
+          "text": "forward",
+          "phonetic": "'fɔrwɚd",
+          "examples": [
+            {
+              "en": "Go forward to the door."
+            }
+          ]
+        },
+        {
+          "text": "freshly",
+          "phonetic": "ˈfrɛʃli",
+          "examples": [
+            {
+              "en": "She ate bread freshly now."
+            }
+          ]
+        },
+        {
+          "text": "general",
+          "phonetic": "'dʒɛnrəl",
+          "examples": [
+            {
+              "en": "He is a general student."
+            }
+          ]
+        },
+        {
+          "text": "germany",
+          "phonetic": "'dʒɝməni",
+          "examples": [
+            {
+              "en": "I like Germany school."
+            }
+          ]
+        },
+        {
+          "text": "giraffe",
+          "phonetic": "dʒə'ræf",
+          "examples": [
+            {
+              "en": "The giraffe eats leaves."
+            }
+          ]
+        },
+        {
+          "text": "goddess",
+          "phonetic": "ˈgɑdəs",
+          "examples": [
+            {
+              "en": "The goddess wears white clothes."
+            }
+          ]
+        },
+        {
+          "text": "grammar",
+          "phonetic": "'græmɚ",
+          "examples": [
+            {
+              "en": "English grammar is very hard."
+            }
+          ]
+        },
+        {
+          "text": "grandma",
+          "phonetic": "ɡrænmɑ",
+          "examples": [
+            {
+              "en": "Grandma reads books."
+            }
+          ]
+        },
+        {
+          "text": "grandpa",
+          "phonetic": "grandpa",
+          "examples": [
+            {
+              "en": "Grandpa plays ball."
+            }
+          ]
+        },
+        {
+          "text": "griffin",
+          "phonetic": "ˈgrɪfɪn",
+          "examples": [
+            {
+              "en": "Griffin lives near the park."
+            }
+          ]
+        },
+        {
+          "text": "haircut",
+          "phonetic": "'hɛrkʌt",
+          "examples": [
+            {
+              "en": "He got a new haircut."
+            }
+          ]
+        },
+        {
+          "text": "handbag",
+          "phonetic": "'hænd'bæg",
+          "examples": [
+            {
+              "en": "She carries a blue handbag."
+            }
+          ]
+        },
+        {
+          "text": "happily",
+          "phonetic": "'hæpɪli",
+          "examples": [
+            {
+              "en": "They sing happily now."
+            }
+          ]
+        },
+        {
+          "text": "harmful",
+          "phonetic": "'hɑrmfəl",
+          "examples": [
+            {
+              "en": "Smoking is very harmful."
+            }
+          ]
+        },
+        {
+          "text": "healthy",
+          "phonetic": "'hɛlθi",
+          "examples": [
+            {
+              "en": "Apples are very healthy food."
+            }
+          ]
+        },
+        {
+          "text": "heavier",
+          "phonetic": "ˈhɛviər",
+          "examples": [
+            {
+              "en": "My bag is heavier than yours."
+            }
+          ]
+        },
+        {
+          "text": "helpful",
+          "phonetic": "'hɛlpfl",
+          "examples": [
+            {
+              "en": "This book is very helpful."
+            }
+          ]
+        },
+        {
+          "text": "herself",
+          "phonetic": "hɝ'sɛlf",
+          "examples": [
+            {
+              "en": "She helped herself eat."
+            }
+          ]
+        },
+        {
+          "text": "himself",
+          "phonetic": "hɪm'sɛlf",
+          "examples": [
+            {
+              "en": "Tom likes to play with himself."
+            }
+          ]
+        },
+        {
+          "text": "history",
+          "phonetic": "ˈhɪstəri; ˈhɪstri",
+          "examples": [
+            {
+              "en": "History class is very fun."
+            }
+          ]
+        },
+        {
+          "text": "holiday",
+          "phonetic": "'hɑləde",
+          "examples": [
+            {
+              "en": "We have a fun holiday."
+            }
+          ]
+        },
+        {
+          "text": "hostess",
+          "phonetic": "'hostəs",
+          "examples": [
+            {
+              "en": "My mom is a good hostess."
+            }
+          ]
+        },
+        {
+          "text": "however",
+          "phonetic": "haʊ'ɛvɚ",
+          "examples": [
+            {
+              "en": "It was cold, however, sunny."
+            }
+          ]
+        },
+        {
+          "text": "hundred",
+          "phonetic": "'hʌndrəd",
+          "examples": [
+            {
+              "en": "One hundred apples are red."
+            }
+          ]
+        },
+        {
+          "text": "hurtful",
+          "phonetic": "ˈhərtfəl",
+          "examples": [
+            {
+              "en": "The words were very hurtful."
+            }
+          ]
+        },
+        {
+          "text": "husband",
+          "phonetic": "'hʌzbənd",
+          "examples": [
+            {
+              "en": "My husband helps with chores."
+            }
+          ]
+        },
+        {
+          "text": "illness",
+          "phonetic": "'ɪlnəs",
+          "examples": [
+            {
+              "en": "He has a bad illness."
+            }
+          ]
+        },
+        {
+          "text": "imagine",
+          "phonetic": "ɪ'mædʒɪn",
+          "examples": [
+            {
+              "en": "Can you imagine this scene?"
+            }
+          ]
+        },
+        {
+          "text": "improve",
+          "phonetic": "ɪm'pruv",
+          "examples": [
+            {
+              "en": "You must improve your English now."
+            }
+          ]
+        },
+        {
+          "text": "include",
+          "phonetic": "ɪn'klud",
+          "examples": [
+            {
+              "en": "We include apples and bananas."
+            }
+          ]
+        },
+        {
+          "text": "inspire",
+          "phonetic": "ɪn'spaɪɚ",
+          "examples": [
+            {
+              "en": "The teacher can inspire us."
+            }
+          ]
+        },
+        {
+          "text": "instead",
+          "phonetic": "ɪn'stɛd",
+          "examples": [
+            {
+              "en": "I eat apples instead of bananas."
+            }
+          ]
+        },
+        {
+          "text": "involve",
+          "phonetic": "ˌɪnˈvɑlv",
+          "examples": [
+            {
+              "en": "Math will involve many sums."
+            }
+          ]
+        },
+        {
+          "text": "ireland",
+          "phonetic": "'aɪrlənd",
+          "examples": [
+            {
+              "en": "We like Ireland very much."
+            }
+          ]
+        },
+        {
+          "text": "italian",
+          "phonetic": "ɪˈtæljən",
+          "examples": [
+            {
+              "en": "She likes Italian food."
+            }
+          ]
+        },
+        {
+          "text": "iuckily",
+          "phonetic": "iuckily*",
+          "examples": [
+            {
+              "en": "Luckily, the rain stopped today."
+            }
+          ]
+        },
+        {
+          "text": "january",
+          "phonetic": "'dʒænjʊ'ɛri",
+          "examples": [
+            {
+              "en": "January is a cold month."
+            }
+          ]
+        },
+        {
+          "text": "jasmine",
+          "phonetic": "ˈʤæzmɪn",
+          "examples": [
+            {
+              "en": "She smells jasmine flowers."
+            }
+          ]
+        },
+        {
+          "text": "jessica",
+          "phonetic": "ˈʤɛsɪkə",
+          "examples": [
+            {
+              "en": "Jessica reads a big book."
+            }
+          ]
+        },
+        {
+          "text": "journey",
+          "phonetic": "'dʒɝni",
+          "examples": [
+            {
+              "en": "We start a long journey."
+            }
+          ]
+        },
+        {
+          "text": "jumping",
+          "phonetic": "ˈʤəmpɪŋ",
+          "examples": [
+            {
+              "en": "Birds are jumping high."
+            }
+          ]
+        },
+        {
+          "text": "kitchen",
+          "phonetic": "'kɪtʃɪn",
+          "examples": [
+            {
+              "en": "Mom cooks in the kitchen."
+            }
+          ]
+        },
+        {
+          "text": "lantern",
+          "phonetic": "'læntɚn",
+          "examples": [
+            {
+              "en": "We carry a small lantern."
+            }
+          ]
+        },
+        {
+          "text": "laughed",
+          "phonetic": "læft",
+          "examples": [
+            {
+              "en": "She laughed so loud."
+            }
+          ]
+        },
+        {
+          "text": "library",
+          "phonetic": "laɪˌbrɛrɪ",
+          "examples": [
+            {
+              "en": "Go to the school library."
+            }
+          ]
+        },
+        {
+          "text": "license",
+          "phonetic": "'laɪsns",
+          "examples": [
+            {
+              "en": "Show your driver's license please."
+            }
+          ]
+        },
+        {
+          "text": "located",
+          "phonetic": "ˈloʊˌkeɪtəd",
+          "examples": [
+            {
+              "en": "My school is located near the park."
+            }
+          ]
+        },
+        {
+          "text": "luggage",
+          "phonetic": "'lʌɡɪdʒ",
+          "examples": [
+            {
+              "en": "Put your luggage in the trunk."
+            }
+          ]
+        },
+        {
+          "text": "machine",
+          "phonetic": "mə'ʃin",
+          "examples": [
+            {
+              "en": "Dad fixed the machine."
+            }
+          ]
+        },
+        {
+          "text": "manager",
+          "phonetic": "'mænɪdʒɚ",
+          "examples": [
+            {
+              "en": "My teacher is a good manager."
+            }
+          ]
+        },
+        {
+          "text": "married",
+          "phonetic": "'mærɪd",
+          "examples": [
+            {
+              "en": "She is a married student."
+            }
+          ]
+        },
+        {
+          "text": "meaning",
+          "phonetic": "'minɪŋ",
+          "examples": [
+            {
+              "en": "What is the meaning of this?"
+            }
+          ]
+        },
+        {
+          "text": "measure",
+          "phonetic": "'mɛʒɚ",
+          "examples": [
+            {
+              "en": "Please measure my pencil now."
+            }
+          ]
+        },
+        {
+          "text": "medical",
+          "phonetic": "'mɛdɪkl",
+          "examples": [
+            {
+              "en": "She has medical knowledge."
+            }
+          ]
+        },
+        {
+          "text": "meeting",
+          "phonetic": "'mitɪŋ",
+          "examples": [
+            {
+              "en": "We have a meeting at school."
+            }
+          ]
+        },
+        {
+          "text": "mention",
+          "phonetic": "'mɛnʃən",
+          "examples": [
+            {
+              "en": "Please mention your name now."
+            }
+          ]
+        },
+        {
+          "text": "message",
+          "phonetic": "'mɛsɪdʒ",
+          "examples": [
+            {
+              "en": "He sent a quick message."
+            }
+          ]
+        },
+        {
+          "text": "mistake",
+          "phonetic": "mɪ'stek",
+          "examples": [
+            {
+              "en": "I made a small mistake today."
+            }
+          ]
+        },
+        {
+          "text": "mixture",
+          "phonetic": "'mɪkstʃɚ",
+          "examples": [
+            {
+              "en": "This is a sweet mixture."
+            }
+          ]
+        },
+        {
+          "text": "monitor",
+          "phonetic": "'mɔnɪtɚ",
+          "examples": [
+            {
+              "en": "Please monitor the class well."
+            }
+          ]
+        },
+        {
+          "text": "morning",
+          "phonetic": "'mɔrnɪŋ",
+          "examples": [
+            {
+              "en": "I eat breakfast in the morning."
+            }
+          ]
+        },
+        {
+          "text": "musical",
+          "phonetic": "'mjuzɪkl",
+          "examples": [
+            {
+              "en": "This song is very musical."
+            }
+          ]
+        },
+        {
+          "text": "mystery",
+          "phonetic": "ˈmɪstəri",
+          "examples": [
+            {
+              "en": "A ghost is a great mystery."
+            }
+          ]
+        },
+        {
+          "text": "natural",
+          "phonetic": "'nætʃrəl",
+          "examples": [
+            {
+              "en": "The sky has natural colors."
+            }
+          ]
+        },
+        {
+          "text": "naughty",
+          "phonetic": "ˈnɔti",
+          "examples": [
+            {
+              "en": "My little brother is naughty."
+            }
+          ]
+        },
+        {
+          "text": "neither",
+          "phonetic": "ˈniðɚ; ˈnaɪðɚ",
+          "examples": [
+            {
+              "en": "Neither Tom nor Mary came."
+            }
+          ]
+        },
+        {
+          "text": "nervous",
+          "phonetic": "'nɝvəs",
+          "examples": [
+            {
+              "en": "She felt nervous before the test."
+            }
+          ]
+        },
+        {
+          "text": "nothing",
+          "phonetic": "'nʌθɪŋ",
+          "examples": [
+            {
+              "en": "There is nothing here."
+            }
+          ]
+        },
+        {
+          "text": "october",
+          "phonetic": "ɑk'tobɚ",
+          "examples": [
+            {
+              "en": "October is a nice month."
+            }
+          ]
+        },
+        {
+          "text": "officer",
+          "phonetic": "'ɔfɪsɚ",
+          "examples": [
+            {
+              "en": "The officer drives the big car."
+            }
+          ]
+        },
+        {
+          "text": "oneself",
+          "phonetic": "wʌn'sɛlf",
+          "examples": [
+            {
+              "en": "She hurt herself when she fell."
+            }
+          ]
+        },
+        {
+          "text": "opening",
+          "phonetic": "'opənɪŋ",
+          "examples": [
+            {
+              "en": "The opening is on the door."
+            }
+          ]
+        },
+        {
+          "text": "opinion",
+          "phonetic": "ə'pɪnjən",
+          "examples": [
+            {
+              "en": "What is your opinion about this?"
+            }
+          ]
+        },
+        {
+          "text": "outside",
+          "phonetic": ",aʊt'saɪd",
+          "examples": [
+            {
+              "en": "The park is outside the school."
+            }
+          ]
+        },
+        {
+          "text": "pacific",
+          "phonetic": "pəˈsɪfɪk",
+          "examples": [
+            {
+              "en": "We saw the Pacific ocean waves."
+            }
+          ]
+        },
+        {
+          "text": "package",
+          "phonetic": "'pækɪdʒ",
+          "examples": [
+            {
+              "en": "I bought a new package of pens."
+            }
+          ]
+        },
+        {
+          "text": "painful",
+          "phonetic": "'penfl",
+          "examples": [
+            {
+              "en": "The test was very painful today."
+            }
+          ]
+        },
+        {
+          "text": "painter",
+          "phonetic": "'pentɚ",
+          "examples": [
+            {
+              "en": "The painter paints a big tree."
+            }
+          ]
+        },
+        {
+          "text": "pancake",
+          "phonetic": "'pænkek",
+          "examples": [
+            {
+              "en": "He made a sweet pancake."
+            }
+          ]
+        },
+        {
+          "text": "partner",
+          "phonetic": "'pɑrtnɚ",
+          "examples": [
+            {
+              "en": "She is my best partner."
+            }
+          ]
+        },
+        {
+          "text": "passage",
+          "phonetic": "'pæsɪdʒ",
+          "examples": [
+            {
+              "en": "Find the reading passage quickly."
+            }
+          ]
+        },
+        {
+          "text": "patient",
+          "phonetic": "'peʃnt",
+          "examples": [
+            {
+              "en": "He is a patient student always."
+            }
+          ]
+        },
+        {
+          "text": "pattern",
+          "phonetic": "'pætɚn",
+          "examples": [
+            {
+              "en": "Look at the flower pattern here."
+            }
+          ]
+        },
+        {
+          "text": "pauline",
+          "phonetic": "pɔˈlin",
+          "examples": [
+            {
+              "en": "Pauline has a new blue pencil."
+            }
+          ]
+        },
+        {
+          "text": "percent",
+          "phonetic": "pɚ'sɛnt",
+          "examples": [
+            {
+              "en": "This is ninety percent good."
+            }
+          ]
+        },
+        {
+          "text": "perfect",
+          "phonetic": "ˈpɝfɪkt; (for v.) pɝˈfɛkt",
+          "examples": [
+            {
+              "en": "She sings a perfect song."
+            }
+          ]
+        },
+        {
+          "text": "perform",
+          "phonetic": "pɚ'fɔrm",
+          "examples": [
+            {
+              "en": "She can perform a song well."
+            }
+          ]
+        },
+        {
+          "text": "perhaps",
+          "phonetic": "pɚ'hæps",
+          "examples": [
+            {
+              "en": "Perhaps we will go to the park."
+            }
+          ]
+        },
+        {
+          "text": "physics",
+          "phonetic": "'fɪzɪks",
+          "examples": [
+            {
+              "en": "Physics is my favorite subject."
+            }
+          ]
+        },
+        {
+          "text": "picasso",
+          "phonetic": "pɪˈkɑsoʊ",
+          "examples": [
+            {
+              "en": "Picasso painted a blue cat."
+            }
+          ]
+        },
+        {
+          "text": "picture",
+          "phonetic": "'pɪktʃɚ",
+          "examples": [
+            {
+              "en": "See the pretty picture."
+            }
+          ]
+        },
+        {
+          "text": "pioneer",
+          "phonetic": ",paɪə'nɪr",
+          "examples": [
+            {
+              "en": "She will pioneer a new idea."
+            }
+          ]
+        },
+        {
+          "text": "plastic",
+          "phonetic": "'plæstɪk",
+          "examples": [
+            {
+              "en": "This toy is plastic."
+            }
+          ]
+        },
+        {
+          "text": "playing",
+          "phonetic": "pleɪɪŋ",
+          "examples": [
+            {
+              "en": "The dog is playing ball."
+            }
+          ]
+        },
+        {
+          "text": "popular",
+          "phonetic": "'pɑpjəlɚ",
+          "examples": [
+            {
+              "en": "This song is very popular."
+            }
+          ]
+        },
+        {
+          "text": "postman",
+          "phonetic": "'postmən",
+          "examples": [
+            {
+              "en": "The postman brings mail."
+            }
+          ]
+        },
+        {
+          "text": "prepare",
+          "phonetic": "prɪ'pɛr",
+          "examples": [
+            {
+              "en": "We must prepare for the test."
+            }
+          ]
+        },
+        {
+          "text": "present",
+          "phonetic": "'prɛznt",
+          "examples": [
+            {
+              "en": "Can you present your book?"
+            }
+          ]
+        },
+        {
+          "text": "prevent",
+          "phonetic": "pri'vɛnt",
+          "examples": [
+            {
+              "en": "Wear a mask to prevent sickness."
+            }
+          ]
+        },
+        {
+          "text": "primary",
+          "phonetic": "'praɪmɛri",
+          "examples": [
+            {
+              "en": "Math is my primary subject now."
+            }
+          ]
+        },
+        {
+          "text": "private",
+          "phonetic": "'praɪvət",
+          "examples": [
+            {
+              "en": "This is my private room."
+            }
+          ]
+        },
+        {
+          "text": "problem",
+          "phonetic": "'prɑbləm",
+          "examples": [
+            {
+              "en": "This math problem is hard."
+            }
+          ]
+        },
+        {
+          "text": "process",
+          "phonetic": "'prɑsɛs",
+          "examples": [
+            {
+              "en": "The washing process takes time."
+            }
+          ]
+        },
+        {
+          "text": "produce",
+          "phonetic": "prə'dus",
+          "examples": [
+            {
+              "en": "The farm can produce many apples."
+            }
+          ]
+        },
+        {
+          "text": "product",
+          "phonetic": "'prɑdʌkt",
+          "examples": [
+            {
+              "en": "This phone is a new product."
+            }
+          ]
+        },
+        {
+          "text": "program",
+          "phonetic": "ˈproʊˌgræm",
+          "examples": [
+            {
+              "en": "The program runs very fast."
+            }
+          ]
+        },
+        {
+          "text": "project",
+          "phonetic": "prəˈdʒɛkt; prɑdʒɛkt",
+          "examples": [
+            {
+              "en": "We start a new project."
+            }
+          ]
+        },
+        {
+          "text": "promise",
+          "phonetic": "'prɑmɪs",
+          "examples": [
+            {
+              "en": "She made a nice promise to him."
+            }
+          ]
+        },
+        {
+          "text": "protect",
+          "phonetic": "prə'tɛkt",
+          "examples": [
+            {
+              "en": "Mom will protect her little dog."
+            }
+          ]
+        },
+        {
+          "text": "provide",
+          "phonetic": "prə'vaɪd",
+          "examples": [
+            {
+              "en": "The teacher will provide new books."
+            }
+          ]
+        },
+        {
+          "text": "pumpkin",
+          "phonetic": "ˈpəmpkɪn",
+          "examples": [
+            {
+              "en": "He carved a big pumpkin."
+            }
+          ]
+        },
+        {
+          "text": "purpose",
+          "phonetic": "'pɝpəs",
+          "examples": [
+            {
+              "en": "What is the purpose of this book."
+            }
+          ]
+        },
+        {
+          "text": "quality",
+          "phonetic": "'kwɑləti",
+          "examples": [
+            {
+              "en": "The apple has good quality."
+            }
+          ]
+        },
+        {
+          "text": "quarter",
+          "phonetic": "'kwɔrtɚ",
+          "examples": [
+            {
+              "en": "Eat one quarter apple."
+            }
+          ]
+        },
+        {
+          "text": "quickly",
+          "phonetic": "kˈwɪkli",
+          "examples": [
+            {
+              "en": "Run quickly to the door."
+            }
+          ]
+        },
+        {
+          "text": "railway",
+          "phonetic": "'relwe",
+          "examples": [
+            {
+              "en": "We take the railway home."
+            }
+          ]
+        },
+        {
+          "text": "rainbow",
+          "phonetic": "'renbo",
+          "examples": [
+            {
+              "en": "A rainbow shone in the sky."
+            }
+          ]
+        },
+        {
+          "text": "receive",
+          "phonetic": "rɪ'siv",
+          "examples": [
+            {
+              "en": "She will receive a gift."
+            }
+          ]
+        },
+        {
+          "text": "recycle",
+          "phonetic": ",ri'saɪkl",
+          "examples": [
+            {
+              "en": "We recycle plastic."
+            }
+          ]
+        },
+        {
+          "text": "redwood",
+          "phonetic": "ˈrɛdˌwʊd",
+          "examples": [
+            {
+              "en": "The big redwood is tall."
+            }
+          ]
+        },
+        {
+          "text": "referee",
+          "phonetic": ",rɛfə'ri",
+          "examples": [
+            {
+              "en": "The referee blew the whistle."
+            }
+          ]
+        },
+        {
+          "text": "reflect",
+          "phonetic": "rɪ'flɛkt",
+          "examples": [
+            {
+              "en": "You reflect on your day."
+            }
+          ]
+        },
+        {
+          "text": "regular",
+          "phonetic": "'rɛgjəlɚ",
+          "examples": [
+            {
+              "en": "We have a regular class."
+            }
+          ]
+        },
+        {
+          "text": "relaxed",
+          "phonetic": "rɪˈlækst",
+          "examples": [
+            {
+              "en": "The dog looks very relaxed now."
+            }
+          ]
+        },
+        {
+          "text": "replace",
+          "phonetic": "rɪ'ples",
+          "examples": [
+            {
+              "en": "We need to replace the old chair."
+            }
+          ]
+        },
+        {
+          "text": "request",
+          "phonetic": "rɪ'kwɛst",
+          "examples": [
+            {
+              "en": "Please make a small request."
+            }
+          ]
+        },
+        {
+          "text": "require",
+          "phonetic": "rɪ'kwaɪr",
+          "examples": [
+            {
+              "en": "The teacher will require answers."
+            }
+          ]
+        },
+        {
+          "text": "reunion",
+          "phonetic": "riˈunjən",
+          "examples": [
+            {
+              "en": "We had a family reunion party."
+            }
+          ]
+        },
+        {
+          "text": "reveal",
+          "phonetic": "rɪˈvil",
+          "examples": [
+            {
+              "en": "The curtain will reveal the stage."
+            }
+          ]
+        },
+        {
+          "text": "revise",
+          "phonetic": "rɪˈvaɪz",
+          "examples": [
+            {
+              "en": "Please revise your essay now."
+            }
+          ]
+        },
+        {
+          "text": "revive",
+          "phonetic": "rɪˈvaɪv",
+          "examples": [
+            {
+              "en": "The doctor tried to revive the patient."
+            }
+          ]
+        },
+        {
+          "text": "reward",
+          "phonetic": "rɪ'wɔrd",
+          "examples": [
+            {
+              "en": "He got a good reward for study."
+            }
+          ]
+        },
+        {
+          "text": "rewind",
+          "phonetic": ",ri'waɪnd",
+          "examples": [
+            {
+              "en": "Please rewind the video tape."
+            }
+          ]
+        },
+        {
+          "text": "rhythm",
+          "phonetic": "ˈrɪðəm",
+          "examples": [
+            {
+              "en": "The song has a fast rhythm."
+            }
+          ]
+        },
+        {
+          "text": "rocket",
+          "phonetic": "'rɑkɪt",
+          "examples": [
+            {
+              "en": "The rocket flew very fast."
+            }
+          ]
+        },
+        {
+          "text": "roller",
+          "phonetic": "'rolɚ",
+          "examples": [
+            {
+              "en": "She used a roller on the paint."
+            }
+          ]
+        },
+        {
+          "text": "routine",
+          "phonetic": "rʊ'tin",
+          "examples": [
+            {
+              "en": "My morning routine is simple."
+            }
+          ]
+        },
+        {
+          "text": "rubbish",
+          "phonetic": "'rʌbɪʃ",
+          "examples": [
+            {
+              "en": "Throw the rubbish in bin."
+            }
+          ]
+        },
+        {
+          "text": "rumour",
+          "phonetic": "ˈrumər",
+          "examples": [
+            {
+              "en": "A rumour says the test is tomorrow."
+            }
+          ]
+        },
+        {
+          "text": "runner",
+          "phonetic": "'rʌnɚ",
+          "examples": [
+            {
+              "en": "My brother is a fast runner."
+            }
+          ]
+        },
+        {
+          "text": "russian",
+          "phonetic": "'rʌʃən",
+          "examples": [
+            {
+              "en": "He speaks Russian well."
+            }
+          ]
+        },
+        {
+          "text": "sacred",
+          "phonetic": "'sekrɪd",
+          "examples": [
+            {
+              "en": "This temple is a sacred place."
+            }
+          ]
+        },
+        {
+          "text": "sadness",
+          "phonetic": "'sædnəs",
+          "examples": [
+            {
+              "en": "She felt great sadness today."
+            }
+          ]
+        },
+        {
+          "text": "sailor",
+          "phonetic": "'selɚ",
+          "examples": [
+            {
+              "en": "The sailor fixed the sail."
+            }
+          ]
+        },
+        {
+          "text": "salary",
+          "phonetic": "'sæləri",
+          "examples": [
+            {
+              "en": "My father will salary his worker."
+            }
+          ]
+        },
+        {
+          "text": "salute",
+          "phonetic": "sə'lut",
+          "examples": [
+            {
+              "en": "He gave the flag a salute."
+            }
+          ]
+        },
+        {
+          "text": "sample",
+          "phonetic": "ˈsæmpəl",
+          "examples": [
+            {
+              "en": "This is a good sample of rice."
+            }
+          ]
+        },
+        {
+          "text": "saucer",
+          "phonetic": "'sɔsɚ",
+          "examples": [
+            {
+              "en": "Put the cup on the saucer."
+            }
+          ]
+        },
+        {
+          "text": "sausage",
+          "phonetic": "'sɔsɪdʒ",
+          "examples": [
+            {
+              "en": "He ate a tasty sausage for lunch."
+            }
+          ]
+        },
+        {
+          "text": "savage",
+          "phonetic": "'sævɪdʒ",
+          "examples": [
+            {
+              "en": "The savage animal ate meat."
+            }
+          ]
+        },
+        {
+          "text": "saving",
+          "phonetic": "ˈseɪvɪŋ",
+          "examples": [
+            {
+              "en": "Saving money helps buy new books."
+            }
+          ]
+        },
+        {
+          "text": "scenery",
+          "phonetic": "'sinəri",
+          "examples": [
+            {
+              "en": "The mountain scenery is very beautiful."
+            }
+          ]
+        },
+        {
+          "text": "science",
+          "phonetic": "'saɪəns",
+          "examples": [
+            {
+              "en": "Learn about science now."
+            }
+          ]
+        },
+        {
+          "text": "scores",
+          "phonetic": "skɔrz",
+          "examples": [
+            {
+              "en": "Tom scores high on tests."
+            }
+          ]
+        },
+        {
+          "text": "seaman",
+          "phonetic": "'simən",
+          "examples": [
+            {
+              "en": "The seaman worked on the ship."
+            }
+          ]
+        },
+        {
+          "text": "section",
+          "phonetic": "'sɛkʃən",
+          "examples": [
+            {
+              "en": "This is math section three."
+            }
+          ]
+        },
+        {
+          "text": "secure",
+          "phonetic": "sə'kjʊr",
+          "examples": [
+            {
+              "en": "Please keep your phone secure now."
+            }
+          ]
+        },
+        {
+          "text": "select",
+          "phonetic": "sə'lɛkt",
+          "examples": [
+            {
+              "en": "She will select a blue pen."
+            }
+          ]
+        },
+        {
+          "text": "selfish",
+          "phonetic": "'sɛlfɪʃ",
+          "examples": [
+            {
+              "en": "My brother is very selfish."
+            }
+          ]
+        },
+        {
+          "text": "sensor",
+          "phonetic": "ˈsɛnsər",
+          "examples": [
+            {
+              "en": "A temperature sensor works well."
+            }
+          ]
+        },
+        {
+          "text": "series",
+          "phonetic": "ˈsɪriz",
+          "examples": [
+            {
+              "en": "This book has a science series."
+            }
+          ]
+        },
+        {
+          "text": "serious",
+          "phonetic": "'sɪrɪəs",
+          "examples": [
+            {
+              "en": "He has a serious problem now."
+            }
+          ]
+        },
+        {
+          "text": "servant",
+          "phonetic": "'sɝvənt",
+          "examples": [
+            {
+              "en": "The servant brought hot tea."
+            }
+          ]
+        },
+        {
+          "text": "service",
+          "phonetic": "'sɝvɪs",
+          "examples": [
+            {
+              "en": "The hotel gives good service."
+            }
+          ]
+        },
+        {
+          "text": "serving",
+          "phonetic": "ˈsərvɪŋ",
+          "examples": [
+            {
+              "en": "Rice is my favorite serving."
+            }
+          ]
+        },
+        {
+          "text": "settle",
+          "phonetic": "'sɛtl",
+          "examples": [
+            {
+              "en": "Please settle the argument now."
+            }
+          ]
+        },
+        {
+          "text": "seventh",
+          "phonetic": "'sɛvənθ",
+          "examples": [
+            {
+              "en": "This is the seventh day."
+            }
+          ]
+        },
+        {
+          "text": "seventy",
+          "phonetic": "'sɛvnti",
+          "examples": [
+            {
+              "en": "We count seventy apples."
+            }
+          ]
+        },
+        {
+          "text": "several",
+          "phonetic": "ˈsevrəl",
+          "examples": [
+            {
+              "en": "I see several blue cars."
+            }
+          ]
+        },
+        {
+          "text": "severe",
+          "phonetic": "sɪ'vɪr",
+          "examples": [
+            {
+              "en": "We faced severe weather last week."
+            }
+          ]
+        },
+        {
+          "text": "shabby",
+          "phonetic": "ˈʃæbi",
+          "examples": [
+            {
+              "en": "His old coat looks shabby."
+            }
+          ]
+        },
+        {
+          "text": "shaver",
+          "phonetic": "'ʃevɚ",
+          "examples": [
+            {
+              "en": "The shaver is fast on my face."
+            }
+          ]
+        },
+        {
+          "text": "shelter",
+          "phonetic": "'ʃɛltɚ",
+          "examples": [
+            {
+              "en": "The dog found a shelter."
+            }
+          ]
+        },
+        {
+          "text": "shorter",
+          "phonetic": "ˈʃɔrtər",
+          "examples": [
+            {
+              "en": "A cat is shorter."
+            }
+          ]
+        },
+        {
+          "text": "shyness",
+          "phonetic": "ˈʃaɪnəs",
+          "examples": [
+            {
+              "en": "He has some shyness around new friends."
+            }
+          ]
+        },
+        {
+          "text": "siberia",
+          "phonetic": "saɪˈbɪriə",
+          "examples": [
+            {
+              "en": "We saw Siberia in the map."
+            }
+          ]
+        },
+        {
+          "text": "signal",
+          "phonetic": "'sɪgnl",
+          "examples": [
+            {
+              "en": "The red light is a signal."
+            }
+          ]
+        },
+        {
+          "text": "silence",
+          "phonetic": "'saɪləns",
+          "examples": [
+            {
+              "en": "Keep the silence in class."
+            }
+          ]
+        },
+        {
+          "text": "similar",
+          "phonetic": "'sɪməlɚ",
+          "examples": [
+            {
+              "en": "These two apples are similar."
+            }
+          ]
+        },
+        {
+          "text": "sincere",
+          "phonetic": "sɪnˈsɪr",
+          "examples": [
+            {
+              "en": "He has a sincere smile."
+            }
+          ]
+        },
+        {
+          "text": "sixteen",
+          "phonetic": ",sɪks'tin",
+          "examples": [
+            {
+              "en": "He is sixteen years old."
+            }
+          ]
+        },
+        {
+          "text": "sleeve",
+          "phonetic": "sliv",
+          "examples": [
+            {
+              "en": "Her shirt has a short sleeve."
+            }
+          ]
+        },
+        {
+          "text": "slight",
+          "phonetic": "slaɪt",
+          "examples": [
+            {
+              "en": "He showed slight anger today."
+            }
+          ]
+        },
+        {
+          "text": "slogan",
+          "phonetic": "sˈloʊgən",
+          "examples": [
+            {
+              "en": "School has a new slogan."
+            }
+          ]
+        },
+        {
+          "text": "smaller",
+          "phonetic": "sˈmɔlər",
+          "examples": [
+            {
+              "en": "A mouse is smaller than a bird."
+            }
+          ]
+        },
+        {
+          "text": "smarter",
+          "phonetic": "sˈmɑrtər",
+          "examples": [
+            {
+              "en": "She is smarter than Tom."
+            }
+          ]
+        },
+        {
+          "text": "smelly",
+          "phonetic": "'smɛli",
+          "examples": [
+            {
+              "en": "This fish smells very smelly."
+            }
+          ]
+        },
+        {
+          "text": "smoker",
+          "phonetic": "'smokɚ",
+          "examples": [
+            {
+              "en": "My uncle is a heavy smoker."
+            }
+          ]
+        },
+        {
+          "text": "snatch",
+          "phonetic": "snætʃ",
+          "examples": [
+            {
+              "en": "He will snatch the ball quickly."
+            }
+          ]
+        },
+        {
+          "text": "sneeze",
+          "phonetic": "sniz",
+          "examples": [
+            {
+              "en": "The baby starts to sneeze loudly."
+            }
+          ]
+        },
+        {
+          "text": "snorkel",
+          "phonetic": "sˈnɔrkəl",
+          "examples": [
+            {
+              "en": "He will snorkel in the ocean."
+            }
+          ]
+        },
+        {
+          "text": "snowman",
+          "phonetic": "'snomæn",
+          "examples": [
+            {
+              "en": "We made a snowman."
+            }
+          ]
+        },
+        {
+          "text": "soccer",
+          "phonetic": "'sɑkɚ",
+          "examples": [
+            {
+              "en": "They play soccer after school."
+            }
+          ]
+        },
+        {
+          "text": "society",
+          "phonetic": "sə'saɪəti",
+          "examples": [
+            {
+              "en": "She joins the school society."
+            }
+          ]
+        },
+        {
+          "text": "socket",
+          "phonetic": "'sɑkɪt",
+          "examples": [
+            {
+              "en": "Plug the phone into the socket."
+            }
+          ]
+        },
+        {
+          "text": "soldier",
+          "phonetic": "'soldʒɚ",
+          "examples": [
+            {
+              "en": "The soldier eats a hot meal."
+            }
+          ]
+        },
+        {
+          "text": "someone",
+          "phonetic": "'sʌmwʌn",
+          "examples": [
+            {
+              "en": "Someone left their book here."
+            }
+          ]
+        },
+        {
+          "text": "sonnet",
+          "phonetic": "ˈsɑnɪt",
+          "examples": [
+            {
+              "en": "The poem is a short sonnet."
+            }
+          ]
+        },
+        {
+          "text": "sorrow",
+          "phonetic": "sɑro",
+          "examples": [
+            {
+              "en": "He felt great sorrow today."
+            }
+          ]
+        },
+        {
+          "text": "soundly",
+          "phonetic": "ˈsaʊndli",
+          "examples": [
+            {
+              "en": "The baby slept soundly last night."
+            }
+          ]
+        },
+        {
+          "text": "source",
+          "phonetic": "sɔrs",
+          "examples": [
+            {
+              "en": "Where is the book's source?"
+            }
+          ]
+        },
+        {
+          "text": "spanish",
+          "phonetic": "'spænɪʃ",
+          "examples": [
+            {
+              "en": "He speaks Spanish well."
+            }
+          ]
+        },
+        {
+          "text": "speaker",
+          "phonetic": "'spikɚ",
+          "examples": [
+            {
+              "en": "The speaker talks to the class."
+            }
+          ]
+        },
+        {
+          "text": "special",
+          "phonetic": "'spɛʃl",
+          "examples": [
+            {
+              "en": "This is a special apple."
+            }
+          ]
+        },
+        {
+          "text": "spoiled",
+          "phonetic": "spɔɪld",
+          "examples": [
+            {
+              "en": "My little sister is spoiled."
+            }
+          ]
+        },
+        {
+          "text": "spoken",
+          "phonetic": "'spokən",
+          "examples": [
+            {
+              "en": "She speaks in spoken English."
+            }
+          ]
+        },
+        {
+          "text": "sprain",
+          "phonetic": "spreɪn",
+          "examples": [
+            {
+              "en": "She hurt her ankle with a sprain."
+            }
+          ]
+        },
+        {
+          "text": "stable",
+          "phonetic": "'stebl",
+          "examples": [
+            {
+              "en": "My horse lives in a stable."
+            }
+          ]
+        },
+        {
+          "text": "stadium",
+          "phonetic": "'stedɪəm",
+          "examples": [
+            {
+              "en": "They went to the stadium to watch."
+            }
+          ]
+        },
+        {
+          "text": "starve",
+          "phonetic": "stɑrv",
+          "examples": [
+            {
+              "en": "We must starve until we see food."
+            }
+          ]
+        },
+        {
+          "text": "station",
+          "phonetic": "ˈsteɪʃən",
+          "examples": [
+            {
+              "en": "We wait at the station."
+            }
+          ]
+        },
+        {
+          "text": "statue",
+          "phonetic": "'stætʃu",
+          "examples": [
+            {
+              "en": "A statue stands in the park."
+            }
+          ]
+        },
+        {
+          "text": "status",
+          "phonetic": "ˈstætəs; ˈstetəs",
+          "examples": [
+            {
+              "en": "Her status is that of a student."
+            }
+          ]
+        },
+        {
+          "text": "steady",
+          "phonetic": "'stɛdi",
+          "examples": [
+            {
+              "en": "He walks at a steady pace."
+            }
+          ]
+        },
+        {
+          "text": "stephen",
+          "phonetic": "ˈstivən",
+          "examples": [
+            {
+              "en": "Stephen plays with his ball."
+            }
+          ]
+        },
+        {
+          "text": "stomach",
+          "phonetic": "'stʌmək",
+          "examples": [
+            {
+              "en": "My stomach feels very hungry."
+            }
+          ]
+        },
+        {
+          "text": "strain",
+          "phonetic": "streɪn",
+          "examples": [
+            {
+              "en": "Running puts strain on one's legs."
+            }
+          ]
+        },
+        {
+          "text": "strait",
+          "phonetic": "stret",
+          "examples": [
+            {
+              "en": "This road is too strait for cars."
+            }
+          ]
+        },
+        {
+          "text": "strange",
+          "phonetic": "strendʒ",
+          "examples": [
+            {
+              "en": "That is a strange cat."
+            }
+          ]
+        },
+        {
+          "text": "strike",
+          "phonetic": "straɪk",
+          "examples": [
+            {
+              "en": "He will strike the bell."
+            }
+          ]
+        },
+        {
+          "text": "string",
+          "phonetic": "strɪŋ",
+          "examples": [
+            {
+              "en": "A string hangs on the wall."
+            }
+          ]
+        },
+        {
+          "text": "student",
+          "phonetic": "'studnt",
+          "examples": [
+            {
+              "en": "She is a good student."
+            }
+          ]
+        },
+        {
+          "text": "studies",
+          "phonetic": "ˈstədiz",
+          "examples": [
+            {
+              "en": "He studies math every day."
+            }
+          ]
+        },
+        {
+          "text": "studio",
+          "phonetic": "'studɪo",
+          "examples": [
+            {
+              "en": "She paints in the art studio."
+            }
+          ]
+        },
+        {
+          "text": "subject",
+          "phonetic": "ˈsʌbdʒekt",
+          "examples": [
+            {
+              "en": "My subject is math."
+            }
+          ]
+        },
+        {
+          "text": "submit",
+          "phonetic": "səb'mɪt",
+          "examples": [
+            {
+              "en": "Please submit your homework today."
+            }
+          ]
+        },
+        {
+          "text": "suburb",
+          "phonetic": "ˈsəbərb",
+          "examples": [
+            {
+              "en": "We live in the suburb near school."
+            }
+          ]
+        },
+        {
+          "text": "succeed",
+          "phonetic": "sək'sid",
+          "examples": [
+            {
+              "en": "They hope to succeed in math."
+            }
+          ]
+        },
+        {
+          "text": "success",
+          "phonetic": "sək'sɛs",
+          "examples": [
+            {
+              "en": "His success makes us happy."
+            }
+          ]
+        },
+        {
+          "text": "sugary",
+          "phonetic": "ˈʃʊgəri",
+          "examples": [
+            {
+              "en": "This juice is very sugary."
+            }
+          ]
+        },
+        {
+          "text": "suggest",
+          "phonetic": "sə'dʒɛst",
+          "examples": [
+            {
+              "en": "Can you suggest a good book?"
+            }
+          ]
+        },
+        {
+          "text": "summary",
+          "phonetic": "'sʌməri",
+          "examples": [
+            {
+              "en": "Give me the book summary."
+            }
+          ]
+        },
+        {
+          "text": "sunset",
+          "phonetic": "'sʌnsɛt",
+          "examples": [
+            {
+              "en": "The sunset was very beautiful today."
+            }
+          ]
+        },
+        {
+          "text": "superb",
+          "phonetic": "/suːˈpɜːrb/",
+          "examples": [
+            {
+              "en": "She has a superb singing voice."
+            }
+          ]
+        },
+        {
+          "text": "support",
+          "phonetic": "sə'pɔrt",
+          "examples": [
+            {
+              "en": "Mom gives him much support."
+            }
+          ]
+        },
+        {
+          "text": "suppose",
+          "phonetic": "sə'poz",
+          "examples": [
+            {
+              "en": "Suppose you go to the park."
+            }
+          ]
+        },
+        {
+          "text": "surface",
+          "phonetic": "'sɝfɪs",
+          "examples": [
+            {
+              "en": "The water has a smooth surface."
+            }
+          ]
+        },
+        {
+          "text": "survive",
+          "phonetic": "sɚ'vaɪv",
+          "examples": [
+            {
+              "en": "Our cat can survive winter."
+            }
+          ]
+        },
+        {
+          "text": "sweater",
+          "phonetic": "'swɛtɚ",
+          "examples": [
+            {
+              "en": "Put on your warm sweater."
+            }
+          ]
+        },
+        {
+          "text": "sweden",
+          "phonetic": "sˈwidən",
+          "examples": [
+            {
+              "en": "My friend likes Sweden very much."
+            }
+          ]
+        },
+        {
+          "text": "switch",
+          "phonetic": "swɪtʃ",
+          "examples": [
+            {
+              "en": "Please switch the light on."
+            }
+          ]
+        },
+        {
+          "text": "tablet",
+          "phonetic": "'tæblət",
+          "examples": [
+            {
+              "en": "She reads on her tablet daily."
+            }
+          ]
+        },
+        {
+          "text": "tackle",
+          "phonetic": "ˈtækəl",
+          "examples": [
+            {
+              "en": "We must tackle this math problem."
+            }
+          ]
+        },
+        {
+          "text": "tagore",
+          "phonetic": "tagore*",
+          "examples": [
+            {
+              "en": "Tagore loves nature and songs."
+            }
+          ]
+        },
+        {
+          "text": "tailor",
+          "phonetic": "'telɚ",
+          "examples": [
+            {
+              "en": "The tailor made my new suit."
+            }
+          ]
+        },
+        {
+          "text": "tanker",
+          "phonetic": "'tæŋkɚ",
+          "examples": [
+            {
+              "en": "The tanker carries much oil."
+            }
+          ]
+        },
+        {
+          "text": "target",
+          "phonetic": "'tɑrɡɪt",
+          "examples": [
+            {
+              "en": "Aim at the target with care."
+            }
+          ]
+        },
+        {
+          "text": "taylor",
+          "phonetic": "ˈteɪlər",
+          "examples": [
+            {
+              "en": "Taylor plays soccer very well."
+            }
+          ]
+        },
+        {
+          "text": "teacher",
+          "phonetic": "'titʃɚ",
+          "examples": [
+            {
+              "en": "My teacher is kind."
+            }
+          ]
+        },
+        {
+          "text": "teapot",
+          "phonetic": "'ti'pɑt",
+          "examples": [
+            {
+              "en": "She poured hot water in teapot."
+            }
+          ]
+        },
+        {
+          "text": "techno",
+          "phonetic": "ˈtɛknoʊ",
+          "examples": [
+            {
+              "en": "She likes fast techno music."
+            }
+          ]
+        },
+        {
+          "text": "teenage",
+          "phonetic": "ˈtiˌneɪʤ",
+          "examples": [
+            {
+              "en": "A teenage girl likes music."
+            }
+          ]
+        },
+        {
+          "text": "terror",
+          "phonetic": "'tɛrɚ",
+          "examples": [
+            {
+              "en": "The movie caused great terror."
+            }
+          ]
+        },
+        {
+          "text": "theatre",
+          "phonetic": "ˈθiətər",
+          "examples": [
+            {
+              "en": "We go to the theatre."
+            }
+          ]
+        },
+        {
+          "text": "thinner",
+          "phonetic": "ˈθɪnər",
+          "examples": [
+            {
+              "en": "She has a thinner arm."
+            }
+          ]
+        },
+        {
+          "text": "thirdly",
+          "phonetic": "ˈθərdli",
+          "examples": [
+            {
+              "en": "Thirdly, we play games together often."
+            }
+          ]
+        },
+        {
+          "text": "thirst",
+          "phonetic": "θɝst",
+          "examples": [
+            {
+              "en": "I feel a great thirst for water."
+            }
+          ]
+        },
+        {
+          "text": "thirsty",
+          "phonetic": "'θɝsti",
+          "examples": [
+            {
+              "en": "The dog is thirsty."
+            }
+          ]
+        },
+        {
+          "text": "thought",
+          "phonetic": "θɔt",
+          "examples": [
+            {
+              "en": "He thought about school."
+            }
+          ]
+        },
+        {
+          "text": "threat",
+          "phonetic": "θrɛt",
+          "examples": [
+            {
+              "en": "There is a small threat outside."
+            }
+          ]
+        },
+        {
+          "text": "thrill",
+          "phonetic": "θrɪl",
+          "examples": [
+            {
+              "en": "The roller coaster gave us a thrill."
+            }
+          ]
+        },
+        {
+          "text": "through",
+          "phonetic": "θru",
+          "examples": [
+            {
+              "en": "We walk through the park."
+            }
+          ]
+        },
+        {
+          "text": "thunder",
+          "phonetic": "'θʌndɚ",
+          "examples": [
+            {
+              "en": "We heard loud thunder outside."
+            }
+          ]
+        },
+        {
+          "text": "tissue",
+          "phonetic": "'tɪʃu",
+          "examples": [
+            {
+              "en": "She used a tissue to wipe her nose."
+            }
+          ]
+        },
+        {
+          "text": "titanic",
+          "phonetic": "taɪˈtænɪk",
+          "examples": [
+            {
+              "en": "Titanic sank in the cold sea."
+            }
+          ]
+        },
+        {
+          "text": "tonight",
+          "phonetic": "tə'naɪt",
+          "examples": [
+            {
+              "en": "We play tonight."
+            }
+          ]
+        },
+        {
+          "text": "tornado",
+          "phonetic": "tɔrˈneɪˌdoʊ",
+          "examples": [
+            {
+              "en": "A big tornado spun by the town."
+            }
+          ]
+        },
+        {
+          "text": "tourist",
+          "phonetic": "'tʊrɪst",
+          "examples": [
+            {
+              "en": "Tourist sees big tower."
+            }
+          ]
+        },
+        {
+          "text": "toward",
+          "phonetic": "tɔrd; təˈwɔrd",
+          "examples": [
+            {
+              "en": "We walked toward the big park."
+            }
+          ]
+        },
+        {
+          "text": "towards",
+          "phonetic": "təˈwɔrdz",
+          "examples": [
+            {
+              "en": "Look towards the big tree."
+            }
+          ]
+        },
+        {
+          "text": "traffic",
+          "phonetic": "'træfɪk",
+          "examples": [
+            {
+              "en": "Traffic is on road."
+            }
+          ]
+        },
+        {
+          "text": "trouble",
+          "phonetic": "'trʌbl",
+          "examples": [
+            {
+              "en": "My dog causes much trouble."
+            }
+          ]
+        },
+        {
+          "text": "tsunami",
+          "phonetic": "tsuˈnɑmi",
+          "examples": [
+            {
+              "en": "We saw a huge tsunami wave."
+            }
+          ]
+        },
+        {
+          "text": "tuesday",
+          "phonetic": "ˈtuzdi, -ˌde, ˈtjuz-",
+          "examples": [
+            {
+              "en": "Today is Tuesday morning."
+            }
+          ]
+        },
+        {
+          "text": "tunnel",
+          "phonetic": "ˈtənəl",
+          "examples": [
+            {
+              "en": "The train went through the tunnel."
+            }
+          ]
+        },
+        {
+          "text": "twelfth",
+          "phonetic": "twɛlfθ",
+          "examples": [
+            {
+              "en": "This is the twelfth apple."
+            }
+          ]
+        },
+        {
+          "text": "typhoon",
+          "phonetic": "taɪ'fʊn",
+          "examples": [
+            {
+              "en": "A typhoon came last week."
+            }
+          ]
+        },
+        {
+          "text": "typist",
+          "phonetic": "'taɪpɪst",
+          "examples": [
+            {
+              "en": "She works as a typist at the office."
+            }
+          ]
+        },
+        {
+          "text": "unable",
+          "phonetic": "ʌn'ebl",
+          "examples": [
+            {
+              "en": "He is unable to solve this math problem."
+            }
+          ]
+        },
+        {
+          "text": "unesco",
+          "phonetic": "juˈnɛˌskoʊ",
+          "examples": [
+            {
+              "en": "UNESCO protects many sites."
+            }
+          ]
+        },
+        {
+          "text": "unfair",
+          "phonetic": "'ʌn'fɛr",
+          "examples": [
+            {
+              "en": "The test felt very unfair to sb."
+            }
+          ]
+        },
+        {
+          "text": "unfold",
+          "phonetic": "ʌn'fold",
+          "examples": [
+            {
+              "en": "The story will unfold slowly now."
+            }
+          ]
+        },
+        {
+          "text": "unhappy",
+          "phonetic": "ʌn'hæpi",
+          "examples": [
+            {
+              "en": "He looks unhappy today."
+            }
+          ]
+        },
+        {
+          "text": "unicef",
+          "phonetic": "ˈjunəˌsɛf",
+          "examples": [
+            {
+              "en": "UNICEF helps many children."
+            }
+          ]
+        },
+        {
+          "text": "uniform",
+          "phonetic": "'junɪfɔrm",
+          "examples": [
+            {
+              "en": "Wear your school uniform."
+            }
+          ]
+        },
+        {
+          "text": "unique",
+          "phonetic": "jʊ'nik",
+          "examples": [
+            {
+              "en": "This painting has a unique style."
+            }
+          ]
+        },
+        {
+          "text": "unlike",
+          "phonetic": "'ʌn'laɪk",
+          "examples": [
+            {
+              "en": "My dog looks unlike your cat."
+            }
+          ]
+        },
+        {
+          "text": "unlucky",
+          "phonetic": "ənˈləki",
+          "examples": [
+            {
+              "en": "Today feels very unlucky for me."
+            }
+          ]
+        },
+        {
+          "text": "unrest",
+          "phonetic": "ʌn'rɛst",
+          "examples": [
+            {
+              "en": "There was unrest in the small town."
+            }
+          ]
+        },
+        {
+          "text": "untrue",
+          "phonetic": "ʌn'tru",
+          "examples": [
+            {
+              "en": "That story is untrue, it is a lie."
+            }
+          ]
+        },
+        {
+          "text": "unusual",
+          "phonetic": "ʌn'jʊʒʊəl",
+          "examples": [
+            {
+              "en": "That flower looks unusual."
+            }
+          ]
+        },
+        {
+          "text": "update",
+          "phonetic": "ˈəpˌdeɪt",
+          "examples": [
+            {
+              "en": "Please update your phone number now."
+            }
+          ]
+        },
+        {
+          "text": "upward",
+          "phonetic": "'ʌpwɚd",
+          "examples": [
+            {
+              "en": "The arrow pointed upward."
+            }
+          ]
+        },
+        {
+          "text": "urgent",
+          "phonetic": "'ɝdʒənt",
+          "examples": [
+            {
+              "en": "This is an urgent test."
+            }
+          ]
+        },
+        {
+          "text": "useless",
+          "phonetic": "'jusləs",
+          "examples": [
+            {
+              "en": "This old book is useless."
+            }
+          ]
+        },
+        {
+          "text": "usually",
+          "phonetic": "ˈjuːʒʊəlɪ",
+          "examples": [
+            {
+              "en": "He usually eats rice."
+            }
+          ]
+        },
+        {
+          "text": "vacant",
+          "phonetic": "'vekənt",
+          "examples": [
+            {
+              "en": "The seat was vacant in the classroom."
+            }
+          ]
+        },
+        {
+          "text": "valley",
+          "phonetic": "'væli",
+          "examples": [
+            {
+              "en": "We walked through the green valley."
+            }
+          ]
+        },
+        {
+          "text": "vehicle",
+          "phonetic": "'viːɪkl",
+          "examples": [
+            {
+              "en": "A car is a fast vehicle."
+            }
+          ]
+        },
+        {
+          "text": "victim",
+          "phonetic": "'vɪktɪm",
+          "examples": [
+            {
+              "en": "The dog was a victim of the storm."
+            }
+          ]
+        },
+        {
+          "text": "victory",
+          "phonetic": "'vɪktəri",
+          "examples": [
+            {
+              "en": "She won the big victory."
+            }
+          ]
+        },
+        {
+          "text": "viewer",
+          "phonetic": "'vjuɚ",
+          "examples": [
+            {
+              "en": "She is a happy viewer of cartoons."
+            }
+          ]
+        },
+        {
+          "text": "vigour",
+          "phonetic": "vigour*",
+          "examples": [
+            {
+              "en": "The puppy showed much vigour today."
+            }
+          ]
+        },
+        {
+          "text": "viking",
+          "phonetic": "ˈvaɪkɪŋ",
+          "examples": [
+            {
+              "en": "A Viking sailed on a big boat."
+            }
+          ]
+        },
+        {
+          "text": "village",
+          "phonetic": "'vɪlɪdʒ",
+          "examples": [
+            {
+              "en": "The village has small houses."
+            }
+          ]
+        },
+        {
+          "text": "vincent",
+          "phonetic": "ˈvɪnsɪnt",
+          "examples": [
+            {
+              "en": "Vincent painted a blue sky."
+            }
+          ]
+        },
+        {
+          "text": "virtue",
+          "phonetic": "'vɝtʃʊ",
+          "examples": [
+            {
+              "en": "Honesty is a great virtue for sb."
+            }
+          ]
+        },
+        {
+          "text": "visible",
+          "phonetic": "ˈvɪzəbəl",
+          "examples": [
+            {
+              "en": "A big dog is visible here."
+            }
+          ]
+        },
+        {
+          "text": "vision",
+          "phonetic": "ˈvɪʒən",
+          "examples": [
+            {
+              "en": "His vision is very clear now."
+            }
+          ]
+        },
+        {
+          "text": "visitor",
+          "phonetic": "'vɪzɪtɚ",
+          "examples": [
+            {
+              "en": "The visitor saw the big park."
+            }
+          ]
+        },
+        {
+          "text": "visual",
+          "phonetic": "'vɪʒʊəl",
+          "examples": [
+            {
+              "en": "The painting has a strong visual appeal."
+            }
+          ]
+        },
+        {
+          "text": "volume",
+          "phonetic": "ˈvɑljum",
+          "examples": [
+            {
+              "en": "The book has three volume."
+            }
+          ]
+        },
+        {
+          "text": "voyage",
+          "phonetic": "'vɔɪɪdʒ",
+          "examples": [
+            {
+              "en": "They started a long voyage across the sea."
+            }
+          ]
+        },
+        {
+          "text": "waiter",
+          "phonetic": "'wetɚ",
+          "examples": [
+            {
+              "en": "A waiter brought the food."
+            }
+          ]
+        },
+        {
+          "text": "walnut",
+          "phonetic": "'wɔlnət",
+          "examples": [
+            {
+              "en": "He ate a crunchy walnut for a snack."
+            }
+          ]
+        },
+        {
+          "text": "wander",
+          "phonetic": "'wɑndɚ",
+          "examples": [
+            {
+              "en": "The dog likes to wander in the park."
+            }
+          ]
+        },
+        {
+          "text": "warmth",
+          "phonetic": "wɔrmθ",
+          "examples": [
+            {
+              "en": "The blanket gave me much warmth."
+            }
+          ]
+        },
+        {
+          "text": "watched",
+          "phonetic": "wɔʧt",
+          "examples": [
+            {
+              "en": "We watched a fun show."
+            }
+          ]
+        },
+        {
+          "text": "weather",
+          "phonetic": "'wɛðɚ",
+          "examples": [
+            {
+              "en": "The weather is very nice."
+            }
+          ]
+        },
+        {
+          "text": "website",
+          "phonetic": "ˈwɛbˌsaɪt",
+          "examples": [
+            {
+              "en": "My favorite website is Google."
+            }
+          ]
+        },
+        {
+          "text": "weekday",
+          "phonetic": "'wikde",
+          "examples": [
+            {
+              "en": "Monday is a weekday for me."
+            }
+          ]
+        },
+        {
+          "text": "weekend",
+          "phonetic": "ˈwikend",
+          "examples": [
+            {
+              "en": "We have a fun weekend."
+            }
+          ]
+        },
+        {
+          "text": "weekly",
+          "phonetic": "'wikli",
+          "examples": [
+            {
+              "en": "She reads the weekly magazine."
+            }
+          ]
+        },
+        {
+          "text": "welcome",
+          "phonetic": "ˈwelkəm",
+          "examples": [
+            {
+              "en": "Say welcome to my friend."
+            }
+          ]
+        },
+        {
+          "text": "western",
+          "phonetic": "'wɛstɚn",
+          "examples": [
+            {
+              "en": "The western sun is bright."
+            }
+          ]
+        },
+        {
+          "text": "whether",
+          "phonetic": "'wɛðɚ",
+          "examples": [
+            {
+              "en": "Tell me whether you like apples."
+            }
+          ]
+        },
+        {
+          "text": "whoever",
+          "phonetic": "huˈɛvər",
+          "examples": [
+            {
+              "en": "Whoever wins gets a prize."
+            }
+          ]
+        },
+        {
+          "text": "wildaid",
+          "phonetic": "wildaid*",
+          "examples": [
+            {
+              "en": "WildAid helps save animals."
+            }
+          ]
+        },
+        {
+          "text": "willing",
+          "phonetic": "'wɪlɪŋ",
+          "examples": [
+            {
+              "en": "She is willing to help her friend."
+            }
+          ]
+        },
+        {
+          "text": "wiring",
+          "phonetic": "ˈwaɪrɪŋ",
+          "examples": [
+            {
+              "en": "The house needs new wiring inside."
+            }
+          ]
+        },
+        {
+          "text": "wisdom",
+          "phonetic": "'wɪzdəm",
+          "examples": [
+            {
+              "en": "She showed great wisdom in her choice."
+            }
+          ]
+        },
+        {
+          "text": "within",
+          "phonetic": "wɪ'ðɪn",
+          "examples": [
+            {
+              "en": "We ate lunch within the school yard."
+            }
+          ]
+        },
+        {
+          "text": "without",
+          "phonetic": "wɪðˈaʊt",
+          "examples": [
+            {
+              "en": "We walked without shoes."
+            }
+          ]
+        },
+        {
+          "text": "workday",
+          "phonetic": "'wɝkde",
+          "examples": [
+            {
+              "en": "Today is a busy workday."
+            }
+          ]
+        },
+        {
+          "text": "worried",
+          "phonetic": "'wɝrɪd",
+          "examples": [
+            {
+              "en": "She looks worried now."
+            }
+          ]
+        },
+        {
+          "text": "worthy",
+          "phonetic": "wɜði",
+          "examples": [
+            {
+              "en": "She is a worthy student always."
+            }
+          ]
+        },
+        {
+          "text": "younger",
+          "phonetic": "ˈjəŋgər",
+          "examples": [
+            {
+              "en": "My brother is younger than Tom."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
