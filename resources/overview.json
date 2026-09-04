@@ -298,48 +298,23 @@
               "displayName": "Spelling Bee",
               "publishers": [
                 {
-                  "id": "grade-lists",
-                  "displayName": "分级词表 (Grade Lists)",
+                  "id": "words-of-the-champions",
+                  "displayName": "Words of the Champions 2026 (Scripps)",
                   "books": [
                     {
-                      "id": "grade-1",
-                      "displayName": "Grade 1",
-                      "path": "en_US/English/SpellingBee/grade_1.json"
+                      "id": "one-bee",
+                      "displayName": "One Bee (1,000 words)",
+                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_one_bee.json"
                     },
                     {
-                      "id": "grade-2",
-                      "displayName": "Grade 2",
-                      "path": "en_US/English/SpellingBee/grade_2.json"
+                      "id": "two-bee",
+                      "displayName": "Two Bee (2,000 words)",
+                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_two_bee.json"
                     },
                     {
-                      "id": "grade-3",
-                      "displayName": "Grade 3",
-                      "path": "en_US/English/SpellingBee/grade_3.json"
-                    },
-                    {
-                      "id": "grade-4",
-                      "displayName": "Grade 4",
-                      "path": "en_US/English/SpellingBee/grade_4.json"
-                    },
-                    {
-                      "id": "grade-5",
-                      "displayName": "Grade 5",
-                      "path": "en_US/English/SpellingBee/grade_5.json"
-                    },
-                    {
-                      "id": "grade-6",
-                      "displayName": "Grade 6",
-                      "path": "en_US/English/SpellingBee/grade_6.json"
-                    },
-                    {
-                      "id": "grade-7",
-                      "displayName": "Grade 7",
-                      "path": "en_US/English/SpellingBee/grade_7.json"
-                    },
-                    {
-                      "id": "grade-8",
-                      "displayName": "Grade 8",
-                      "path": "en_US/English/SpellingBee/grade_8.json"
+                      "id": "three-bee",
+                      "displayName": "Three Bee (1,000 words)",
+                      "path": "en_US/English/SpellingBee/words_of_the_champions_2026_three_bee.json"
                     }
                   ]
                 }
