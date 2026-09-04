@@ -287,11 +287,11 @@
     },
     {
       "id": "en-US",
-      "displayName": "北美 (North America)",
+      "displayName": "North America",
       "subjects": [
         {
           "id": "English",
-          "displayName": "英语 (English)",
+          "displayName": "English",
           "grades": [
             {
               "id": "spelling-bee",
