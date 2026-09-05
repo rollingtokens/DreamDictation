@@ -13807,6 +13807,2167 @@
         "zh-CN": "纱线"
       },
       "origin": "OE"
+    },
+    {
+      "id": "acc",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“一起、共同地”",
+        "zh-CN": "表示“一起、共同地”"
+      }
+    },
+    {
+      "id": "eler",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *celer*，核心意思是“快、迅速的”",
+        "zh-CN": "来自拉丁语 *celer*，核心意思是“快、迅速的”"
+      }
+    },
+    {
+      "id": "comp",
+      "type": "root",
+      "meanings": {
+        "en": "root: to go together, accompany - 表示一起去、陪伴",
+        "zh-CN": "表示一起去、陪伴"
+      },
+      "origin": "Latin cum (with) - 来自拉丁语 cum，核心意思是“与……一起”"
+    },
+    {
+      "id": "any",
+      "type": "suffix",
+      "meanings": {
+        "en": "suffix: state of being accompanied or the action of accompanying - 表示陪伴的状态或伴随的行为（动词化/名词化）",
+        "zh-CN": "表示陪伴的状态或伴随的行为（动词化/名词化）"
+      },
+      "origin": "Latin -ans (present participle ending) - 来自拉丁语 -ans，核心意思是“正在做……的”"
+    },
+    {
+      "id": "cumul",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 cumulare，核心意思是“堆积、聚集”",
+        "zh-CN": "来自拉丁语 cumulare，核心意思是“堆积、聚集”"
+      }
+    },
+    {
+      "id": "know",
+      "type": "root",
+      "meanings": {
+        "en": "root: to know, to perceive",
+        "zh-CN": "核心意思是“知道；感知”"
+      }
+    },
+    {
+      "id": "ledge",
+      "type": "suffix",
+      "meanings": {
+        "en": "suffix: state of being known or perceived; a platform or support (often used as a noun/verb ending)",
+        "zh-CN": "表示“被知道的状态；一个平台或支撑物”（常用于名词或动词结尾）"
+      }
+    },
+    {
+      "id": "apt",
+      "type": "root",
+      "meanings": {
+        "en": "表示“合适、恰当”的性质（词根）",
+        "zh-CN": "表示“适合、恰当”的性质"
+      }
+    },
+    {
+      "id": "equ",
+      "type": "root",
+      "meanings": {
+        "en": "表示“相等、平坦”",
+        "zh-CN": "表示“相等、平坦”"
+      }
+    },
+    {
+      "id": "jac",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 jacere，核心意思是“投掷、抛出”",
+        "zh-CN": "来自拉丁语 jacere，核心意思是“投掷、抛出”"
+      }
+    },
+    {
+      "id": "olesc",
+      "type": "root",
+      "meanings": {
+        "en": "to grow, mature, flourish",
+        "zh-CN": "核心意思是“生长、成熟、繁盛”"
+      }
+    },
+    {
+      "id": "vocat",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 vocare，核心意思是“呼唤、召唤”",
+        "zh-CN": "来自拉丁语 vocare，核心意思是“呼唤、召唤”"
+      }
+    },
+    {
+      "id": "esthet",
+      "type": "root",
+      "meanings": {
+        "en": "指代“感觉、审美体验”的核心概念",
+        "zh-CN": "指代“感觉、审美体验”的核心概念"
+      }
+    },
+    {
+      "id": "filiat",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 filius，核心意思是“儿子、后代”",
+        "zh-CN": "来自拉丁语 filius，核心意思是“儿子、后代”"
+      }
+    },
+    {
+      "id": "ien",
+      "type": "root",
+      "meanings": {
+        "en": "表示“人、事物”（常作为词根的一部分）",
+        "zh-CN": "表示“人、事物”"
+      }
+    },
+    {
+      "id": "lev",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin levare, core meaning is 'to lift up' or 'to raise'",
+        "zh-CN": "词根：源自拉丁语 levare，核心意思是“抬起”或“提升”"
+      }
+    },
+    {
+      "id": "alloc",
+      "type": "root",
+      "meanings": {
+        "en": "to set aside, to distribute (a portion of something)",
+        "zh-CN": "表示“分配、拨出”的动作或状态"
+      }
+    },
+    {
+      "id": "loy",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“结合、粘合”",
+        "zh-CN": "表示……"
+      }
+    },
+    {
+      "id": "ateur",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 actor，核心意思是“行动者、表演者”",
+        "zh-CN": "来自拉丁语 actor，核心意思是“行动者、表演者”"
+      }
+    },
+    {
+      "id": "bigu",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 bīgus，核心意思是“二的；双重的”",
+        "zh-CN": "来自拉丁语 bīgus，核心意思是“二的；双重的”"
+      }
+    },
+    {
+      "id": "midst",
+      "type": "root",
+      "meanings": {
+        "en": "核心词根，意为“中间、中央”。（注意：此处 'mid' 本身是一个完整的词根/前缀，但我们将其视为一个更核心的单元来分析）",
+        "zh-CN": "核心词根，意为“中间、中央”。"
+      }
+    },
+    {
+      "id": "muniti",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 munere，核心意思是“给予、供给、装备”（词根）",
+        "zh-CN": "来自拉丁语 munere，核心意思是“给予、供给、装备”的"
+      }
+    },
+    {
+      "id": "cestor",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *castus*，核心意思是“居住者、定居者”（此处演变为指代某族群的成员）",
+        "zh-CN": "来自拉丁语 *castus*，核心意思是“居住者、定居者”（此处演变为指代某族群的成员）"
+      }
+    },
+    {
+      "id": "chor",
+      "type": "root",
+      "meanings": {
+        "en": "来自古希腊语 chōrēin，核心意思是“站立、固定、支撑”",
+        "zh-CN": "来自古希腊语 chōrēin，核心意思是“站立、固定、支撑”"
+      }
+    },
+    {
+      "id": "them",
+      "type": "root",
+      "meanings": {
+        "en": "来自古希腊语 thema，核心意思是“主题、话题”",
+        "zh-CN": "来自古希腊语 thema，核心意思是“主题、话题”"
+      }
+    },
+    {
+      "id": "anti",
+      "type": "prefix",
+      "meanings": {
+        "en": "before, against",
+        "zh-CN": "表示“在……之前”或“反对”"
+      }
+    },
+    {
+      "id": "cipat",
+      "type": "root",
+      "meanings": {
+        "en": "to take, to seize",
+        "zh-CN": "来自拉丁语 capere，核心意思是“抓住、拿取”"
+      }
+    },
+    {
+      "id": "atus",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态；行为的结果”（名词化）",
+        "zh-CN": "表示“状态；行为的结果”（名词化）"
+      }
+    },
+    {
+      "id": "petit",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 petire，核心意思是“请求、寻求”",
+        "zh-CN": "来自拉丁语 petire，核心意思是“请求、寻求”"
+      }
+    },
+    {
+      "id": "prai",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 prae/praes，核心意思是“在……之前”或“前方”",
+        "zh-CN": "来自拉丁语 prae/praes，核心意思是“在……之前”或“前方”"
+      }
+    },
+    {
+      "id": "preci",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 praecisio，核心意思是“精确、仔细地”",
+        "zh-CN": "来自拉丁语 praecisio，核心意思是“精确、仔细地”"
+      }
+    },
+    {
+      "id": "propri",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 proprius，核心意思是“自己的；属于自身的”",
+        "zh-CN": "来自拉丁语 proprius，核心意思是“自己的；属于自身的”"
+      }
+    },
+    {
+      "id": "prov",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 pro-，核心意思是“向前；在……之前”",
+        "zh-CN": "来自拉丁语 pro-，核心意思是“向前；在……之前”"
+      }
+    },
+    {
+      "id": "arch",
+      "type": "root",
+      "meanings": {
+        "en": "arch (as a standalone morpheme, often functioning as a root)",
+        "zh-CN": "表示“拱形、拱门”的含义，常作为独立词根使用。"
+      }
+    },
+    {
+      "id": "mour",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“保护、防御”的（古法语起源）",
+        "zh-CN": "表示“保护、防御”的"
+      }
+    },
+    {
+      "id": "rog",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 rogere，核心意思是“呼唤、要求、寻求”",
+        "zh-CN": "来自拉丁语 rogere，核心意思是“呼唤、要求、寻求”"
+      }
+    },
+    {
+      "id": "sassin",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin 'sacer', meaning 'sacred' or 'consecrated'. In this context, it relates to the sacred act of killing/slaying.",
+        "zh-CN": "词根：源自拉丁语 sacer，核心意思是“神圣的”或“被奉献的”。在此语境中，它与神圣的杀戮行为相关。"
+      }
+    },
+    {
+      "id": "sault",
+      "type": "root",
+      "meanings": {
+        "en": "来自古法语 saul/salere，核心意思是“攻击、袭击、冲撞”（尤其指猛烈地冲击）",
+        "zh-CN": "来自古法语 saul/salere，核心意思是“攻击、袭击、冲撞”"
+      }
+    },
+    {
+      "id": "soci",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 socius，核心意思是“伙伴、同伴”",
+        "zh-CN": "来自拉丁语 socius，核心意思是“伙伴、同伴”"
+      }
+    },
+    {
+      "id": "ylum",
+      "type": "root",
+      "meanings": {
+        "en": "root: from Latin *ylum*, core meaning is 'a place of refuge, protection, or sanctuary'",
+        "zh-CN": "词根：源自拉丁语 *ylum*，核心意思是‘避难、保护或庇护的场所’"
+      }
+    },
+    {
+      "id": "ath",
+      "type": "root",
+      "meanings": {
+        "en": "表示“高、卓越的”或“来自……的”（在某些语境中，尤其指希腊语词根）",
+        "zh-CN": "表示“高、卓越的”或“来自……的”"
+      }
+    },
+    {
+      "id": "lete",
+      "type": "root",
+      "meanings": {
+        "en": "表示“跑者；运动员””（源自古希腊语 *leitos*，意为“奔跑”）",
+        "zh-CN": "表示“跑者；运动员”"
+      }
+    },
+    {
+      "id": "las",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 *alas，核心意思是“携带、承载；或指地图/图表本身” (though often treated as a full root in this context)",
+        "zh-CN": "表示“携带、承载；或指地图/图表本身”"
+      }
+    },
+    {
+      "id": "tach",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *tactus*，核心意思是“触摸、接触”。",
+        "zh-CN": "源自拉丁语 *tactus*，核心意思是“触摸、接触”。"
+      }
+    },
+    {
+      "id": "tor",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 torere，核心意思是“扭转、旋转、拉伸”。",
+        "zh-CN": "来自拉丁语 torere，核心意思是“扭转、旋转、拉伸”。"
+      }
+    },
+    {
+      "id": "dit",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 audire，核心意思是“听”",
+        "zh-CN": "来自拉丁语 audire，核心意思是“听”"
+      }
+    },
+    {
+      "id": "thor",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 (Old English) theod 的演变，核心意思是“人民、国家、民族”",
+        "zh-CN": "源自古英语 theod，核心意思是“人民、国家、民族”"
+      }
+    },
+    {
+      "id": "alanche",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Old French avalanche, core meaning is 'a rush of snow/things'",
+        "zh-CN": "词根：源自古法语 avalanche，核心意思是“雪的涌动/事物的涌来”"
+      }
+    },
+    {
+      "id": "kward",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 (Old English) 的词根，核心意思是“弯曲的、扭曲的”（bent, twisted）。",
+        "zh-CN": "来自古英语 (Old English) 的词根，核心意思是“弯曲的、扭曲的”。"
+      }
+    },
+    {
+      "id": "cart",
+      "type": "root",
+      "meanings": {
+        "en": "表示“车、轮子”；在词根中常指代移动或载具的形象",
+        "zh-CN": "表示“车、轮子”；在词根中常指代移动或载具的形象"
+      }
+    },
+    {
+      "id": "yst",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态、行为或人”",
+        "zh-CN": "表示“状态、行为或人”"
+      }
+    },
+    {
+      "id": "hedr",
+      "type": "root",
+      "meanings": {
+        "en": "head, chief, principal",
+        "zh-CN": "来自古英语/拉丁语，核心意思是“头、首领、主要的”。"
+      }
+    },
+    {
+      "id": "cau",
+      "type": "root",
+      "meanings": {
+        "en": "表示“小心、警惕”的（通常作为词根出现）",
+        "zh-CN": "表示“小心、警惕”的"
+      }
+    },
+    {
+      "id": "cav",
+      "type": "root",
+      "meanings": {
+        "en": "空心、洞穴（核心意义）",
+        "zh-CN": "表示……空心的、洞的（词根的核心含义）"
+      }
+    },
+    {
+      "id": "cer",
+      "type": "root",
+      "meanings": {
+        "en": "表示“烧制、陶器”",
+        "zh-CN": "表示“烧制、陶器”"
+      }
+    },
+    {
+      "id": "all",
+      "type": "root",
+      "meanings": {
+        "en": "来自古法语 challer，核心意思是“呼唤、召唤；使动摇/挑战”",
+        "zh-CN": "来自古法语 challer，核心意思是“呼唤、召唤；使动摇/挑战”"
+      }
+    },
+    {
+      "id": "enge",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态的持续性或过程”（常作为词尾）",
+        "zh-CN": "表示“状态的持续性或过程”（常作为词尾）"
+      }
+    },
+    {
+      "id": "char",
+      "type": "root",
+      "meanings": {
+        "en": "表示、刻画",
+        "zh-CN": "表示；描绘"
+      }
+    },
+    {
+      "id": "acter",
+      "type": "root",
+      "meanings": {
+        "en": "行动、性质（常与 char 连用形成核心意义）",
+        "zh-CN": "行为；特质"
+      }
+    },
+    {
+      "id": "assic",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“保证、确定”",
+        "zh-CN": "表示“保证、确定”"
+      }
+    },
+    {
+      "id": "ause",
+      "type": "root",
+      "meanings": {
+        "en": "表示“原因、理由”；也常与词根结合后形成“结果”的意思。",
+        "zh-CN": "表示“原因、理由”；也常与词根结合后形成“结果”的意思。"
+      }
+    },
+    {
+      "id": "oset",
+      "type": "root",
+      "meanings": {
+        "en": "表示“放置、安置”",
+        "zh-CN": "表示“放置、安置”"
+      }
+    },
+    {
+      "id": "utch",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“抓住、握住的动作或状态”",
+        "zh-CN": "表示“抓住、握住的动作或状态”"
+      }
+    },
+    {
+      "id": "ali",
+      "type": "root",
+      "meanings": {
+        "en": "表示“其他、别的”",
+        "zh-CN": "表示“其他、别的”"
+      }
+    },
+    {
+      "id": "arse",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 *ærsan，核心意思是“粗糙的；不精细的”",
+        "zh-CN": "来自古英语 *ærsan，核心意思是“粗糙的；不精细的”"
+      }
+    },
+    {
+      "id": "cog",
+      "type": "root",
+      "meanings": {
+        "en": "to know, perceive",
+        "zh-CN": "表示“知道、感知”"
+      }
+    },
+    {
+      "id": "nitiv",
+      "type": "suffix",
+      "meanings": {
+        "en": "relating to, having the nature of",
+        "zh-CN": "表示“与……相关的；具有……性质的”"
+      }
+    },
+    {
+      "id": "bat",
+      "type": "root",
+      "meanings": {
+        "en": "to fight, to struggle",
+        "zh-CN": "核心意思是“战斗、搏斗”"
+      }
+    },
+    {
+      "id": "munic",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 munus，核心意思是“任务、职责、服务”",
+        "zh-CN": "来自拉丁语 munus，核心意思是“任务、职责、服务”"
+      }
+    },
+    {
+      "id": "mut",
+      "type": "root",
+      "meanings": {
+        "en": "to move, to change",
+        "zh-CN": "来自拉丁语 *movere*，核心意思是“移动、改变”"
+      }
+    },
+    {
+      "id": "plex",
+      "type": "root",
+      "meanings": {
+        "en": "to weave, to twist, to intertwine",
+        "zh-CN": "来自希腊语 plexein，核心意思是“编织、缠绕、交织”"
+      }
+    },
+    {
+      "id": "pris",
+      "type": "root",
+      "meanings": {
+        "en": "to take, to seize",
+        "zh-CN": "核心意思是“拿取、抓住”"
+      }
+    },
+    {
+      "id": "ced",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 cedere，核心意思是“去、走、让步” (to go, to yield)",
+        "zh-CN": "来自拉丁语 cedere，核心意思是“去、走、让步”"
+      }
+    },
+    {
+      "id": "ceiv",
+      "type": "root",
+      "meanings": {
+        "en": "root: to perceive, to think, to feel",
+        "zh-CN": "核心意思是“感知、思考、感觉”"
+      }
+    },
+    {
+      "id": "cis",
+      "type": "root",
+      "meanings": {
+        "en": "together, near (often used in Latin compounds to mean 'on the other side of' or 'close to')",
+        "zh-CN": "表示“在……的另一边；靠近”"
+      }
+    },
+    {
+      "id": "cret",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 creare，核心意思是“创造、形成”",
+        "zh-CN": "来自拉丁语 creare，核心意思是“创造、形成”"
+      }
+    },
+    {
+      "id": "fess",
+      "type": "root",
+      "meanings": {
+        "en": "to say, declare, or confess",
+        "zh-CN": "来自拉丁语 fari，核心意思是“说出、宣告”"
+      }
+    },
+    {
+      "id": "fid",
+      "type": "root",
+      "meanings": {
+        "en": "trust, faith",
+        "zh-CN": "来自拉丁语 fidere，核心意思是“信任、信念”"
+      }
+    },
+    {
+      "id": "sci",
+      "type": "root",
+      "meanings": {
+        "en": "know, perceive",
+        "zh-CN": "来自拉丁语 scire，核心意思是“知道、感知”"
+      }
+    },
+    {
+      "id": "scious",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 scire，核心意思是“知道、了解”",
+        "zh-CN": "来自拉丁语 scire，核心意思是“知道、了解”"
+      }
+    },
+    {
+      "id": "sider",
+      "type": "root",
+      "meanings": {
+        "en": "to stand, to be present, to perceive",
+        "zh-CN": "来自拉丁语 *sistere*，核心意思是“站立、存在、感知”"
+      }
+    },
+    {
+      "id": "sul",
+      "type": "root",
+      "meanings": {
+        "en": "to give, to advise, to seek (the core action)",
+        "zh-CN": "核心意思是“给予、提供、寻求”"
+      }
+    },
+    {
+      "id": "ption",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“行为、状态或过程的结果”",
+        "zh-CN": "表示“行为、状态或过程的结果”"
+      }
+    },
+    {
+      "id": "tinu",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 continuus，核心意思是“持续的、连续的”",
+        "zh-CN": "来自拉丁语 continuus，核心意思是“持续的、连续的”"
+      }
+    },
+    {
+      "id": "trast",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 trahere，核心意思是“拉、牵引”",
+        "zh-CN": "来自拉丁语 trahere，核心意思是“拉、牵引”"
+      }
+    },
+    {
+      "id": "tribu",
+      "type": "root",
+      "meanings": {
+        "en": "to gather, to bring together",
+        "zh-CN": "来自拉丁语 tribuere，核心意思是“聚集、带来在一起”"
+      }
+    },
+    {
+      "id": "te",
+      "type": "suffix",
+      "meanings": {
+        "en": "(often functions as a suffix indicating action or state)",
+        "zh-CN": "表示“行为的；状态的”（动词化/名词化）"
+      }
+    },
+    {
+      "id": "venie",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 venire，核心意思是“来”",
+        "zh-CN": "来自拉丁语 venire，核心意思是“来”"
+      }
+    },
+    {
+      "id": "nce",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态、性质”或名词化（常用于构成抽象名词）",
+        "zh-CN": "表示“状态、性质”或名词化"
+      }
+    },
+    {
+      "id": "vict",
+      "type": "root",
+      "meanings": {
+        "en": "to conquer, overcome (the core meaning of winning over)",
+        "zh-CN": "核心意思是“征服、战胜”"
+      }
+    },
+    {
+      "id": "oper",
+      "type": "root",
+      "meanings": {
+        "en": "to work, to perform an action",
+        "zh-CN": "核心意思是“工作、执行行动”"
+      }
+    },
+    {
+      "id": "porat",
+      "type": "root",
+      "meanings": {
+        "en": "表示“携带、承载”",
+        "zh-CN": "表示“携带、承载”"
+      }
+    },
+    {
+      "id": "pse",
+      "type": "suffix",
+      "meanings": {
+        "en": "body (often used as a suffix or part of a root)",
+        "zh-CN": "表示“身体”（常作为后缀或词根的一部分）"
+      }
+    },
+    {
+      "id": "respond",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“回应、回答”",
+        "zh-CN": "表示“回应、回答”"
+      }
+    },
+    {
+      "id": "stum",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *stum*，核心意思是“站立、姿态、形态”",
+        "zh-CN": "来自拉丁语 *stum*，核心意思是“站立、姿态、形态”"
+      }
+    },
+    {
+      "id": "uri",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 urere，核心意思是“奔跑、流动”",
+        "zh-CN": "来自拉丁语 urere，核心意思是“奔跑、流动”"
+      }
+    },
+    {
+      "id": "cre",
+      "type": "root",
+      "meanings": {
+        "en": "表示“create”（创造）的动作或状态；核心意义是“形成、产生”",
+        "zh-CN": "表示“创造”的动作或状态；核心意义是“形成、产生”"
+      }
+    },
+    {
+      "id": "creep",
+      "type": "root",
+      "meanings": {
+        "en": "to crawl, move slowly; to spread gradually (of a plant or disease); to pass quietly and subtly (of time)",
+        "zh-CN": "爬行；缓慢移行；(时间)悄悄过去；蔓延"
+      }
+    },
+    {
+      "id": "risp",
+      "type": "root",
+      "meanings": {
+        "en": "核心含义是“脆、清脆”的状态或性质（虽然在现代英语中它更像是一个完整的词干/词根）。",
+        "zh-CN": "核心含义是“脆、清脆”的状态或性质（虽然在现代英语中它更像是一个完整的词干/词根）。"
+      }
+    },
+    {
+      "id": "ush",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“挤压、施加压力”",
+        "zh-CN": "表示“挤压、施加压力”"
+      }
+    },
+    {
+      "id": "cu",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“弯曲的；卷曲的”",
+        "zh-CN": "表示“弯曲的；卷曲的”"
+      }
+    },
+    {
+      "id": "cumb",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 cūmb，核心意思是“曲线、弧度”",
+        "zh-CN": "来自古英语 cūmb，核心意思是“曲线、弧度”"
+      }
+    },
+    {
+      "id": "cum",
+      "type": "prefix",
+      "meanings": {
+        "en": "together, with",
+        "zh-CN": "表示“一起地；共同地”"
+      }
+    },
+    {
+      "id": "cup",
+      "type": "root",
+      "meanings": {
+        "en": "表示“杯子”或“容器的形状”，作为词根使用。",
+        "zh-CN": "表示“杯子”或“容器的形状”，作为词根使用。"
+      }
+    },
+    {
+      "id": "board",
+      "type": "root",
+      "meanings": {
+        "en": "表示“木板、面板”或“表面”，作为词根使用。",
+        "zh-CN": "表示“木板、面板”或“表面”，作为词根使用。"
+      }
+    },
+    {
+      "id": "da",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“来自……的；与……相关的” (often used as a prefix)",
+        "zh-CN": "表示“来自……的；与……相关的”"
+      }
+    },
+    {
+      "id": "dam",
+      "type": "root",
+      "meanings": {
+        "en": "to build a dam; a barrier or obstruction (noun)",
+        "zh-CN": "建造水坝；（名词）水坝、筑坝，抑制；（动词）阻拦、遏制"
+      }
+    },
+    {
+      "id": "data",
+      "type": "root",
+      "meanings": {
+        "en": "表示数据、信息（名词）",
+        "zh-CN": "表示数据、信息（名词）"
+      }
+    },
+    {
+      "id": "base",
+      "type": "root",
+      "meanings": {
+        "en": "表示基础、底座（名词）",
+        "zh-CN": "表示基础、底座（名词）"
+      }
+    },
+    {
+      "id": "bris",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *frūere* 的变体，核心意思是“破碎、碎裂”。",
+        "zh-CN": "来自拉丁语 *frūere* 的变体，核心意思是“破碎、碎裂”。"
+      }
+    },
+    {
+      "id": "cay",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 cēogan，核心意思是“衰退、腐烂”",
+        "zh-CN": "来自古英语 cēogan，核心意思是“衰退、腐烂”"
+      }
+    },
+    {
+      "id": "crease",
+      "type": "root",
+      "meanings": {
+        "en": "表示“弯曲、折叠、使变小”",
+        "zh-CN": "表示“弯曲、折叠、使变小”"
+      }
+    },
+    {
+      "id": "cree",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin 'creare', core meaning is 'to make, to create'",
+        "zh-CN": "词根：源自拉丁语 creare，核心意思是“制造、创造”"
+      }
+    },
+    {
+      "id": "dicat",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 dedicare，核心意思是“奉献、供奉”",
+        "zh-CN": "来自拉丁语 dedicare，核心意思是“奉献、供奉”"
+      }
+    },
+    {
+      "id": "fend",
+      "type": "root",
+      "meanings": {
+        "en": "to ward off, to defend (root)",
+        "zh-CN": "核心意思是“抵御、防御”"
+      }
+    },
+    {
+      "id": "fian",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 fīare，核心意思是“成为、发生”",
+        "zh-CN": "来自拉丁语 fīare，核心意思是“成为、发生”"
+      }
+    },
+    {
+      "id": "fici",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin facere, meaning 'to make' or 'to do'",
+        "zh-CN": "来自拉丁语 facere，核心意思是“做、制造”"
+      },
+      "origin": "Latin fac-"
+    },
+    {
+      "id": "fy",
+      "type": "root",
+      "meanings": {
+        "en": "（在某些情况下，尤其作为词根时）表示“做、执行”或“使成为”",
+        "zh-CN": "表示“做、执行”或“使成为”"
+      }
+    },
+    {
+      "id": "del",
+      "type": "root",
+      "meanings": {
+        "en": "表示“选择、挑选”或“执行”的动作；（在此词中）指代“移除/消除”的起始概念。",
+        "zh-CN": "表示“选择、挑选”或“执行”的动作；（在此词中）指代“移除/消除”的起始概念。"
+      }
+    },
+    {
+      "id": "liber",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 liber，核心意思是“自由的；解放的”",
+        "zh-CN": "来自拉丁语 liber，核心意思是“自由的；解放的”"
+      }
+    },
+    {
+      "id": "riv",
+      "type": "root",
+      "meanings": {
+        "en": "root meaning 'to flow' or 'to spring forth'",
+        "zh-CN": "来自拉丁语 rivus，核心意思是“流动、流出”"
+      }
+    },
+    {
+      "id": "spair",
+      "type": "root",
+      "meanings": {
+        "en": "to hold back, to reserve, or to be without/lacking (from Old French *espérer*)",
+        "zh-CN": "表示“保留、克制”或“缺乏（源自古法语 espérer）”的含义"
+      }
+    },
+    {
+      "id": "spis",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin *specere*, meaning 'to look' or 'to see'",
+        "zh-CN": "词根：源自拉丁语 *specere*，核心意思是“看”或“看见”"
+      }
+    },
+    {
+      "id": "stinat",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 stāre，核心意思是“站立、停留”",
+        "zh-CN": "来自拉丁语 stāre，核心意思是“站立、停留”"
+      }
+    },
+    {
+      "id": "triment",
+      "type": "root",
+      "meanings": {
+        "en": "root: related to 'measure' or 'effecting' (from Latin *mettere*, meaning 'to put')",
+        "zh-CN": "词根：与“衡量”或“产生影响”有关（源自拉丁语 *mettere*，意为“放置”）"
+      }
+    },
+    {
+      "id": "vot",
+      "type": "root",
+      "meanings": {
+        "en": "root meaning 'to turn' or 'to direct'",
+        "zh-CN": "词根，核心意思是“转向”或“导向”"
+      }
+    },
+    {
+      "id": "agnos",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 agnos，核心意思是“认识、了解”",
+        "zh-CN": "来自希腊语 agnos，核心意思是“认识、了解”"
+      }
+    },
+    {
+      "id": "ameter",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 metron，核心意思是“测量、度量”。",
+        "zh-CN": "来自希腊语 metron，核心意思是“测量、度量”。"
+      }
+    },
+    {
+      "id": "din",
+      "type": "root",
+      "meanings": {
+        "en": "noise, clamor; to make a loud noise",
+        "zh-CN": "表示噪音、喧闹；使发出响声"
+      }
+    },
+    {
+      "id": "dip",
+      "type": "root",
+      "meanings": {
+        "en": "to put or dip into a liquid; a short period of swimming; a slope.",
+        "zh-CN": "表示“蘸湿；斜坡；短时间游泳”的动作或状态。"
+      }
+    },
+    {
+      "id": "cipl",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *disciplina*，核心意思是“训练、指导、学习的学科”",
+        "zh-CN": "来自拉丁语 *disciplina*，核心意思是“训练、指导、学习的学科”"
+      }
+    },
+    {
+      "id": "creet",
+      "type": "root",
+      "meanings": {
+        "en": "来自古法语 discretus，核心意思是“分开的、独立的、审慎的”",
+        "zh-CN": "源自古法语 discretus，其核心含义是“被分开的、独立的、谨慎的”"
+      }
+    },
+    {
+      "id": "crimin",
+      "type": "root",
+      "meanings": {
+        "en": "to run, to move (root)",
+        "zh-CN": "来自拉丁语 crimere，核心意思是“奔跑、移动”"
+      }
+    },
+    {
+      "id": "guis",
+      "type": "root",
+      "meanings": {
+        "en": "来自古法语 guise，核心意思是“外表、样子、装扮”",
+        "zh-CN": "表示“外表、样子、装扮”的核心意义"
+      }
+    },
+    {
+      "id": "pers",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 persistere，核心意思是“存在、持续、保持”；在此处特指“分散/散开”的状态。",
+        "zh-CN": "来自拉丁语 persistere，核心意思是“存在、持续、保持”；在此处特指“分散/散开”的状态。"
+      }
+    },
+    {
+      "id": "play",
+      "type": "root",
+      "meanings": {
+        "en": "表示“玩耍、行动、展现”",
+        "zh-CN": "表示“玩耍、行动、展现”"
+      }
+    },
+    {
+      "id": "regard",
+      "type": "root",
+      "meanings": {
+        "en": "root: from Old French regarder, core meaning is 'to look at' or 'consider'",
+        "zh-CN": "词根：源自古法语 regarder，核心意思是“看”或“考虑”。"
+      }
+    },
+    {
+      "id": "tingu",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin 'tingere', meaning 'to dye, stain, mark'",
+        "zh-CN": "词根：源自拉丁语 tingere，核心意思是“染色、标记”"
+      }
+    },
+    {
+      "id": "ess",
+      "type": "suffix",
+      "meanings": {
+        "en": "suffix: often functions as a noun/adjective marker, related to state or condition (like '-ness' in happiness)",
+        "zh-CN": "后缀：通常作为名词/形容词标记，表示状态或性质（如同‘……性’）"
+      }
+    },
+    {
+      "id": "doom",
+      "type": "root",
+      "meanings": {
+        "en": "to bring about the end of; to determine the fate of",
+        "zh-CN": "带来终结；决定命运"
+      }
+    },
+    {
+      "id": "dorm",
+      "type": "root",
+      "meanings": {
+        "en": "to sleep, to be asleep",
+        "zh-CN": "表示“睡眠；处于睡眠状态”"
+      }
+    },
+    {
+      "id": "dot",
+      "type": "root",
+      "meanings": {
+        "en": "point, dot; to mark with a point, scatter, or embellish.",
+        "zh-CN": "表示小点、圆点；或表示加上小点、散布于、点缀。"
+      }
+    },
+    {
+      "id": "dr",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“拉、拖”的动作或状态。",
+        "zh-CN": "表示“拉、拖”的动作或状态。"
+      }
+    },
+    {
+      "id": "astic",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“与……相关的；具有……性质的”（通常是形容词后缀，源自希腊语）",
+        "zh-CN": "表示“与……相关的；具有……性质的”"
+      }
+    },
+    {
+      "id": "read",
+      "type": "root",
+      "meanings": {
+        "en": "（作为核心意义的词根）",
+        "zh-CN": "表示“阅读、理解”或在此处指代“恐惧/畏惧”的核心概念"
+      }
+    },
+    {
+      "id": "dub",
+      "type": "root",
+      "meanings": {
+        "en": "to give a title to; to nickname; to copy",
+        "zh-CN": "表示（以某种称号）授予；给起绰号；复制"
+      }
+    },
+    {
+      "id": "warf",
+      "type": "root",
+      "meanings": {
+        "en": "核心意义部分，指代“矮小、侏儒”的状态或本质（在dwarf中，它本身已高度固化为核心语义）",
+        "zh-CN": "核心意义部分，指代“矮小、侏儒”的状态或本质"
+      }
+    },
+    {
+      "id": "onom",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 oikonomia，核心意思是“家政管理、家庭经济学”",
+        "zh-CN": "来自希腊语 oikonomia，核心意思是“家政管理、家庭经济学”"
+      }
+    },
+    {
+      "id": "itor",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 iter，核心意思是“行走、旅程；行动”",
+        "zh-CN": "来自拉丁语 iter，核心意思是“行走、旅程；行动”"
+      }
+    },
+    {
+      "id": "ef",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“好的、有效的” (often used as a prefix)",
+        "zh-CN": "表示“好的、有效的”"
+      }
+    },
+    {
+      "id": "egant",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“优雅、优美”的（作为后缀或词尾部分，常与词根结合形成形容词义）",
+        "zh-CN": "表示“优雅、优美”的"
+      }
+    },
+    {
+      "id": "pir",
+      "type": "root",
+      "meanings": {
+        "en": "来自古希腊语 *peirain*，核心意思是“尝试、经验、试炼”",
+        "zh-CN": "来自古希腊语 *peirain*，核心意思是“尝试、经验、试炼”"
+      }
+    },
+    {
+      "id": "cyclopedi",
+      "type": "root",
+      "meanings": {
+        "en": "指“圆圈、环绕”之意，是词根部分。",
+        "zh-CN": "指“圆圈、环绕”之意，是词根部分。"
+      }
+    },
+    {
+      "id": "dors",
+      "type": "root",
+      "meanings": {
+        "en": "back",
+        "zh-CN": "来自拉丁语 dorsum，核心意思是“背部”"
+      }
+    },
+    {
+      "id": "force",
+      "type": "root",
+      "meanings": {
+        "en": "to compel, to make something happen; power or strength (核心意义)",
+        "zh-CN": "强迫，使……发生；力量或强度（核心意义）"
+      }
+    },
+    {
+      "id": "gagem",
+      "type": "root",
+      "meanings": {
+        "en": "a pledge, a promise, or an agreement made by one party to another",
+        "zh-CN": "承诺，担保，或一方对另一方所做的约定"
+      }
+    },
+    {
+      "id": "tertain",
+      "type": "root",
+      "meanings": {
+        "en": "（此处作为词根，指“保持、维持”）",
+        "zh-CN": "表示“保持、维持”"
+      }
+    },
+    {
+      "id": "thusiast",
+      "type": "root",
+      "meanings": {
+        "en": "enthusias (来自希腊语 euthusia，意为“好精神、热情”) + -ist (表示“从事某事的人/具有某种特质的”)",
+        "zh-CN": "（此处作为一个整体词根或核心部分）表示“充满热情的；热爱者”"
+      }
+    },
+    {
+      "id": "tity",
+      "type": "root",
+      "meanings": {
+        "en": "root/suffix",
+        "zh-CN": "来自拉丁语 'tangere'，核心意思是“触摸、接触”，此处常作为后缀表示“状态、性质或行为的结果”"
+      }
+    },
+    {
+      "id": "viron",
+      "type": "root",
+      "meanings": {
+        "en": "root",
+        "zh-CN": "来自拉丁语 virare，核心意思是“使充满、使活跃、环绕”"
+      }
+    },
+    {
+      "id": "vy",
+      "type": "root",
+      "meanings": {
+        "en": "（古英语/中古英语）指代“看、观察”相关的概念，是词根的一部分",
+        "zh-CN": "指代“看、观察”相关的概念，是词根的一部分"
+      }
+    },
+    {
+      "id": "zym",
+      "type": "root",
+      "meanings": {
+        "en": "root",
+        "zh-CN": "来自希腊语 zyma，核心意思是“发酵物、酵母、培养液”"
+      }
+    },
+    {
+      "id": "epi",
+      "type": "prefix",
+      "meanings": {
+        "en": "prefix: meaning 'upon, over, on top of' or 'near'",
+        "zh-CN": "表示“在……之上、覆盖于……”或“接近的”"
+      }
+    },
+    {
+      "id": "dem",
+      "type": "root",
+      "meanings": {
+        "en": "root: from Greek demos, core meaning is 'people' or 'population'",
+        "zh-CN": "来自希腊语 demos，核心意思是“人民”或“人口”"
+      }
+    },
+    {
+      "id": "eq",
+      "type": "root",
+      "meanings": {
+        "en": "表示“等同的、平等的”",
+        "zh-CN": "表示“等同的、平等的”"
+      }
+    },
+    {
+      "id": "ras",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 rasus，核心意思是“刮擦、磨损；使光滑”（与摩擦相关）",
+        "zh-CN": "来自拉丁语 rasus，核心意思是“刮擦、磨损；使光滑”"
+      }
+    },
+    {
+      "id": "rect",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 rectus，核心意思是“正确、直的、端正的”",
+        "zh-CN": "来自拉丁语 rectus，核心意思是“正确、直的、端正的”"
+      }
+    },
+    {
+      "id": "rosi",
+      "type": "root",
+      "meanings": {
+        "en": "核心意思是“磨损、侵蚀、消耗”（来自拉丁语 rodere，意为“研磨”）",
+        "zh-CN": "核心意思是“磨损、侵蚀、消耗”"
+      }
+    },
+    {
+      "id": "err",
+      "type": "root",
+      "meanings": {
+        "en": "表示“错误、犯错”",
+        "zh-CN": "表示“错误、犯错”"
+      }
+    },
+    {
+      "id": "cal",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 calere，核心意思是“热的；炽热的”（引申为“上升的热度”）",
+        "zh-CN": "来自拉丁语 calere，核心意思是“热的；炽热的”"
+      }
+    },
+    {
+      "id": "cort",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 cor/cortex，核心意思是“心、核心、中心”",
+        "zh-CN": "来自拉丁语 cor/cortex，核心意思是“心、核心、中心”"
+      }
+    },
+    {
+      "id": "teem",
+      "type": "root",
+      "meanings": {
+        "en": "表示“状态、行为”或作为词根的一部分（常与 es 结合形成核心意义）",
+        "zh-CN": "表示“状态、行为”或作为词根的一部分"
+      }
+    },
+    {
+      "id": "chang",
+      "type": "root",
+      "meanings": {
+        "en": "to change, to alter",
+        "zh-CN": "来自古英语 changan，核心意思是“改变、变化”"
+      }
+    },
+    {
+      "id": "ecut",
+      "type": "root",
+      "meanings": {
+        "en": "to cut (来自拉丁语 secare，核心意思是“切割”)",
+        "zh-CN": "表示“切割”"
+      }
+    },
+    {
+      "id": "pand",
+      "type": "root",
+      "meanings": {
+        "en": "to spread out, to stretch (表示散开，伸展)",
+        "zh-CN": "表示散开，伸展"
+      }
+    },
+    {
+      "id": "pedi",
+      "type": "root",
+      "meanings": {
+        "en": "表示“脚”",
+        "zh-CN": "表示“脚”"
+      }
+    },
+    {
+      "id": "pert",
+      "type": "root",
+      "meanings": {
+        "en": "to relate, to belong (表示“关联、属于”)",
+        "zh-CN": "表示“关联、属于”"
+      }
+    },
+    {
+      "id": "plosiv",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 plosio，核心意思是“撞击、猛烈冲击”",
+        "zh-CN": "来自拉丁语 plosio，核心意思是“撞击、猛烈冲击”"
+      }
+    },
+    {
+      "id": "fab",
+      "type": "root",
+      "meanings": {
+        "en": "表示“制作、形成”的（通常是动词或名词的核心意义）",
+        "zh-CN": "表示“制作、形成”的"
+      }
+    },
+    {
+      "id": "fac",
+      "type": "root",
+      "meanings": {
+        "en": "make easy or convenient",
+        "zh-CN": "表示使……容易或方便"
+      }
+    },
+    {
+      "id": "ilit",
+      "type": "root",
+      "meanings": {
+        "en": "a form of the root 'fac', often meaning 'to make' or 'to cause'",
+        "zh-CN": "是词根 fac 的一种形式，通常表示‘使’或‘导致’"
+      }
+    },
+    {
+      "id": "aint",
+      "type": "root",
+      "meanings": {
+        "en": "the core meaning of being weak, slight, or lacking strength.",
+        "zh-CN": "表示核心意义，即“虚弱的”、“轻微的”或“缺乏力量的”。"
+      }
+    },
+    {
+      "id": "fare",
+      "type": "root",
+      "meanings": {
+        "en": "表示“旅程、费用”或“行为”（如 fare well）；origin Latin facere/ferre（做、携带）",
+        "zh-CN": "表示“旅程、费用”或“行为”"
+      }
+    },
+    {
+      "id": "well",
+      "type": "root",
+      "meanings": {
+        "en": "表示“好；健康”；状态”，此处常作副词修饰 fare，意为“很好地/顺利地”",
+        "zh-CN": "表示“好的、健康的；良好的状态”"
+      }
+    },
+    {
+      "id": "fav",
+      "type": "root",
+      "meanings": {
+        "en": "表示“有利的；好的”",
+        "zh-CN": "表示“有利的；好的”"
+      }
+    },
+    {
+      "id": "ferr",
+      "type": "root",
+      "meanings": {
+        "en": "carry, bear (as in carrying something)",
+        "zh-CN": "表示“携带、承载”"
+      }
+    },
+    {
+      "id": "fix",
+      "type": "root",
+      "meanings": {
+        "en": "to fasten, to set in place",
+        "zh-CN": "表示“固定、安置”"
+      }
+    },
+    {
+      "id": "ourish",
+      "type": "root",
+      "meanings": {
+        "en": "核心意思是“生长、繁荣、兴旺”",
+        "zh-CN": "核心意思是“生长、繁荣、兴旺”"
+      }
+    },
+    {
+      "id": "giv",
+      "type": "root",
+      "meanings": {
+        "en": "to give, to bestow",
+        "zh-CN": "给予，授予"
+      }
+    },
+    {
+      "id": "oul",
+      "type": "root",
+      "meanings": {
+        "en": "表示“一种状态、性质或动作的完成形式”（在某些情况下，它本身可以被视为一个词根的一部分）",
+        "zh-CN": "表示“一种状态、性质或动作的完成形式”"
+      }
+    },
+    {
+      "id": "frac",
+      "type": "root",
+      "meanings": {
+        "en": "表示“分割、切分”的动作或状态。",
+        "zh-CN": "表示“分割、切分”的动作或状态。"
+      }
+    },
+    {
+      "id": "agil",
+      "type": "root",
+      "meanings": {
+        "en": "root: derived from Latin 'fragilis', meaning 'brittle' or 'easily broken'.",
+        "zh-CN": "词根：源自拉丁语 fragilis，核心意思是“易碎的”或“容易断裂的”。"
+      }
+    },
+    {
+      "id": "eak",
+      "type": "root",
+      "meanings": {
+        "en": "核心意思是“做、行动”；或者指代某种状态/特征（如畸形）",
+        "zh-CN": "核心意思是“做、行动”；或者指代某种状态/特征"
+      }
+    },
+    {
+      "id": "rict",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 fricare，核心意思是“摩擦、揉搓”",
+        "zh-CN": "来自拉丁语 fricare，核心意思是“摩擦、揉搓”"
+      }
+    },
+    {
+      "id": "fur",
+      "type": "root",
+      "meanings": {
+        "en": "表示“愤怒、狂暴”的；核心意义。",
+        "zh-CN": "表示“愤怒、狂暴”的；核心意义。"
+      }
+    },
+    {
+      "id": "gam",
+      "type": "root",
+      "meanings": {
+        "en": "表示“to take or risk” (take/risk)",
+        "zh-CN": "表示“拿取、冒险”"
+      }
+    },
+    {
+      "id": "gang",
+      "type": "root",
+      "meanings": {
+        "en": "group, band, gang (of criminals)",
+        "zh-CN": "表示一组、一队、(罪犯等)一帮或一群"
+      }
+    },
+    {
+      "id": "bage",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“废物、残渣”（通常与 'gar-' 结合后形成一个整体概念，但可视为一个独立的后缀/词根部分）。",
+        "zh-CN": "表示“废物、残渣”的性质或状态。"
+      }
+    },
+    {
+      "id": "erous",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“具有……性质的；倾向于……”",
+        "zh-CN": "表示“具有……的性质的；倾向于……”"
+      }
+    },
+    {
+      "id": "tle",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态、性质”（常用于形容词化）",
+        "zh-CN": "表示“状态、性质”（常用于形容词化）"
+      }
+    },
+    {
+      "id": "acier",
+      "type": "root",
+      "meanings": {
+        "en": "来自法语 glace（冰）演变而来，核心意思是“冰、寒冷”",
+        "zh-CN": "来自法语 glace（冰）演变而来，核心意思是“冰、寒冷”"
+      }
+    },
+    {
+      "id": "oom",
+      "type": "root",
+      "meanings": {
+        "en": "表示“充盈、充满”之意（作为词根的一部分）",
+        "zh-CN": "表示“充盈、充满”之意（作为词根的一部分）"
+      }
+    },
+    {
+      "id": "orge",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 'origo' 的变体，核心意思是“起源、开端”，在此特指“闪耀的光芒或华丽的本质”。",
+        "zh-CN": "来自拉丁语 'origo' 的变体，核心意思是“起源、开端”，在此特指“闪耀的光芒或华丽的本质”。"
+      }
+    },
+    {
+      "id": "aci",
+      "type": "root",
+      "meanings": {
+        "en": "表示“给予、行动”的（此处是词干的一部分，但功能上可视为核心意义载体）",
+        "zh-CN": "表示“给予、行动”的"
+      }
+    },
+    {
+      "id": "graph",
+      "type": "root",
+      "meanings": {
+        "en": "to write, draw; a drawing or picture",
+        "zh-CN": "书写；描绘；（名词）图形、图画"
+      }
+    },
+    {
+      "id": "grit",
+      "type": "root",
+      "meanings": {
+        "en": "sand, grit; courage, determination (n); to cover with sand or small stones (v)",
+        "zh-CN": "表示粗砂；刚毅，勇气（名词）；铺沙砾于（动词）"
+      }
+    },
+    {
+      "id": "ross",
+      "type": "root",
+      "meanings": {
+        "en": "表示“大、粗糙”的（作为词根的一部分，尤其在英语中常被视为一个完整的词根单元）",
+        "zh-CN": "表示“大、粗糙”的"
+      }
+    },
+    {
+      "id": "hang",
+      "type": "root",
+      "meanings": {
+        "en": "to suspend, to attach, to cling; also used as a verb meaning to be suspended or attached.",
+        "zh-CN": "表示“挂起；悬挂；附着；也用作动词，表示被悬挂或附着”"
+      }
+    },
+    {
+      "id": "hard",
+      "type": "root",
+      "meanings": {
+        "en": "表示“坚硬的；困难的”",
+        "zh-CN": "表示“坚硬的；困难的”"
+      }
+    },
+    {
+      "id": "aste",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 (Old English) 的 *æst*, 核心意思是“速度、急切性”",
+        "zh-CN": "来自古英语 (Old English) 的 *æst*，核心意思是“速度、急切性”"
+      }
+    },
+    {
+      "id": "aunt",
+      "type": "root",
+      "meanings": {
+        "en": "这个部分本身作为一个完整的、有意义的单元存在，可以被视为一个基础词根（root）或是一个极简的核心语义单位。",
+        "zh-CN": "这个部分本身作为一个完整的、有意义的单元存在，可以被视为一个基础词根（root）或是一个极简的核心语义单位。"
+      }
+    },
+    {
+      "id": "hawk",
+      "type": "root",
+      "meanings": {
+        "en": "to fly as a bird of prey; to deceive or trick (as a noun); an eagle or hawk (as a noun)",
+        "zh-CN": "（动词）飞翔，尤指作为猛禽；（名词）欺骗或诡计；鹰派成员"
+      },
+      "origin": "Old English hāg/hæwoc"
+    },
+    {
+      "id": "edit",
+      "type": "root",
+      "meanings": {
+        "en": "表示'引导、导向'（动词核心义）",
+        "zh-CN": "表示'引导、导向'"
+      }
+    },
+    {
+      "id": "hil",
+      "type": "root",
+      "meanings": {
+        "en": "表示“快乐、欢乐”",
+        "zh-CN": "表示“快乐、欢乐”"
+      }
+    },
+    {
+      "id": "obby",
+      "type": "root",
+      "meanings": {
+        "en": "这个部分本身可以被视为一个完整的词根（或更小的语义单元），它承载了“活动”或“消遣”的含义。",
+        "zh-CN": "这个部分本身可以被视为一个完整的词根（或更小的语义单元），它承载了“活动”或“消遣”的含义。"
+      }
+    },
+    {
+      "id": "hop",
+      "type": "root",
+      "meanings": {
+        "en": "to jump on one foot; a jump or bounce",
+        "zh-CN": "单足跳；弹跳"
+      }
+    },
+    {
+      "id": "umbl",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 (Old English) umbel，核心意思是“弯曲、低垂、谦卑”。",
+        "zh-CN": "来自古英语 (Old English) umbel，核心意思是“弯曲、低垂、谦卑”。"
+      }
+    },
+    {
+      "id": "hy",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“健康、清洁”的性质或状态",
+        "zh-CN": "表示“健康、清洁”的性质或状态"
+      }
+    },
+    {
+      "id": "gi",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 *giein*，核心意思是“成为、发生”",
+        "zh-CN": "来自希腊语 *giein*，核心意思是“成为、发生”"
+      }
+    },
+    {
+      "id": "ene",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态的；具有……性质的”（常用于名词化或形容词化）",
+        "zh-CN": "表示“状态的；具有……性质的”（常用于名词化或形容词化）"
+      }
+    },
+    {
+      "id": "eolog",
+      "type": "root",
+      "meanings": {
+        "en": "来自希腊语 logos，核心意思是“话语、理性、学问”",
+        "zh-CN": "来自希腊语 logos，核心意思是“话语、理性、学问”"
+      }
+    },
+    {
+      "id": "iot",
+      "type": "root",
+      "meanings": {
+        "en": "表示“人”（通常指某类人）",
+        "zh-CN": "表示“人”（通常指某类人）"
+      }
+    },
+    {
+      "id": "lusi",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 ludere，核心意思是“玩耍、游戏”",
+        "zh-CN": "源自拉丁语 ludere，核心意思是“玩耍、游戏”"
+      }
+    },
+    {
+      "id": "lustr",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 lucere，核心意思是“发光；照亮”",
+        "zh-CN": "来自拉丁语 lucere，核心意思是“发光；照亮”"
+      }
+    },
+    {
+      "id": "perat",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 perare，核心意思是“执行、完成、实现”",
+        "zh-CN": "来自拉丁语 perare，核心意思是“执行、完成、实现”"
+      }
+    },
+    {
+      "id": "definit",
+      "type": "root",
+      "meanings": {
+        "en": "root: from Latin *definire*, meaning 'to mark out, to set boundaries, to determine'",
+        "zh-CN": "核心意思是“界定、确定”"
+      }
+    },
+    {
+      "id": "dulg",
+      "type": "root",
+      "meanings": {
+        "en": "to lead, guide, or draw along; to allow oneself to be led by something",
+        "zh-CN": "表示引导、带领或牵引；允许自己被某事物所引领"
+      }
+    },
+    {
+      "id": "geni",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 genius，核心意思是“天赋、灵性、神灵的力量”",
+        "zh-CN": "来自拉丁语 genius，核心意思是“天赋、灵性、神灵的力量”"
+      }
+    },
+    {
+      "id": "gred",
+      "type": "root",
+      "meanings": {
+        "en": "to grow, to produce, to yield",
+        "zh-CN": "来自古高地德语 (Old High German)，核心意思是“生长、产生、产出”"
+      }
+    },
+    {
+      "id": "itial",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 initialis，核心意思是“开始的；最初的”",
+        "zh-CN": "来自拉丁语 initialis，核心意思是“开始的；最初的”"
+      }
+    },
+    {
+      "id": "noc",
+      "type": "root",
+      "meanings": {
+        "en": "from Latin *nocere, meaning 'to harm' or 'to injure'",
+        "zh-CN": "源自拉丁语 *nocere，核心意思是“伤害”或“损害”"
+      }
+    },
+    {
+      "id": "tegr",
+      "type": "root",
+      "meanings": {
+        "en": "whole, complete",
+        "zh-CN": "来自拉丁语 *trēns*，核心意思是“整体、完整”"
+      }
+    },
+    {
+      "id": "mitt",
+      "type": "root",
+      "meanings": {
+        "en": "send, throw",
+        "zh-CN": "来自拉丁语 mittere，核心意思是“发送、投掷”"
+      }
+    },
+    {
+      "id": "sect",
+      "type": "root",
+      "meanings": {
+        "en": "to cut (表示切割，切开)",
+        "zh-CN": "表示切割，切开"
+      }
+    },
+    {
+      "id": "timid",
+      "type": "root",
+      "meanings": {
+        "en": "characterized by shyness, nervousness, or lack of courage",
+        "zh-CN": "指胆怯的，害羞的，缺乏勇气的"
+      }
+    },
+    {
+      "id": "tric",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 tricus，核心意思是“三的；三个”",
+        "zh-CN": "来自拉丁语 tricus，核心意思是“三的；三个”"
+      }
+    },
+    {
+      "id": "trig",
+      "type": "root",
+      "meanings": {
+        "en": "the core meaning, related to pulling or drawing together/through",
+        "zh-CN": "核心含义，与拉动、牵引或穿过有关"
+      }
+    },
+    {
+      "id": "tem",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 (Old English) 的词根，核心意思是“thing”（事物、东西）。",
+        "zh-CN": "源自古英语，核心意思是“事物”或“东西”。"
+      }
+    },
+    {
+      "id": "jam",
+      "type": "root",
+      "meanings": {
+        "en": "to press, squeeze, jam (as in a blockage or malfunction); a sticky substance spread on bread",
+        "zh-CN": "表示“压紧、夹住、发生故障，塞进；阻塞物”"
+      }
+    },
+    {
+      "id": "jour",
+      "type": "root",
+      "meanings": {
+        "en": "表示“旅程、日子”",
+        "zh-CN": "表示“旅程、日子”"
+      }
+    },
+    {
+      "id": "unct",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 unctio，核心意思是“涂抹、接触、联合”之意。",
+        "zh-CN": "来自拉丁语 unctio，核心意思是“涂抹、接触、联合”之意。"
+      }
+    },
+    {
+      "id": "ju",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“年轻的、较小的” (often functions as a prefix/root combination)",
+        "zh-CN": "表示“年轻的、较小的”"
+      }
+    },
+    {
+      "id": "nior",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 'ior'，核心意思是“后来的；次要的” (often functions as a root/suffix combination)",
+        "zh-CN": "来自拉丁语 'ior'，核心意思是“后来的；次要的”"
+      }
+    },
+    {
+      "id": "ker",
+      "type": "root",
+      "meanings": {
+        "en": "core, center (of a nut or seed)",
+        "zh-CN": "表示“核心、中心”（如坚果或种子的）"
+      }
+    },
+    {
+      "id": "kid",
+      "type": "root",
+      "meanings": {
+        "en": "child, young person",
+        "zh-CN": "表示“孩子、年轻人”"
+      }
+    },
+    {
+      "id": "nap",
+      "type": "root",
+      "meanings": {
+        "en": "a short sleep; to take a nap",
+        "zh-CN": "表示“小睡；抓取/拿走（此处更偏向于‘抓住’的动作）”"
+      }
+    },
+    {
+      "id": "apse",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“状态、动作的完成或过程”",
+        "zh-CN": "表示“状态、动作的完成或过程”（常作为后缀附加于词根）"
+      },
+      "origin": "古希腊语 (Ancient Greek) / 拉丁语 (Latin)"
+    },
+    {
+      "id": "aundr",
+      "type": "root",
+      "meanings": {
+        "en": "来自古英语 *wendan* 的变体，核心意思是“转动、移动、改变方向”（此处特指水流和布料的运动）",
+        "zh-CN": "来自古英语 *wendan* 的变体，核心意思是“转动、移动、改变方向”（此处特指水流和布料的运动）"
+      }
+    },
+    {
+      "id": "la",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“……的、……地”的性质或状态（常作前缀）",
+        "zh-CN": "表示……的、……地（常作前缀）"
+      }
+    },
+    {
+      "id": "vish",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 videre，核心意思是“看、看见”",
+        "zh-CN": "来自拉丁语 videre，核心意思是“看、看见”"
+      }
+    },
+    {
+      "id": "lay",
+      "type": "root",
+      "meanings": {
+        "en": "to place, put down, set; to deposit (eggs)",
+        "zh-CN": "表示“放、放置、安置；下蛋”"
+      }
+    },
+    {
+      "id": "ayer",
+      "type": "root",
+      "meanings": {
+        "en": "the core meaning/concept, often related to arrangement or structure (though 'layer' itself is a simple root)",
+        "zh-CN": "核心意义/概念，通常与排列或结构相关（尽管 'layer' 本身是一个简单的词根）"
+      }
+    },
+    {
+      "id": "leap",
+      "type": "root",
+      "meanings": {
+        "en": "to jump or spring forward; a sudden, energetic movement.",
+        "zh-CN": "扑向；欣然接受（v.）；跳跃；飞跃（n.）"
+      },
+      "notes": {
+        "en": "The word itself functions as a simple root in this case, carrying the core meaning of jumping.",
+        "zh-CN": "该词本身作为一个简单的词根，承载了“跳跃”的核心意义。"
+      }
+    },
+    {
+      "id": "lation",
+      "type": "suffix",
+      "meanings": {
+        "en": "the action or process of being, or the state of having (a noun-forming suffix)",
+        "zh-CN": "表示“……的行为、过程或状态”（名词化后缀）"
+      }
+    },
+    {
+      "id": "ais",
+      "type": "root",
+      "meanings": {
+        "en": "表示“状态、行为或性质”（通常是名词化后缀，但在此处更像一个固定的中性词根部分）",
+        "zh-CN": "表示“状态、行为或性质”的含义（作为词根的一部分）"
+      }
+    },
+    {
+      "id": "imb",
+      "type": "root",
+      "meanings": {
+        "en": "（在某些分析中被视为一个整体词根）表示“身体部位、肢体”，与 l 共同构成基础意义。",
+        "zh-CN": "（在某些分析中被视为一个整体词根）表示“身体部位、肢体”，与 l 共同构成基础意义。"
+      }
+    },
+    {
+      "id": "quor",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 quaerere，核心意思是“寻求、寻找”；在此词中演变为指代“流动的物质或液态的本质”",
+        "zh-CN": "来自拉丁语 quaerere，核心意思是“寻求、寻找”；在此词中演变为指代“流动的物质或液态的本质”"
+      }
+    },
+    {
+      "id": "lit",
+      "type": "root",
+      "meanings": {
+        "en": "表示“放置、散落”的动作或状态。",
+        "zh-CN": "表示“放置、散落”的动作或状态。"
+      }
+    },
+    {
+      "id": "lod",
+      "type": "root",
+      "meanings": {
+        "en": "to settle, to stay in a place; to put or keep (something) somewhere",
+        "zh-CN": "表示“居住、停留于某地；将（某物）放置或保存于某个地方”"
+      }
+    },
+    {
+      "id": "log",
+      "type": "root",
+      "meanings": {
+        "en": "a piece of wood cut or split from a tree trunk; a round log.",
+        "zh-CN": "表示一截从树干上砍下或劈开的木头；圆木。"
+      }
+    },
+    {
+      "id": "lu",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“光、明亮”",
+        "zh-CN": "表示“光、明亮”"
+      }
+    },
+    {
+      "id": "dicr",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 dicere，核心意思是“说、宣告”",
+        "zh-CN": "来自拉丁语 dicere，核心意思是“说、宣告”"
+      }
+    },
+    {
+      "id": "unar",
+      "type": "suffix",
+      "meanings": {
+        "en": "表示“与……相关的；具有……性质的” (a common suffix)",
+        "zh-CN": "表示“与……相关的；具有……性质的”（一个常见的后缀）"
+      }
+    },
+    {
+      "id": "mag",
+      "type": "prefix",
+      "meanings": {
+        "en": "表示“大、伟大”",
+        "zh-CN": "表示“大、伟大”"
+      }
+    },
+    {
+      "id": "istr",
+      "type": "root",
+      "meanings": {
+        "en": "来自拉丁语 *sistere*，核心意思是“站立、存在”",
+        "zh-CN": "来自拉丁语 *sistere*，核心意思是“站立、存在”"
+      }
+    },
+    {
+      "id": "mai",
+      "type": "root",
+      "meanings": {
+        "en": "表示“主要、主要的”或在某些语境中指代“美丽/年轻的”",
+        "zh-CN": "表示“主要、主要的”，或者在某些语境中指代“美丽/年轻的”"
+      }
+    },
+    {
+      "id": "jest",
+      "type": "root",
+      "meanings": {
+        "en": "表示“存在、本质”（此处为核心意义）",
+        "zh-CN": "表示“存在、本质”"
+      }
+    },
+    {
+      "id": "man",
+      "type": "root",
+      "meanings": {
+        "en": "hand (or human)",
+        "zh-CN": "表示“手”或“人”"
+      }
+    },
+    {
+      "id": "ipul",
+      "type": "root",
+      "meanings": {
+        "en": "to shape, to handle",
+        "zh-CN": "表示“塑造、处理”"
+      }
     }
   ]
 }

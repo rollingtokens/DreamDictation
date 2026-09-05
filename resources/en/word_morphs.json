@@ -8,8 +8,12 @@
         "id": "ab"
       },
       {
-        "form": "andon",
-        "id": "andon"
+        "form": "and",
+        "id": "and"
+      },
+      {
+        "form": "on",
+        "id": "on"
       }
     ],
     "abnormal": [
@@ -18,12 +22,12 @@
         "id": "ab"
       },
       {
-        "form": "normal",
-        "id": "normal"
+        "form": "norm",
+        "id": "norm"
       },
       {
-        "form": "-al",
-        "id": "-al"
+        "form": "al",
+        "id": "al"
       }
     ],
     "abolish": [
@@ -34,30 +38,6 @@
       {
         "form": "olish",
         "id": "olish"
-      }
-    ],
-    "aboriginal": [
-      {
-        "form": "ab",
-        "id": "ab"
-      },
-      {
-        "form": "origin",
-        "id": "orig"
-      },
-      {
-        "form": "al",
-        "id": "-al"
-      }
-    ],
-    "abortion": [
-      {
-        "form": "ab",
-        "id": "ab"
-      },
-      {
-        "form": "ortion",
-        "id": "ortion"
       }
     ],
     "abrupt": [
@@ -80,16 +60,6 @@
         "id": "sorb"
       }
     ],
-    "abstract": [
-      {
-        "form": "ab",
-        "id": "ab"
-      },
-      {
-        "form": "stract",
-        "id": "stract"
-      }
-    ],
     "absurd": [
       {
         "form": "ab",
@@ -106,64 +76,12 @@
         "id": "ab"
       },
       {
-        "form": "undance",
-        "id": "undance"
-      }
-    ],
-    "abuse": [
-      {
-        "form": "ab",
-        "id": "ab"
+        "form": "und",
+        "id": "und"
       },
       {
-        "form": "us",
-        "id": "us"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "academic": [
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "cad",
-        "id": "cad"
-      },
-      {
-        "form": "em",
-        "id": "em"
-      }
-    ],
-    "accelerate": [
-      {
-        "form": "ac",
-        "id": "ac"
-      },
-      {
-        "form": "celer",
-        "id": "celer"
-      },
-      {
-        "form": "at",
-        "id": "at"
-      }
-    ],
-    "accessory": [
-      {
-        "form": "ac",
-        "id": "ac"
-      },
-      {
-        "form": "cess",
-        "id": "cess"
-      },
-      {
-        "form": "ory",
-        "id": "ory"
+        "form": "ance",
+        "id": "ance"
       }
     ],
     "accommodate": [
@@ -200,18 +118,18 @@
         "id": "ac"
       },
       {
-        "form": "company",
-        "id": "company"
+        "form": "comp",
+        "id": "comp"
       },
       {
-        "form": "y",
-        "id": "y"
+        "form": "any",
+        "id": "any"
       }
     ],
     "accord": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "ac",
+        "id": "ac"
       },
       {
         "form": "cord",
@@ -234,16 +152,30 @@
     ],
     "accountant": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "ac",
+        "id": "ac"
       },
       {
-        "form": "ccount",
-        "id": "ccount"
+        "form": "count",
+        "id": "count"
       },
       {
         "form": "ant",
         "id": "ant"
+      }
+    ],
+    "accumulate": [
+      {
+        "form": "ac",
+        "id": "ac"
+      },
+      {
+        "form": "cumul",
+        "id": "cumul"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
       }
     ],
     "accuse": [
@@ -270,18 +202,108 @@
         "id": "cid"
       }
     ],
-    "acute": [
+    "acknowledge": [
       {
         "form": "ac",
         "id": "ac"
       },
       {
-        "form": "ut",
-        "id": "ut"
+        "form": "know",
+        "id": "know"
+      },
+      {
+        "form": "ledge",
+        "id": "ledge"
+      }
+    ],
+    "acquire": [
+      {
+        "form": "ac",
+        "id": "ac"
+      },
+      {
+        "form": "quir",
+        "id": "quir"
       },
       {
         "form": "e",
         "id": "e"
+      }
+    ],
+    "acquisition": [
+      {
+        "form": "ac",
+        "id": "ac"
+      },
+      {
+        "form": "quis",
+        "id": "quis"
+      },
+      {
+        "form": "ition",
+        "id": "ition"
+      }
+    ],
+    "adapt": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "apt",
+        "id": "apt"
+      }
+    ],
+    "addict": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "dict",
+        "id": "dict"
+      }
+    ],
+    "adequate": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "equ",
+        "id": "equ"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "adhere": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "her",
+        "id": "her"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "adjacent": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "jac",
+        "id": "jac"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
       }
     ],
     "adjust": [
@@ -294,32 +316,28 @@
         "id": "just"
       }
     ],
-    "admission": [
+    "adolescence": [
       {
         "form": "ad",
         "id": "ad"
       },
       {
-        "form": "miss",
-        "id": "miss"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
-      }
-    ],
-    "adolescence": [
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "dolesc",
-        "id": "dolesc"
+        "form": "olesc",
+        "id": "olesc"
       },
       {
         "form": "ence",
         "id": "ence"
+      }
+    ],
+    "adopt": [
+      {
+        "form": "ad",
+        "id": "ad"
+      },
+      {
+        "form": "opt",
+        "id": "opt"
       }
     ],
     "advent": [
@@ -366,32 +384,22 @@
         "id": "ad"
       },
       {
-        "form": "voc",
-        "id": "voc"
+        "form": "vocat",
+        "id": "vocat"
       },
       {
-        "form": "ate",
-        "id": "ate"
+        "form": "e",
+        "id": "e"
       }
     ],
-    "aerial": [
+    "aesthetic": [
       {
         "form": "a",
         "id": "a"
       },
       {
-        "form": "er",
-        "id": "er"
-      },
-      {
-        "form": "ial",
-        "id": "ial"
-      }
-    ],
-    "aesthetic": [
-      {
-        "form": "aesthet",
-        "id": "aesthet"
+        "form": "esthet",
+        "id": "esthet"
       },
       {
         "form": "ic",
@@ -408,24 +416,18 @@
         "id": "fect"
       }
     ],
-    "affection": [
-      {
-        "form": "affect",
-        "id": "affect"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
-      }
-    ],
     "affiliate": [
       {
-        "form": "affil",
-        "id": "affil"
+        "form": "af",
+        "id": "af"
       },
       {
-        "form": "iate",
-        "id": "iate"
+        "form": "filiat",
+        "id": "filiat"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "afford": [
@@ -438,18 +440,18 @@
         "id": "ford"
       }
     ],
-    "agency": [
+    "agenda": [
+      {
+        "form": "ag",
+        "id": "ag"
+      },
+      {
+        "form": "end",
+        "id": "end"
+      },
       {
         "form": "a",
         "id": "a"
-      },
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "ency",
-        "id": "ency"
       }
     ],
     "aggressive": [
@@ -466,38 +468,10 @@
         "id": "ive"
       }
     ],
-    "agony": [
-      {
-        "form": "ag",
-        "id": "ag"
-      },
-      {
-        "form": "ony",
-        "id": "ony"
-      }
-    ],
-    "agreement": [
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "gree",
-        "id": "gree"
-      },
-      {
-        "form": "ment",
-        "id": "ment"
-      }
-    ],
     "airing": [
       {
-        "form": "a",
+        "form": "air",
         "id": "a"
-      },
-      {
-        "form": "ir",
-        "id": "ir"
       },
       {
         "form": "ing",
@@ -516,64 +490,46 @@
     ],
     "alarm": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "al",
+        "id": "al"
       },
       {
-        "form": "larm",
-        "id": "alarm"
+        "form": "arm",
+        "id": "arm"
       }
     ],
     "alien": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "al",
+        "id": "al"
       },
       {
-        "form": "lien",
-        "id": "lien"
+        "form": "ien",
+        "id": "ien"
       }
     ],
-    "alliance": [
+    "alleviate": [
       {
         "form": "al",
         "id": "al"
       },
       {
-        "form": "li",
-        "id": "li"
+        "form": "lev",
+        "id": "lev"
       },
       {
-        "form": "ance",
-        "id": "ance"
+        "form": "iate",
+        "id": "iate"
       }
     ],
     "allocate": [
       {
-        "form": "al",
-        "id": "al"
-      },
-      {
-        "form": "loc",
-        "id": "loc"
+        "form": "alloc",
+        "id": "alloc"
       },
       {
         "form": "ate",
         "id": "ate"
-      }
-    ],
-    "allowance": [
-      {
-        "form": "al",
-        "id": "al"
-      },
-      {
-        "form": "low",
-        "id": "low"
-      },
-      {
-        "form": "ance",
-        "id": "ance"
       }
     ],
     "alloy": [
@@ -582,12 +538,8 @@
         "id": "al"
       },
       {
-        "form": "lo",
-        "id": "lo"
-      },
-      {
-        "form": "y",
-        "id": "y"
+        "form": "loy",
+        "id": "loy"
       }
     ],
     "alter": [
@@ -600,32 +552,42 @@
         "id": "ter"
       }
     ],
-    "alternate": [
+    "alternative": [
       {
-        "form": "al",
-        "id": "al"
+        "form": "alt",
+        "id": "alt"
       },
       {
-        "form": "ter",
-        "id": "ter"
+        "form": "ern",
+        "id": "ern"
       },
       {
-        "form": "nate",
-        "id": "nate"
+        "form": "ative",
+        "id": "ative"
       }
     ],
-    "ambassador": [
+    "amateur": [
       {
         "form": "am",
         "id": "am"
       },
       {
-        "form": "bass",
-        "id": "bass"
+        "form": "ateur",
+        "id": "ateur"
+      }
+    ],
+    "ambiguity": [
+      {
+        "form": "am",
+        "id": "am"
       },
       {
-        "form": "ador",
-        "id": "ador"
+        "form": "bigu",
+        "id": "bigu"
+      },
+      {
+        "form": "ity",
+        "id": "ity"
       }
     ],
     "ambiguous": [
@@ -634,12 +596,26 @@
         "id": "am"
       },
       {
-        "form": "big",
-        "id": "big"
+        "form": "bigu",
+        "id": "bigu"
       },
       {
-        "form": "uous",
-        "id": "uous"
+        "form": "ous",
+        "id": "ous"
+      }
+    ],
+    "ambition": [
+      {
+        "form": "am",
+        "id": "am"
+      },
+      {
+        "form": "bit",
+        "id": "bit"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "ambulance": [
@@ -666,16 +642,6 @@
         "id": "mend"
       }
     ],
-    "amends": [
-      {
-        "form": "am",
-        "id": "am"
-      },
-      {
-        "form": "ends",
-        "id": "e"
-      }
-    ],
     "amid": [
       {
         "form": "a",
@@ -686,18 +652,28 @@
         "id": "mid"
       }
     ],
+    "amidst": [
+      {
+        "form": "a",
+        "id": "a"
+      },
+      {
+        "form": "midst",
+        "id": "midst"
+      }
+    ],
     "ammunition": [
       {
         "form": "am",
         "id": "am"
       },
       {
-        "form": "mun",
-        "id": "mun"
+        "form": "muniti",
+        "id": "muniti"
       },
       {
-        "form": "ition",
-        "id": "ion"
+        "form": "on",
+        "id": "on"
       }
     ],
     "ample": [
@@ -706,28 +682,28 @@
         "id": "am"
       },
       {
-        "form": "pl",
-        "id": "pl"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ple",
+        "id": "ple"
       }
     ],
     "ancestor": [
       {
-        "form": "anc",
-        "id": "anc"
+        "form": "an",
+        "id": "an"
       },
       {
-        "form": "estor",
-        "id": "estor"
+        "form": "cestor",
+        "id": "cestor"
       }
     ],
     "anchor": [
       {
-        "form": "anchor",
-        "id": "anchor"
+        "form": "an",
+        "id": "an"
+      },
+      {
+        "form": "chor",
+        "id": "chor"
       }
     ],
     "annoy": [
@@ -768,32 +744,38 @@
         "id": "ous"
       }
     ],
-    "anthology": [
+    "anthem": [
       {
-        "form": "anth",
-        "id": "anth"
+        "form": "an",
+        "id": "an"
       },
       {
-        "form": "ol",
-        "id": "ol"
-      },
-      {
-        "form": "ogy",
-        "id": "ogy"
+        "form": "them",
+        "id": "them"
       }
     ],
-    "anthropology": [
+    "anticipate": [
       {
-        "form": "anthrop",
-        "id": "anthrop"
+        "form": "anti",
+        "id": "anti"
       },
       {
-        "form": "ol",
-        "id": "ol"
+        "form": "cipat",
+        "id": "cipat"
       },
       {
-        "form": "ogy",
-        "id": "ogy"
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "antique": [
+      {
+        "form": "ant",
+        "id": "ant"
+      },
+      {
+        "form": "ique",
+        "id": "ique"
       }
     ],
     "apparatus": [
@@ -806,26 +788,8 @@
         "id": "par"
       },
       {
-        "form": "at",
-        "id": "at"
-      },
-      {
-        "form": "us",
-        "id": "us"
-      }
-    ],
-    "apparent": [
-      {
-        "form": "ap",
-        "id": "ap"
-      },
-      {
-        "form": "par",
-        "id": "par"
-      },
-      {
-        "form": "ent",
-        "id": "ent"
+        "form": "atus",
+        "id": "atus"
       }
     ],
     "appeal": [
@@ -838,52 +802,14 @@
         "id": "peal"
       }
     ],
-    "appendix": [
-      {
-        "form": "ap",
-        "id": "ap"
-      },
-      {
-        "form": "pend",
-        "id": "pend"
-      },
-      {
-        "form": "ix",
-        "id": "ix"
-      }
-    ],
     "appetite": [
       {
         "form": "ap",
         "id": "ap"
       },
       {
-        "form": "pet",
-        "id": "pet"
-      },
-      {
-        "form": "ite",
-        "id": "ite"
-      }
-    ],
-    "applaud": [
-      {
-        "form": "ap",
-        "id": "ap"
-      },
-      {
-        "form": "plaud",
-        "id": "plaud"
-      }
-    ],
-    "appliance": [
-      {
-        "form": "ap",
-        "id": "ap"
-      },
-      {
-        "form": "plianc",
-        "id": "plianc"
+        "form": "petit",
+        "id": "petit"
       },
       {
         "form": "e",
@@ -896,46 +822,124 @@
         "id": "ap"
       },
       {
-        "form": "plicant",
-        "id": "plicant"
+        "form": "plic",
+        "id": "plic"
+      },
+      {
+        "form": "ant",
+        "id": "ant"
+      }
+    ],
+    "apply": [
+      {
+        "form": "ap",
+        "id": "ap"
+      },
+      {
+        "form": "ply",
+        "id": "ply"
       }
     ],
     "appointment": [
       {
         "form": "ap",
-        "id": "a"
+        "id": "ap"
       },
       {
         "form": "point",
-        "id": "ppoint"
+        "id": "point"
       },
       {
         "form": "ment",
         "id": "ment"
       }
     ],
-    "approximate": [
+    "appraisal": [
       {
         "form": "ap",
         "id": "ap"
       },
       {
-        "form": "prox",
-        "id": "prox"
+        "form": "prai",
+        "id": "prai"
       },
       {
-        "form": "imate",
-        "id": "imate"
+        "form": "sal",
+        "id": "sal"
       }
     ],
-    "aquarium": [
+    "appreciate": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "ap",
+        "id": "ap"
       },
       {
-        "form": "quarium",
-        "id": "quarium"
+        "form": "preci",
+        "id": "preci"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "appropriate": [
+      {
+        "form": "ap",
+        "id": "ap"
+      },
+      {
+        "form": "propri",
+        "id": "propri"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "approval": [
+      {
+        "form": "ap",
+        "id": "ap"
+      },
+      {
+        "form": "prov",
+        "id": "prov"
+      },
+      {
+        "form": "al",
+        "id": "al"
+      }
+    ],
+    "apt": [
+      {
+        "form": "ap",
+        "id": "ap"
+      },
+      {
+        "form": "t",
+        "id": "t"
+      }
+    ],
+    "arc": [
+      {
+        "form": "arc",
+        "id": "arc"
+      }
+    ],
+    "arch": [
+      {
+        "form": "arch",
+        "id": "arch"
+      }
+    ],
+    "archaic": [
+      {
+        "form": "arch",
+        "id": "arch"
+      },
+      {
+        "form": "aic",
+        "id": "aic"
       }
     ],
     "arise": [
@@ -954,12 +958,12 @@
     ],
     "armour": [
       {
-        "form": "arm",
-        "id": "arm"
+        "form": "ar",
+        "id": "ar"
       },
       {
-        "form": "our",
-        "id": "our"
+        "form": "mour",
+        "id": "mour"
       }
     ],
     "array": [
@@ -968,18 +972,22 @@
         "id": "a"
       },
       {
-        "form": "rray",
-        "id": "array"
+        "form": "rr",
+        "id": "rr"
+      },
+      {
+        "form": "ay",
+        "id": "ay"
       }
     ],
     "arrogant": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "ar",
+        "id": "ar"
       },
       {
-        "form": "rrog",
-        "id": "rrog"
+        "form": "rog",
+        "id": "rog"
       },
       {
         "form": "ant",
@@ -988,12 +996,12 @@
     ],
     "artery": [
       {
-        "form": "art",
-        "id": "art"
+        "form": "ar",
+        "id": "ar"
       },
       {
-        "form": "er",
-        "id": "er"
+        "form": "ter",
+        "id": "ter"
       },
       {
         "form": "y",
@@ -1014,68 +1022,38 @@
         "id": "ate"
       }
     ],
-    "artillery": [
-      {
-        "form": "art",
-        "id": "art"
-      },
-      {
-        "form": "ill",
-        "id": "ill"
-      },
-      {
-        "form": "ery",
-        "id": "ery"
-      }
-    ],
     "ascent": [
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "scent",
-        "id": "scent"
-      }
-    ],
-    "ashamed": [
-      {
-        "form": "ash",
-        "id": "ash"
-      },
-      {
-        "form": "amed",
-        "id": "amed"
-      }
-    ],
-    "assault": [
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "ssault",
-        "id": "assault"
-      }
-    ],
-    "assert": [
       {
         "form": "as",
         "id": "as"
       },
       {
-        "form": "sert",
-        "id": "ert"
+        "form": "cent",
+        "id": "cent"
       }
     ],
-    "assess": [
+    "assassination": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "as",
+        "id": "as"
       },
       {
-        "form": "ssess",
-        "id": "assess"
+        "form": "sassin",
+        "id": "sassin"
+      },
+      {
+        "form": "ation",
+        "id": "ation"
+      }
+    ],
+    "assault": [
+      {
+        "form": "as",
+        "id": "as"
+      },
+      {
+        "form": "sault",
+        "id": "sault"
       }
     ],
     "asset": [
@@ -1090,60 +1068,90 @@
     ],
     "assign": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "as",
+        "id": "as"
       },
       {
-        "form": "ssign",
-        "id": "assign"
+        "form": "sign",
+        "id": "sign"
       }
     ],
     "associate": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "as",
+        "id": "as"
       },
       {
-        "form": "ssociate",
-        "id": "associate"
+        "form": "soci",
+        "id": "soci"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
       }
     ],
     "assume": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "as",
+        "id": "as"
       },
       {
-        "form": "ssume",
-        "id": "assume"
+        "form": "sume",
+        "id": "sume"
       }
     ],
-    "astronomy": [
+    "assure": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "as",
+        "id": "as"
       },
       {
-        "form": "stron",
-        "id": "stron"
+        "form": "sur",
+        "id": "sur"
       },
       {
-        "form": "omy",
-        "id": "omy"
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "asylum": [
+      {
+        "form": "as",
+        "id": "as"
+      },
+      {
+        "form": "ylum",
+        "id": "ylum"
+      }
+    ],
+    "athlete": [
+      {
+        "form": "ath",
+        "id": "ath"
+      },
+      {
+        "form": "lete",
+        "id": "lete"
       }
     ],
     "atlas": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "at",
+        "id": "at"
       },
       {
-        "form": "tl",
-        "id": "tl"
+        "form": "las",
+        "id": "las"
+      }
+    ],
+    "attach": [
+      {
+        "form": "at",
+        "id": "at"
       },
       {
-        "form": "as",
-        "id": "as"
+        "form": "tach",
+        "id": "tach"
       }
     ],
     "attain": [
@@ -1158,68 +1166,40 @@
     ],
     "attempt": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "at",
+        "id": "at"
       },
       {
-        "form": "ttempt",
-        "id": "ttempt"
+        "form": "temp",
+        "id": "temp"
+      },
+      {
+        "form": "t",
+        "id": "t"
       }
     ],
     "attend": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "at",
+        "id": "at"
       },
       {
-        "form": "tt",
-        "id": "tt"
-      },
-      {
-        "form": "end",
-        "id": "end"
+        "form": "tend",
+        "id": "tend"
       }
     ],
     "attorney": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "at",
+        "id": "at"
       },
       {
-        "form": "tt",
-        "id": "tt"
-      },
-      {
-        "form": "or",
-        "id": "or"
+        "form": "tor",
+        "id": "tor"
       },
       {
         "form": "ney",
         "id": "ney"
-      }
-    ],
-    "auction": [
-      {
-        "form": "au",
-        "id": "au"
-      },
-      {
-        "form": "ct",
-        "id": "ct"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
-      }
-    ],
-    "audible": [
-      {
-        "form": "aud",
-        "id": "aud"
-      },
-      {
-        "form": "ible",
-        "id": "ible"
       }
     ],
     "audience": [
@@ -1248,12 +1228,12 @@
     ],
     "audition": [
       {
-        "form": "aud",
-        "id": "aud"
+        "form": "au",
+        "id": "au"
       },
       {
-        "form": "it",
-        "id": "it"
+        "form": "dit",
+        "id": "dit"
       },
       {
         "form": "ion",
@@ -1262,62 +1242,44 @@
     ],
     "auditorium": [
       {
-        "form": "aud",
-        "id": "aud"
+        "form": "au",
+        "id": "au"
       },
       {
-        "form": "it",
-        "id": "it"
+        "form": "dit",
+        "id": "dit"
       },
       {
         "form": "orium",
         "id": "orium"
       }
     ],
-    "authentic": [
-      {
-        "form": "aut",
-        "id": "aut"
-      },
-      {
-        "form": "hent",
-        "id": "hent"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      }
-    ],
-    "authoritative": [
-      {
-        "form": "auth",
-        "id": "auth"
-      },
-      {
-        "form": "or",
-        "id": "or"
-      },
-      {
-        "form": "itat",
-        "id": "itat"
-      },
-      {
-        "form": "ive",
-        "id": "ive"
-      }
-    ],
     "authority": [
       {
-        "form": "auth",
-        "id": "auth"
+        "form": "au",
+        "id": "au"
       },
       {
-        "form": "or",
-        "id": "or"
+        "form": "thor",
+        "id": "thor"
       },
       {
         "form": "ity",
         "id": "ity"
+      }
+    ],
+    "authorize": [
+      {
+        "form": "auth",
+        "id": "auth"
+      },
+      {
+        "form": "or",
+        "id": "or"
+      },
+      {
+        "form": "ize",
+        "id": "ize"
       }
     ],
     "automatic": [
@@ -1390,28 +1352,24 @@
         "id": "ary"
       }
     ],
-    "avalanche": [
+    "avail": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "av",
+        "id": "av"
       },
       {
-        "form": "val",
-        "id": "val"
-      },
-      {
-        "form": "anche",
-        "id": "anche"
+        "form": "ail",
+        "id": "ail"
       }
     ],
-    "aviation": [
+    "avalanche": [
       {
-        "form": "a",
-        "id": "a"
+        "form": "av",
+        "id": "av"
       },
       {
-        "form": "viation",
-        "id": "aviation"
+        "form": "alanche",
+        "id": "alanche"
       }
     ],
     "avoid": [
@@ -1446,12 +1404,12 @@
     ],
     "awkward": [
       {
-        "form": "awk",
-        "id": "awk"
+        "form": "aw",
+        "id": "aw"
       },
       {
-        "form": "ward",
-        "id": "ward"
+        "form": "kward",
+        "id": "kward"
       }
     ],
     "axis": [
@@ -1462,30 +1420,6 @@
       {
         "form": "xis",
         "id": "xis"
-      }
-    ],
-    "candidate": [
-      {
-        "form": "cand",
-        "id": "cand"
-      },
-      {
-        "form": "idate",
-        "id": "idate"
-      }
-    ],
-    "cape": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "pe",
-        "id": "pe"
       }
     ],
     "caption": [
@@ -1518,74 +1452,28 @@
         "id": "ture"
       }
     ],
-    "cardinal": [
+    "cartoon": [
       {
-        "form": "card",
-        "id": "card"
+        "form": "cart",
+        "id": "cart"
       },
       {
-        "form": "inal",
-        "id": "inal"
+        "form": "oon",
+        "id": "oon"
       }
     ],
-    "carpenter": [
+    "cashier": [
       {
         "form": "c",
         "id": "c"
       },
       {
-        "form": "ar",
-        "id": "ar"
+        "form": "ash",
+        "id": "ash"
       },
       {
-        "form": "pent",
-        "id": "pent"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      }
-    ],
-    "carrier": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "arr",
-        "id": "arr"
-      },
-      {
-        "form": "i",
-        "id": "i"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      }
-    ],
-    "carrot": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ar",
-        "id": "ar"
-      },
-      {
-        "form": "rot",
-        "id": "rot"
-      }
-    ],
-    "cart": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "art",
-        "id": "art"
+        "form": "ier",
+        "id": "ier"
       }
     ],
     "cast": [
@@ -1594,68 +1482,38 @@
         "id": "cast"
       }
     ],
-    "catastrophe": [
+    "catalyst": [
       {
         "form": "cat",
         "id": "cat"
       },
       {
-        "form": "astr",
-        "id": "astr"
+        "form": "al",
+        "id": "al"
       },
       {
-        "form": "ophe",
-        "id": "ophe"
+        "form": "yst",
+        "id": "yst"
       }
     ],
-    "catch": [
-      {
-        "form": "catch",
-        "id": "catch"
-      }
-    ],
-    "catching": [
-      {
-        "form": "catch",
-        "id": "catch"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
-      }
-    ],
-    "cater": [
+    "cathedral": [
       {
         "form": "cat",
         "id": "cat"
       },
       {
-        "form": "er",
-        "id": "er"
-      }
-    ],
-    "caution": [
-      {
-        "form": "c",
-        "id": "c"
+        "form": "hedr",
+        "id": "hedr"
       },
       {
-        "form": "au",
-        "id": "au"
-      },
-      {
-        "form": "tion",
-        "id": "tion"
+        "form": "al",
+        "id": "al"
       }
     ],
     "cautious": [
       {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "au",
-        "id": "au"
+        "form": "cau",
+        "id": "cau"
       },
       {
         "form": "tious",
@@ -1664,42 +1522,26 @@
     ],
     "cavity": [
       {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "av",
-        "id": "av"
+        "form": "cav",
+        "id": "cav"
       },
       {
         "form": "ity",
         "id": "ity"
       }
     ],
-    "cease": [
-      {
-        "form": "ce",
-        "id": "ce"
-      },
-      {
-        "form": "ase",
-        "id": "ase"
-      }
-    ],
     "cellar": [
       {
-        "form": "cell",
-        "id": "cell"
+        "form": "c",
+        "id": "c"
+      },
+      {
+        "form": "ell",
+        "id": "ell"
       },
       {
         "form": "ar",
         "id": "ar"
-      }
-    ],
-    "cement": [
-      {
-        "form": "cement",
-        "id": "cement"
       }
     ],
     "censor": [
@@ -1712,76 +1554,66 @@
         "id": "sor"
       }
     ],
-    "chant": [
+    "census": [
       {
-        "form": "ch",
-        "id": "ch"
+        "form": "cen",
+        "id": "cen"
       },
       {
-        "form": "ant",
-        "id": "ant"
+        "form": "sus",
+        "id": "sus"
       }
     ],
-    "chaos": [
+    "ceramic": [
       {
-        "form": "ch",
-        "id": "ch"
+        "form": "cer",
+        "id": "cer"
       },
       {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "os",
-        "id": "os"
+        "form": "amic",
+        "id": "amic"
       }
     ],
-    "chapel": [
+    "challenge": [
       {
         "form": "ch",
         "id": "ch"
       },
       {
-        "form": "ap",
-        "id": "ap"
+        "form": "all",
+        "id": "all"
       },
       {
-        "form": "el",
-        "id": "el"
+        "form": "enge",
+        "id": "enge"
       }
     ],
-    "charity": [
+    "champion": [
       {
         "form": "ch",
         "id": "ch"
       },
       {
-        "form": "ar",
-        "id": "ar"
+        "form": "amp",
+        "id": "amp"
       },
       {
-        "form": "ity",
-        "id": "ity"
+        "form": "ion",
+        "id": "ion"
       }
     ],
-    "charm": [
+    "characterize": [
       {
-        "form": "ch",
-        "id": "ch"
+        "form": "char",
+        "id": "char"
       },
       {
-        "form": "arm",
-        "id": "arm"
-      }
-    ],
-    "chart": [
-      {
-        "form": "ch",
-        "id": "ch"
+        "form": "acter",
+        "id": "acter"
       },
       {
-        "form": "art",
-        "id": "art"
+        "form": "ize",
+        "id": "ize"
       }
     ],
     "charter": [
@@ -1804,12 +1636,8 @@
         "id": "ch"
       },
       {
-        "form": "as",
-        "id": "as"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ase",
+        "id": "ase"
       }
     ],
     "cheer": [
@@ -1832,56 +1660,6 @@
         "id": "erish"
       }
     ],
-    "chew": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "ew",
-        "id": "ew"
-      }
-    ],
-    "chic": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      }
-    ],
-    "chill": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "ill",
-        "id": "ill"
-      }
-    ],
-    "chin": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "in",
-        "id": "in"
-      }
-    ],
-    "chip": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "ip",
-        "id": "ip"
-      }
-    ],
     "choir": [
       {
         "form": "ch",
@@ -1890,16 +1668,6 @@
       {
         "form": "oir",
         "id": "oir"
-      }
-    ],
-    "choke": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "oke",
-        "id": "oke"
       }
     ],
     "chop": [
@@ -1922,14 +1690,18 @@
         "id": "ord"
       }
     ],
-    "christian": [
+    "chorus": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "ch",
+        "id": "ch"
       },
       {
-        "form": "hristian",
-        "id": "hristian"
+        "form": "or",
+        "id": "or"
+      },
+      {
+        "form": "us",
+        "id": "us"
       }
     ],
     "chronic": [
@@ -1942,78 +1714,6 @@
         "id": "ic"
       }
     ],
-    "chunk": [
-      {
-        "form": "ch",
-        "id": "ch"
-      },
-      {
-        "form": "unk",
-        "id": "unk"
-      }
-    ],
-    "circumstance": [
-      {
-        "form": "circum",
-        "id": "circum"
-      },
-      {
-        "form": "stance",
-        "id": "stance"
-      }
-    ],
-    "circus": [
-      {
-        "form": "circ",
-        "id": "circ"
-      },
-      {
-        "form": "us",
-        "id": "us"
-      }
-    ],
-    "cite": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "it",
-        "id": "it"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "civic": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "iv",
-        "id": "iv"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      }
-    ],
-    "civilian": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ivil",
-        "id": "ivil"
-      },
-      {
-        "form": "ian",
-        "id": "ian"
-      }
-    ],
     "clamp": [
       {
         "form": "cl",
@@ -2022,26 +1722,6 @@
       {
         "form": "amp",
         "id": "amp"
-      }
-    ],
-    "clan": [
-      {
-        "form": "cl",
-        "id": "cl"
-      },
-      {
-        "form": "an",
-        "id": "an"
-      }
-    ],
-    "clarify": [
-      {
-        "form": "clar",
-        "id": "clar"
-      },
-      {
-        "form": "ify",
-        "id": "ify"
       }
     ],
     "clarity": [
@@ -2066,18 +1746,12 @@
     ],
     "classic": [
       {
-        "form": "classic",
-        "id": "classic"
-      }
-    ],
-    "classical": [
-      {
-        "form": "class",
-        "id": "class"
+        "form": "cl",
+        "id": "cl"
       },
       {
-        "form": "ical",
-        "id": "ical"
+        "form": "assic",
+        "id": "assic"
       }
     ],
     "clause": [
@@ -2086,12 +1760,8 @@
         "id": "cl"
       },
       {
-        "form": "aus",
-        "id": "aus"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ause",
+        "id": "ause"
       }
     ],
     "click": [
@@ -2120,66 +1790,90 @@
         "id": "cl"
       },
       {
-        "form": "imax",
-        "id": "imax"
-      }
-    ],
-    "cling": [
-      {
-        "form": "cl",
-        "id": "cl"
+        "form": "im",
+        "id": "im"
       },
       {
-        "form": "ing",
-        "id": "ing"
-      }
-    ],
-    "clinic": [
-      {
-        "form": "cl",
-        "id": "cl"
-      },
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
+        "form": "ax",
+        "id": "ax"
       }
     ],
     "closet": [
       {
-        "form": "clos",
-        "id": "clos"
+        "form": "cl",
+        "id": "cl"
       },
       {
-        "form": "et",
-        "id": "et"
+        "form": "oset",
+        "id": "oset"
       }
     ],
-    "coin": [
+    "clue": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "cl",
+        "id": "cl"
       },
       {
-        "form": "oin",
-        "id": "oi"
+        "form": "ue",
+        "id": "ue"
       }
     ],
-    "coincide": [
+    "clutch": [
+      {
+        "form": "cl",
+        "id": "cl"
+      },
+      {
+        "form": "utch",
+        "id": "utch"
+      }
+    ],
+    "coalition": [
       {
         "form": "co",
         "id": "co"
       },
       {
-        "form": "inc",
-        "id": "inc"
+        "form": "ali",
+        "id": "ali"
       },
       {
-        "form": "ide",
-        "id": "ide"
+        "form": "tion",
+        "id": "tion"
+      }
+    ],
+    "coarse": [
+      {
+        "form": "co",
+        "id": "co"
+      },
+      {
+        "form": "arse",
+        "id": "arse"
+      }
+    ],
+    "cognitive": [
+      {
+        "form": "cog",
+        "id": "cog"
+      },
+      {
+        "form": "nitive",
+        "id": "nitiv"
+      }
+    ],
+    "coherent": [
+      {
+        "form": "co",
+        "id": "co"
+      },
+      {
+        "form": "her",
+        "id": "her"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
       }
     ],
     "collaboration": [
@@ -2196,14 +1890,14 @@
         "id": "ation"
       }
     ],
-    "colonial": [
+    "collapse": [
       {
         "form": "col",
         "id": "col"
       },
       {
-        "form": "onial",
-        "id": "onial"
+        "form": "lapse",
+        "id": "lapse"
       }
     ],
     "colony": [
@@ -2240,6 +1934,16 @@
         "id": "umn"
       }
     ],
+    "combat": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "bat",
+        "id": "bat"
+      }
+    ],
     "combine": [
       {
         "form": "com",
@@ -2252,20 +1956,6 @@
       {
         "form": "e",
         "id": "e"
-      }
-    ],
-    "comedy": [
-      {
-        "form": "com",
-        "id": "com"
-      },
-      {
-        "form": "ed",
-        "id": "ed"
-      },
-      {
-        "form": "y",
-        "id": "y"
       }
     ],
     "comet": [
@@ -2294,30 +1984,22 @@
         "id": "com"
       },
       {
-        "form": "mem",
-        "id": "mem"
-      },
-      {
-        "form": "or",
-        "id": "or"
+        "form": "memor",
+        "id": "memor"
       },
       {
         "form": "ate",
         "id": "ate"
       }
     ],
-    "commence": [
+    "comment": [
       {
         "form": "com",
         "id": "com"
       },
       {
-        "form": "men",
-        "id": "men"
-      },
-      {
-        "form": "ce",
-        "id": "ce"
+        "form": "ment",
+        "id": "ment"
       }
     ],
     "commentary": [
@@ -2344,6 +2026,20 @@
         "id": "mit"
       }
     ],
+    "commitment": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "mit",
+        "id": "mit"
+      },
+      {
+        "form": "ment",
+        "id": "ment"
+      }
+    ],
     "commodity": [
       {
         "form": "com",
@@ -2356,6 +2052,34 @@
       {
         "form": "ity",
         "id": "ity"
+      }
+    ],
+    "communication": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "munic",
+        "id": "munic"
+      },
+      {
+        "form": "ation",
+        "id": "ation"
+      }
+    ],
+    "commute": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "mut",
+        "id": "mut"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "comparable": [
@@ -2384,6 +2108,16 @@
       {
         "form": "ment",
         "id": "ment"
+      }
+    ],
+    "compass": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "pass",
+        "id": "pass"
       }
     ],
     "compatible": [
@@ -2442,20 +2176,6 @@
         "id": "ence"
       }
     ],
-    "competitive": [
-      {
-        "form": "com",
-        "id": "com"
-      },
-      {
-        "form": "pet",
-        "id": "pet"
-      },
-      {
-        "form": "itive",
-        "id": "itive"
-      }
-    ],
     "compile": [
       {
         "form": "com",
@@ -2482,8 +2202,12 @@
     ],
     "complex": [
       {
-        "form": "complex",
-        "id": "complex"
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "plex",
+        "id": "plex"
       }
     ],
     "compliance": [
@@ -2588,8 +2312,26 @@
         "id": "com"
       },
       {
-        "form": "prise",
-        "id": "prise"
+        "form": "pris",
+        "id": "pris"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "compromise": [
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "prom",
+        "id": "prom"
+      },
+      {
+        "form": "ise",
+        "id": "ise"
       }
     ],
     "compulsory": [
@@ -2622,8 +2364,12 @@
         "id": "con"
       },
       {
-        "form": "cede",
-        "id": "cede"
+        "form": "ced",
+        "id": "ced"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "conceive": [
@@ -2632,8 +2378,12 @@
         "id": "con"
       },
       {
-        "form": "ceive",
-        "id": "ceive"
+        "form": "ceiv",
+        "id": "ceiv"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "concentrate": [
@@ -2664,22 +2414,28 @@
         "id": "ion"
       }
     ],
+    "concession": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "cess",
+        "id": "cess"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
+      }
+    ],
     "concise": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "i",
-        "id": "i"
-      },
-      {
-        "form": "s",
-        "id": "s"
+        "form": "cis",
+        "id": "cis"
       },
       {
         "form": "e",
@@ -2692,38 +2448,50 @@
         "id": "con"
       },
       {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "r",
-        "id": "r"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "t",
-        "id": "t"
+        "form": "cret",
+        "id": "cret"
       },
       {
         "form": "e",
         "id": "e"
       }
     ],
-    "condition": [
+    "confess": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "d",
-        "id": "d"
+        "form": "fess",
+        "id": "fess"
+      }
+    ],
+    "confidence": [
+      {
+        "form": "con",
+        "id": "con"
       },
       {
-        "form": "ition",
-        "id": "ition"
+        "form": "fid",
+        "id": "fid"
+      },
+      {
+        "form": "ence",
+        "id": "ence"
+      }
+    ],
+    "confident": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "fid",
+        "id": "fid"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
       }
     ],
     "configuration": [
@@ -2740,18 +2508,24 @@
         "id": "ation"
       }
     ],
+    "confirm": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "firm",
+        "id": "firm"
+      }
+    ],
     "conflict": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "lict",
-        "id": "lict"
+        "form": "flict",
+        "id": "flict"
       }
     ],
     "conform": [
@@ -2840,18 +2614,38 @@
         "id": "quer"
       }
     ],
+    "conquest": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "quest",
+        "id": "quest"
+      }
+    ],
     "conscience": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "scien",
-        "id": "scien"
+        "form": "sci",
+        "id": "sci"
       },
       {
-        "form": "ce",
-        "id": "ce"
+        "form": "ence",
+        "id": "ence"
+      }
+    ],
+    "conscious": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "scious",
+        "id": "scious"
       }
     ],
     "consensus": [
@@ -2866,6 +2660,16 @@
       {
         "form": "us",
         "id": "us"
+      }
+    ],
+    "consent": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "sent",
+        "id": "sent"
       }
     ],
     "consequence": [
@@ -2926,22 +2730,30 @@
     ],
     "considerable": [
       {
-        "form": "consider",
-        "id": "consider"
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "sider",
+        "id": "sider"
       },
       {
         "form": "able",
         "id": "able"
       }
     ],
-    "consist": [
+    "console": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "sist",
-        "id": "sist"
+        "form": "sol",
+        "id": "sol"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "consolidate": [
@@ -2968,12 +2780,8 @@
         "id": "spic"
       },
       {
-        "form": "u",
-        "id": "u"
-      },
-      {
-        "form": "ous",
-        "id": "ous"
+        "form": "uous",
+        "id": "uous"
       }
     ],
     "conspiracy": [
@@ -2986,12 +2794,18 @@
         "id": "spir"
       },
       {
-        "form": "ac",
-        "id": "ac"
+        "form": "acy",
+        "id": "acy"
+      }
+    ],
+    "constant": [
+      {
+        "form": "con",
+        "id": "con"
       },
       {
-        "form": "y",
-        "id": "y"
+        "form": "stant",
+        "id": "stant"
       }
     ],
     "constituent": [
@@ -3008,7 +2822,7 @@
         "id": "ent"
       }
     ],
-    "constitute": [
+    "constitution": [
       {
         "form": "con",
         "id": "con"
@@ -3018,22 +2832,22 @@
         "id": "stitu"
       },
       {
-        "form": "te",
-        "id": "ute"
+        "form": "tion",
+        "id": "tion"
       }
     ],
-    "constitution": [
+    "consult": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "stitut",
-        "id": "stitut"
+        "form": "sul",
+        "id": "sul"
       },
       {
-        "form": "ion",
-        "id": "ion"
+        "form": "t",
+        "id": "t"
       }
     ],
     "consumer": [
@@ -3050,6 +2864,20 @@
         "id": "er"
       }
     ],
+    "consumption": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "sum",
+        "id": "sum"
+      },
+      {
+        "form": "ption",
+        "id": "ption"
+      }
+    ],
     "contemplate": [
       {
         "form": "con",
@@ -3064,7 +2892,7 @@
         "id": "ate"
       }
     ],
-    "contemporary": [
+    "contempt": [
       {
         "form": "con",
         "id": "con"
@@ -3074,8 +2902,8 @@
         "id": "temp"
       },
       {
-        "form": "orary",
-        "id": "orary"
+        "form": "t",
+        "id": "t"
       }
     ],
     "contend": [
@@ -3086,20 +2914,6 @@
       {
         "form": "tend",
         "id": "tend"
-      }
-    ],
-    "contention": [
-      {
-        "form": "con",
-        "id": "con"
-      },
-      {
-        "form": "tent",
-        "id": "tent"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
       }
     ],
     "contest": [
@@ -3122,42 +2936,42 @@
         "id": "text"
       }
     ],
+    "contingency": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "ting",
+        "id": "ting"
+      },
+      {
+        "form": "ency",
+        "id": "ency"
+      }
+    ],
     "continuity": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "tinuity",
-        "id": "tinuity"
+        "form": "tinu",
+        "id": "tinu"
+      },
+      {
+        "form": "ity",
+        "id": "ity"
       }
     ],
-    "contradict": [
+    "contrast": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "trad",
-        "id": "trad"
-      },
-      {
-        "form": "ict",
-        "id": "ict"
-      }
-    ],
-    "contradiction": [
-      {
-        "form": "con",
-        "id": "con"
-      },
-      {
-        "form": "trad",
-        "id": "trad"
-      },
-      {
-        "form": "iction",
-        "id": "ict"
+        "form": "trast",
+        "id": "trast"
       }
     ],
     "contribute": [
@@ -3166,12 +2980,12 @@
         "id": "con"
       },
       {
-        "form": "tribut",
-        "id": "tribut"
+        "form": "tribu",
+        "id": "tribu"
       },
       {
-        "form": "e",
-        "id": "e"
+        "form": "te",
+        "id": "te"
       }
     ],
     "contribution": [
@@ -3188,46 +3002,18 @@
         "id": "ion"
       }
     ],
-    "controversial": [
-      {
-        "form": "con",
-        "id": "con"
-      },
-      {
-        "form": "trovers",
-        "id": "trovers"
-      },
-      {
-        "form": "ial",
-        "id": "ial"
-      }
-    ],
-    "controversy": [
-      {
-        "form": "con",
-        "id": "con"
-      },
-      {
-        "form": "trovers",
-        "id": "trovers"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
     "convenience": [
       {
         "form": "con",
         "id": "con"
       },
       {
-        "form": "ven",
-        "id": "ven"
+        "form": "venie",
+        "id": "venie"
       },
       {
-        "form": "ience",
-        "id": "ence"
+        "form": "nce",
+        "id": "nce"
       }
     ],
     "convention": [
@@ -3241,7 +3027,7 @@
       },
       {
         "form": "tion",
-        "id": "ion"
+        "id": "tion"
       }
     ],
     "convert": [
@@ -3264,134 +3050,128 @@
         "id": "vey"
       }
     ],
-    "cork": [
+    "convict": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "con",
+        "id": "con"
       },
       {
-        "form": "ork",
-        "id": "ork"
+        "form": "vict",
+        "id": "vict"
       }
     ],
-    "corps": [
+    "conviction": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "con",
+        "id": "con"
       },
       {
-        "form": "orps",
-        "id": "orps"
+        "form": "vict",
+        "id": "vict"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
+      }
+    ],
+    "convince": [
+      {
+        "form": "con",
+        "id": "con"
+      },
+      {
+        "form": "vinc",
+        "id": "vinc"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "cooperate": [
+      {
+        "form": "co",
+        "id": "co"
+      },
+      {
+        "form": "oper",
+        "id": "oper"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "coordinate": [
+      {
+        "form": "co",
+        "id": "co"
+      },
+      {
+        "form": "ordin",
+        "id": "ordin"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "corporation": [
+      {
+        "form": "cor",
+        "id": "cor"
+      },
+      {
+        "form": "porat",
+        "id": "porat"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "corpse": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "cor",
+        "id": "cor"
       },
       {
-        "form": "orp",
-        "id": "orp"
-      },
-      {
-        "form": "se",
-        "id": "se"
+        "form": "pse",
+        "id": "pse"
       }
     ],
     "correspond": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "cor",
+        "id": "cor"
       },
       {
-        "form": "orrespond",
-        "id": "orrespond"
-      }
-    ],
-    "correspondence": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "orrespond",
-        "id": "orrespond"
-      },
-      {
-        "form": "ence",
-        "id": "ence"
-      }
-    ],
-    "correspondent": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "orrespond",
-        "id": "orrespond"
-      },
-      {
-        "form": "ent",
-        "id": "ent"
-      }
-    ],
-    "corresponding": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "orrespond",
-        "id": "orrespond"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
+        "form": "respond",
+        "id": "respond"
       }
     ],
     "corrupt": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "cor",
+        "id": "cor"
       },
       {
-        "form": "orrupt",
-        "id": "orrupt"
-      }
-    ],
-    "cosmic": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "osmic",
-        "id": "osmic"
-      }
-    ],
-    "cosmopolitan": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "osmopolitan",
-        "id": "osmopolitan"
+        "form": "rupt",
+        "id": "rupt"
       }
     ],
     "costume": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "co",
+        "id": "co"
       },
       {
-        "form": "os",
-        "id": "os"
+        "form": "stum",
+        "id": "stum"
       },
       {
-        "form": "tume",
-        "id": "tume"
+        "form": "e",
+        "id": "e"
       }
     ],
     "cosy": [
@@ -3406,36 +3186,6 @@
       {
         "form": "y",
         "id": "y"
-      }
-    ],
-    "couch": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ouch",
-        "id": "ouch"
-      }
-    ],
-    "counsel": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ounsel",
-        "id": "ounsel"
-      }
-    ],
-    "counter": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ounter",
-        "id": "counter"
       }
     ],
     "counterfeit": [
@@ -3458,112 +3208,42 @@
         "id": "part"
       }
     ],
-    "coupon": [
-      {
-        "form": "coupon",
-        "id": "coupon"
-      }
-    ],
     "courier": [
       {
-        "form": "courier",
-        "id": "courier"
-      }
-    ],
-    "coverage": [
+        "form": "co",
+        "id": "co"
+      },
       {
-        "form": "cov",
-        "id": "ov"
+        "form": "uri",
+        "id": "uri"
       },
       {
         "form": "er",
         "id": "er"
-      },
-      {
-        "form": "age",
-        "id": "age"
       }
     ],
     "coward": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "co",
+        "id": "co"
       },
       {
-        "form": "ow",
-        "id": "ow"
-      },
-      {
-        "form": "ard",
-        "id": "ard"
-      }
-    ],
-    "crack": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "ack",
-        "id": "ack"
+        "form": "ward",
+        "id": "ward"
       }
     ],
     "cradle": [
       {
-        "form": "c",
-        "id": "c"
+        "form": "cr",
+        "id": "cr"
       },
       {
-        "form": "rad",
-        "id": "rad"
+        "form": "ad",
+        "id": "ad"
       },
       {
         "form": "le",
         "id": "le"
-      }
-    ],
-    "craft": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "aft",
-        "id": "aft"
-      }
-    ],
-    "crash": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "ash",
-        "id": "ash"
-      }
-    ],
-    "crater": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "at",
-        "id": "at"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      }
-    ],
-    "crawl": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "awl",
-        "id": "awl"
       }
     ],
     "crease": [
@@ -3578,12 +3258,12 @@
     ],
     "creation": [
       {
-        "form": "cr",
-        "id": "cr"
+        "form": "cre",
+        "id": "cre"
       },
       {
-        "form": "eation",
-        "id": "eation"
+        "form": "ation",
+        "id": "ation"
       }
     ],
     "credible": [
@@ -3598,12 +3278,8 @@
     ],
     "creep": [
       {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "eep",
-        "id": "eep"
+        "form": "creep",
+        "id": "creep"
       }
     ],
     "cricket": [
@@ -3616,82 +3292,140 @@
         "id": "icket"
       }
     ],
-    "criminal": [
-      {
-        "form": "crim",
-        "id": "crim"
-      },
-      {
-        "form": "inal",
-        "id": "inal"
-      }
-    ],
-    "crisis": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "is",
-        "id": "is"
-      },
-      {
-        "form": "is",
-        "id": "is"
-      }
-    ],
     "crisp": [
-      {
-        "form": "crisp",
-        "id": "crisp"
-      }
-    ],
-    "criterion": [
-      {
-        "form": "crit",
-        "id": "crit"
-      },
-      {
-        "form": "erion",
-        "id": "erion"
-      }
-    ],
-    "critical": [
-      {
-        "form": "crit",
-        "id": "crit"
-      },
-      {
-        "form": "ical",
-        "id": "ical"
-      }
-    ],
-    "crooked": [
-      {
-        "form": "cr",
-        "id": "cr"
-      },
-      {
-        "form": "ook",
-        "id": "ook"
-      },
-      {
-        "form": "ed",
-        "id": "ed"
-      }
-    ],
-    "curve": [
       {
         "form": "c",
         "id": "c"
       },
       {
-        "form": "ur",
+        "form": "risp",
+        "id": "risp"
+      }
+    ],
+    "crude": [
+      {
+        "form": "cr",
+        "id": "cr"
+      },
+      {
+        "form": "ude",
+        "id": "ude"
+      }
+    ],
+    "crush": [
+      {
+        "form": "cr",
+        "id": "cr"
+      },
+      {
+        "form": "ush",
+        "id": "ush"
+      }
+    ],
+    "crust": [
+      {
+        "form": "cr",
+        "id": "cr"
+      },
+      {
+        "form": "ust",
+        "id": "ust"
+      }
+    ],
+    "cube": [
+      {
+        "form": "c",
+        "id": "c"
+      },
+      {
+        "form": "ub",
+        "id": "ub"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "cucumber": [
+      {
+        "form": "cu",
+        "id": "cu"
+      },
+      {
+        "form": "cumb",
+        "id": "cumb"
+      },
+      {
+        "form": "er",
+        "id": "er"
+      }
+    ],
+    "cue": [
+      {
+        "form": "c",
+        "id": "c"
+      },
+      {
+        "form": "ue",
+        "id": "ue"
+      }
+    ],
+    "cumulative": [
+      {
+        "form": "cum",
+        "id": "cum"
+      },
+      {
+        "form": "ul",
+        "id": "ul"
+      },
+      {
+        "form": "ative",
+        "id": "ative"
+      }
+    ],
+    "cupboard": [
+      {
+        "form": "cup",
+        "id": "cup"
+      },
+      {
+        "form": "board",
+        "id": "board"
+      }
+    ],
+    "cure": [
+      {
+        "form": "c",
+        "id": "c"
+      },
+      {
+        "form": "ure",
+        "id": "ure"
+      }
+    ],
+    "curse": [
+      {
+        "form": "cur",
         "id": "cur"
       },
       {
-        "form": "ve",
-        "id": "e"
+        "form": "se",
+        "id": "se"
+      }
+    ],
+    "cushion": [
+      {
+        "form": "c",
+        "id": "c"
+      },
+      {
+        "form": "ush",
+        "id": "ush"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "cute": [
@@ -3700,36 +3434,18 @@
         "id": "c"
       },
       {
-        "form": "ut",
-        "id": "ut"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "cutting": [
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "utt",
-        "id": "utt"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
+        "form": "ute",
+        "id": "ute"
       }
     ],
     "dairy": [
       {
-        "form": "d",
-        "id": "d"
+        "form": "da",
+        "id": "da"
       },
       {
-        "form": "air",
-        "id": "air"
+        "form": "ir",
+        "id": "ir"
       },
       {
         "form": "y",
@@ -3738,98 +3454,78 @@
     ],
     "dam": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "am",
-        "id": "am"
+        "form": "dam",
+        "id": "dam"
       }
     ],
-    "damp": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "mp",
-        "id": "mp"
-      }
-    ],
-    "dart": [
+    "dash": [
       {
         "form": "d",
         "id": "d"
       },
       {
-        "form": "ar",
-        "id": "ar"
-      },
-      {
-        "form": "t",
-        "id": "t"
+        "form": "ash",
+        "id": "ash"
       }
     ],
-    "deadly": [
+    "database": [
       {
-        "form": "dead",
-        "id": "dead"
+        "form": "data",
+        "id": "data"
       },
       {
-        "form": "ly",
-        "id": "ly"
+        "form": "base",
+        "id": "base"
+      }
+    ],
+    "dawn": [
+      {
+        "form": "d",
+        "id": "d"
+      },
+      {
+        "form": "awn",
+        "id": "awn"
       }
     ],
     "deaf": [
-      {
-        "form": "deaf",
-        "id": "deaf"
-      }
-    ],
-    "dean": [
-      {
-        "form": "dean",
-        "id": "dean"
-      }
-    ],
-    "debris": [
-      {
-        "form": "debr",
-        "id": "debr"
-      },
-      {
-        "form": "is",
-        "id": "is"
-      }
-    ],
-    "decade": [
-      {
-        "form": "dec",
-        "id": "dec"
-      },
-      {
-        "form": "ade",
-        "id": "ade"
-      }
-    ],
-    "deceive": [
       {
         "form": "de",
         "id": "de"
       },
       {
-        "form": "ceive",
-        "id": "ceive"
+        "form": "af",
+        "id": "af"
       }
     ],
-    "deck": [
+    "debris": [
       {
-        "form": "deck",
-        "id": "deck"
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "bris",
+        "id": "bris"
+      }
+    ],
+    "decay": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "cay",
+        "id": "cay"
+      }
+    ],
+    "decent": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "cent",
+        "id": "cent"
       }
     ],
     "declaration": [
@@ -3876,16 +3572,36 @@
     ],
     "decorate": [
       {
-        "form": "de",
-        "id": "de"
+        "form": "dec",
+        "id": "dec"
       },
       {
-        "form": "cor",
-        "id": "cor"
+        "form": "or",
+        "id": "or"
       },
       {
         "form": "ate",
         "id": "ate"
+      }
+    ],
+    "decrease": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "crease",
+        "id": "crease"
+      }
+    ],
+    "decree": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "cree",
+        "id": "cree"
       }
     ],
     "dedicate": [
@@ -3894,12 +3610,12 @@
         "id": "de"
       },
       {
-        "form": "dic",
-        "id": "dic"
+        "form": "dicat",
+        "id": "dicat"
       },
       {
-        "form": "ate",
-        "id": "ate"
+        "form": "e",
+        "id": "e"
       }
     ],
     "dedicated": [
@@ -3908,12 +3624,12 @@
         "id": "de"
       },
       {
-        "form": "dic",
-        "id": "dic"
+        "form": "dicat",
+        "id": "dicat"
       },
       {
-        "form": "ated",
-        "id": "ated"
+        "form": "ed",
+        "id": "ed"
       }
     ],
     "default": [
@@ -3938,12 +3654,26 @@
     ],
     "defect": [
       {
-        "form": "def",
-        "id": "def"
+        "form": "de",
+        "id": "de"
       },
       {
-        "form": "ect",
-        "id": "ect"
+        "form": "fect",
+        "id": "fect"
+      }
+    ],
+    "defendant": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "fend",
+        "id": "fend"
+      },
+      {
+        "form": "ant",
+        "id": "ant"
       }
     ],
     "defiance": [
@@ -3952,38 +3682,56 @@
         "id": "de"
       },
       {
-        "form": "fiance",
-        "id": "fiance"
-      }
-    ],
-    "definitive": [
-      {
-        "form": "defin",
-        "id": "defin"
+        "form": "fian",
+        "id": "fian"
       },
       {
-        "form": "it",
-        "id": "it"
-      },
-      {
-        "form": "ive",
-        "id": "ive"
+        "form": "ce",
+        "id": "ce"
       }
     ],
-    "defy": [
+    "deficiency": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "fici",
+        "id": "fici"
+      },
+      {
+        "form": "ency",
+        "id": "ency"
+      }
+    ],
+    "definite": [
       {
         "form": "def",
         "id": "def"
       },
       {
-        "form": "y",
-        "id": "y"
+        "form": "inite",
+        "id": "inite"
       }
     ],
-    "delegate": [
+    "defy": [
       {
-        "form": "deleg",
-        "id": "deleg"
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "fy",
+        "id": "fy"
+      }
+    ],
+    "degenerate": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "gener",
+        "id": "gener"
       },
       {
         "form": "ate",
@@ -3992,18 +3740,22 @@
     ],
     "delete": [
       {
-        "form": "delet",
-        "id": "delet"
+        "form": "del",
+        "id": "del"
       },
       {
-        "form": "e",
-        "id": "e"
+        "form": "ete",
+        "id": "ete"
       }
     ],
     "deliberate": [
       {
-        "form": "deliber",
-        "id": "deliber"
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "liber",
+        "id": "liber"
       },
       {
         "form": "ate",
@@ -4012,28 +3764,30 @@
     ],
     "delicious": [
       {
-        "form": "delicious",
-        "id": "delicious"
-      }
-    ],
-    "democracy": [
-      {
-        "form": "democ",
-        "id": "democ"
+        "form": "de",
+        "id": "de"
       },
       {
-        "form": "racy",
-        "id": "racy"
-      }
-    ],
-    "demonstrate": [
-      {
-        "form": "demonstr",
-        "id": "demonstr"
+        "form": "lic",
+        "id": "lic"
       },
       {
-        "form": "ate",
-        "id": "ate"
+        "form": "ious",
+        "id": "ious"
+      }
+    ],
+    "deliver": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "liv",
+        "id": "liv"
+      },
+      {
+        "form": "er",
+        "id": "er"
       }
     ],
     "denial": [
@@ -4062,30 +3816,6 @@
       {
         "form": "ation",
         "id": "ation"
-      }
-    ],
-    "dense": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "ens",
-        "id": "ens"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "dentist": [
-      {
-        "form": "dent",
-        "id": "dent"
-      },
-      {
-        "form": "ist",
-        "id": "ist"
       }
     ],
     "depart": [
@@ -4118,6 +3848,34 @@
         "id": "posit"
       }
     ],
+    "depression": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "press",
+        "id": "press"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
+      }
+    ],
+    "derive": [
+      {
+        "form": "de",
+        "id": "de"
+      },
+      {
+        "form": "riv",
+        "id": "riv"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
     "descend": [
       {
         "form": "de",
@@ -4144,8 +3902,12 @@
         "id": "de"
       },
       {
-        "form": "serve",
-        "id": "serve"
+        "form": "serv",
+        "id": "serv"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "designate": [
@@ -4154,8 +3916,12 @@
         "id": "de"
       },
       {
-        "form": "signate",
-        "id": "signate"
+        "form": "sign",
+        "id": "sign"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
       }
     ],
     "despair": [
@@ -4164,26 +3930,8 @@
         "id": "de"
       },
       {
-        "form": "sp",
-        "id": "sp"
-      },
-      {
-        "form": "air",
-        "id": "air"
-      }
-    ],
-    "desperate": [
-      {
-        "form": "de",
-        "id": "de"
-      },
-      {
-        "form": "sper",
-        "id": "sper"
-      },
-      {
-        "form": "ate",
-        "id": "ate"
+        "form": "spair",
+        "id": "spair"
       }
     ],
     "despise": [
@@ -4192,12 +3940,12 @@
         "id": "de"
       },
       {
-        "form": "sp",
-        "id": "sp"
+        "form": "spis",
+        "id": "spis"
       },
       {
-        "form": "ise",
-        "id": "ise"
+        "form": "e",
+        "id": "e"
       }
     ],
     "destination": [
@@ -4206,12 +3954,12 @@
         "id": "de"
       },
       {
-        "form": "stin",
-        "id": "stin"
+        "form": "stinat",
+        "id": "stinat"
       },
       {
-        "form": "ation",
-        "id": "ation"
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "destiny": [
@@ -4292,12 +4040,16 @@
     ],
     "detrimental": [
       {
-        "form": "det",
-        "id": "det"
+        "form": "de",
+        "id": "de"
       },
       {
-        "form": "rimental",
-        "id": "riment"
+        "form": "triment",
+        "id": "triment"
+      },
+      {
+        "form": "al",
+        "id": "al"
       }
     ],
     "devastating": [
@@ -4310,8 +4062,12 @@
         "id": "vast"
       },
       {
-        "form": "ating",
-        "id": "ating"
+        "form": "at",
+        "id": "at"
+      },
+      {
+        "form": "ing",
+        "id": "ing"
       }
     ],
     "devote": [
@@ -4320,54 +4076,56 @@
         "id": "de"
       },
       {
-        "form": "vote",
-        "id": "vote"
+        "form": "vot",
+        "id": "vot"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "diagnose": [
-      {
-        "form": "diag",
-        "id": "diag"
-      },
-      {
-        "form": "nose",
-        "id": "nose"
-      }
-    ],
-    "diagram": [
       {
         "form": "di",
         "id": "di"
       },
       {
-        "form": "agram",
-        "id": "agram"
+        "form": "agnos",
+        "id": "agnos"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "dial": [
       {
-        "form": "dial",
-        "id": "dial"
+        "form": "di",
+        "id": "di"
+      },
+      {
+        "form": "al",
+        "id": "al"
       }
     ],
-    "diameter": [
+    "dialect": [
       {
         "form": "dia",
         "id": "dia"
       },
       {
-        "form": "meter",
-        "id": "meter"
+        "form": "lect",
+        "id": "lect"
       }
     ],
-    "dictate": [
+    "diameter": [
       {
-        "form": "dict",
-        "id": "dict"
+        "form": "di",
+        "id": "di"
       },
       {
-        "form": "ate",
-        "id": "ate"
+        "form": "ameter",
+        "id": "ameter"
       }
     ],
     "diet": [
@@ -4382,42 +4140,12 @@
     ],
     "digest": [
       {
-        "form": "dig",
-        "id": "dig"
-      },
-      {
-        "form": "est",
-        "id": "est"
-      }
-    ],
-    "digital": [
-      {
-        "form": "dig",
-        "id": "dig"
-      },
-      {
-        "form": "ital",
-        "id": "al"
-      }
-    ],
-    "dignity": [
-      {
-        "form": "dig",
-        "id": "dig"
-      },
-      {
-        "form": "nity",
-        "id": "nit"
-      }
-    ],
-    "dilemma": [
-      {
         "form": "di",
         "id": "di"
       },
       {
-        "form": "lemma",
-        "id": "lemma"
+        "form": "gest",
+        "id": "gest"
       }
     ],
     "dim": [
@@ -4426,126 +4154,32 @@
         "id": "dim"
       }
     ],
-    "diminish": [
-      {
-        "form": "dim",
-        "id": "dim"
-      },
-      {
-        "form": "inish",
-        "id": "in"
-      }
-    ],
     "din": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "i",
-        "id": "i"
-      },
-      {
-        "form": "n",
-        "id": "n"
+        "form": "din",
+        "id": "din"
       }
     ],
-    "dine": [
+    "dip": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "i",
-        "id": "i"
-      },
-      {
-        "form": "ne",
-        "id": "n"
+        "form": "dip",
+        "id": "dip"
       }
     ],
-    "diploma": [
-      {
-        "form": "di",
-        "id": "di"
-      },
-      {
-        "form": "pl",
-        "id": "pl"
-      },
-      {
-        "form": "om",
-        "id": "om"
-      },
-      {
-        "form": "a",
-        "id": "a"
-      }
-    ],
-    "diplomat": [
-      {
-        "form": "di",
-        "id": "di"
-      },
-      {
-        "form": "pl",
-        "id": "pl"
-      },
-      {
-        "form": "om",
-        "id": "om"
-      },
-      {
-        "form": "at",
-        "id": "at"
-      }
-    ],
-    "diplomatic": [
-      {
-        "form": "di",
-        "id": "di"
-      },
-      {
-        "form": "pl",
-        "id": "pl"
-      },
-      {
-        "form": "om",
-        "id": "om"
-      },
-      {
-        "form": "atic",
-        "id": "atic"
-      }
-    ],
-    "disable": [
+    "disaster": [
       {
         "form": "dis",
         "id": "dis"
       },
       {
-        "form": "able",
-        "id": "able"
+        "form": "aster",
+        "id": "aster"
       }
     ],
     "disc": [
       {
         "form": "disc",
         "id": "disc"
-      }
-    ],
-    "discard": [
-      {
-        "form": "dis",
-        "id": "dis"
-      },
-      {
-        "form": "c",
-        "id": "c"
-      },
-      {
-        "form": "ard",
-        "id": "ard"
       }
     ],
     "discharge": [
@@ -4558,6 +4192,34 @@
         "id": "charge"
       }
     ],
+    "discipline": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "cipl",
+        "id": "cipl"
+      },
+      {
+        "form": "ine",
+        "id": "ine"
+      }
+    ],
+    "disclose": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "clos",
+        "id": "clos"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
     "discord": [
       {
         "form": "dis",
@@ -4568,18 +4230,52 @@
         "id": "cord"
       }
     ],
+    "discount": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "count",
+        "id": "count"
+      }
+    ],
+    "discreet": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "creet",
+        "id": "creet"
+      }
+    ],
+    "discrete": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "cret",
+        "id": "cret"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
     "discriminate": [
       {
         "form": "dis",
         "id": "dis"
       },
       {
-        "form": "crim",
-        "id": "crim"
+        "form": "crimin",
+        "id": "crimin"
       },
       {
-        "form": "inate",
-        "id": "inate"
+        "form": "ate",
+        "id": "ate"
       }
     ],
     "disdain": [
@@ -4592,6 +4288,20 @@
         "id": "dain"
       }
     ],
+    "disguise": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "guis",
+        "id": "guis"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
     "disgust": [
       {
         "form": "dis",
@@ -4602,18 +4312,72 @@
         "id": "gust"
       }
     ],
+    "dismiss": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "miss",
+        "id": "miss"
+      }
+    ],
+    "disorder": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "order",
+        "id": "order"
+      }
+    ],
+    "disperse": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "pers",
+        "id": "pers"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "display": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "play",
+        "id": "play"
+      }
+    ],
+    "disposition": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "posit",
+        "id": "posit"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
+      }
+    ],
     "disregard": [
       {
         "form": "dis",
         "id": "dis"
       },
       {
-        "form": "reg",
-        "id": "reg"
-      },
-      {
-        "form": "ard",
-        "id": "ard"
+        "form": "regard",
+        "id": "regard"
       }
     ],
     "disrupt": [
@@ -4626,14 +4390,46 @@
         "id": "rupt"
       }
     ],
+    "dissertation": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "sert",
+        "id": "sert"
+      },
+      {
+        "form": "ation",
+        "id": "ation"
+      }
+    ],
     "dissolve": [
       {
         "form": "dis",
         "id": "dis"
       },
       {
-        "form": "solve",
-        "id": "solve"
+        "form": "solv",
+        "id": "solv"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "distinct": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "tin",
+        "id": "tin"
+      },
+      {
+        "form": "ct",
+        "id": "ct"
       }
     ],
     "distinguish": [
@@ -4642,8 +4438,12 @@
         "id": "dis"
       },
       {
-        "form": "tinguish",
-        "id": "tinguish"
+        "form": "tingu",
+        "id": "tingu"
+      },
+      {
+        "form": "ish",
+        "id": "ish"
       }
     ],
     "distract": [
@@ -4656,14 +4456,32 @@
         "id": "tract"
       }
     ],
+    "distraction": [
+      {
+        "form": "dis",
+        "id": "dis"
+      },
+      {
+        "form": "tract",
+        "id": "tract"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
+      }
+    ],
     "distress": [
       {
         "form": "dis",
         "id": "dis"
       },
       {
-        "form": "tress",
-        "id": "tress"
+        "form": "tr",
+        "id": "tr"
+      },
+      {
+        "form": "ess",
+        "id": "ess"
       }
     ],
     "distribute": [
@@ -4672,16 +4490,26 @@
         "id": "dis"
       },
       {
-        "form": "t",
-        "id": "t"
+        "form": "tribut",
+        "id": "tribut"
       },
       {
-        "form": "rib",
-        "id": "rib"
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "disturbance": [
+      {
+        "form": "dis",
+        "id": "dis"
       },
       {
-        "form": "ute",
-        "id": "ute"
+        "form": "turb",
+        "id": "turb"
+      },
+      {
+        "form": "ance",
+        "id": "ance"
       }
     ],
     "ditch": [
@@ -4692,20 +4520,6 @@
       {
         "form": "itch",
         "id": "itch"
-      }
-    ],
-    "diverse": [
-      {
-        "form": "di",
-        "id": "di"
-      },
-      {
-        "form": "vers",
-        "id": "vers"
-      },
-      {
-        "form": "e",
-        "id": "e"
       }
     ],
     "diversion": [
@@ -4746,16 +4560,6 @@
         "id": "end"
       }
     ],
-    "divine": [
-      {
-        "form": "div",
-        "id": "div"
-      },
-      {
-        "form": "ine",
-        "id": "ine"
-      }
-    ],
     "dizzy": [
       {
         "form": "diz",
@@ -4764,20 +4568,6 @@
       {
         "form": "zy",
         "id": "zy"
-      }
-    ],
-    "dock": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "o",
-        "id": "o"
-      },
-      {
-        "form": "ck",
-        "id": "ck"
       }
     ],
     "doctrine": [
@@ -4790,30 +4580,6 @@
         "id": "trine"
       }
     ],
-    "dodge": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "odg",
-        "id": "odg"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "dole": [
-      {
-        "form": "dol",
-        "id": "dol"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
     "domain": [
       {
         "form": "dom",
@@ -4822,26 +4588,6 @@
       {
         "form": "ain",
         "id": "ain"
-      }
-    ],
-    "dome": [
-      {
-        "form": "dom",
-        "id": "dom"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "domestic": [
-      {
-        "form": "dom",
-        "id": "dom"
-      },
-      {
-        "form": "estic",
-        "id": "estic"
       }
     ],
     "dominate": [
@@ -4854,176 +4600,110 @@
         "id": "inate"
       }
     ],
-    "donation": [
-      {
-        "form": "don",
-        "id": "don"
-      },
-      {
-        "form": "ation",
-        "id": "ation"
-      }
-    ],
     "doom": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "oo",
-        "id": "oo"
-      },
-      {
-        "form": "m",
-        "id": "m"
+        "form": "doom",
+        "id": "doom"
       }
     ],
     "dormant": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "orm",
-        "id": "orm"
+        "form": "dorm",
+        "id": "dorm"
       },
       {
         "form": "ant",
         "id": "ant"
       }
     ],
-    "dose": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "os",
-        "id": "os"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
     "dot": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "ot",
-        "id": "ot"
-      }
-    ],
-    "doubtful": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "oubt",
-        "id": "oubt"
-      },
-      {
-        "form": "ful",
-        "id": "ful"
-      }
-    ],
-    "downtown": [
-      {
-        "form": "down",
-        "id": "down"
-      },
-      {
-        "form": "town",
-        "id": "town"
-      }
-    ],
-    "draft": [
-      {
-        "form": "draft",
-        "id": "draft"
+        "form": "dot",
+        "id": "dot"
       }
     ],
     "drain": [
       {
-        "form": "drain",
-        "id": "drain"
+        "form": "dr",
+        "id": "dr"
+      },
+      {
+        "form": "ain",
+        "id": "ain"
       }
     ],
     "drainage": [
       {
-        "form": "drain",
-        "id": "drain"
+        "form": "dr",
+        "id": "dr"
+      },
+      {
+        "form": "ain",
+        "id": "ain"
       },
       {
         "form": "age",
         "id": "age"
       }
     ],
-    "dramatic": [
+    "drastic": [
       {
-        "form": "dramat",
-        "id": "dramat"
+        "form": "dr",
+        "id": "dr"
       },
       {
-        "form": "ic",
-        "id": "ic"
+        "form": "astic",
+        "id": "astic"
       }
     ],
-    "dual": [
+    "dread": [
       {
-        "form": "du",
-        "id": "du"
+        "form": "d",
+        "id": "d"
       },
       {
-        "form": "al",
-        "id": "al"
+        "form": "read",
+        "id": "read"
+      }
+    ],
+    "drift": [
+      {
+        "form": "dr",
+        "id": "dr"
+      },
+      {
+        "form": "ift",
+        "id": "ift"
+      }
+    ],
+    "drought": [
+      {
+        "form": "d",
+        "id": "d"
+      },
+      {
+        "form": "rought",
+        "id": "rought"
       }
     ],
     "dub": [
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "ub",
-        "id": "ub"
+        "form": "dub",
+        "id": "dub"
       }
     ],
-    "dull": [
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "ul",
-        "id": "ul"
-      },
-      {
-        "form": "l",
-        "id": "l"
-      }
-    ],
-    "duly": [
+    "dubious": [
       {
         "form": "du",
         "id": "du"
       },
       {
-        "form": "ly",
-        "id": "ly"
-      }
-    ],
-    "dumb": [
-      {
-        "form": "d",
-        "id": "d"
+        "form": "b",
+        "id": "b"
       },
       {
-        "form": "umb",
-        "id": "umb"
+        "form": "ious",
+        "id": "ious"
       }
     ],
     "dump": [
@@ -5062,12 +4742,12 @@
     ],
     "dwarf": [
       {
-        "form": "dw",
-        "id": "dw"
+        "form": "d",
+        "id": "d"
       },
       {
-        "form": "arf",
-        "id": "arf"
+        "form": "warf",
+        "id": "warf"
       }
     ],
     "dwell": [
@@ -5090,26 +4770,6 @@
         "id": "amic"
       }
     ],
-    "earnest": [
-      {
-        "form": "earn",
-        "id": "earn"
-      },
-      {
-        "form": "est",
-        "id": "est"
-      }
-    ],
-    "ease": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "ase",
-        "id": "ase"
-      }
-    ],
     "eccentric": [
       {
         "form": "ec",
@@ -5124,24 +4784,18 @@
         "id": "ic"
       }
     ],
-    "eclipse": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "clipse",
-        "id": "clipse"
-      }
-    ],
-    "ecology": [
+    "economical": [
       {
         "form": "ec",
         "id": "ec"
       },
       {
-        "form": "ology",
-        "id": "logy"
+        "form": "onom",
+        "id": "onom"
+      },
+      {
+        "form": "ical",
+        "id": "ical"
       }
     ],
     "eddy": [
@@ -5156,38 +4810,8 @@
     ],
     "edge": [
       {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "edible": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "ib",
-        "id": "ib"
-      },
-      {
-        "form": "le",
-        "id": "le"
+        "form": "edge",
+        "id": "edge"
       }
     ],
     "edit": [
@@ -5196,22 +4820,14 @@
         "id": "e"
       },
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "it",
-        "id": "it"
+        "form": "dit",
+        "id": "dit"
       }
     ],
     "edition": [
       {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "d",
-        "id": "d"
+        "form": "ed",
+        "id": "ed"
       },
       {
         "form": "it",
@@ -5224,20 +4840,12 @@
     ],
     "editorial": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "ed",
+        "id": "ed"
       },
       {
-        "form": "d",
-        "id": "d"
-      },
-      {
-        "form": "it",
-        "id": "it"
-      },
-      {
-        "form": "or",
-        "id": "or"
+        "form": "itor",
+        "id": "itor"
       },
       {
         "form": "ial",
@@ -5246,154 +4854,70 @@
     ],
     "efficient": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "ef",
+        "id": "ef"
       },
       {
-        "form": "f",
-        "id": "f"
+        "form": "fici",
+        "id": "fici"
       },
       {
-        "form": "fic",
-        "id": "fic"
-      },
-      {
-        "form": "ient",
-        "id": "ient"
-      }
-    ],
-    "ego": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "o",
-        "id": "o"
+        "form": "ent",
+        "id": "ent"
       }
     ],
     "elastic": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "el",
+        "id": "el"
       },
       {
-        "form": "l",
-        "id": "l"
+        "form": "ast",
+        "id": "ast"
       },
       {
-        "form": "as",
-        "id": "as"
-      },
-      {
-        "form": "tic",
-        "id": "tic"
+        "form": "ic",
+        "id": "ic"
       }
     ],
     "elbow": [
       {
-        "form": "el",
+        "form": "elbow",
         "id": "el"
-      },
-      {
-        "form": "bow",
-        "id": "bow"
       }
     ],
-    "elderly": [
-      {
-        "form": "el",
-        "id": "el"
-      },
-      {
-        "form": "der",
-        "id": "der"
-      },
-      {
-        "form": "ly",
-        "id": "ly"
-      }
-    ],
-    "electrical": [
+    "elegant": [
       {
         "form": "el",
         "id": "el"
       },
       {
-        "form": "ectr",
-        "id": "ectr"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      },
-      {
-        "form": "al",
-        "id": "al"
+        "form": "egant",
+        "id": "egant"
       }
     ],
-    "electronic": [
+    "eligible": [
       {
         "form": "el",
         "id": "el"
       },
       {
-        "form": "ectron",
-        "id": "ectron"
+        "form": "ig",
+        "id": "ig"
       },
       {
-        "form": "ic",
-        "id": "ic"
+        "form": "ible",
+        "id": "ible"
       }
     ],
-    "electronics": [
+    "elite": [
       {
         "form": "el",
         "id": "el"
       },
       {
-        "form": "ectron",
-        "id": "ectron"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      },
-      {
-        "form": "s",
-        "id": "s"
-      }
-    ],
-    "elevate": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "levat",
-        "id": "levat"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "eliminate": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "limin",
-        "id": "limin"
-      },
-      {
-        "form": "ate",
-        "id": "ate"
+        "form": "ite",
+        "id": "ite"
       }
     ],
     "embargo": [
@@ -5448,52 +4972,14 @@
         "id": "y"
       }
     ],
-    "emerge": [
-      {
-        "form": "em",
-        "id": "em"
-      },
-      {
-        "form": "erge",
-        "id": "erge"
-      }
-    ],
-    "emergency": [
-      {
-        "form": "em",
-        "id": "em"
-      },
-      {
-        "form": "ergen",
-        "id": "ergen"
-      },
-      {
-        "form": "cy",
-        "id": "cy"
-      }
-    ],
-    "eminent": [
-      {
-        "form": "em",
-        "id": "em"
-      },
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "ent",
-        "id": "ent"
-      }
-    ],
     "emotion": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "em",
+        "id": "em"
       },
       {
-        "form": "mot",
-        "id": "mot"
+        "form": "ot",
+        "id": "ot"
       },
       {
         "form": "ion",
@@ -5516,12 +5002,12 @@
     ],
     "empirical": [
       {
-        "form": "emp",
-        "id": "emp"
+        "form": "em",
+        "id": "em"
       },
       {
-        "form": "ir",
-        "id": "ir"
+        "form": "pir",
+        "id": "pir"
       },
       {
         "form": "ical",
@@ -5570,6 +5056,20 @@
         "id": "er"
       }
     ],
+    "encyclopedia": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "cyclopedi",
+        "id": "cyclopedi"
+      },
+      {
+        "form": "a",
+        "id": "a"
+      }
+    ],
     "endeavor": [
       {
         "form": "en",
@@ -5582,6 +5082,20 @@
       {
         "form": "or",
         "id": "or"
+      }
+    ],
+    "endorse": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "dors",
+        "id": "dors"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "endurance": [
@@ -5598,22 +5112,42 @@
         "id": "ance"
       }
     ],
-    "energetic": [
+    "enforce": [
       {
         "form": "en",
         "id": "en"
       },
       {
-        "form": "er",
-        "id": "er"
+        "form": "force",
+        "id": "force"
+      }
+    ],
+    "engagement": [
+      {
+        "form": "en",
+        "id": "en"
       },
       {
-        "form": "get",
-        "id": "get"
+        "form": "gagem",
+        "id": "gagem"
       },
       {
-        "form": "ic",
-        "id": "ic"
+        "form": "ent",
+        "id": "ent"
+      }
+    ],
+    "enormous": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "orm",
+        "id": "orm"
+      },
+      {
+        "form": "ous",
+        "id": "ous"
       }
     ],
     "enquiry": [
@@ -5622,8 +5156,26 @@
         "id": "en"
       },
       {
-        "form": "quiry",
-        "id": "quiry"
+        "form": "quir",
+        "id": "quir"
+      },
+      {
+        "form": "y",
+        "id": "y"
+      }
+    ],
+    "ensemble": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "sembl",
+        "id": "sembl"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "enterprise": [
@@ -5632,24 +5184,74 @@
         "id": "en"
       },
       {
-        "form": "terprise",
-        "id": "terprise"
+        "form": "ter",
+        "id": "ter"
+      },
+      {
+        "form": "prise",
+        "id": "prise"
+      }
+    ],
+    "entertainment": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "tertain",
+        "id": "tertain"
+      },
+      {
+        "form": "ment",
+        "id": "ment"
+      }
+    ],
+    "enthusiastic": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "thusiast",
+        "id": "thusiast"
+      },
+      {
+        "form": "ic",
+        "id": "ic"
       }
     ],
     "entity": [
       {
-        "form": "ent",
-        "id": "ent"
+        "form": "en",
+        "id": "en"
       },
       {
-        "form": "ity",
-        "id": "ity"
+        "form": "tity",
+        "id": "tity"
+      }
+    ],
+    "entry": [
+      {
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "tr",
+        "id": "tr"
+      },
+      {
+        "form": "y",
+        "id": "y"
       }
     ],
     "environment": [
       {
-        "form": "environ",
-        "id": "environ"
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "viron",
+        "id": "viron"
       },
       {
         "form": "ment",
@@ -5658,36 +5260,60 @@
     ],
     "envy": [
       {
-        "form": "envy",
-        "id": "envy"
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "vy",
+        "id": "vy"
       }
     ],
     "enzyme": [
       {
-        "form": "enzym",
-        "id": "enzym"
+        "form": "en",
+        "id": "en"
+      },
+      {
+        "form": "zym",
+        "id": "zym"
       },
       {
         "form": "e",
         "id": "e"
       }
     ],
-    "equitable": [
+    "epidemic": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "epi",
+        "id": "epi"
       },
       {
-        "form": "q",
-        "id": "q"
+        "form": "dem",
+        "id": "dem"
       },
       {
-        "form": "uit",
-        "id": "uit"
+        "form": "ic",
+        "id": "ic"
+      }
+    ],
+    "equal": [
+      {
+        "form": "eq",
+        "id": "eq"
       },
       {
-        "form": "able",
-        "id": "able"
+        "form": "ual",
+        "id": "ual"
+      }
+    ],
+    "equation": [
+      {
+        "form": "equ",
+        "id": "equ"
+      },
+      {
+        "form": "ation",
+        "id": "ation"
       }
     ],
     "erase": [
@@ -5696,12 +5322,22 @@
         "id": "e"
       },
       {
-        "form": "r",
-        "id": "r"
+        "form": "ras",
+        "id": "ras"
       },
       {
-        "form": "ase",
-        "id": "ase"
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "erect": [
+      {
+        "form": "e",
+        "id": "e"
+      },
+      {
+        "form": "rect",
+        "id": "rect"
       }
     ],
     "erosion": [
@@ -5710,22 +5346,18 @@
         "id": "e"
       },
       {
-        "form": "ros",
-        "id": "ros"
+        "form": "rosi",
+        "id": "rosi"
       },
       {
-        "form": "ion",
-        "id": "ion"
+        "form": "on",
+        "id": "on"
       }
     ],
     "erratic": [
       {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "rr",
-        "id": "rr"
+        "form": "err",
+        "id": "err"
       },
       {
         "form": "atic",
@@ -5734,16 +5366,12 @@
     ],
     "escalate": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "es",
+        "id": "es"
       },
       {
-        "form": "sc",
-        "id": "sc"
-      },
-      {
-        "form": "al",
-        "id": "al"
+        "form": "cal",
+        "id": "cal"
       },
       {
         "form": "ate",
@@ -5752,108 +5380,22 @@
     ],
     "escort": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "es",
+        "id": "es"
       },
       {
-        "form": "sc",
-        "id": "sc"
-      },
-      {
-        "form": "ort",
-        "id": "ort"
-      }
-    ],
-    "essay": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "ss",
-        "id": "ss"
-      },
-      {
-        "form": "ay",
-        "id": "ay"
-      }
-    ],
-    "essence": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "ss",
-        "id": "ss"
-      },
-      {
-        "form": "ence",
-        "id": "ence"
-      }
-    ],
-    "essential": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "ss",
-        "id": "ss"
-      },
-      {
-        "form": "ent",
-        "id": "ent"
-      },
-      {
-        "form": "ial",
-        "id": "ial"
-      }
-    ],
-    "estate": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "st",
-        "id": "st"
-      },
-      {
-        "form": "ate",
-        "id": "ate"
+        "form": "cort",
+        "id": "cort"
       }
     ],
     "esteem": [
       {
-        "form": "e",
-        "id": "e"
+        "form": "es",
+        "id": "es"
       },
       {
-        "form": "st",
-        "id": "st"
-      },
-      {
-        "form": "eem",
-        "id": "eem"
-      }
-    ],
-    "estimate": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "st",
-        "id": "st"
-      },
-      {
-        "form": "imat",
-        "id": "imat"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "teem",
+        "id": "teem"
       }
     ],
     "eternal": [
@@ -5868,20 +5410,6 @@
       {
         "form": "al",
         "id": "al"
-      }
-    ],
-    "evacuate": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "vacu",
-        "id": "vacu"
-      },
-      {
-        "form": "ate",
-        "id": "ate"
       }
     ],
     "evade": [
@@ -5910,48 +5438,6 @@
       {
         "form": "ate",
         "id": "ate"
-      }
-    ],
-    "eventually": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "ventu",
-        "id": "ventu"
-      },
-      {
-        "form": "ally",
-        "id": "ally"
-      }
-    ],
-    "everlasting": [
-      {
-        "form": "ever",
-        "id": "ever"
-      },
-      {
-        "form": "last",
-        "id": "last"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
-      }
-    ],
-    "evolution": [
-      {
-        "form": "e",
-        "id": "e"
-      },
-      {
-        "form": "volut",
-        "id": "volut"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
       }
     ],
     "exceed": [
@@ -6008,28 +5494,26 @@
         "id": "ex"
       },
       {
-        "form": "change",
-        "id": "change"
+        "form": "chang",
+        "id": "chang"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
-    "exclude": [
+    "exclusive": [
       {
         "form": "ex",
         "id": "ex"
       },
       {
-        "form": "clude",
-        "id": "clude"
-      }
-    ],
-    "execute": [
-      {
-        "form": "ex",
-        "id": "ex"
+        "form": "clus",
+        "id": "clus"
       },
       {
-        "form": "ecute",
-        "id": "ecute"
+        "form": "ive",
+        "id": "ive"
       }
     ],
     "execution": [
@@ -6038,12 +5522,12 @@
         "id": "ex"
       },
       {
-        "form": "ec",
-        "id": "ec"
+        "form": "ecut",
+        "id": "ecut"
       },
       {
-        "form": "ution",
-        "id": "ution"
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "executive": [
@@ -6052,12 +5536,12 @@
         "id": "ex"
       },
       {
-        "form": "ec",
-        "id": "ec"
+        "form": "ecut",
+        "id": "ecut"
       },
       {
-        "form": "utive",
-        "id": "utive"
+        "form": "ive",
+        "id": "ive"
       }
     ],
     "exempt": [
@@ -6090,24 +5574,28 @@
         "id": "haust"
       }
     ],
-    "exile": [
-      {
-        "form": "ex",
-        "id": "ex"
-      },
-      {
-        "form": "ile",
-        "id": "ile"
-      }
-    ],
     "exotic": [
       {
         "form": "ex",
         "id": "ex"
       },
       {
-        "form": "otic",
-        "id": "otic"
+        "form": "ot",
+        "id": "ot"
+      },
+      {
+        "form": "ic",
+        "id": "ic"
+      }
+    ],
+    "expand": [
+      {
+        "form": "ex",
+        "id": "ex"
+      },
+      {
+        "form": "pand",
+        "id": "pand"
       }
     ],
     "expedition": [
@@ -6116,12 +5604,12 @@
         "id": "ex"
       },
       {
-        "form": "ped",
-        "id": "ped"
+        "form": "pedi",
+        "id": "pedi"
       },
       {
-        "form": "ition",
-        "id": "ition"
+        "form": "tion",
+        "id": "tion"
       }
     ],
     "expenditure": [
@@ -6138,14 +5626,60 @@
         "id": "iture"
       }
     ],
-    "exploit": [
+    "expertise": [
       {
         "form": "ex",
         "id": "ex"
       },
       {
-        "form": "ploit",
-        "id": "ploit"
+        "form": "pert",
+        "id": "pert"
+      },
+      {
+        "form": "ise",
+        "id": "ise"
+      }
+    ],
+    "expire": [
+      {
+        "form": "ex",
+        "id": "ex"
+      },
+      {
+        "form": "pir",
+        "id": "pir"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "explicit": [
+      {
+        "form": "ex",
+        "id": "ex"
+      },
+      {
+        "form": "plic",
+        "id": "plic"
+      },
+      {
+        "form": "it",
+        "id": "it"
+      }
+    ],
+    "explosive": [
+      {
+        "form": "ex",
+        "id": "ex"
+      },
+      {
+        "form": "plosiv",
+        "id": "plosiv"
+      },
+      {
+        "form": "e",
+        "id": "e"
       }
     ],
     "export": [
@@ -6158,18 +5692,18 @@
         "id": "port"
       }
     ],
-    "expulsion": [
+    "expose": [
       {
         "form": "ex",
         "id": "ex"
       },
       {
-        "form": "pul",
-        "id": "pul"
+        "form": "pos",
+        "id": "pos"
       },
       {
-        "form": "sion",
-        "id": "sion"
+        "form": "e",
+        "id": "e"
       }
     ],
     "exquisite": [
@@ -6183,7 +5717,7 @@
       },
       {
         "form": "ite",
-        "id": "it"
+        "id": "ite"
       }
     ],
     "extend": [
@@ -6194,16 +5728,6 @@
       {
         "form": "tend",
         "id": "tend"
-      }
-    ],
-    "extent": [
-      {
-        "form": "ex",
-        "id": "ex"
-      },
-      {
-        "form": "tent",
-        "id": "tent"
       }
     ],
     "exterior": [
@@ -6220,14 +5744,32 @@
         "id": "ior"
       }
     ],
+    "external": [
+      {
+        "form": "ex",
+        "id": "ex"
+      },
+      {
+        "form": "tern",
+        "id": "tern"
+      },
+      {
+        "form": "al",
+        "id": "al"
+      }
+    ],
     "extinct": [
       {
         "form": "ex",
         "id": "ex"
       },
       {
-        "form": "tinct",
-        "id": "tinct"
+        "form": "tin",
+        "id": "tin"
+      },
+      {
+        "form": "ct",
+        "id": "ct"
       }
     ],
     "extract": [
@@ -6238,20 +5780,6 @@
       {
         "form": "tract",
         "id": "tract"
-      }
-    ],
-    "extravagant": [
-      {
-        "form": "ex",
-        "id": "ex"
-      },
-      {
-        "form": "trava",
-        "id": "trava"
-      },
-      {
-        "form": "gant",
-        "id": "gant"
       }
     ],
     "extreme": [
@@ -6270,60 +5798,40 @@
     ],
     "fabric": [
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "ab",
-        "id": "ab"
+        "form": "fab",
+        "id": "fab"
       },
       {
         "form": "ric",
         "id": "ric"
       }
     ],
-    "facilitate": [
+    "fabulous": [
       {
-        "form": "facil",
-        "id": "facil"
+        "form": "fab",
+        "id": "fab"
       },
       {
-        "form": "it",
-        "id": "it"
+        "form": "ul",
+        "id": "ul"
+      },
+      {
+        "form": "ous",
+        "id": "ous"
+      }
+    ],
+    "facilitate": [
+      {
+        "form": "fac",
+        "id": "fac"
+      },
+      {
+        "form": "ilit",
+        "id": "ilit"
       },
       {
         "form": "ate",
         "id": "ate"
-      }
-    ],
-    "facility": [
-      {
-        "form": "facil",
-        "id": "facil"
-      },
-      {
-        "form": "it",
-        "id": "it"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "factor": [
-      {
-        "form": "factor",
-        "id": "factor"
-      }
-    ],
-    "faculty": [
-      {
-        "form": "facul",
-        "id": "facul"
-      },
-      {
-        "form": "ty",
-        "id": "ty"
       }
     ],
     "fade": [
@@ -6332,12 +5840,18 @@
         "id": "f"
       },
       {
-        "form": "ad",
-        "id": "ad"
+        "form": "ade",
+        "id": "ade"
+      }
+    ],
+    "faint": [
+      {
+        "form": "f",
+        "id": "f"
       },
       {
-        "form": "e",
-        "id": "e"
+        "form": "aint",
+        "id": "aint"
       }
     ],
     "faith": [
@@ -6356,68 +5870,18 @@
         "id": "f"
       },
       {
-        "form": "am",
-        "id": "am"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ame",
+        "id": "ame"
       }
     ],
-    "fancy": [
+    "farewell": [
       {
-        "form": "f",
-        "id": "f"
+        "form": "fare",
+        "id": "fare"
       },
       {
-        "form": "anc",
-        "id": "anc"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "fantasy": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "ant",
-        "id": "ant"
-      },
-      {
-        "form": "asy",
-        "id": "asy"
-      }
-    ],
-    "fare": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "ar",
-        "id": "ar"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "fatal": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "at",
-        "id": "at"
-      },
-      {
-        "form": "al",
-        "id": "al"
+        "form": "well",
+        "id": "well"
       }
     ],
     "fault": [
@@ -6430,64 +5894,24 @@
         "id": "ault"
       }
     ],
-    "feasible": [
+    "favour": [
       {
-        "form": "f",
-        "id": "f"
+        "form": "fav",
+        "id": "fav"
       },
       {
-        "form": "eas",
-        "id": "eas"
-      },
-      {
-        "form": "ible",
-        "id": "ible"
-      }
-    ],
-    "feast": [
-      {
-        "form": "fe",
-        "id": "fe"
-      },
-      {
-        "form": "ast",
-        "id": "ast"
+        "form": "our",
+        "id": "our"
       }
     ],
     "feat": [
       {
-        "form": "feat",
-        "id": "feat"
-      }
-    ],
-    "feature": [
-      {
         "form": "fe",
         "id": "fe"
       },
       {
-        "form": "ature",
-        "id": "ature"
-      }
-    ],
-    "federation": [
-      {
-        "form": "fed",
-        "id": "fed"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      },
-      {
-        "form": "ation",
-        "id": "ation"
-      }
-    ],
-    "fee": [
-      {
-        "form": "fee",
-        "id": "fee"
+        "form": "at",
+        "id": "at"
       }
     ],
     "feedback": [
@@ -6502,42 +5926,18 @@
     ],
     "ferry": [
       {
-        "form": "fer",
-        "id": "fe"
-      },
-      {
-        "form": "ry",
-        "id": "ry"
+        "form": "ferry",
+        "id": "ferr"
       }
     ],
     "fertile": [
       {
         "form": "fer",
-        "id": "fe"
+        "id": "fer"
       },
       {
         "form": "tile",
-        "id": "til"
-      }
-    ],
-    "festival": [
-      {
-        "form": "fest",
-        "id": "fest"
-      },
-      {
-        "form": "ival",
-        "id": "iv"
-      }
-    ],
-    "fetch": [
-      {
-        "form": "fe",
-        "id": "fe"
-      },
-      {
-        "form": "tch",
-        "id": "tch"
+        "id": "tile"
       }
     ],
     "feud": [
@@ -6550,26 +5950,6 @@
         "id": "ud"
       }
     ],
-    "fibre": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "ibre",
-        "id": "ib"
-      }
-    ],
-    "fierce": [
-      {
-        "form": "fierc",
-        "id": "fierc"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
     "file": [
       {
         "form": "f",
@@ -6577,17 +5957,13 @@
       },
       {
         "form": "ile",
-        "id": "il"
+        "id": "ile"
       }
     ],
     "filter": [
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "il",
-        "id": "il"
+        "form": "fil",
+        "id": "fil"
       },
       {
         "form": "ter",
@@ -6596,36 +5972,32 @@
     ],
     "finance": [
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "in",
-        "id": "in"
+        "form": "fin",
+        "id": "fin"
       },
       {
         "form": "ance",
         "id": "ance"
       }
     ],
-    "fist": [
+    "finite": [
       {
-        "form": "f",
-        "id": "f"
+        "form": "fin",
+        "id": "fin"
       },
       {
-        "form": "ist",
-        "id": "ist"
+        "form": "ite",
+        "id": "ite"
       }
     ],
-    "flame": [
+    "fixture": [
       {
-        "form": "fl",
-        "id": "fl"
+        "form": "fix",
+        "id": "fix"
       },
       {
-        "form": "ame",
-        "id": "ame"
+        "form": "ture",
+        "id": "ture"
       }
     ],
     "flank": [
@@ -6648,28 +6020,30 @@
         "id": "ap"
       }
     ],
-    "fleeting": [
+    "flash": [
       {
         "form": "fl",
         "id": "fl"
       },
       {
-        "form": "ee",
-        "id": "ee"
-      },
-      {
-        "form": "ting",
-        "id": "ting"
+        "form": "ash",
+        "id": "ash"
       }
     ],
-    "flexible": [
+    "flaw": [
       {
         "form": "fl",
         "id": "fl"
       },
       {
-        "form": "exible",
-        "id": "exible"
+        "form": "aw",
+        "id": "aw"
+      }
+    ],
+    "flesh": [
+      {
+        "form": "flesh",
+        "id": "f"
       }
     ],
     "fling": [
@@ -6682,10 +6056,24 @@
         "id": "ing"
       }
     ],
-    "flu": [
+    "flour": [
       {
-        "form": "flu",
-        "id": "flu"
+        "form": "fl",
+        "id": "fl"
+      },
+      {
+        "form": "our",
+        "id": "our"
+      }
+    ],
+    "flourish": [
+      {
+        "form": "fl",
+        "id": "fl"
+      },
+      {
+        "form": "ourish",
+        "id": "ourish"
       }
     ],
     "fluent": [
@@ -6698,14 +6086,14 @@
         "id": "uent"
       }
     ],
-    "fluid": [
+    "flush": [
       {
-        "form": "flu",
-        "id": "flu"
+        "form": "fl",
+        "id": "fl"
       },
       {
-        "form": "id",
-        "id": "id"
+        "form": "ush",
+        "id": "ush"
       }
     ],
     "flux": [
@@ -6716,26 +6104,6 @@
       {
         "form": "ux",
         "id": "ux"
-      }
-    ],
-    "forecast": [
-      {
-        "form": "fore",
-        "id": "fore"
-      },
-      {
-        "form": "cast",
-        "id": "cast"
-      }
-    ],
-    "foremost": [
-      {
-        "form": "fore",
-        "id": "fore"
-      },
-      {
-        "form": "most",
-        "id": "most"
       }
     ],
     "forfeit": [
@@ -6754,8 +6122,36 @@
         "id": "for"
       },
       {
-        "form": "give",
-        "id": "give"
+        "form": "giv",
+        "id": "giv"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "format": [
+      {
+        "form": "for",
+        "id": "for"
+      },
+      {
+        "form": "mat",
+        "id": "mat"
+      }
+    ],
+    "formidable": [
+      {
+        "form": "for",
+        "id": "for"
+      },
+      {
+        "form": "mid",
+        "id": "mid"
+      },
+      {
+        "form": "able",
+        "id": "able"
       }
     ],
     "fort": [
@@ -6764,34 +6160,62 @@
         "id": "fort"
       }
     ],
-    "foul": [
+    "forthcoming": [
       {
-        "form": "foul",
-        "id": "foul"
+        "form": "for",
+        "id": "for"
+      },
+      {
+        "form": "th",
+        "id": "th"
+      },
+      {
+        "form": "com",
+        "id": "com"
+      },
+      {
+        "form": "ing",
+        "id": "ing"
       }
     ],
-    "fracture": [
+    "forum": [
+      {
+        "form": "for",
+        "id": "for"
+      },
+      {
+        "form": "um",
+        "id": "um"
+      }
+    ],
+    "foul": [
+      {
+        "form": "f",
+        "id": "f"
+      },
+      {
+        "form": "oul",
+        "id": "oul"
+      }
+    ],
+    "fraction": [
+      {
+        "form": "frac",
+        "id": "frac"
+      },
+      {
+        "form": "tion",
+        "id": "tion"
+      }
+    ],
+    "fragile": [
       {
         "form": "fr",
         "id": "fr"
       },
       {
-        "form": "act",
-        "id": "act"
-      },
-      {
-        "form": "ure",
-        "id": "ure"
-      }
-    ],
-    "fragile": [
-      {
-        "form": "frag",
-        "id": "frag"
-      },
-      {
-        "form": "il",
-        "id": "il"
+        "form": "agil",
+        "id": "agil"
       },
       {
         "form": "e",
@@ -6808,20 +6232,6 @@
         "id": "ment"
       }
     ],
-    "fragrance": [
-      {
-        "form": "frag",
-        "id": "frag"
-      },
-      {
-        "form": "ranc",
-        "id": "ranc"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
     "framework": [
       {
         "form": "frame",
@@ -6834,24 +6244,36 @@
     ],
     "fraud": [
       {
-        "form": "fraud",
-        "id": "fraud"
+        "form": "fr",
+        "id": "fr"
+      },
+      {
+        "form": "aud",
+        "id": "aud"
       }
     ],
     "freak": [
       {
-        "form": "freak",
-        "id": "freak"
+        "form": "fr",
+        "id": "fr"
+      },
+      {
+        "form": "eak",
+        "id": "eak"
       }
     ],
     "friction": [
       {
-        "form": "fric",
-        "id": "fric"
+        "form": "f",
+        "id": "f"
       },
       {
-        "form": "tion",
-        "id": "tion"
+        "form": "rict",
+        "id": "rict"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "fridge": [
@@ -6862,16 +6284,6 @@
       {
         "form": "idge",
         "id": "idge"
-      }
-    ],
-    "fringe": [
-      {
-        "form": "fr",
-        "id": "fr"
-      },
-      {
-        "form": "inge",
-        "id": "inge"
       }
     ],
     "frontier": [
@@ -6886,12 +6298,6 @@
       {
         "form": "ier",
         "id": "ier"
-      }
-    ],
-    "frost": [
-      {
-        "form": "frost",
-        "id": "frost"
       }
     ],
     "fry": [
@@ -6912,16 +6318,6 @@
       {
         "form": "uel",
         "id": "uel"
-      }
-    ],
-    "fulfil": [
-      {
-        "form": "ful",
-        "id": "ful"
-      },
-      {
-        "form": "fil",
-        "id": "fil"
       }
     ],
     "function": [
@@ -6946,12 +6342,8 @@
     ],
     "funnel": [
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "un",
-        "id": "un"
+        "form": "fun",
+        "id": "fun"
       },
       {
         "form": "nel",
@@ -6960,12 +6352,8 @@
     ],
     "furious": [
       {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "ur",
-        "id": "ur"
+        "form": "fur",
+        "id": "fur"
       },
       {
         "form": "ious",
@@ -6986,114 +6374,40 @@
         "id": "y"
       }
     ],
-    "fuse": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "us",
-        "id": "us"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "fusion": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "us",
-        "id": "us"
-      },
-      {
-        "form": "ion",
-        "id": "ion"
-      }
-    ],
-    "fuss": [
-      {
-        "form": "f",
-        "id": "f"
-      },
-      {
-        "form": "uss",
-        "id": "uss"
-      }
-    ],
-    "gale": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "ale",
-        "id": "ale"
-      }
-    ],
-    "gallery": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "allery",
-        "id": "allery"
-      }
-    ],
     "gamble": [
       {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "am",
-        "id": "am"
+        "form": "gam",
+        "id": "gam"
       },
       {
         "form": "ble",
-        "id": "able"
+        "id": "ble"
       }
     ],
     "gang": [
       {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "ang",
-        "id": "ang"
+        "form": "gang",
+        "id": "gang"
       }
     ],
     "garbage": [
       {
-        "form": "g",
-        "id": "g"
+        "form": "gar",
+        "id": "gar"
       },
       {
-        "form": "arb",
-        "id": "arb"
-      },
-      {
-        "form": "age",
-        "id": "age"
+        "form": "bage",
+        "id": "bage"
       }
     ],
     "garment": [
       {
-        "form": "g",
-        "id": "g"
+        "form": "gar",
+        "id": "gar"
       },
       {
-        "form": "arm",
-        "id": "arm"
-      },
-      {
-        "form": "ent",
-        "id": "ent"
+        "form": "ment",
+        "id": "ment"
       }
     ],
     "gasp": [
@@ -7106,50 +6420,10 @@
         "id": "asp"
       }
     ],
-    "gauge": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "auge",
-        "id": "auge"
-      }
-    ],
-    "gear": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "ear",
-        "id": "ear"
-      }
-    ],
     "gene": [
       {
         "form": "gene",
         "id": "gene"
-      }
-    ],
-    "generate": [
-      {
-        "form": "gen",
-        "id": "gen"
-      },
-      {
-        "form": "erate",
-        "id": "erate"
-      }
-    ],
-    "generic": [
-      {
-        "form": "gener",
-        "id": "gener"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
       }
     ],
     "generous": [
@@ -7158,40 +6432,8 @@
         "id": "gen"
       },
       {
-        "form": "er",
-        "id": "er"
-      },
-      {
-        "form": "ous",
-        "id": "ous"
-      }
-    ],
-    "genetic": [
-      {
-        "form": "gen",
-        "id": "gen"
-      },
-      {
-        "form": "et",
-        "id": "et"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      }
-    ],
-    "genius": [
-      {
-        "form": "gen",
-        "id": "gen"
-      },
-      {
-        "form": "i",
-        "id": "i"
-      },
-      {
-        "form": "us",
-        "id": "us"
+        "form": "erous",
+        "id": "erous"
       }
     ],
     "gentle": [
@@ -7200,70 +6442,8 @@
         "id": "gen"
       },
       {
-        "form": "tl",
-        "id": "tl"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "genuine": [
-      {
-        "form": "gen",
-        "id": "gen"
-      },
-      {
-        "form": "u",
-        "id": "u"
-      },
-      {
-        "form": "ine",
-        "id": "ine"
-      }
-    ],
-    "geology": [
-      {
-        "form": "geo",
-        "id": "geo"
-      },
-      {
-        "form": "logy",
-        "id": "logy"
-      }
-    ],
-    "geometry": [
-      {
-        "form": "geo",
-        "id": "geo"
-      },
-      {
-        "form": "metr",
-        "id": "metr"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "gesture": [
-      {
-        "form": "gest",
-        "id": "gest"
-      },
-      {
-        "form": "ure",
-        "id": "ure"
-      }
-    ],
-    "gigantic": [
-      {
-        "form": "gig",
-        "id": "gig"
-      },
-      {
-        "form": "antic",
-        "id": "antic"
+        "form": "tle",
+        "id": "tle"
       }
     ],
     "glacier": [
@@ -7272,22 +6452,8 @@
         "id": "gl"
       },
       {
-        "form": "ac",
-        "id": "ac"
-      },
-      {
-        "form": "ier",
-        "id": "ier"
-      }
-    ],
-    "glamour": [
-      {
-        "form": "gl",
-        "id": "gl"
-      },
-      {
-        "form": "amour",
-        "id": "amour"
+        "form": "acier",
+        "id": "acier"
       }
     ],
     "gland": [
@@ -7300,6 +6466,16 @@
         "id": "and"
       }
     ],
+    "glare": [
+      {
+        "form": "gl",
+        "id": "gl"
+      },
+      {
+        "form": "are",
+        "id": "are"
+      }
+    ],
     "glimpse": [
       {
         "form": "gl",
@@ -7310,48 +6486,18 @@
         "id": "impse"
       }
     ],
-    "glitter": [
+    "gloomy": [
       {
         "form": "gl",
         "id": "gl"
       },
       {
-        "form": "itter",
-        "id": "itter"
-      }
-    ],
-    "gloss": [
-      {
-        "form": "gl",
-        "id": "gl"
+        "form": "oom",
+        "id": "oom"
       },
       {
-        "form": "oss",
-        "id": "oss"
-      }
-    ],
-    "glow": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "l",
-        "id": "l"
-      },
-      {
-        "form": "ow",
-        "id": "ow"
-      }
-    ],
-    "glue": [
-      {
-        "form": "gl",
-        "id": "gl"
-      },
-      {
-        "form": "ue",
-        "id": "ue"
+        "form": "y",
+        "id": "y"
       }
     ],
     "gorgeous": [
@@ -7360,36 +6506,12 @@
         "id": "g"
       },
       {
-        "form": "or",
-        "id": "or"
+        "form": "orge",
+        "id": "orge"
       },
       {
-        "form": "geous",
-        "id": "geous"
-      }
-    ],
-    "gown": [
-      {
-        "form": "g",
-        "id": "g"
-      },
-      {
-        "form": "own",
-        "id": "own"
-      }
-    ],
-    "grace": [
-      {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "ac",
-        "id": "ac"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ous",
+        "id": "ous"
       }
     ],
     "gracious": [
@@ -7398,12 +6520,12 @@
         "id": "gr"
       },
       {
-        "form": "ac",
-        "id": "ac"
+        "form": "aci",
+        "id": "aci"
       },
       {
-        "form": "ious",
-        "id": "ious"
+        "form": "ous",
+        "id": "ous"
       }
     ],
     "gradual": [
@@ -7416,50 +6538,10 @@
         "id": "ual"
       }
     ],
-    "grant": [
-      {
-        "form": "grant",
-        "id": "grant"
-      }
-    ],
     "graph": [
       {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "aph",
-        "id": "aph"
-      }
-    ],
-    "graphic": [
-      {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "aphic",
-        "id": "phic"
-      }
-    ],
-    "gratitude": [
-      {
-        "form": "grat",
-        "id": "grat"
-      },
-      {
-        "form": "itude",
-        "id": "itude"
-      }
-    ],
-    "grave": [
-      {
-        "form": "grav",
-        "id": "grav"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "graph",
+        "id": "graph"
       }
     ],
     "gravel": [
@@ -7484,30 +6566,12 @@
     ],
     "grease": [
       {
-        "form": "greas",
-        "id": "greas"
+        "form": "gr",
+        "id": "gr"
       },
       {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "greedy": [
-      {
-        "form": "greedy",
-        "id": "greedy"
-      }
-    ],
-    "grid": [
-      {
-        "form": "grid",
-        "id": "grid"
-      }
-    ],
-    "grief": [
-      {
-        "form": "grief",
-        "id": "grief"
+        "form": "ease",
+        "id": "ease"
       }
     ],
     "grill": [
@@ -7526,50 +6590,20 @@
         "id": "grim"
       }
     ],
-    "grin": [
-      {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "in",
-        "id": "in"
-      }
-    ],
-    "grind": [
-      {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "ind",
-        "id": "ind"
-      }
-    ],
-    "grip": [
-      {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "ip",
-        "id": "ip"
-      }
-    ],
     "grit": [
       {
-        "form": "gr",
-        "id": "gr"
-      },
-      {
-        "form": "it",
-        "id": "it"
+        "form": "grit",
+        "id": "grit"
       }
     ],
     "gross": [
       {
-        "form": "gross",
-        "id": "gross"
+        "form": "g",
+        "id": "g"
+      },
+      {
+        "form": "ross",
+        "id": "ross"
       }
     ],
     "grudge": [
@@ -7582,44 +6616,18 @@
         "id": "udge"
       }
     ],
-    "guarantee": [
+    "guardian": [
       {
         "form": "gu",
         "id": "gu"
       },
       {
-        "form": "arantee",
-        "id": "arantee"
-      }
-    ],
-    "guild": [
-      {
-        "form": "g",
-        "id": "g"
+        "form": "ard",
+        "id": "ard"
       },
       {
-        "form": "uild",
-        "id": "uild"
-      }
-    ],
-    "hail": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ail",
-        "id": "ail"
-      }
-    ],
-    "halt": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "alt",
-        "id": "alt"
+        "form": "ian",
+        "id": "ian"
       }
     ],
     "handbook": [
@@ -7642,128 +6650,70 @@
         "id": "icap"
       }
     ],
-    "hang": [
+    "handsome": [
       {
-        "form": "h",
-        "id": "h"
+        "form": "hand",
+        "id": "hand"
       },
       {
-        "form": "ang",
-        "id": "ang"
+        "form": "some",
+        "id": "some"
       }
     ],
-    "harassment": [
+    "hang": [
       {
-        "form": "har",
-        "id": "har"
-      },
-      {
-        "form": "ass",
-        "id": "ass"
-      },
-      {
-        "form": "ment",
-        "id": "ment"
+        "form": "hang",
+        "id": "hang"
       }
     ],
     "harbour": [
       {
-        "form": "har",
-        "id": "har"
-      },
-      {
-        "form": "bour",
-        "id": "bour"
-      }
-    ],
-    "hardware": [
-      {
         "form": "h",
         "id": "h"
       },
       {
-        "form": "ard",
-        "id": "ard"
+        "form": "arb",
+        "id": "arb"
+      },
+      {
+        "form": "our",
+        "id": "our"
+      }
+    ],
+    "hardware": [
+      {
+        "form": "hard",
+        "id": "hard"
       },
       {
         "form": "ware",
         "id": "ware"
       }
     ],
-    "hardy": [
+    "haste": [
       {
         "form": "h",
         "id": "h"
       },
       {
-        "form": "ard",
-        "id": "ard"
-      },
-      {
-        "form": "y",
-        "id": "y"
+        "form": "aste",
+        "id": "aste"
       }
     ],
-    "harmony": [
+    "haunt": [
       {
         "form": "h",
         "id": "h"
       },
       {
-        "form": "armon",
-        "id": "armon"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "havoc": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "a",
-        "id": "a"
-      },
-      {
-        "form": "voc",
-        "id": "v"
+        "form": "aunt",
+        "id": "aunt"
       }
     ],
     "hawk": [
       {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "awk",
-        "id": "awk"
-      }
-    ],
-    "hazard": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "azard",
-        "id": "hazard"
-      }
-    ],
-    "hazardous": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "azard",
-        "id": "hazard"
-      },
-      {
-        "form": "ous",
-        "id": "ous"
+        "form": "hawk",
+        "id": "hawk"
       }
     ],
     "heal": [
@@ -7778,22 +6728,8 @@
     ],
     "heap": [
       {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "eap",
+        "form": "heap",
         "id": "heap"
-      }
-    ],
-    "hearing": [
-      {
-        "form": "hear",
-        "id": "hear"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
       }
     ],
     "hectic": [
@@ -7802,40 +6738,12 @@
         "id": "h"
       },
       {
-        "form": "ectic",
-        "id": "ectic"
-      }
-    ],
-    "hedge": [
-      {
-        "form": "hedge",
-        "id": "hedge"
-      }
-    ],
-    "heir": [
-      {
-        "form": "heir",
-        "id": "heir"
-      }
-    ],
-    "hemisphere": [
-      {
-        "form": "hemi",
-        "id": "hemi"
+        "form": "ect",
+        "id": "ect"
       },
       {
-        "form": "sphere",
-        "id": "sphere"
-      }
-    ],
-    "hence": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ence",
-        "id": "ence"
+        "form": "ic",
+        "id": "ic"
       }
     ],
     "herb": [
@@ -7850,8 +6758,12 @@
         "id": "her"
       },
       {
-        "form": "editary",
-        "id": "editary"
+        "form": "edit",
+        "id": "edit"
+      },
+      {
+        "form": "ary",
+        "id": "ary"
       }
     ],
     "heritage": [
@@ -7860,8 +6772,12 @@
         "id": "her"
       },
       {
-        "form": "itage",
-        "id": "itage"
+        "form": "it",
+        "id": "it"
+      },
+      {
+        "form": "age",
+        "id": "age"
       }
     ],
     "hierarchy": [
@@ -7886,12 +6802,8 @@
     ],
     "hilarious": [
       {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "il",
-        "id": "il"
+        "form": "hil",
+        "id": "hil"
       },
       {
         "form": "ari",
@@ -7902,130 +6814,20 @@
         "id": "ous"
       }
     ],
-    "hinder": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ind",
-        "id": "ind"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      }
-    ],
-    "hinge": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ing",
-        "id": "ing"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "historian": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "istor",
-        "id": "istor"
-      },
-      {
-        "form": "ian",
-        "id": "ian"
-      }
-    ],
-    "historic": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "istor",
-        "id": "istor"
-      },
-      {
-        "form": "ic",
-        "id": "ic"
-      }
-    ],
     "hobby": [
       {
         "form": "h",
         "id": "h"
       },
       {
-        "form": "obb",
-        "id": "obb"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "holocaust": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "oloc",
-        "id": "oloc"
-      },
-      {
-        "form": "aust",
-        "id": "aust"
+        "form": "obby",
+        "id": "obby"
       }
     ],
     "hop": [
       {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "op",
-        "id": "op"
-      }
-    ],
-    "horrible": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "or",
-        "id": "or"
-      },
-      {
-        "form": "ribl",
-        "id": "ribl"
-      },
-      {
-        "form": "e",
-        "id": "e"
-      }
-    ],
-    "hose": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "os",
-        "id": "os"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "hop",
+        "id": "hop"
       }
     ],
     "host": [
@@ -8036,20 +6838,6 @@
       {
         "form": "ost",
         "id": "ost"
-      }
-    ],
-    "hostage": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ost",
-        "id": "ost"
-      },
-      {
-        "form": "age",
-        "id": "age"
       }
     ],
     "hostile": [
@@ -8066,16 +6854,6 @@
         "id": "e"
       }
     ],
-    "hound": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "ound",
-        "id": "ound"
-      }
-    ],
     "hug": [
       {
         "form": "h",
@@ -8088,98 +6866,60 @@
     ],
     "hum": [
       {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "um",
-        "id": "um"
-      }
-    ],
-    "humanity": [
-      {
-        "form": "h",
-        "id": "h"
-      },
-      {
-        "form": "uman",
-        "id": "uman"
-      },
-      {
-        "form": "ity",
-        "id": "ity"
+        "form": "hum",
+        "id": "hum"
       }
     ],
     "humble": [
       {
-        "form": "hum",
-        "id": "hum"
+        "form": "h",
+        "id": "h"
       },
       {
-        "form": "ble",
-        "id": "ble"
-      }
-    ],
-    "humidity": [
-      {
-        "form": "hum",
-        "id": "hum"
-      },
-      {
-        "form": "id",
-        "id": "id"
-      },
-      {
-        "form": "ity",
-        "id": "ity"
-      }
-    ],
-    "hydrogen": [
-      {
-        "form": "hydrogen",
-        "id": "hydrogen"
-      }
-    ],
-    "hygiene": [
-      {
-        "form": "hygien",
-        "id": "hygien"
+        "form": "umbl",
+        "id": "umbl"
       },
       {
         "form": "e",
         "id": "e"
       }
     ],
-    "hypothesis": [
+    "hygiene": [
       {
-        "form": "hypot",
-        "id": "hypot"
+        "form": "hy",
+        "id": "hy"
       },
       {
-        "form": "hesis",
-        "id": "hesis"
+        "form": "gi",
+        "id": "gi"
+      },
+      {
+        "form": "ene",
+        "id": "ene"
       }
     ],
     "hysterical": [
       {
-        "form": "hysteric",
-        "id": "hysteric"
+        "form": "hy",
+        "id": "hy"
       },
       {
-        "form": "al",
-        "id": "al"
-      }
-    ],
-    "ideal": [
+        "form": "ster",
+        "id": "ster"
+      },
       {
-        "form": "ideal",
-        "id": "ideal"
+        "form": "ical",
+        "id": "ical"
       }
     ],
     "identical": [
       {
-        "form": "ident",
-        "id": "ident"
+        "form": "id",
+        "id": "id"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
       },
       {
         "form": "ical",
@@ -8192,8 +6932,26 @@
         "id": "ident"
       },
       {
-        "form": "ification",
-        "id": "ification"
+        "form": "ifi",
+        "id": "ifi"
+      },
+      {
+        "form": "cation",
+        "id": "cation"
+      }
+    ],
+    "identify": [
+      {
+        "form": "id",
+        "id": "id"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
+      },
+      {
+        "form": "ify",
+        "id": "ify"
       }
     ],
     "identity": [
@@ -8212,12 +6970,12 @@
     ],
     "ideology": [
       {
-        "form": "ide",
-        "id": "ide"
+        "form": "id",
+        "id": "id"
       },
       {
-        "form": "olog",
-        "id": "olog"
+        "form": "eolog",
+        "id": "eolog"
       },
       {
         "form": "y",
@@ -8226,22 +6984,22 @@
     ],
     "idiot": [
       {
-        "form": "idi",
-        "id": "idi"
+        "form": "id",
+        "id": "id"
       },
       {
-        "form": "ot",
-        "id": "ot"
+        "form": "iot",
+        "id": "iot"
       }
     ],
-    "ignorance": [
+    "idle": [
       {
-        "form": "ignor",
-        "id": "ignor"
+        "form": "i",
+        "id": "i"
       },
       {
-        "form": "ance",
-        "id": "ance"
+        "form": "dle",
+        "id": "dle"
       }
     ],
     "illiterate": [
@@ -8260,36 +7018,30 @@
     ],
     "illusion": [
       {
-        "form": "illus",
-        "id": "illus"
+        "form": "il",
+        "id": "il"
       },
       {
-        "form": "ion",
-        "id": "ion"
+        "form": "lusi",
+        "id": "lusi"
+      },
+      {
+        "form": "on",
+        "id": "on"
       }
     ],
     "illustrate": [
       {
-        "form": "illustr",
-        "id": "illustr"
+        "form": "il",
+        "id": "il"
+      },
+      {
+        "form": "lustr",
+        "id": "lustr"
       },
       {
         "form": "ate",
         "id": "ate"
-      }
-    ],
-    "imaginative": [
-      {
-        "form": "im",
-        "id": "im"
-      },
-      {
-        "form": "agin",
-        "id": "agin"
-      },
-      {
-        "form": "ative",
-        "id": "ative"
       }
     ],
     "imitation": [
@@ -8298,12 +7050,12 @@
         "id": "im"
       },
       {
-        "form": "it",
-        "id": "it"
+        "form": "itat",
+        "id": "itat"
       },
       {
-        "form": "ation",
-        "id": "ation"
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "immense": [
@@ -8368,12 +7120,8 @@
         "id": "im"
       },
       {
-        "form": "per",
-        "id": "per"
-      },
-      {
-        "form": "at",
-        "id": "at"
+        "form": "perat",
+        "id": "perat"
       },
       {
         "form": "ive",
@@ -8392,6 +7140,16 @@
       {
         "form": "ial",
         "id": "ial"
+      }
+    ],
+    "implement": [
+      {
+        "form": "im",
+        "id": "im"
+      },
+      {
+        "form": "plement",
+        "id": "plement"
       }
     ],
     "implicit": [
@@ -8460,62 +7218,6 @@
         "id": "ive"
       }
     ],
-    "incidence": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "cid",
-        "id": "cid"
-      },
-      {
-        "form": "ence",
-        "id": "ence"
-      }
-    ],
-    "incidentally": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "cident",
-        "id": "cident"
-      },
-      {
-        "form": "ally",
-        "id": "ally"
-      }
-    ],
-    "inclination": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "clin",
-        "id": "clin"
-      },
-      {
-        "form": "ation",
-        "id": "ation"
-      }
-    ],
-    "inclusive": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "clus",
-        "id": "clus"
-      },
-      {
-        "form": "ive",
-        "id": "ive"
-      }
-    ],
     "incorporate": [
       {
         "form": "in",
@@ -8550,12 +7252,12 @@
         "id": "in"
       },
       {
-        "form": "def",
-        "id": "def"
+        "form": "definit",
+        "id": "definit"
       },
       {
-        "form": "inite",
-        "id": "inite"
+        "form": "e",
+        "id": "e"
       }
     ],
     "indicative": [
@@ -8564,22 +7266,22 @@
         "id": "in"
       },
       {
-        "form": "dic",
-        "id": "dic"
+        "form": "dicat",
+        "id": "dicat"
       },
       {
-        "form": "ative",
-        "id": "ative"
+        "form": "ive",
+        "id": "ive"
       }
     ],
     "indicator": [
       {
-        "form": "in",
-        "id": "in"
+        "form": "ind",
+        "id": "ind"
       },
       {
-        "form": "dic",
-        "id": "dic"
+        "form": "ic",
+        "id": "ic"
       },
       {
         "form": "ator",
@@ -8622,6 +7324,20 @@
       {
         "form": "duc",
         "id": "duc"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "indulge": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "dulg",
+        "id": "dulg"
       },
       {
         "form": "e",
@@ -8772,12 +7488,26 @@
         "id": "in"
       },
       {
-        "form": "gen",
-        "id": "gen"
+        "form": "geni",
+        "id": "geni"
       },
       {
-        "form": "ious",
-        "id": "ious"
+        "form": "ous",
+        "id": "ous"
+      }
+    ],
+    "ingredient": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "gred",
+        "id": "gred"
+      },
+      {
+        "form": "ient",
+        "id": "ient"
       }
     ],
     "inhabit": [
@@ -8790,6 +7520,48 @@
         "id": "habit"
       }
     ],
+    "inherent": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "her",
+        "id": "her"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
+      }
+    ],
+    "inherit": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "her",
+        "id": "her"
+      },
+      {
+        "form": "it",
+        "id": "it"
+      }
+    ],
+    "inhibit": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "hib",
+        "id": "hib"
+      },
+      {
+        "form": "it",
+        "id": "it"
+      }
+    ],
     "initial": [
       {
         "form": "in",
@@ -8797,27 +7569,7 @@
       },
       {
         "form": "itial",
-        "id": "initial"
-      }
-    ],
-    "initiate": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "itiate",
-        "id": "initiate"
-      }
-    ],
-    "initiative": [
-      {
-        "form": "in",
-        "id": "in"
-      },
-      {
-        "form": "itiative",
-        "id": "initiative"
+        "id": "itial"
       }
     ],
     "inject": [
@@ -8846,22 +7598,12 @@
         "id": "in"
       },
       {
-        "form": "nocent",
-        "id": "nocent"
-      }
-    ],
-    "innovation": [
-      {
-        "form": "in",
-        "id": "in"
+        "form": "noc",
+        "id": "noc"
       },
       {
-        "form": "nov",
-        "id": "nov"
-      },
-      {
-        "form": "ation",
-        "id": "ation"
+        "form": "ent",
+        "id": "ent"
       }
     ],
     "inquire": [
@@ -8890,6 +7632,16 @@
       {
         "form": "e",
         "id": "e"
+      }
+    ],
+    "insert": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "sert",
+        "id": "sert"
       }
     ],
     "insight": [
@@ -8978,6 +7730,16 @@
         "id": "stinct"
       }
     ],
+    "instrument": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "strument",
+        "id": "strument"
+      }
+    ],
     "instrumental": [
       {
         "form": "in",
@@ -9028,8 +7790,12 @@
         "id": "in"
       },
       {
-        "form": "tegral",
-        "id": "tegral"
+        "form": "tegr",
+        "id": "tegr"
+      },
+      {
+        "form": "al",
+        "id": "al"
       }
     ],
     "integrate": [
@@ -9038,24 +7804,26 @@
         "id": "in"
       },
       {
-        "form": "tegrate",
-        "id": "tegrate"
-      }
-    ],
-    "intellect": [
-      {
-        "form": "intellect",
-        "id": "intellect"
-      }
-    ],
-    "intellectual": [
-      {
-        "form": "intellect",
-        "id": "intellect"
+        "form": "tegr",
+        "id": "tegr"
       },
       {
-        "form": "ual",
-        "id": "ual"
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "integrity": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "tegr",
+        "id": "tegr"
+      },
+      {
+        "form": "ity",
+        "id": "ity"
       }
     ],
     "intense": [
@@ -9072,6 +7840,16 @@
         "id": "e"
       }
     ],
+    "intent": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "tent",
+        "id": "tent"
+      }
+    ],
     "interact": [
       {
         "form": "inter",
@@ -9082,14 +7860,42 @@
         "id": "act"
       }
     ],
+    "interim": [
+      {
+        "form": "inter",
+        "id": "inter"
+      },
+      {
+        "form": "im",
+        "id": "im"
+      }
+    ],
+    "interior": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "ter",
+        "id": "ter"
+      },
+      {
+        "form": "ior",
+        "id": "ior"
+      }
+    ],
     "intermediate": [
       {
         "form": "inter",
         "id": "inter"
       },
       {
-        "form": "mediate",
-        "id": "mediate"
+        "form": "medi",
+        "id": "medi"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
       }
     ],
     "intermittent": [
@@ -9098,38 +7904,96 @@
         "id": "inter"
       },
       {
-        "form": "mittent",
-        "id": "mittent"
+        "form": "mitt",
+        "id": "mitt"
+      },
+      {
+        "form": "ent",
+        "id": "ent"
       }
     ],
-    "interval": [
+    "intersection": [
       {
         "form": "inter",
         "id": "inter"
       },
       {
-        "form": "val",
-        "id": "val"
+        "form": "sect",
+        "id": "sect"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
-    "intrinsic": [
+    "intervene": [
+      {
+        "form": "inter",
+        "id": "inter"
+      },
+      {
+        "form": "ven",
+        "id": "ven"
+      },
+      {
+        "form": "e",
+        "id": "e"
+      }
+    ],
+    "intimate": [
       {
         "form": "in",
         "id": "in"
       },
       {
-        "form": "trinsic",
-        "id": "trinsic"
+        "form": "tim",
+        "id": "tim"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
       }
     ],
-    "intuition": [
+    "intimidate": [
       {
         "form": "in",
         "id": "in"
       },
       {
-        "form": "tuition",
-        "id": "tuition"
+        "form": "timid",
+        "id": "timid"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "intricate": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "tric",
+        "id": "tric"
+      },
+      {
+        "form": "ate",
+        "id": "ate"
+      }
+    ],
+    "intrigue": [
+      {
+        "form": "in",
+        "id": "in"
+      },
+      {
+        "form": "trig",
+        "id": "trig"
+      },
+      {
+        "form": "ue",
+        "id": "ue"
       }
     ],
     "invalid": [
@@ -9138,12 +8002,8 @@
         "id": "in"
       },
       {
-        "form": "val",
-        "id": "val"
-      },
-      {
-        "form": "id",
-        "id": "id"
+        "form": "valid",
+        "id": "valid"
       }
     ],
     "invariably": [
@@ -9240,6 +8100,20 @@
         "id": "e"
       }
     ],
+    "irony": [
+      {
+        "form": "ir",
+        "id": "ir"
+      },
+      {
+        "form": "on",
+        "id": "on"
+      },
+      {
+        "form": "y",
+        "id": "y"
+      }
+    ],
     "irrespective": [
       {
         "form": "ir",
@@ -9260,46 +8134,22 @@
         "id": "ir"
       },
       {
-        "form": "rigat",
-        "id": "rigat"
+        "form": "rig",
+        "id": "rig"
       },
       {
-        "form": "ion",
-        "id": "ion"
-      }
-    ],
-    "isle": [
-      {
-        "form": "is",
-        "id": "is"
-      },
-      {
-        "form": "le",
-        "id": "le"
-      }
-    ],
-    "isolate": [
-      {
-        "form": "iso",
-        "id": "iso"
-      },
-      {
-        "form": "lat",
-        "id": "lat"
-      },
-      {
-        "form": "e",
-        "id": "e"
+        "form": "ation",
+        "id": "ation"
       }
     ],
     "item": [
       {
-        "form": "it",
-        "id": "it"
+        "form": "i",
+        "id": "i"
       },
       {
-        "form": "em",
-        "id": "em"
+        "form": "tem",
+        "id": "tem"
       }
     ],
     "ivory": [
@@ -9324,12 +8174,8 @@
     ],
     "jam": [
       {
-        "form": "j",
-        "id": "j"
-      },
-      {
-        "form": "am",
-        "id": "am"
+        "form": "jam",
+        "id": "jam"
       }
     ],
     "jealous": [
@@ -9344,36 +8190,12 @@
     ],
     "journal": [
       {
-        "form": "j",
-        "id": "j"
+        "form": "jour",
+        "id": "jour"
       },
       {
-        "form": "ournal",
-        "id": "ournal"
-      }
-    ],
-    "journalist": [
-      {
-        "form": "j",
-        "id": "j"
-      },
-      {
-        "form": "ournal",
-        "id": "ournal"
-      },
-      {
-        "form": "ist",
-        "id": "ist"
-      }
-    ],
-    "judicial": [
-      {
-        "form": "judic",
-        "id": "judic"
-      },
-      {
-        "form": "ial",
-        "id": "ial"
+        "form": "nal",
+        "id": "nal"
       }
     ],
     "junction": [
@@ -9382,8 +8204,12 @@
         "id": "j"
       },
       {
-        "form": "unction",
-        "id": "unction"
+        "form": "unct",
+        "id": "unct"
+      },
+      {
+        "form": "ion",
+        "id": "ion"
       }
     ],
     "jungle": [
@@ -9398,8 +8224,12 @@
     ],
     "junior": [
       {
-        "form": "junior",
-        "id": "junior"
+        "form": "ju",
+        "id": "ju"
+      },
+      {
+        "form": "nior",
+        "id": "nior"
       }
     ],
     "junk": [
@@ -9412,22 +8242,6 @@
         "id": "unk"
       }
     ],
-    "jury": [
-      {
-        "form": "jury",
-        "id": "jury"
-      }
-    ],
-    "justification": [
-      {
-        "form": "justific",
-        "id": "justific"
-      },
-      {
-        "form": "ation",
-        "id": "ation"
-      }
-    ],
     "justify": [
       {
         "form": "just",
@@ -9438,66 +8252,40 @@
         "id": "ify"
       }
     ],
-    "juvenile": [
-      {
-        "form": "juven",
-        "id": "juven"
-      },
-      {
-        "form": "ile",
-        "id": "ile"
-      }
-    ],
-    "keen": [
-      {
-        "form": "keen",
-        "id": "keen"
-      }
-    ],
     "kernel": [
       {
-        "form": "kern",
-        "id": "kern"
+        "form": "ker",
+        "id": "ker"
       },
       {
-        "form": "el",
-        "id": "el"
+        "form": "nel",
+        "id": "nel"
       }
     ],
     "kidnap": [
       {
-        "form": "kidn",
-        "id": "kidn"
+        "form": "kid",
+        "id": "kid"
       },
       {
-        "form": "ap",
-        "id": "ap"
+        "form": "nap",
+        "id": "nap"
       }
     ],
     "kidney": [
       {
-        "form": "kidn",
-        "id": "kidn"
+        "form": "kid",
+        "id": "kid"
       },
       {
-        "form": "ey",
-        "id": "ey"
+        "form": "ney",
+        "id": "ney"
       }
     ],
     "kin": [
       {
         "form": "kin",
         "id": "kin"
-      }
-    ],
-    "kindle": [
-      {
-        "form": "kindl",
-        "id": "kindl"
-      },
-      {
-        "form": "e",
-        "id": "e"
       }
     ],
     "kit": [
@@ -9510,26 +8298,6 @@
       {
         "form": "knit",
         "id": "knit"
-      }
-    ],
-    "knot": [
-      {
-        "form": "knot",
-        "id": "root"
-      }
-    ],
-    "laden": [
-      {
-        "form": "l",
-        "id": "l"
-      },
-      {
-        "form": "ad",
-        "id": "ad"
-      },
-      {
-        "form": "en",
-        "id": "en"
       }
     ],
     "lag": [
@@ -9550,12 +8318,18 @@
     ],
     "lap": [
       {
+        "form": "lap",
+        "id": "lap"
+      }
+    ],
+    "lapse": [
+      {
         "form": "l",
         "id": "l"
       },
       {
-        "form": "ap",
-        "id": "ap"
+        "form": "apse",
+        "id": "apse"
       }
     ],
     "lash": [
@@ -9568,42 +8342,28 @@
         "id": "ash"
       }
     ],
-    "latitude": [
-      {
-        "form": "lat",
-        "id": "lat"
-      },
-      {
-        "form": "it",
-        "id": "it"
-      },
-      {
-        "form": "ude",
-        "id": "ude"
-      }
-    ],
-    "launch": [
+    "laundry": [
       {
         "form": "l",
         "id": "l"
       },
       {
-        "form": "au",
-        "id": "au"
+        "form": "aundr",
+        "id": "aundr"
       },
       {
-        "form": "nch",
-        "id": "nch"
+        "form": "y",
+        "id": "y"
       }
     ],
     "lavish": [
       {
-        "form": "lav",
-        "id": "lav"
+        "form": "la",
+        "id": "la"
       },
       {
-        "form": "ish",
-        "id": "ish"
+        "form": "vish",
+        "id": "vish"
       }
     ],
     "lawn": [
@@ -9628,12 +8388,34 @@
     ],
     "lay": [
       {
+        "form": "lay",
+        "id": "lay"
+      }
+    ],
+    "layer": [
+      {
         "form": "l",
         "id": "l"
       },
       {
-        "form": "ay",
-        "id": "ay"
+        "form": "ayer",
+        "id": "ayer"
+      }
+    ],
+    "layout": [
+      {
+        "form": "lay",
+        "id": "lay"
+      },
+      {
+        "form": "out",
+        "id": "out"
+      }
+    ],
+    "leap": [
+      {
+        "form": "leap",
+        "id": "leap"
       }
     ],
     "lease": [
@@ -9656,14 +8438,18 @@
         "id": "end"
       }
     ],
-    "legitimate": [
+    "legislation": [
       {
-        "form": "legit",
-        "id": "legit"
+        "form": "leg",
+        "id": "leg"
       },
       {
-        "form": "imate",
-        "id": "imate"
+        "form": "is",
+        "id": "is"
+      },
+      {
+        "form": "lation",
+        "id": "lation"
       }
     ],
     "lens": [
@@ -9676,60 +8462,14 @@
         "id": "ens"
       }
     ],
-    "lethal": [
-      {
-        "form": "leth",
-        "id": "leth"
-      },
-      {
-        "form": "al",
-        "id": "al"
-      }
-    ],
     "lever": [
       {
-        "form": "l",
-        "id": "l"
-      },
-      {
-        "form": "ev",
-        "id": "ev"
+        "form": "lev",
+        "id": "lev"
       },
       {
         "form": "er",
         "id": "er"
-      }
-    ],
-    "levy": [
-      {
-        "form": "l",
-        "id": "l"
-      },
-      {
-        "form": "ev",
-        "id": "ev"
-      },
-      {
-        "form": "y",
-        "id": "y"
-      }
-    ],
-    "liability": [
-      {
-        "form": "li",
-        "id": "li"
-      },
-      {
-        "form": "ab",
-        "id": "ab"
-      },
-      {
-        "form": "il",
-        "id": "il"
-      },
-      {
-        "form": "ity",
-        "id": "ity"
       }
     ],
     "liable": [
@@ -9744,12 +8484,16 @@
     ],
     "liaison": [
       {
-        "form": "lia",
-        "id": "lia"
+        "form": "li",
+        "id": "li"
       },
       {
-        "form": "ison",
-        "id": "ison"
+        "form": "ais",
+        "id": "ais"
+      },
+      {
+        "form": "on",
+        "id": "on"
       }
     ],
     "liberal": [
@@ -9758,18 +8502,12 @@
         "id": "li"
       },
       {
-        "form": "beral",
-        "id": "beral"
-      }
-    ],
-    "licence": [
-      {
-        "form": "lic",
-        "id": "lic"
+        "form": "ber",
+        "id": "ber"
       },
       {
-        "form": "ence",
-        "id": "ence"
+        "form": "al",
+        "id": "al"
       }
     ],
     "lick": [
@@ -9778,54 +8516,34 @@
         "id": "lick"
       }
     ],
-    "likelihood": [
+    "limb": [
       {
-        "form": "like",
-        "id": "like"
+        "form": "l",
+        "id": "l"
       },
       {
-        "form": "lihood",
-        "id": "lihood"
+        "form": "imb",
+        "id": "imb"
       }
     ],
-    "likewise": [
+    "liquor": [
       {
-        "form": "like",
-        "id": "like"
+        "form": "li",
+        "id": "li"
       },
       {
-        "form": "wise",
-        "id": "wise"
+        "form": "quor",
+        "id": "quor"
       }
     ],
-    "livestock": [
+    "litter": [
       {
-        "form": "liv",
-        "id": "liv"
+        "form": "lit",
+        "id": "lit"
       },
       {
-        "form": "estock",
-        "id": "stock"
-      }
-    ],
-    "loaf": [
-      {
-        "form": "lo",
-        "id": "lo"
-      },
-      {
-        "form": "af",
-        "id": "af"
-      }
-    ],
-    "loan": [
-      {
-        "form": "lo",
-        "id": "lo"
-      },
-      {
-        "form": "an",
-        "id": "an"
+        "form": "ter",
+        "id": "ter"
       }
     ],
     "lobby": [
@@ -9838,64 +8556,20 @@
         "id": "by"
       }
     ],
-    "locality": [
-      {
-        "form": "loc",
-        "id": "loc"
-      },
-      {
-        "form": "ality",
-        "id": "ality"
-      }
-    ],
-    "lock": [
-      {
-        "form": "lock",
-        "id": "lock"
-      }
-    ],
-    "locker": [
-      {
-        "form": "lock",
-        "id": "lock"
-      },
-      {
-        "form": "er",
-        "id": "er"
-      }
-    ],
     "lodge": [
       {
-        "form": "lodge",
-        "id": "lodge"
-      }
-    ],
-    "lofty": [
-      {
-        "form": "l",
-        "id": "l"
+        "form": "lod",
+        "id": "lod"
       },
       {
-        "form": "o",
-        "id": "o"
-      },
-      {
-        "form": "ft",
-        "id": "ft"
-      },
-      {
-        "form": "y",
-        "id": "y"
+        "form": "ge",
+        "id": "ge"
       }
     ],
     "log": [
       {
-        "form": "l",
-        "id": "l"
-      },
-      {
-        "form": "og",
-        "id": "og"
+        "form": "log",
+        "id": "log"
       }
     ],
     "logic": [
