@@ -18133,6 +18133,20 @@
         "form": "ield",
         "id": "ield"
       }
+    ],
+    "aboriginal": [
+      {
+        "form": "ab",
+        "id": "ab"
+      },
+      {
+        "form": "origin",
+        "id": "orig"
+      },
+      {
+        "form": "al",
+        "id": "-al"
+      }
     ]
   }
 }

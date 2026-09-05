@@ -97,7 +97,21 @@
           ],
           "translations": {
             "zh-CN": "n&a. 土著(的)；土生动植物(的)"
-          }
+          },
+          "morphs": [
+            {
+              "form": "ab",
+              "id": "ab"
+            },
+            {
+              "form": "origin",
+              "id": "orig"
+            },
+            {
+              "form": "al",
+              "id": "-al"
+            }
+          ]
         },
         {
           "text": "abortion",
