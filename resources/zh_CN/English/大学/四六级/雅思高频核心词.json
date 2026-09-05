@@ -96,12 +96,16 @@
           },
           "morphs": [
             {
-              "form": "a",
-              "id": "a"
+              "form": "ab",
+              "id": "ab"
             },
             {
-              "form": "boriginal",
-              "id": "boriginal"
+              "form": "origin",
+              "id": "orig"
+            },
+            {
+              "form": "al",
+              "id": "-al"
             }
           ]
         },
