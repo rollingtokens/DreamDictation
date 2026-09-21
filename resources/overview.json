@@ -302,6 +302,13 @@
                       "path": "zh_CN/Japanese/JLPT/N5.json",
                       "language": "ja-JP",
                       "minimumAppVersion": "1.11"
+                    },
+                    {
+                      "id": "N4",
+                      "displayName": "N4 词汇",
+                      "path": "zh_CN/Japanese/JLPT/N4.json",
+                      "language": "ja-JP",
+                      "minimumAppVersion": "1.11"
                     }
                   ]
                 }
