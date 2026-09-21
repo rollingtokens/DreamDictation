@@ -33,7 +33,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "pn. 那里；over there；那个地方"
+            "zh-CN": "pn. 那里；那边；那个地方"
           }
         },
         {
@@ -123,7 +123,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "n. 余地；remnant；adv. 不太；adj-no. 不太～的"
+            "zh-CN": "n. 余地；剩余物；adv. 不太；adj-na. 不太～的"
           }
         },
         {
@@ -193,7 +193,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "adv. 几；how many"
+            "zh-CN": "adv. 几；多少"
           }
         },
         {
@@ -208,7 +208,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "n. （腌制）鲑鱼籽；price（价格）"
+            "zh-CN": "n. （腌制的）鲑鱼籽；价格"
           }
         },
         {
@@ -1183,7 +1183,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "連体詞. 哪个；哪一个；哪些的"
+            "zh-CN": "adj-pn. 哪个；哪一个；哪些的"
           }
         },
         {
@@ -1198,7 +1198,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "副詞. 为什么；何故；为何"
+            "zh-CN": "adv. 为什么；何故；为何"
           }
         },
         {
@@ -1228,7 +1228,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "動詞. 变成；成为；生长；形成"
+            "zh-CN": "v. 变成；成为；生长；形成"
           }
         },
         {
@@ -1248,7 +1248,7 @@
           "speech": "はし",
           "examples": [],
           "translations": {
-            "zh-CN": "名詞. 桥；桥梁"
+            "zh-CN": "n. 桥；桥梁"
           }
         },
         {
@@ -1368,7 +1368,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "n. 大家；各位；all；pn. 大家（指代）；adv. 一切都"
+            "zh-CN": "n. 大家；各位；全体；pn. 大家（指代）；adv. 一切都"
           }
         },
         {
@@ -3348,7 +3348,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "n. 照片；照片拍；picture"
+            "zh-CN": "n. 照片；拍摄；照片"
           }
         },
         {
