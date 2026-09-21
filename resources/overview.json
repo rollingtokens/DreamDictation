@@ -289,6 +289,25 @@
           "language": "ja-JP",
           "grades": [
             {
+              "id": "JLPT",
+              "displayName": "JLPT（日语能力考）",
+              "publishers": [
+                {
+                  "id": "JLPT词汇",
+                  "displayName": "JLPT 词汇（社区整理，非官方）",
+                  "books": [
+                    {
+                      "id": "N5",
+                      "displayName": "N5 词汇",
+                      "path": "zh_CN/Japanese/JLPT/N5.json",
+                      "language": "ja-JP",
+                      "minimumAppVersion": "1.11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "id": "入门",
               "displayName": "入门",
               "publishers": [
