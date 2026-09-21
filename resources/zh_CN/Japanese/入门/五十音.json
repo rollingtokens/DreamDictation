@@ -1,0 +1,1052 @@
+{
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "五十音图",
+      "order": 1,
+      "splitOnImport": true,
+      "words": [
+        {
+          "text": "あ",
+          "is_bold": false,
+          "phonetic": "a",
+          "speech": "あ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "a"
+          }
+        },
+        {
+          "text": "い",
+          "is_bold": false,
+          "phonetic": "i",
+          "speech": "い",
+          "examples": [],
+          "translations": {
+            "zh-CN": "i"
+          }
+        },
+        {
+          "text": "う",
+          "is_bold": false,
+          "phonetic": "u",
+          "speech": "う",
+          "examples": [],
+          "translations": {
+            "zh-CN": "u"
+          }
+        },
+        {
+          "text": "え",
+          "is_bold": false,
+          "phonetic": "e",
+          "speech": "え",
+          "examples": [],
+          "translations": {
+            "zh-CN": "e"
+          }
+        },
+        {
+          "text": "お",
+          "is_bold": false,
+          "phonetic": "o",
+          "speech": "お",
+          "examples": [],
+          "translations": {
+            "zh-CN": "o"
+          }
+        },
+        {
+          "text": "か",
+          "is_bold": false,
+          "phonetic": "ka",
+          "speech": "か",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ka"
+          }
+        },
+        {
+          "text": "き",
+          "is_bold": false,
+          "phonetic": "ki",
+          "speech": "き",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ki"
+          }
+        },
+        {
+          "text": "く",
+          "is_bold": false,
+          "phonetic": "ku",
+          "speech": "く",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ku"
+          }
+        },
+        {
+          "text": "け",
+          "is_bold": false,
+          "phonetic": "ke",
+          "speech": "け",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ke"
+          }
+        },
+        {
+          "text": "こ",
+          "is_bold": false,
+          "phonetic": "ko",
+          "speech": "こ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ko"
+          }
+        },
+        {
+          "text": "さ",
+          "is_bold": false,
+          "phonetic": "sa",
+          "speech": "さ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "sa"
+          }
+        },
+        {
+          "text": "し",
+          "is_bold": false,
+          "phonetic": "shi",
+          "speech": "し",
+          "examples": [],
+          "translations": {
+            "zh-CN": "shi"
+          }
+        },
+        {
+          "text": "す",
+          "is_bold": false,
+          "phonetic": "su",
+          "speech": "す",
+          "examples": [],
+          "translations": {
+            "zh-CN": "su"
+          }
+        },
+        {
+          "text": "せ",
+          "is_bold": false,
+          "phonetic": "se",
+          "speech": "せ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "se"
+          }
+        },
+        {
+          "text": "そ",
+          "is_bold": false,
+          "phonetic": "so",
+          "speech": "そ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "so"
+          }
+        },
+        {
+          "text": "た",
+          "is_bold": false,
+          "phonetic": "ta",
+          "speech": "た",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ta"
+          }
+        },
+        {
+          "text": "ち",
+          "is_bold": false,
+          "phonetic": "chi",
+          "speech": "ち",
+          "examples": [],
+          "translations": {
+            "zh-CN": "chi"
+          }
+        },
+        {
+          "text": "つ",
+          "is_bold": false,
+          "phonetic": "tsu",
+          "speech": "つ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "tsu"
+          }
+        },
+        {
+          "text": "て",
+          "is_bold": false,
+          "phonetic": "te",
+          "speech": "て",
+          "examples": [],
+          "translations": {
+            "zh-CN": "te"
+          }
+        },
+        {
+          "text": "と",
+          "is_bold": false,
+          "phonetic": "to",
+          "speech": "と",
+          "examples": [],
+          "translations": {
+            "zh-CN": "to"
+          }
+        },
+        {
+          "text": "な",
+          "is_bold": false,
+          "phonetic": "na",
+          "speech": "な",
+          "examples": [],
+          "translations": {
+            "zh-CN": "na"
+          }
+        },
+        {
+          "text": "に",
+          "is_bold": false,
+          "phonetic": "ni",
+          "speech": "に",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ni"
+          }
+        },
+        {
+          "text": "ぬ",
+          "is_bold": false,
+          "phonetic": "nu",
+          "speech": "ぬ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "nu"
+          }
+        },
+        {
+          "text": "ね",
+          "is_bold": false,
+          "phonetic": "ne",
+          "speech": "ね",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ne"
+          }
+        },
+        {
+          "text": "の",
+          "is_bold": false,
+          "phonetic": "no",
+          "speech": "の",
+          "examples": [],
+          "translations": {
+            "zh-CN": "no"
+          }
+        },
+        {
+          "text": "は",
+          "is_bold": false,
+          "phonetic": "ha",
+          "speech": "は",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ha"
+          }
+        },
+        {
+          "text": "ひ",
+          "is_bold": false,
+          "phonetic": "hi",
+          "speech": "ひ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "hi"
+          }
+        },
+        {
+          "text": "ふ",
+          "is_bold": false,
+          "phonetic": "fu",
+          "speech": "ふ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "fu"
+          }
+        },
+        {
+          "text": "へ",
+          "is_bold": false,
+          "phonetic": "he",
+          "speech": "へ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "he"
+          }
+        },
+        {
+          "text": "ほ",
+          "is_bold": false,
+          "phonetic": "ho",
+          "speech": "ほ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ho"
+          }
+        },
+        {
+          "text": "ま",
+          "is_bold": false,
+          "phonetic": "ma",
+          "speech": "ま",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ma"
+          }
+        },
+        {
+          "text": "み",
+          "is_bold": false,
+          "phonetic": "mi",
+          "speech": "み",
+          "examples": [],
+          "translations": {
+            "zh-CN": "mi"
+          }
+        },
+        {
+          "text": "む",
+          "is_bold": false,
+          "phonetic": "mu",
+          "speech": "む",
+          "examples": [],
+          "translations": {
+            "zh-CN": "mu"
+          }
+        },
+        {
+          "text": "め",
+          "is_bold": false,
+          "phonetic": "me",
+          "speech": "め",
+          "examples": [],
+          "translations": {
+            "zh-CN": "me"
+          }
+        },
+        {
+          "text": "も",
+          "is_bold": false,
+          "phonetic": "mo",
+          "speech": "も",
+          "examples": [],
+          "translations": {
+            "zh-CN": "mo"
+          }
+        },
+        {
+          "text": "や",
+          "is_bold": false,
+          "phonetic": "ya",
+          "speech": "や",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ya"
+          }
+        },
+        {
+          "text": "ゆ",
+          "is_bold": false,
+          "phonetic": "yu",
+          "speech": "ゆ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "yu"
+          }
+        },
+        {
+          "text": "よ",
+          "is_bold": false,
+          "phonetic": "yo",
+          "speech": "よ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "yo"
+          }
+        },
+        {
+          "text": "ら",
+          "is_bold": false,
+          "phonetic": "ra",
+          "speech": "ら",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ra"
+          }
+        },
+        {
+          "text": "り",
+          "is_bold": false,
+          "phonetic": "ri",
+          "speech": "り",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ri"
+          }
+        },
+        {
+          "text": "る",
+          "is_bold": false,
+          "phonetic": "ru",
+          "speech": "る",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ru"
+          }
+        },
+        {
+          "text": "れ",
+          "is_bold": false,
+          "phonetic": "re",
+          "speech": "れ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "re"
+          }
+        },
+        {
+          "text": "ろ",
+          "is_bold": false,
+          "phonetic": "ro",
+          "speech": "ろ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ro"
+          }
+        },
+        {
+          "text": "わ",
+          "is_bold": false,
+          "phonetic": "wa",
+          "speech": "わ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "wa"
+          }
+        },
+        {
+          "text": "を",
+          "is_bold": false,
+          "phonetic": "o",
+          "speech": "を",
+          "examples": [],
+          "translations": {
+            "zh-CN": "o"
+          }
+        },
+        {
+          "text": "ん",
+          "is_bold": false,
+          "phonetic": "n",
+          "speech": "ん",
+          "examples": [],
+          "translations": {
+            "zh-CN": "n"
+          }
+        },
+        {
+          "text": "が",
+          "is_bold": false,
+          "phonetic": "ga",
+          "speech": "が",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ga"
+          }
+        },
+        {
+          "text": "ぎ",
+          "is_bold": false,
+          "phonetic": "gi",
+          "speech": "ぎ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "gi"
+          }
+        },
+        {
+          "text": "ぐ",
+          "is_bold": false,
+          "phonetic": "gu",
+          "speech": "ぐ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "gu"
+          }
+        },
+        {
+          "text": "げ",
+          "is_bold": false,
+          "phonetic": "ge",
+          "speech": "げ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ge"
+          }
+        },
+        {
+          "text": "ご",
+          "is_bold": false,
+          "phonetic": "go",
+          "speech": "ご",
+          "examples": [],
+          "translations": {
+            "zh-CN": "go"
+          }
+        },
+        {
+          "text": "ざ",
+          "is_bold": false,
+          "phonetic": "za",
+          "speech": "ざ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "za"
+          }
+        },
+        {
+          "text": "じ",
+          "is_bold": false,
+          "phonetic": "ji",
+          "speech": "じ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ji"
+          }
+        },
+        {
+          "text": "ず",
+          "is_bold": false,
+          "phonetic": "zu",
+          "speech": "ず",
+          "examples": [],
+          "translations": {
+            "zh-CN": "zu"
+          }
+        },
+        {
+          "text": "ぜ",
+          "is_bold": false,
+          "phonetic": "ze",
+          "speech": "ぜ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ze"
+          }
+        },
+        {
+          "text": "ぞ",
+          "is_bold": false,
+          "phonetic": "zo",
+          "speech": "ぞ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "zo"
+          }
+        },
+        {
+          "text": "だ",
+          "is_bold": false,
+          "phonetic": "da",
+          "speech": "だ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "da"
+          }
+        },
+        {
+          "text": "ぢ",
+          "is_bold": false,
+          "phonetic": "ji",
+          "speech": "ぢ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ji"
+          }
+        },
+        {
+          "text": "づ",
+          "is_bold": false,
+          "phonetic": "zu",
+          "speech": "づ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "zu"
+          }
+        },
+        {
+          "text": "で",
+          "is_bold": false,
+          "phonetic": "de",
+          "speech": "で",
+          "examples": [],
+          "translations": {
+            "zh-CN": "de"
+          }
+        },
+        {
+          "text": "ど",
+          "is_bold": false,
+          "phonetic": "do",
+          "speech": "ど",
+          "examples": [],
+          "translations": {
+            "zh-CN": "do"
+          }
+        },
+        {
+          "text": "ば",
+          "is_bold": false,
+          "phonetic": "ba",
+          "speech": "ば",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ba"
+          }
+        },
+        {
+          "text": "び",
+          "is_bold": false,
+          "phonetic": "bi",
+          "speech": "び",
+          "examples": [],
+          "translations": {
+            "zh-CN": "bi"
+          }
+        },
+        {
+          "text": "ぶ",
+          "is_bold": false,
+          "phonetic": "bu",
+          "speech": "ぶ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "bu"
+          }
+        },
+        {
+          "text": "べ",
+          "is_bold": false,
+          "phonetic": "be",
+          "speech": "べ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "be"
+          }
+        },
+        {
+          "text": "ぼ",
+          "is_bold": false,
+          "phonetic": "bo",
+          "speech": "ぼ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "bo"
+          }
+        },
+        {
+          "text": "ぱ",
+          "is_bold": false,
+          "phonetic": "pa",
+          "speech": "ぱ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pa"
+          }
+        },
+        {
+          "text": "ぴ",
+          "is_bold": false,
+          "phonetic": "pi",
+          "speech": "ぴ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pi"
+          }
+        },
+        {
+          "text": "ぷ",
+          "is_bold": false,
+          "phonetic": "pu",
+          "speech": "ぷ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pu"
+          }
+        },
+        {
+          "text": "ぺ",
+          "is_bold": false,
+          "phonetic": "pe",
+          "speech": "ぺ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pe"
+          }
+        },
+        {
+          "text": "ぽ",
+          "is_bold": false,
+          "phonetic": "po",
+          "speech": "ぽ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "po"
+          }
+        },
+        {
+          "text": "きゃ",
+          "is_bold": false,
+          "phonetic": "kya",
+          "speech": "きゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "kya"
+          }
+        },
+        {
+          "text": "きゅ",
+          "is_bold": false,
+          "phonetic": "kyu",
+          "speech": "きゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "kyu"
+          }
+        },
+        {
+          "text": "きょ",
+          "is_bold": false,
+          "phonetic": "kyo",
+          "speech": "きょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "kyo"
+          }
+        },
+        {
+          "text": "しゃ",
+          "is_bold": false,
+          "phonetic": "shya",
+          "speech": "しゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "shya"
+          }
+        },
+        {
+          "text": "しゅ",
+          "is_bold": false,
+          "phonetic": "shyu",
+          "speech": "しゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "shyu"
+          }
+        },
+        {
+          "text": "しょ",
+          "is_bold": false,
+          "phonetic": "shyo",
+          "speech": "しょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "shyo"
+          }
+        },
+        {
+          "text": "ちゃ",
+          "is_bold": false,
+          "phonetic": "chya",
+          "speech": "ちゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "chya"
+          }
+        },
+        {
+          "text": "ちゅ",
+          "is_bold": false,
+          "phonetic": "chyu",
+          "speech": "ちゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "chyu"
+          }
+        },
+        {
+          "text": "ちょ",
+          "is_bold": false,
+          "phonetic": "chyo",
+          "speech": "ちょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "chyo"
+          }
+        },
+        {
+          "text": "にゃ",
+          "is_bold": false,
+          "phonetic": "nya",
+          "speech": "にゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "nya"
+          }
+        },
+        {
+          "text": "にゅ",
+          "is_bold": false,
+          "phonetic": "nyu",
+          "speech": "にゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "nyu"
+          }
+        },
+        {
+          "text": "にょ",
+          "is_bold": false,
+          "phonetic": "nyo",
+          "speech": "にょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "nyo"
+          }
+        },
+        {
+          "text": "ひゃ",
+          "is_bold": false,
+          "phonetic": "hya",
+          "speech": "ひゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "hya"
+          }
+        },
+        {
+          "text": "ひゅ",
+          "is_bold": false,
+          "phonetic": "hyu",
+          "speech": "ひゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "hyu"
+          }
+        },
+        {
+          "text": "ひょ",
+          "is_bold": false,
+          "phonetic": "hyo",
+          "speech": "ひょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "hyo"
+          }
+        },
+        {
+          "text": "みゃ",
+          "is_bold": false,
+          "phonetic": "mya",
+          "speech": "みゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "mya"
+          }
+        },
+        {
+          "text": "みゅ",
+          "is_bold": false,
+          "phonetic": "myu",
+          "speech": "みゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "myu"
+          }
+        },
+        {
+          "text": "みょ",
+          "is_bold": false,
+          "phonetic": "myo",
+          "speech": "みょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "myo"
+          }
+        },
+        {
+          "text": "りゃ",
+          "is_bold": false,
+          "phonetic": "rya",
+          "speech": "りゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "rya"
+          }
+        },
+        {
+          "text": "りゅ",
+          "is_bold": false,
+          "phonetic": "ryu",
+          "speech": "りゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ryu"
+          }
+        },
+        {
+          "text": "りょ",
+          "is_bold": false,
+          "phonetic": "ryo",
+          "speech": "りょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "ryo"
+          }
+        },
+        {
+          "text": "ぎゃ",
+          "is_bold": false,
+          "phonetic": "gya",
+          "speech": "ぎゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "gya"
+          }
+        },
+        {
+          "text": "ぎゅ",
+          "is_bold": false,
+          "phonetic": "gyu",
+          "speech": "ぎゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "gyu"
+          }
+        },
+        {
+          "text": "ぎょ",
+          "is_bold": false,
+          "phonetic": "gyo",
+          "speech": "ぎょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "gyo"
+          }
+        },
+        {
+          "text": "じゃ",
+          "is_bold": false,
+          "phonetic": "jya",
+          "speech": "じゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "jya"
+          }
+        },
+        {
+          "text": "じゅ",
+          "is_bold": false,
+          "phonetic": "jyu",
+          "speech": "じゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "jyu"
+          }
+        },
+        {
+          "text": "じょ",
+          "is_bold": false,
+          "phonetic": "jyo",
+          "speech": "じょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "jyo"
+          }
+        },
+        {
+          "text": "びゃ",
+          "is_bold": false,
+          "phonetic": "bya",
+          "speech": "びゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "bya"
+          }
+        },
+        {
+          "text": "びゅ",
+          "is_bold": false,
+          "phonetic": "byu",
+          "speech": "びゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "byu"
+          }
+        },
+        {
+          "text": "びょ",
+          "is_bold": false,
+          "phonetic": "byo",
+          "speech": "びょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "byo"
+          }
+        },
+        {
+          "text": "ぴゃ",
+          "is_bold": false,
+          "phonetic": "pya",
+          "speech": "ぴゃ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pya"
+          }
+        },
+        {
+          "text": "ぴゅ",
+          "is_bold": false,
+          "phonetic": "pyu",
+          "speech": "ぴゅ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pyu"
+          }
+        },
+        {
+          "text": "ぴょ",
+          "is_bold": false,
+          "phonetic": "pyo",
+          "speech": "ぴょ",
+          "examples": [],
+          "translations": {
+            "zh-CN": "pyo"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -282,6 +282,31 @@
               ]
             }
           ]
+        },
+        {
+          "id": "Japanese",
+          "displayName": "日语",
+          "language": "ja-JP",
+          "grades": [
+            {
+              "id": "入门",
+              "displayName": "入门",
+              "publishers": [
+                {
+                  "id": "五十音",
+                  "displayName": "五十音",
+                  "books": [
+                    {
+                      "id": "五十音",
+                      "displayName": "五十音图",
+                      "path": "zh_CN/Japanese/入门/五十音.json",
+                      "language": "ja-JP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
