@@ -21667,6 +21667,21 @@
           }
         },
         {
+          "text": "自習",
+          "is_bold": false,
+          "phonetic": "じしゅう",
+          "speech": "じしゅう",
+          "examples": [
+            {
+              "en": "自習室は第二階にあります。",
+              "zh": "自习室在二楼。"
+            }
+          ],
+          "translations": {
+            "zh-CN": "n. 自习；自学；自我学习；v. 自习；自主学习"
+          }
+        },
+        {
           "text": "自衛",
           "is_bold": false,
           "phonetic": "じえい",
