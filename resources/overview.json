@@ -316,6 +316,13 @@
                       "path": "zh_CN/Japanese/JLPT/N3.json",
                       "language": "ja-JP",
                       "minimumAppVersion": "1.11"
+                    },
+                    {
+                      "id": "N2",
+                      "displayName": "N2 词汇",
+                      "path": "zh_CN/Japanese/JLPT/N2.json",
+                      "language": "ja-JP",
+                      "minimumAppVersion": "1.11"
                     }
                   ]
                 }
