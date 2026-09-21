@@ -3777,6 +3777,21 @@
           }
         },
         {
+          "text": "一生",
+          "is_bold": false,
+          "phonetic": "いっしょう",
+          "speech": "いっしょう",
+          "examples": [
+            {
+              "en": "ご恩は一生忘れません。",
+              "zh": "这份恩情我将永远铭记在心。"
+            }
+          ],
+          "translations": {
+            "zh-CN": "n. 一生；终身；一生中；adj-no. 一生的；adv. 一辈子"
+          }
+        },
+        {
           "text": "一番",
           "is_bold": false,
           "phonetic": "いちばん",
@@ -25454,6 +25469,21 @@
           ],
           "translations": {
             "zh-CN": "n. 噪音；喧哗声"
+          }
+        },
+        {
+          "text": "骨折",
+          "is_bold": false,
+          "phonetic": "こっせつ",
+          "speech": "こっせつ",
+          "examples": [
+            {
+              "en": "足を骨折してしまい、しばらく動けません。",
+              "zh": "我的腿骨折了，暂时不能动起来。"
+            }
+          ],
+          "translations": {
+            "zh-CN": "n. 骨折；骨头断裂；vs. 骨折；vt. 使骨折"
           }
         },
         {
