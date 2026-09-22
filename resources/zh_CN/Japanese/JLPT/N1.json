@@ -223,7 +223,7 @@
           "speech": "おおい",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-i. 多的；很多的；众多的"
+            "zh-CN": "形容词・多い；多的；众多的"
           }
         },
         {
@@ -458,7 +458,7 @@
           "speech": "おさん",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 产（胎）；分娩；生育"
+            "zh-CN": "名词. （生育）分娩；生产；产子"
           }
         },
         {
@@ -661,9 +661,14 @@
           "is_bold": false,
           "phonetic": "がる",
           "speech": "がる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "猫がのんびりしているのがる様子が見えます。",
+              "zh": "可以看到猫咪悠闲的样子。"
+            }
+          ],
           "translations": {
-            "zh-CN": "suf. ～的样子；动词的五段活用形（表示）～的样子"
+            "zh-CN": "接续助词。 表示“～的样子”；表示“～的感情/想法”"
           }
         },
         {
@@ -748,7 +753,7 @@
           "speech": "くっつく",
           "examples": [],
           "translations": {
-            "zh-CN": "v. （使）粘上；附着；依附"
+            "zh-CN": "动词。粘着；附着；依附"
           }
         },
         {
@@ -1788,7 +1793,7 @@
           "speech": "やっつける",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 打败；击败；解决（问题等）"
+            "zh-CN": "v. 击败；征服；解决；完成"
           }
         },
         {
@@ -2038,7 +2043,7 @@
           "speech": "インターナショナル",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-na. 国际的；世界的；n. 国际事物/人"
+            "zh-CN": "形容動詞・名词。国际的；世界的；国际性的"
           }
         },
         {
@@ -2768,7 +2773,7 @@
           "speech": "シック",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-na. 时髦的；别致的；有格调的；时尚的"
+            "zh-CN": "adj-na. 时髦的；别致的；有格调的"
           }
         },
         {
@@ -3796,7 +3801,12 @@
           "is_bold": false,
           "phonetic": "ニュー",
           "speech": "ニュー",
-          "examples": [],
+          "examples": [
+            {
+              "en": "このニューなデザインはとても素敵ですね。",
+              "zh": "这个新颖的设计非常漂亮呢。"
+            }
+          ],
           "translations": {
             "zh-CN": "adj-f. 新的；崭新的；新潮的"
           }
@@ -4903,7 +4913,7 @@
           "speech": "いちいち",
           "examples": [],
           "translations": {
-            "zh-CN": "n./adv. 一个一个；一一地"
+            "zh-CN": "名词・副词。一个一个地；逐个地"
           }
         },
         {
@@ -5198,7 +5208,7 @@
           "speech": "いちがいに",
           "examples": [],
           "translations": {
-            "zh-CN": "adv. 一概地；笼统地；普遍地"
+            "zh-CN": "adv. 一概地；笼统地；全体地"
           }
         },
         {
@@ -5206,9 +5216,14 @@
           "is_bold": false,
           "phonetic": "いちよう",
           "speech": "いちよう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この工場では、製品がすべて一様な品質で製造されています。",
+              "zh": "在这家工厂里，所有产品都是以统一的品质制造出来的。"
+            }
+          ],
           "translations": {
-            "zh-CN": "adj-na. 一样的；统一的；均匀的；一致的"
+            "zh-CN": "形容動詞・名词。统一的；相同的；一致的"
           }
         },
         {
@@ -5966,9 +5981,14 @@
           "is_bold": false,
           "phonetic": "ふざい",
           "speech": "ふざい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "父は現在不在です。",
+              "zh": "父亲目前不在家。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 嬉皮笑脸地；开玩笑地（做）"
+            "zh-CN": "n/adj-no/n-suf. 不在；缺席"
           }
         },
         {
@@ -6171,9 +6191,14 @@
           "is_bold": false,
           "phonetic": "かつ",
           "speech": "かつ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼は優秀です、かつ、非常に真面目でもあります。",
+              "zh": "他很优秀，而且也非常认真。"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj. 而且；此外；并且"
+            "zh-CN": "conj/adv. 而且；此外；并且"
           }
         },
         {
@@ -6723,7 +6748,7 @@
           "speech": "ないし",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 乃至；甚至；到……为止"
+            "zh-CN": "conj. 乃至；甚至于；到……为止"
           }
         },
         {
@@ -6748,7 +6773,7 @@
           "speech": "ひさしぶり",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-na. 久未；许久不见；很久"
+            "zh-CN": "形容动词/名词。 很久不见；久违地"
           }
         },
         {
@@ -7193,7 +7218,7 @@
           "speech": "まじえる",
           "examples": [],
           "translations": {
-            "zh-CN": "v1. 混合；掺入；混杂；vt. 使……相交；使……包含"
+            "zh-CN": "v. 混合；掺入；交融；包含"
           }
         },
         {
@@ -8851,9 +8876,14 @@
           "is_bold": false,
           "phonetic": "あんまり",
           "speech": "あんまり",
-          "examples": [],
+          "examples": [
+            {
+              "en": "これはお昼の余りです。",
+              "zh": ""
+            }
+          ],
           "translations": {
-            "zh-CN": "- (接续词)；（表示）仍然"
+            "zh-CN": "n/adj-no/adv. 剩余的；剩下的；仍然的"
           }
         },
         {
@@ -9131,9 +9161,14 @@
           "is_bold": false,
           "phonetic": "よって",
           "speech": "よって",
-          "examples": [],
+          "examples": [
+            {
+              "en": "天気予報に依って、明日の計画を立てました。",
+              "zh": "根据天气预报，我们制定了明天的计划。"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj. 因此；所以；根据；依照"
+            "zh-CN": "连词. 由于；依照；因此"
           }
         },
         {
@@ -9366,9 +9401,14 @@
           "is_bold": false,
           "phonetic": "ほいく",
           "speech": "ほいく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "一番下の子は毎日午前中を保育園で過ごしました。",
+              "zh": "最小的孩子每天上午都在幼儿园度过。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 榜样；楷模"
+            "zh-CN": "n/vs/vt. 保育；照料；抚养"
           }
         },
         {
@@ -9438,7 +9478,7 @@
           "speech": "しんにん",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 信任；信赖；信心；相信；vt. 信任"
+            "zh-CN": "名词/サ变动词/他动词。 信赖；信任；信靠"
           }
         },
         {
@@ -10018,7 +10058,7 @@
           "speech": "きずつく",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 受伤；受伤；感到伤心"
+            "zh-CN": "动词。受伤；受伤；被伤害"
           }
         },
         {
@@ -10551,9 +10591,14 @@
           "is_bold": false,
           "phonetic": "こ",
           "speech": "こ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "トムさんは孤児です。",
+              "zh": "汤姆是孤儿。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. （代词）指某人（常用于句末）；（名词后缀）表示“子”或“者”"
+            "zh-CN": "n/n-suf/pn. 孩子；幼童"
           }
         },
         {
@@ -11028,7 +11073,7 @@
           "speech": "それから",
           "examples": [],
           "translations": {
-            "zh-CN": "exp. 然后；接着；从那时起"
+            "zh-CN": "接续词/副词. 然后；接着；之后"
           }
         },
         {
@@ -11036,9 +11081,14 @@
           "is_bold": false,
           "phonetic": "それで",
           "speech": "それで",
-          "examples": [],
+          "examples": [
+            {
+              "en": "雨が降ったので、それで試合は中止になってしまいました。",
+              "zh": "因为下雨了，所以比赛取消了。"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj. 所以；因此；那么"
+            "zh-CN": "conj. 因此；所以；于是"
           }
         },
         {
@@ -11078,7 +11128,7 @@
           "speech": "それに",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 再者；此外；而且"
+            "zh-CN": "连词。此外；而且；除此之外"
           }
         },
         {
@@ -11088,7 +11138,7 @@
           "speech": "それゆえ",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 因此；所以；为此"
+            "zh-CN": "conj. 因此；所以；缘故上"
           }
         },
         {
@@ -11111,9 +11161,14 @@
           "is_bold": false,
           "phonetic": "そこ",
           "speech": "そこ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "あの店は便利ですから、其処で買い物をします。",
+              "zh": "那家店很方便，所以就在那里购物。"
+            }
+          ],
           "translations": {
-            "zh-CN": "pn./adj-no. 那里（指听者附近）；不那么；不太"
+            "zh-CN": "代词/副词/形容动词的修饰语. 那里（指听者附近）；不那么；不太"
           }
         },
         {
@@ -11123,7 +11178,7 @@
           "speech": "そこで",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 于是；所以；就那样"
+            "zh-CN": "连词/副词. 因此；所以；于是"
           }
         },
         {
@@ -11176,9 +11231,14 @@
           "is_bold": false,
           "phonetic": "けんぎょう",
           "speech": "けんぎょう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼は本業の傍ら、絵画の兼業をしています。",
+              "zh": "他在主要工作之余，从事绘画的兼业。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n./v./vt. 兼业；兼职；同时经营"
+            "zh-CN": "名词/动词/他动词. 兼职；兼业；从事副业"
           }
         },
         {
@@ -11561,9 +11621,14 @@
           "is_bold": false,
           "phonetic": "しのぐ",
           "speech": "しのぐ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "厳しい寒さも、このコートでしのぐことができます。",
+              "zh": "即使是严酷的寒冷，也能用这件外套来抵御。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v5g/vt. 凌驾；克服；抵御"
+            "zh-CN": "v. 凌越；克服；抵御；忍受"
           }
         },
         {
@@ -11693,7 +11758,7 @@
           "speech": "もたれる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 依靠；倚靠在……上；凭借于……"
+            "zh-CN": "动词。倚靠；依靠；凭着"
           }
         },
         {
@@ -12856,9 +12921,14 @@
           "is_bold": false,
           "phonetic": "わりあいに",
           "speech": "わりあいに",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この地域は割合に温暖な気候があります。",
+              "zh": "这个地区气候相对来说是温暖的。"
+            }
+          ],
           "translations": {
-            "zh-CN": "adv. 相比较地；按比例地"
+            "zh-CN": "adv. 相比较地；相对而言"
           }
         },
         {
@@ -12988,7 +13058,7 @@
           "speech": "かるた",
           "examples": [],
           "translations": {
-            "zh-CN": "n.歌留多；传统日式卡牌（尤指百人一胜或いろは）；karuta"
+            "zh-CN": "名词. 卡片游戏；传统日式纸牌（尤指百人一胜或いろは卡）"
           }
         },
         {
@@ -14153,7 +14223,7 @@
           "speech": "げんぶん",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 原文"
+            "zh-CN": "n. 原文；原始文本"
           }
         },
         {
@@ -14223,7 +14293,7 @@
           "speech": "いやいや",
           "examples": [],
           "translations": {
-            "zh-CN": "adv. 不情愿地；勉强地"
+            "zh-CN": "副词；名词. 不情愿地；勉强地；不乐意地"
           }
         },
         {
@@ -14953,7 +15023,7 @@
           "speech": "うけみ",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 被动（语态）；被动体；受身"
+            "zh-CN": "名词/形容动词。被动；受身（的）；受到（的）"
           }
         },
         {
@@ -17663,7 +17733,7 @@
           "speech": "はまる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 嵌合；容纳；进入"
+            "zh-CN": "动词。填满；容纳；嵌合进去；进入"
           }
         },
         {
@@ -17673,7 +17743,7 @@
           "speech": "はめる",
           "examples": [],
           "translations": {
-            "zh-CN": "vt. 填充；填满；嵌入；插入；固定"
+            "zh-CN": "v. 填入；装嵌；埋上；覆盖"
           }
         },
         {
@@ -18611,9 +18681,14 @@
           "is_bold": false,
           "phonetic": "たてまつる",
           "speech": "たてまつる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "お客様に温かいお茶を心を込めて奉りました。",
+              "zh": "我们怀着诚意为客人奉上了热茶。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 奉上；献上；侍奉"
+            "zh-CN": "动词/他动词. 奉上；呈献（尊敬语）；供奉"
           }
         },
         {
@@ -19898,7 +19973,7 @@
           "speech": "よりかかる",
           "examples": [],
           "translations": {
-            "zh-CN": "v5r/vi. 倚靠；依靠；依偎"
+            "zh-CN": "动词。倚靠；依靠；依偎"
           }
         },
         {
@@ -21078,7 +21153,7 @@
           "speech": "さようなら",
           "examples": [],
           "translations": {
-            "zh-CN": "int. 再见；告别；再会"
+            "zh-CN": "int. 再见；告别；那么就"
           }
         },
         {
@@ -21943,7 +22018,7 @@
           "speech": "いじる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 摆弄；把玩；逗弄；触碰；摸索"
+            "zh-CN": "动词。摆弄；玩耍；触摸；把玩；摸索"
           }
         },
         {
@@ -22133,7 +22208,7 @@
           "speech": "たるむ",
           "examples": [],
           "translations": {
-            "zh-CN": "v5m. 松弛；变松；放松；vt. 使……松懈"
+            "zh-CN": "动词. 松弛；放松；变松；懈怠"
           }
         },
         {
@@ -22711,9 +22786,14 @@
           "is_bold": false,
           "phonetic": "あれこれ",
           "speech": "あれこれ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "あれこれの準備をして、旅行に出かける予定です。",
+              "zh": "准备了各种各样的东西，计划去旅行。"
+            }
+          ],
           "translations": {
-            "zh-CN": "adv. 此事；那件事；各种各样"
+            "zh-CN": "adv/pn. 各种各样的；这儿那儿的；这些和那些的"
           }
         },
         {
@@ -23233,7 +23313,7 @@
           "speech": "こころづよい",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-i. 令人心安的；鼓舞人心的；可靠的"
+            "zh-CN": "adj-i. 令人安心的；坚强的；有力的"
           }
         },
         {
@@ -23286,9 +23366,14 @@
           "is_bold": false,
           "phonetic": "こころがける",
           "speech": "こころがける",
-          "examples": [],
+          "examples": [
+            {
+              "en": "健康に心掛けて、毎日元気に過ごしたいです。",
+              "zh": "我会努力保持健康，每天都开心地度过。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 努力；挂心；谨记；用心去做；留意"
+            "zh-CN": "动词. 努力；挂念；留意"
           }
         },
         {
@@ -23581,9 +23666,14 @@
           "is_bold": false,
           "phonetic": "だるい",
           "speech": "だるい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "今日はなんだか体がだるいです。",
+              "zh": "今天不知为何身体感到很疲惫。"
+            }
+          ],
           "translations": {
-            "zh-CN": "adj-i. 昏沉的；无精打采的；懒洋洋的"
+            "zh-CN": "adj-i. 疲倦的；无精打采的；昏沉的"
           }
         },
         {
@@ -23966,9 +24056,14 @@
           "is_bold": false,
           "phonetic": "あくび",
           "speech": "あくび",
-          "examples": [],
+          "examples": [
+            {
+              "en": "今日は悪日なので、外出は控えましょう。",
+              "zh": "今天是不吉的日子，所以我们还是少出门吧。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 厄运之日；不吉的日子"
+            "zh-CN": "名词。不吉的日子；厄运之日"
           }
         },
         {
@@ -25673,7 +25768,7 @@
           "speech": "つねる",
           "examples": [],
           "translations": {
-            "zh-CN": "v5r/vt. 抓る；捏；夹"
+            "zh-CN": "动词。捏住；抓紧；夹住"
           }
         },
         {
@@ -25788,7 +25883,7 @@
           "speech": "ぬかす",
           "examples": [],
           "translations": {
-            "zh-CN": "v5s. 省略；遗漏；漏掉；vt. 遗漏；漏掉"
+            "zh-CN": "v5s/vt. 省略；遗漏；跳过"
           }
         },
         {
@@ -25903,7 +25998,7 @@
           "speech": "さらう",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 拐走；攫取；带走"
+            "zh-CN": "动词（五段/他动词）. 攫走；拐带；卷走"
           }
         },
         {
@@ -26481,9 +26576,14 @@
           "is_bold": false,
           "phonetic": "ねじれる",
           "speech": "ねじれる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "古いロープが時間の経過とともに捻じれてしまいました。",
+              "zh": "旧绳子随着时间的流逝而扭曲了。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 扭曲；拧转；弯曲变形"
+            "zh-CN": "动词1；自动词. 扭曲；拧转；弯曲变形"
           }
         },
         {
@@ -26688,7 +26788,7 @@
           "speech": "つぐ",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 接合；拼接；接上（骨骼等）"
+            "zh-CN": "动词。连接；接续；拼接；（骨骼等）接好"
           }
         },
         {
@@ -26996,9 +27096,14 @@
           "is_bold": false,
           "phonetic": "からかう",
           "speech": "からかう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "友達を優しくからかうのが好きです。",
+              "zh": "我喜欢开朋友们的善意的玩笑。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v5u. 揶揄；开玩笑；嘲弄；使……发笑"
+            "zh-CN": "五段动词/他动词。 开玩笑；戏弄；嘲笑"
           }
         },
         {
@@ -27173,7 +27278,7 @@
           "speech": "すれちがい",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 擦肩而过；相遇"
+            "zh-CN": "名词. 擦肩而过；相遇；错过"
           }
         },
         {
@@ -27333,7 +27438,7 @@
           "speech": "ほうりだす",
           "examples": [],
           "translations": {
-            "zh-CN": "v5s/vt. 放出；扔出去；强行排出；驱赶"
+            "zh-CN": "v5s/vt. 扔出；排出；强行挤出"
           }
         },
         {
@@ -27688,7 +27793,7 @@
           "speech": "ばらまく",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 撒播；散布；抛洒；传播"
+            "zh-CN": "v5k/vt. 撒播；散布；抛洒"
           }
         },
         {
@@ -29003,7 +29108,7 @@
           "speech": "もはや",
           "examples": [],
           "translations": {
-            "zh-CN": "adv. 已经；现在"
+            "zh-CN": "副词. 最早；已经；现在"
           }
         },
         {
@@ -31413,7 +31518,7 @@
           "speech": "なぐる",
           "examples": [],
           "translations": {
-            "zh-CN": "v5r./vt. 殴打；击打；揍"
+            "zh-CN": "v5r/vt. 殴打；击打；揍"
           }
         },
         {
@@ -31558,7 +31663,7 @@
           "speech": "むしる",
           "examples": [],
           "translations": {
-            "zh-CN": "v5r/vt. 拔出；摘取；撕扯"
+            "zh-CN": "动词（五段/他动词）. 拔取；撕扯；摘取"
           }
         },
         {
@@ -31836,9 +31941,14 @@
           "is_bold": false,
           "phonetic": "すいき",
           "speech": "すいき",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この野菜には適度な水気が含まれています。",
+              "zh": "这种蔬菜含有适度的水分。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 水分；湿气；水份感"
+            "zh-CN": "n. 水分；水气；湿润度"
           }
         },
         {
@@ -31923,7 +32033,7 @@
           "speech": "けがらわしい",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-i. 肮脏的；污秽的；不光彩的；不正当的"
+            "zh-CN": "adj-i. 肮脏的；污秽的；不光彩的"
           }
         },
         {
@@ -32351,9 +32461,14 @@
           "is_bold": false,
           "phonetic": "えんせん",
           "speech": "えんせん",
-          "examples": [],
+          "examples": [
+            {
+              "en": "入学式も終わりましたが、同じ沿線の大学です。",
+              "zh": "入学典礼也结束了，而且是同一条线路上的大学。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n/adj-no. 沿线；沿着（铁路、公交等）"
+            "zh-CN": "n/adj-no. 沿线；沿着（线路）的"
           }
         },
         {
@@ -32511,9 +32626,14 @@
           "is_bold": false,
           "phonetic": "いける",
           "speech": "いける",
-          "examples": [],
+          "examples": [
+            {
+              "en": "先生は美しい花を器に活けてくださいました。",
+              "zh": "老师为我们插了美丽的花束。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v./vt./adj-f. 插花；栽种；使……鲜活"
+            "zh-CN": "动词。使活；让植物生长；插花；布置"
           }
         },
         {
@@ -33826,9 +33946,14 @@
           "is_bold": false,
           "phonetic": "ごう",
           "speech": "ごう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "お城の周りには大きな濠があります。",
+              "zh": "城堡周围有巨大的护城河。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 濠；护城河；壕沟"
+            "zh-CN": "n. 护城河；壕沟；（澳）豪洲"
           }
         },
         {
@@ -34001,9 +34126,14 @@
           "is_bold": false,
           "phonetic": "あぶる",
           "speech": "あぶる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "火の上で肉をじっくりと炙ります。",
+              "zh": "在火上慢慢地将肉炙烤起来。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 炙烤；烘烤；使变热"
+            "zh-CN": "五段动词/他动词。 炙烤；烘烤；使发热"
           }
         },
         {
@@ -34071,9 +34201,14 @@
           "is_bold": false,
           "phonetic": "なさる",
           "speech": "なさる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "社長は会議で重要なご提案をなさる予定です。",
+              "zh": "社长计划在会议上做出重要的提议。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 做；实行；办理"
+            "zh-CN": "v5aru/vt. 做（尊敬语）；进行"
           }
         },
         {
@@ -34383,7 +34518,7 @@
           "speech": "こげちゃ",
           "examples": [],
           "translations": {
-            "zh-CN": "n./adj-na. 焦褐色；深棕色；橄榄棕色"
+            "zh-CN": "名词；形容动词-的. 焦糖色；深棕色；橄榄褐色"
           }
         },
         {
@@ -34453,7 +34588,7 @@
           "speech": "しかしながら",
           "examples": [],
           "translations": {
-            "zh-CN": "adv/conj. 然而；尽管如此"
+            "zh-CN": "副词/连词. 然而；不过；尽管如此"
           }
         },
         {
@@ -35963,7 +36098,7 @@
           "speech": "もうしで",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 提议；申出；请求"
+            "zh-CN": "名词。申出；提议；请求"
           }
         },
         {
@@ -36798,7 +36933,7 @@
           "speech": "めつき",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 神情；目光；眼神"
+            "zh-CN": "名词. 神色；眼神；目光"
           }
         },
         {
@@ -37451,9 +37586,14 @@
           "is_bold": false,
           "phonetic": "ちゃくもく",
           "speech": "ちゃくもく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この問題に着目して、詳しく調査しました。",
+              "zh": "我们关注了这个问题，并进行了详细的调查。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 注意；关注；着眼点；vs/vi. 注视；留意；关注"
+            "zh-CN": "名词/サ变动词/自动词。 关注；着眼于；留意"
           }
         },
         {
@@ -38841,9 +38981,14 @@
           "is_bold": false,
           "phonetic": "ここ",
           "speech": "ここ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "箇箇の意見をまとめて、最終的な結論を出しました。",
+              "zh": "将各个意见汇总起来，得出了最终结论。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n./adj-no. 个个；各自的；单独的"
+            "zh-CN": "n./adj-no. 各个；各自的；逐个的"
           }
         },
         {
@@ -38973,7 +39118,7 @@
           "speech": "くじびき",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 签文；抽取的纸条；缘分；关系；v. 抽籤；抽取"
+            "zh-CN": "n. 抽签；彩票；籤；vs. 抽取"
           }
         },
         {
@@ -39131,9 +39276,14 @@
           "is_bold": false,
           "phonetic": "おさまる",
           "speech": "おさまる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この箱には、全てのおもちゃが納まりますか。",
+              "zh": "这个箱子里能装下所有的玩具吗？"
+            }
+          ],
           "translations": {
-            "zh-CN": "v5r/vi. 容纳进去；装下；符合（预算等）"
+            "zh-CN": "动词（五段/自动词）. 容纳；装下；符合；落入"
           }
         },
         {
@@ -39578,7 +39728,7 @@
           "speech": "むすびつき",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 关联；联系；关系；纽带"
+            "zh-CN": "n. 连接；关系；关联"
           }
         },
         {
@@ -39588,7 +39738,7 @@
           "speech": "むすびつく",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 联系起来；连接；关联"
+            "zh-CN": "动词五段活用；自动词. 关联起来；连接上；结合在一起"
           }
         },
         {
@@ -40331,9 +40481,14 @@
           "is_bold": false,
           "phonetic": "ばち",
           "speech": "ばち",
-          "examples": [],
+          "examples": [
+            {
+              "en": "私は体罰には断固反対です。",
+              "zh": "我坚决反对体罚。"
+            }
+          ],
           "translations": {
-            "zh-CN": "-,-（动词词干）伐；砍；劈"
+            "zh-CN": "n/n-suf. 惩罚；处罚；报应"
           }
         },
         {
@@ -40476,9 +40631,14 @@
           "is_bold": false,
           "phonetic": "ふける",
           "speech": "ふける",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼女は年齢を重ねるにつれて、ますます美しく老けます。",
+              "zh": "她随着年龄的增长，变得愈发美丽起来。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 老化；变老；显出衰老迹象"
+            "zh-CN": "动词/自动词. 变老；显出年岁（尤指外表）"
           }
         },
         {
@@ -40518,7 +40678,7 @@
           "speech": "しかも",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 然而；而且；况且"
+            "zh-CN": "连词. 而且；此外；况且"
           }
         },
         {
@@ -40871,9 +41031,14 @@
           "is_bold": false,
           "phonetic": "どう",
           "speech": "どう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "座席の下に救命胴衣があります。",
+              "zh": "座位下面有救生衣。"
+            }
+          ],
           "translations": {
-            "zh-CN": "-"
+            "zh-CN": "n. 躯干；胴体；身躯"
           }
         },
         {
@@ -41783,7 +41948,7 @@
           "speech": "いじめる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 苛める；欺负；折磨"
+            "zh-CN": "v. 苛待；使受折磨；欺负；使烦恼"
           }
         },
         {
@@ -42528,7 +42693,7 @@
           "speech": "たんぱくしつ",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 蛋白质；蛋白"
+            "zh-CN": "名词. 蛋白质；蛋白"
           }
         },
         {
@@ -46018,7 +46183,7 @@
           "speech": "とぎれる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 中断；途切；间歇；中断下来"
+            "zh-CN": "动词/自动词. 中断；切断；停止"
           }
         },
         {
@@ -46043,7 +46208,7 @@
           "speech": "またがる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 跨越；骑上；坐于……之上"
+            "zh-CN": "动词. 跨上；骑上；坐于……之上"
           }
         },
         {
@@ -46053,7 +46218,7 @@
           "speech": "またぐ",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 跨越；踏过；横渡"
+            "zh-CN": "动词. 跨过；越过；迈过"
           }
         },
         {
@@ -46468,7 +46633,7 @@
           "speech": "てんてん",
           "examples": [],
           "translations": {
-            "zh-CN": "adv/副词；adv-to/接续副词；n. 辗转、来回"
+            "zh-CN": "副词；副词-到；名词. 辗转不定地；来回地；反复地"
           }
         },
         {
@@ -46793,7 +46958,7 @@
           "speech": "ちかづく",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 靠近；接近；临近"
+            "zh-CN": "动词（五段/自动词）. 靠近；接近；临近"
           }
         },
         {
@@ -47191,9 +47356,14 @@
           "is_bold": false,
           "phonetic": "さかのぼる",
           "speech": "さかのぼる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "川の流れに逆上るように、魚が海へと遡ります。",
+              "zh": "像逆着水流一样，鱼儿向大海洄游。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. 逆流而上；向上游移动"
+            "zh-CN": "v5r/vi. 溯上；向上游移动；回溯"
           }
         },
         {
@@ -48013,7 +48183,7 @@
           "speech": "やりとおす",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 完成；贯彻；实现"
+            "zh-CN": "v. 贯彻到底；完成；实现"
           }
         },
         {
@@ -49883,7 +50053,7 @@
           "speech": "かすむ",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 变得朦胧；变得模糊；变得雾蒙蒙的"
+            "zh-CN": "动词。变得朦胧；变得模糊"
           }
         },
         {
@@ -50073,7 +50243,7 @@
           "speech": "にきび",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 痘疮；粉刺"
+            "zh-CN": "名词. 痘疮；粉刺"
           }
         },
         {
@@ -50758,7 +50928,7 @@
           "speech": "ならす",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 使习惯；驯化；培养（使适应）；vt. 驯化"
+            "zh-CN": "动词。使习惯；驯化；培养"
           }
         },
         {
@@ -50961,9 +51131,14 @@
           "is_bold": false,
           "phonetic": "こうげん",
           "speech": "こうげん",
-          "examples": [],
+          "examples": [
+            {
+              "en": "高原を散歩するのは楽しいですね。",
+              "zh": "在高原上散步感觉真不错啊。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 高原；高处（指月亮等）"
+            "zh-CN": "n. 高原；高地"
           }
         },
         {

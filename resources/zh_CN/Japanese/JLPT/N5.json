@@ -133,7 +133,7 @@
           "speech": "ある",
           "examples": [],
           "translations": {
-            "zh-CN": "v-i. 有；存在；生活"
+            "zh-CN": "v. 有；存在；居住"
           }
         },
         {
@@ -763,7 +763,7 @@
           "speech": "じゃ",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 那么；这样的话；所以"
+            "zh-CN": "conj. 那么；那么就；那"
           }
         },
         {
@@ -788,7 +788,7 @@
           "speech": "する",
           "examples": [],
           "translations": {
-            "zh-CN": "v-i. 做；实行；进行；发生"
+            "zh-CN": "v-adj-i. 做；实行；进行"
           }
         },
         {
@@ -1091,9 +1091,14 @@
           "is_bold": false,
           "phonetic": "どうぞ",
           "speech": "どうぞ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "こちらへ、どうぞお座りください。",
+              "zh": "请您到这边坐下吧。"
+            }
+          ],
           "translations": {
-            "zh-CN": "adv. 请；请便；请吧"
+            "zh-CN": "副词. 请；请便；请吧"
           }
         },
         {
@@ -1238,7 +1243,7 @@
           "speech": "はく",
           "examples": [],
           "translations": {
-            "zh-CN": "他動詞/自動詞. 扫；清扫；刷（干净）"
+            "zh-CN": "v-て/た. 扫；拂；清扫"
           }
         },
         {
@@ -1248,7 +1253,7 @@
           "speech": "はし",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 桥；桥梁"
+            "zh-CN": "n. 桥梁；桥"
           }
         },
         {
@@ -1258,7 +1263,7 @@
           "speech": "ふろ",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 浴缸；澡堂；泡澡"
+            "zh-CN": "n. 浴缸；泡澡；浴室"
           }
         },
         {
@@ -1266,7 +1271,12 @@
           "is_bold": false,
           "phonetic": "より",
           "speech": "より",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼は毎月、安定した高いほうをもらっています。",
+              "zh": "他每个月都领着稳定的高额俸禄。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 俸禄；薪水"
           }
@@ -1321,9 +1331,14 @@
           "is_bold": false,
           "phonetic": "また",
           "speech": "また",
-          "examples": [],
+          "examples": [
+            {
+              "en": "また明日、お会いしましょう。",
+              "zh": "明天再见吧。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 大腿；股部；胯部"
+            "zh-CN": "n. 又；另外；再；再次"
           }
         },
         {

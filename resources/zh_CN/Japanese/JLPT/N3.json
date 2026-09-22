@@ -116,9 +116,14 @@
           "is_bold": false,
           "phonetic": "あるいは",
           "speech": "あるいは",
-          "examples": [],
+          "examples": [
+            {
+              "en": "あなたは大学生でしょうか、あるいは社会人なのでしょうか？",
+              "zh": "您是大学生呢，抑或是社会人士呢？"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj/adv. 或者；或（两者）"
+            "zh-CN": "conj/adv. 或者；或；或者说"
           }
         },
         {
@@ -503,7 +508,7 @@
           "speech": "おめでとう",
           "examples": [],
           "translations": {
-            "zh-CN": "- int. 初次见面（敬语）；初次拜见"
+            "zh-CN": "int. 恭喜；祝贺；祝好"
           }
         },
         {
@@ -721,9 +726,14 @@
           "is_bold": false,
           "phonetic": "ここ",
           "speech": "ここ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ここが一番静かな場所です。",
+              "zh": "这里是最安静的地方。"
+            }
+          ],
           "translations": {
-            "zh-CN": "pn. 此处；这里；这个地方"
+            "zh-CN": "pn. 这里；此处"
           }
         },
         {
@@ -988,7 +998,7 @@
           "speech": "すてき",
           "examples": [],
           "translations": {
-            "zh-CN": "adj-na. 素敵；美好、可爱的；令人愉快的"
+            "zh-CN": "adj-na. 可爱的；美好的；迷人的"
           }
         },
         {
@@ -1233,7 +1243,7 @@
           "speech": "それとも",
           "examples": [],
           "translations": {
-            "zh-CN": "conj. 或者；还是"
+            "zh-CN": "conj. 还是；要不然；否则"
           }
         },
         {
@@ -1476,9 +1486,14 @@
           "is_bold": false,
           "phonetic": "では",
           "speech": "では",
-          "examples": [],
+          "examples": [
+            {
+              "en": "では、明日もこの会議を続けて行います。",
+              "zh": "那么，明天也继续这个会议。"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj/int. 那么；那样的话；那么就"
+            "zh-CN": "连词。那么；于是；这样；则"
           }
         },
         {
@@ -1486,9 +1501,14 @@
           "is_bold": false,
           "phonetic": "でも",
           "speech": "でも",
-          "examples": [],
+          "examples": [
+            {
+              "en": "雨が降っていますが、でも外に出たいです。",
+              "zh": "虽然在下雨，但是还是想出去。"
+            }
+          ],
           "translations": {
-            "zh-CN": "conj/prt. 但是；可是；虽然"
+            "zh-CN": "conj/prt. 但是；不过；虽然"
           }
         },
         {
@@ -1543,7 +1563,7 @@
           "speech": "たん",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 贪；贪婪；贪心"
+            "zh-CN": "n. 贪婪；贪心；贪欲"
           }
         },
         {
@@ -1791,9 +1811,14 @@
           "is_bold": false,
           "phonetic": "はい",
           "speech": "はい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "はい、承知いたしました。",
+              "zh": "是的，明白了。"
+            }
+          ],
           "translations": {
-            "zh-CN": "int. 是的；是的"
+            "zh-CN": "int. 是的；好的；对"
           }
         },
         {
@@ -18281,9 +18306,14 @@
           "is_bold": false,
           "phonetic": "ただちに",
           "speech": "ただちに",
-          "examples": [],
+          "examples": [
+            {
+              "en": "直ちに作業を中止してください。",
+              "zh": "请立即停止工作。我们马上开始。"
+            }
+          ],
           "translations": {
-            "zh-CN": "v. (自)站起来；起身"
+            "zh-CN": "adv. 立即；马上；立刻"
           }
         },
         {
@@ -19416,9 +19446,14 @@
           "is_bold": false,
           "phonetic": "とうあん",
           "speech": "とうあん",
-          "examples": [],
+          "examples": [
+            {
+              "en": "時間になりましたので、答案を提出してくださいますようお願いいたします。",
+              "zh": "时间到了，请您提交您的答卷。"
+            }
+          ],
           "translations": {
-            "zh-CN": "n. 答案；答卷；试卷"
+            "zh-CN": "n. 答案；答卷"
           }
         },
         {

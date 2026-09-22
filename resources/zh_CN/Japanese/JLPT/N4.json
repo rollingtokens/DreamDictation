@@ -641,9 +641,14 @@
           "is_bold": false,
           "phonetic": "ごらんになる",
           "speech": "ごらんになる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "どうぞ、この景色をごらんになってください。",
+              "zh": "请您看一下这景色吧。"
+            }
+          ],
           "translations": {
-            "zh-CN": "exp/v5r/aux-v. （尊敬语）看；观看；瞧（用于对方的动作）"
+            "zh-CN": "exp/v5r/aux-v. 看（尊敬语）；观看"
           }
         },
         {
@@ -713,7 +718,7 @@
           "speech": "しかる",
           "examples": [],
           "translations": {
-            "zh-CN": "v. 责备；训斥；呵斥"
+            "zh-CN": "v5r/vt. 责骂；训斥；呵斥"
           }
         },
         {
@@ -768,7 +773,7 @@
           "speech": "すく",
           "examples": [],
           "translations": {
-            "zh-CN": "动词。喜欢；喜爱；钟爱"
+            "zh-CN": "v. 喜欢；喜爱；钟爱"
           }
         },
         {
@@ -1048,7 +1053,7 @@
           "speech": "つき",
           "examples": [],
           "translations": {
-            "zh-CN": "n. 桌子；书桌"
+            "zh-CN": "n. 书桌；办公桌"
           }
         },
         {
@@ -1358,7 +1363,7 @@
           "speech": "ほめる",
           "examples": [],
           "translations": {
-            "zh-CN": "动词/他动词。称赞；赞扬；表扬"
+            "zh-CN": "v. 称赞；表扬；赞美"
           }
         },
         {
