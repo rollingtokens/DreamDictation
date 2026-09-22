@@ -1256,7 +1256,12 @@
           "is_bold": false,
           "phonetic": "それとも",
           "speech": "それとも",
-          "examples": [],
+          "examples": [
+            {
+              "en": "コーヒーにしますか、それともお茶にしますか。",
+              "zh": "要咖啡还是茶？"
+            }
+          ],
           "translations": {
             "zh-CN": "conj. 还是；或者"
           }
@@ -1356,7 +1361,12 @@
           "is_bold": false,
           "phonetic": "だが",
           "speech": "だが",
-          "examples": [],
+          "examples": [
+            {
+              "en": "明日は雨が降るそうだが、試合は予定通り行われるそうです。",
+              "zh": "听说明天会下雨，但比赛仍按计划进行。"
+            }
+          ],
           "translations": {
             "zh-CN": "conj. 但是；然而"
           }
@@ -7009,7 +7019,7 @@
           "examples": [
             {
               "en": "これが診察券です。",
-              "zh": ""
+              "zh": "这是诊察券。"
             }
           ],
           "translations": {
@@ -18229,7 +18239,7 @@
           "examples": [
             {
               "en": "頭皮がかゆいのです。",
-              "zh": ""
+              "zh": "头皮痒。"
             }
           ],
           "translations": {
@@ -18319,7 +18329,7 @@
           "examples": [
             {
               "en": "直感です。",
-              "zh": ""
+              "zh": "是直觉。"
             }
           ],
           "translations": {
@@ -19669,7 +19679,7 @@
           "examples": [
             {
               "en": "同級生なんです。",
-              "zh": ""
+              "zh": "是同学。"
             }
           ],
           "translations": {
@@ -20299,7 +20309,7 @@
           "examples": [
             {
               "en": "喫煙者ですか？",
-              "zh": ""
+              "zh": "你吸烟吗？"
             }
           ],
           "translations": {
@@ -22984,7 +22994,7 @@
           "examples": [
             {
               "en": "独身です。",
-              "zh": ""
+              "zh": "单身。"
             }
           ],
           "translations": {

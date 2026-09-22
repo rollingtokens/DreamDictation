@@ -131,7 +131,12 @@
           "is_bold": false,
           "phonetic": "ある",
           "speech": "ある",
-          "examples": [],
+          "examples": [
+            {
+              "en": "机の上に本があります。",
+              "zh": "桌子上有书。"
+            }
+          ],
           "translations": {
             "zh-CN": "v. 存在；有"
           }
@@ -216,7 +221,12 @@
           "is_bold": false,
           "phonetic": "いす",
           "speech": "いす",
-          "examples": [],
+          "examples": [
+            {
+              "en": "いすに座ってください。",
+              "zh": "请坐在椅子上。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 椅子；座位"
           }
@@ -556,7 +566,12 @@
           "is_bold": false,
           "phonetic": "かぎ",
           "speech": "かぎ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "かぎでドアを開けます。",
+              "zh": "用钥匙开门。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 钥匙"
           }
@@ -791,7 +806,12 @@
           "is_bold": false,
           "phonetic": "する",
           "speech": "する",
-          "examples": [],
+          "examples": [
+            {
+              "en": "毎日日本語の勉強をします。",
+              "zh": "每天学习日语。"
+            }
+          ],
           "translations": {
             "zh-CN": "v. 做；进行"
           }
@@ -1071,7 +1091,12 @@
           "is_bold": false,
           "phonetic": "とりにく",
           "speech": "とりにく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "とり肉を買いに行きます。",
+              "zh": "去买鸡肉。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 鸡肉"
           }
@@ -1246,7 +1271,12 @@
           "is_bold": false,
           "phonetic": "はく",
           "speech": "はく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "毎朝、庭をはきます。",
+              "zh": "每天早上打扫院子。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 扫；清扫"
           }
@@ -1256,7 +1286,12 @@
           "is_bold": false,
           "phonetic": "はし",
           "speech": "はし",
-          "examples": [],
+          "examples": [
+            {
+              "en": "はしを渡ります。",
+              "zh": "过桥。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 桥"
           }
@@ -1266,7 +1301,12 @@
           "is_bold": false,
           "phonetic": "ふろ",
           "speech": "ふろ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "毎日ふろに入ります。",
+              "zh": "每天洗澡。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 浴室；洗澡"
           }

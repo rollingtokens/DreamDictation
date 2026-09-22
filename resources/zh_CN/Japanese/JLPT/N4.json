@@ -776,7 +776,12 @@
           "is_bold": false,
           "phonetic": "すく",
           "speech": "すく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "私は犬がすきです。",
+              "zh": "我喜欢狗。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 喜欢；喜爱"
           }
@@ -1056,7 +1061,12 @@
           "is_bold": false,
           "phonetic": "つき",
           "speech": "つき",
-          "examples": [],
+          "examples": [
+            {
+              "en": "机の上に本があります。",
+              "zh": "桌子上有书。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 桌子；书桌"
           }
@@ -5989,7 +5999,7 @@
           "examples": [
             {
               "en": "すぐに点検します。",
-              "zh": ""
+              "zh": "马上检查。"
             }
           ],
           "translations": {

@@ -446,7 +446,12 @@
           "is_bold": false,
           "phonetic": "おきのどくに",
           "speech": "おきのどくに",
-          "examples": [],
+          "examples": [
+            {
+              "en": "それはお気の毒に。",
+              "zh": "那真是可怜。"
+            }
+          ],
           "translations": {
             "zh-CN": "exp. 真遗憾；深表同情"
           }
@@ -456,7 +461,12 @@
           "is_bold": false,
           "phonetic": "おくさん",
           "speech": "おくさん",
-          "examples": [],
+          "examples": [
+            {
+              "en": "おくさんは元気ですか。",
+              "zh": "您夫人好吗？"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 夫人；太太"
           }
@@ -466,7 +476,12 @@
           "is_bold": false,
           "phonetic": "おさきに",
           "speech": "おさきに",
-          "examples": [],
+          "examples": [
+            {
+              "en": "おさきに失礼します。",
+              "zh": "我先走了。"
+            }
+          ],
           "translations": {
             "zh-CN": "adv. 先行；先走"
           }
@@ -506,7 +521,12 @@
           "is_bold": false,
           "phonetic": "おだいじに",
           "speech": "おだいじに",
-          "examples": [],
+          "examples": [
+            {
+              "en": "おだいじに。",
+              "zh": "请保重。"
+            }
+          ],
           "translations": {
             "zh-CN": "exp. 请多保重；祝早日康复"
           }
@@ -1401,7 +1421,12 @@
           "is_bold": false,
           "phonetic": "すくなくとも",
           "speech": "すくなくとも",
-          "examples": [],
+          "examples": [
+            {
+              "en": "すくなくとも三日はかかります。",
+              "zh": "至少需要三天。"
+            }
+          ],
           "translations": {
             "zh-CN": "adv. 至少；起码"
           }
@@ -2326,7 +2351,12 @@
           "is_bold": false,
           "phonetic": "ぶらさげる",
           "speech": "ぶらさげる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "かばんを肩にぶらさげます。",
+              "zh": "把包挂在肩上。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 悬挂；吊挂"
           }
@@ -2351,7 +2381,12 @@
           "is_bold": false,
           "phonetic": "へる",
           "speech": "へる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "長い年月を経て、彼は成長しました。",
+              "zh": "经过漫长岁月，他成长了。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 减少；减轻"
           }
@@ -5271,7 +5306,12 @@
           "is_bold": false,
           "phonetic": "のりかえ",
           "speech": "のりかえ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "駅で乗換をします。",
+              "zh": "在车站换乘。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 换乘；转车"
           }
@@ -5476,7 +5516,12 @@
           "is_bold": false,
           "phonetic": "まぜる",
           "speech": "まぜる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "小麦粉と卵をよく交ぜてください。",
+              "zh": "请把面粉和鸡蛋充分混合。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 混合；搅拌"
           }
@@ -5561,7 +5606,12 @@
           "is_bold": false,
           "phonetic": "ひとさしゆび",
           "speech": "ひとさしゆび",
-          "examples": [],
+          "examples": [
+            {
+              "en": "人差指でスイッチを押します。",
+              "zh": "用食指按开关。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 食指；示指"
           }
@@ -5631,7 +5681,12 @@
           "is_bold": false,
           "phonetic": "つきあう",
           "speech": "つきあう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "私は彼と付き合っています。",
+              "zh": "我和他在交往。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 交往；陪伴"
           }
@@ -7276,7 +7331,12 @@
           "is_bold": false,
           "phonetic": "であい",
           "speech": "であい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "昨日、駅で高校時代の友達との出合いがありました。",
+              "zh": "昨天在车站与高中时代的朋友偶然相遇了。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 相遇；邂逅"
           }
@@ -12236,7 +12296,12 @@
           "is_bold": false,
           "phonetic": "ほうちょう",
           "speech": "ほうちょう",
-          "examples": [],
+          "examples": [
+            {
+              "en": "包丁で野菜を切ります。",
+              "zh": "用菜刀切蔬菜。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 菜刀；厨刀"
           }
@@ -12396,7 +12461,12 @@
           "is_bold": false,
           "phonetic": "ひきだす",
           "speech": "ひきだす",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼はかばんから本を引き出しました。",
+              "zh": "他从包里拿出了书。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 抽出；取出"
           }
@@ -12406,7 +12476,12 @@
           "is_bold": false,
           "phonetic": "ひきわけ",
           "speech": "ひきわけ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "試合は引き分けに終わりました。",
+              "zh": "比赛以平局结束了。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 平局；不分胜负"
           }
@@ -12431,7 +12506,12 @@
           "is_bold": false,
           "phonetic": "ひきうける",
           "speech": "ひきうける",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼はその仕事を引き受けました。",
+              "zh": "他接受了那份工作。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 承担；接受"
           }
@@ -12471,7 +12551,12 @@
           "is_bold": false,
           "phonetic": "ひきかえす",
           "speech": "ひきかえす",
-          "examples": [],
+          "examples": [
+            {
+              "en": "忘れ物に気づいて、家に引き返しました。",
+              "zh": "发现忘了东西，就返回了家。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 折返；返回"
           }
@@ -12841,7 +12926,12 @@
           "is_bold": false,
           "phonetic": "おじぎ",
           "speech": "おじぎ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "彼女は丁寧にお辞儀をしました。",
+              "zh": "她礼貌地鞠了躬。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 鞠躬；行礼"
           }
@@ -13031,7 +13121,12 @@
           "is_bold": false,
           "phonetic": "おもいっきり",
           "speech": "おもいっきり",
-          "examples": [],
+          "examples": [
+            {
+              "en": "今日は思いっ切り遊びます。",
+              "zh": "今天要尽情地玩。"
+            }
+          ],
           "translations": {
             "zh-CN": "adv. 尽情；拼命"
           }
@@ -13386,7 +13481,12 @@
           "is_bold": false,
           "phonetic": "よろこび",
           "speech": "よろこび",
-          "examples": [],
+          "examples": [
+            {
+              "en": "合格の喜びを家族と分かち合いました。",
+              "zh": "和家人分享了合格的喜悦。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 喜悦；高兴"
           }
@@ -15421,7 +15521,12 @@
           "is_bold": false,
           "phonetic": "かきとり",
           "speech": "かきとり",
-          "examples": [],
+          "examples": [
+            {
+              "en": "授業で漢字の書取をします。",
+              "zh": "课上做汉字的听写。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 听写；抄写"
           }
@@ -15941,7 +16046,12 @@
           "is_bold": false,
           "phonetic": "すてる",
           "speech": "すてる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "古い新聞を捨てます。",
+              "zh": "扔掉旧报纸。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 丢弃；抛弃"
           }
@@ -16356,7 +16466,12 @@
           "is_bold": false,
           "phonetic": "ふやす",
           "speech": "ふやす",
-          "examples": [],
+          "examples": [
+            {
+              "en": "貯金を増やすつもりです。",
+              "zh": "打算增加存款。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 增加；增多"
           }
@@ -17266,7 +17381,12 @@
           "is_bold": false,
           "phonetic": "すむ",
           "speech": "すむ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この川の水はとても澄んでいます。",
+              "zh": "这条河的水非常清澈。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 澄清；变清澈"
           }
@@ -20966,7 +21086,12 @@
           "is_bold": false,
           "phonetic": "くみあわせ",
           "speech": "くみあわせ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この色の組合せが好きです。",
+              "zh": "我喜欢这个颜色的搭配。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 组合；搭配"
           }
@@ -22131,7 +22256,12 @@
           "is_bold": false,
           "phonetic": "おちつく",
           "speech": "おちつく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "深呼吸すると気持ちが落ち着きます。",
+              "zh": "深呼吸的话心情会平静下来。"
+            }
+          ],
           "translations": {
             "zh-CN": "v. 平静；安定"
           }
@@ -22786,7 +22916,12 @@
           "is_bold": false,
           "phonetic": "みつかる",
           "speech": "みつかる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "なくした鍵がやっと見つかりました。",
+              "zh": "丢失的钥匙终于找到了。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 被发现；找到"
           }
@@ -22796,7 +22931,12 @@
           "is_bold": false,
           "phonetic": "みつける",
           "speech": "みつける",
-          "examples": [],
+          "examples": [
+            {
+              "en": "駅で友達を見付けました。",
+              "zh": "在车站找到了朋友。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 找到；发现"
           }
@@ -23316,7 +23456,12 @@
           "is_bold": false,
           "phonetic": "はなしあい",
           "speech": "はなしあい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "明日の予定について話合いをします。",
+              "zh": "我们讨论明天的计划。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 讨论；会谈"
           }
@@ -23701,7 +23846,12 @@
           "is_bold": false,
           "phonetic": "こす",
           "speech": "こす",
-          "examples": [],
+          "examples": [
+            {
+              "en": "山を越すと海が見えます。",
+              "zh": "越过山就能看到海。"
+            }
+          ],
           "translations": {
             "zh-CN": "vt. 越过；跨越"
           }
@@ -23891,7 +24041,12 @@
           "is_bold": false,
           "phonetic": "やわらかい",
           "speech": "やわらかい",
-          "examples": [],
+          "examples": [
+            {
+              "en": "このパンはとても軟らかいです。",
+              "zh": "这个面包非常软。"
+            }
+          ],
           "translations": {
             "zh-CN": "adj-i. 柔软的；松软的"
           }
@@ -24336,7 +24491,12 @@
           "is_bold": false,
           "phonetic": "とおりかかる",
           "speech": "とおりかかる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "通り掛かった店で花を買いました。",
+              "zh": "在路过的店里买了花。"
+            }
+          ],
           "translations": {
             "zh-CN": "vi. 路过；经过"
           }
@@ -24679,7 +24839,7 @@
           "examples": [
             {
               "en": "見つかったらひどい目に遭うぞ。",
-              "zh": ""
+              "zh": "要是被发现了可就惨了。"
             }
           ],
           "translations": {
@@ -25516,7 +25676,12 @@
           "is_bold": false,
           "phonetic": "ふぞく",
           "speech": "ふぞく",
-          "examples": [],
+          "examples": [
+            {
+              "en": "この大学には附属の病院があります。",
+              "zh": "这所大学有附属医院。"
+            }
+          ],
           "translations": {
             "zh-CN": "n. 附属；隶属"
           }
@@ -26291,7 +26456,12 @@
           "is_bold": false,
           "phonetic": "なれる",
           "speech": "なれる",
-          "examples": [],
+          "examples": [
+            {
+              "en": "新しい生活に馴れました。",
+              "zh": "已经习惯了新生活。"
+            }
+          ],
           "translations": {
             "zh-CN": "v. 习惯；适应"
           }
