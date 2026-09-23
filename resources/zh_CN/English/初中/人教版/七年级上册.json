@@ -384,23 +384,23 @@
           }
         },
         {
-          "text": "would d like to",
+          "text": "would like to",
           "is_bold": false,
-          "phonetic": "wʊd di laɪk tɪ",
+          "phonetic": "/wʊd laɪk tuː/",
           "examples": [
             {
-              "en": "You would like to eat rice.",
-              "zh": "你想吃米饭。"
+              "en": "I would like to eat rice.",
+              "zh": "我想吃米饭。"
             }
           ],
           "translations": {
-            "zh-CN": "表示愿意、喜欢"
+            "zh-CN": "愿意；想要"
           }
         },
         {
           "text": "information",
           "is_bold": false,
-          "phonetic": "ˌɪnˌfɔrˈmeɪʃən",
+          "phonetic": "/ˌɪnfəˈmeɪʃn/",
           "examples": [
             {
               "en": "Give me some information.",
@@ -408,7 +408,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "1.信息；消息"
+            "zh-CN": "信息；消息"
           }
         },
         {
@@ -608,13 +608,13 @@
           }
         },
         {
-          "text": "a lot of lots of",
+          "text": "a lot of",
           "is_bold": false,
-          "phonetic": "ə lɔt əv lɑts əv",
+          "phonetic": "/ə lɒt əv/",
           "examples": [
             {
-              "en": "There are lots of apples.",
-              "zh": "有很多苹果。"
+              "en": "There are a lot of apples.",
+              "zh": "有许多苹果。"
             }
           ],
           "translations": {
@@ -692,9 +692,9 @@
           }
         },
         {
-          "text": "Laugh",
+          "text": "laugh",
           "is_bold": false,
-          "phonetic": "læf",
+          "phonetic": "/lɑːf/",
           "examples": [
             {
               "en": "They laugh so much.",
@@ -702,7 +702,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "笑；发笑：1.笑声"
+            "zh-CN": "笑；发笑"
           }
         },
         {
@@ -986,12 +986,12 @@
           }
         },
         {
-          "text": "MMapo tofu",
+          "text": "Mapo tofu",
           "is_bold": false,
-          "phonetic": "mmapo* ˈtoʊfu",
+          "phonetic": "/ˌmɑːpəʊ ˈtəʊfuː/",
           "examples": [
             {
-              "en": "We love MMapo tofu very much.",
+              "en": "We love Mapo tofu very much.",
               "zh": "我们非常喜欢麻婆豆腐。"
             }
           ],
@@ -1553,9 +1553,9 @@
           }
         },
         {
-          "text": "corner r",
+          "text": "corner",
           "is_bold": false,
-          "phonetic": "ˈkɔrnər ɑr",
+          "phonetic": "/ˈkɔːnə(r)/",
           "examples": [
             {
               "en": "The book is in the corner.",
@@ -1679,23 +1679,23 @@
           }
         },
         {
-          "text": "most d",
+          "text": "most",
           "is_bold": false,
-          "phonetic": "moʊst di",
+          "phonetic": "/məʊst/",
           "examples": [
             {
-              "en": "Most students like pizza most.",
-              "zh": "大多数学生最喜欢披萨。"
+              "en": "Most students like pizza.",
+              "zh": "大多数学生喜欢比萨饼。"
             }
           ],
           "translations": {
-            "zh-CN": "大多数；最多；最大最"
+            "zh-CN": "大多数；最多；最"
           }
         },
         {
-          "text": "change d",
+          "text": "change",
           "is_bold": false,
-          "phonetic": "ʧeɪnʤ di",
+          "phonetic": "/tʃeɪndʒ/",
           "examples": [
             {
               "en": "My hair will change color soon.",
@@ -1933,7 +1933,7 @@
         {
           "text": "gym",
           "is_bold": false,
-          "phonetic": "ʤɪm",
+          "phonetic": "/dʒɪm/",
           "examples": [
             {
               "en": "Play in the gym.",
@@ -1941,7 +1941,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "/dsum'nerziom/）体育馆；健身房；（尤指学校的）体育活动"
+            "zh-CN": "体育馆；健身房；（尤指学校的）体育活动"
           }
         },
         {
@@ -2031,7 +2031,7 @@
         {
           "text": "locker",
           "is_bold": false,
-          "phonetic": "ˈlɑkər",
+          "phonetic": "/ˈlɒkə(r)/",
           "examples": [
             {
               "en": "My jacket is in the locker.",
@@ -2039,7 +2039,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "1.有锁存物柜；寄物柜"
+            "zh-CN": "有锁存物柜；寄物柜"
           }
         },
         {
@@ -2416,7 +2416,7 @@
         {
           "text": "technology",
           "is_bold": false,
-          "phonetic": "tɛkˈnɑləʤi",
+          "phonetic": "/tekˈnɒlədʒi/",
           "examples": [
             {
               "en": "New technology makes life easy.",
@@ -2424,7 +2424,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "V.记住；记起"
+            "zh-CN": "技术；科技"
           }
         },
         {
@@ -2514,7 +2514,7 @@
         {
           "text": "instrument",
           "is_bold": false,
-          "phonetic": "ˈɪnstrəmənt",
+          "phonetic": "/ˈɪnstrəmənt/",
           "examples": [
             {
               "en": "This ruler is a good instrument.",
@@ -2522,7 +2522,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "1.器械；工具"
+            "zh-CN": "器械；工具"
           }
         },
         {
@@ -2540,9 +2540,9 @@
           }
         },
         {
-          "text": "future e r",
+          "text": "future",
           "is_bold": false,
-          "phonetic": "fˈjuʧər i ɑr",
+          "phonetic": "/ˈfjuːtʃə(r)/",
           "examples": [
             {
               "en": "What is your future career?",
@@ -2638,13 +2638,13 @@
           }
         },
         {
-          "text": "nature e r",
+          "text": "nature",
           "is_bold": false,
-          "phonetic": "ˈneɪʧər i ɑr",
+          "phonetic": "/ˈneɪtʃə(r)/",
           "examples": [
             {
-              "en": "We love nature ever.",
-              "zh": "我们一直热爱大自然。"
+              "en": "We love nature.",
+              "zh": "我们热爱大自然。"
             }
           ],
           "translations": {
@@ -2680,13 +2680,13 @@
           }
         },
         {
-          "text": "than d",
+          "text": "than",
           "is_bold": false,
-          "phonetic": "ðən di",
+          "phonetic": "/ðæn/",
           "examples": [
             {
-              "en": "My pen is better than.",
-              "zh": "我的笔比……好。"
+              "en": "My pen is better than yours.",
+              "zh": "我的钢笔比你的好。"
             }
           ],
           "translations": {
@@ -2722,9 +2722,9 @@
           }
         },
         {
-          "text": "fall d",
+          "text": "fall",
           "is_bold": false,
-          "phonetic": "fɔl di",
+          "phonetic": "/fɔːl/",
           "examples": [
             {
               "en": "The leaf will fall down.",
@@ -2732,7 +2732,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "进入；掉落；跌倒12.（美式）秋天"
+            "zh-CN": "掉落；跌倒；（美式）秋天"
           }
         },
         {
@@ -2750,9 +2750,9 @@
           }
         },
         {
-          "text": "take photos take a photo",
+          "text": "take photos",
           "is_bold": false,
-          "phonetic": "teɪk ˈfoʊˌtoʊz teɪk ə ˈfoʊˌtoʊ",
+          "phonetic": "/teɪk ˈfəʊtəʊz/",
           "examples": [
             {
               "en": "We take photos of the dog.",
@@ -2792,9 +2792,9 @@
           }
         },
         {
-          "text": "tooth teeth",
+          "text": "tooth",
           "is_bold": false,
-          "phonetic": "tuθ tiθ",
+          "phonetic": "/tuːθ/",
           "examples": [
             {
               "en": "My tooth hurts a little.",
@@ -2906,7 +2906,7 @@
         {
           "text": "rise",
           "is_bold": false,
-          "phonetic": "raɪz",
+          "phonetic": "/raɪz/",
           "examples": [
             {
               "en": "The sun will rise soon.",
@@ -2914,7 +2914,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "起床；升起；增长1.增加；增强"
+            "zh-CN": "升起；增长；起床"
           }
         },
         {
@@ -3450,17 +3450,17 @@
           }
         },
         {
-          "text": "outside ad",
+          "text": "outside",
           "is_bold": false,
-          "phonetic": "ˈaʊtˈsaɪd æd",
+          "phonetic": "/ˌaʊtˈsaɪd/",
           "examples": [
             {
-              "en": "We play outside ad.",
+              "en": "We play outside.",
               "zh": "我们在外面玩。"
             }
           ],
           "translations": {
-            "zh-CN": "在外面外面的prep.在••⋯外面"
+            "zh-CN": "在外面；外面的；在……外面"
           }
         },
         {
@@ -4187,7 +4187,7 @@
         {
           "text": "William Shakespeare",
           "is_bold": false,
-          "phonetic": "ˈwɪljəm ˈʃeɪkˌspir",
+          "phonetic": "/ˈwɪljəm ˈʃeɪkspɪə(r)/",
           "examples": [
             {
               "en": "William Shakespeare wrote many plays.",
@@ -4195,13 +4195,13 @@
             }
           ],
           "translations": {
-            "zh-CN": "/Jerkspr（r）/威廉•莎士比亚"
+            "zh-CN": "威廉·莎士比亚"
           }
         },
         {
           "text": "Florence Nightingale",
           "is_bold": false,
-          "phonetic": "ˈflɔrəns ˈnaɪtɪŋgeɪl",
+          "phonetic": "/ˈflɒrəns ˈnaɪtɪŋɡeɪl/",
           "examples": [
             {
               "en": "Florence Nightingale helped the sick people.",
@@ -4209,7 +4209,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "/'nartgeil/弗洛伦斯•南丁格尔"
+            "zh-CN": "弗洛伦斯·南丁格尔"
           }
         },
         {

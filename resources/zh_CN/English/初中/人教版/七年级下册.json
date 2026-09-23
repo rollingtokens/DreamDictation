@@ -162,7 +162,7 @@
         {
           "text": "look",
           "is_bold": false,
-          "phonetic": "lʊk",
+          "phonetic": "/lʊk/",
           "examples": [
             {
               "en": "Look at the big tree.",
@@ -170,13 +170,13 @@
             }
           ],
           "translations": {
-            "zh-CN": "看；瞧；（pl.looks/lks/）相貌：容貌"
+            "zh-CN": "看；瞧；相貌"
           }
         },
         {
-          "text": "mouse mice",
+          "text": "mouse",
           "is_bold": false,
-          "phonetic": "maʊs maɪs",
+          "phonetic": "/maʊs/",
           "examples": [
             {
               "en": "A small mouse runs fast.",
@@ -188,9 +188,9 @@
           }
         },
         {
-          "text": "bea r",
+          "text": "bear",
           "is_bold": false,
-          "phonetic": "bi ɑr",
+          "phonetic": "/beə(r)/",
           "examples": [
             {
               "en": "The bear can bear pain.",
@@ -198,7 +198,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "熊v.承受；容忍"
+            "zh-CN": "熊；承受；容忍"
           }
         },
         {
@@ -377,9 +377,9 @@
           }
         },
         {
-          "text": "must modal",
+          "text": "must",
           "is_bold": false,
-          "phonetic": "məst ˈmoʊdəl",
+          "phonetic": "/mʌst/",
           "examples": [
             {
               "en": "You must finish homework now.",
@@ -419,9 +419,9 @@
           }
         },
         {
-          "text": "bring u",
+          "text": "bring",
           "is_bold": false,
-          "phonetic": "brɪŋ ju",
+          "phonetic": "/brɪŋ/",
           "examples": [
             {
               "en": "Can you bring us water?",
@@ -517,23 +517,23 @@
           }
         },
         {
-          "text": "burry u",
+          "text": "hurry",
           "is_bold": false,
-          "phonetic": "ˈbəri ju",
+          "phonetic": "/ˈhʌri/",
           "examples": [
             {
-              "en": "We must hurry bury up.",
-              "zh": "我们必须快点埋起来。"
+              "en": "We must hurry up.",
+              "zh": "我们必须快点。"
             }
           ],
           "translations": {
-            "zh-CN": "匆忙"
+            "zh-CN": "匆忙；赶快"
           }
         },
         {
-          "text": "show u",
+          "text": "show",
           "is_bold": false,
-          "phonetic": "ʃoʊ ju",
+          "phonetic": "/ʃəʊ/",
           "examples": [
             {
               "en": "The sun will show us the way.",
@@ -541,7 +541,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "表明：展示n.演出"
+            "zh-CN": "表明；展示；演出"
           }
         },
         {
@@ -666,7 +666,7 @@
         {
           "text": "rain",
           "is_bold": false,
-          "phonetic": "reɪn",
+          "phonetic": "/reɪn/",
           "examples": [
             {
               "en": "It will rain today.",
@@ -674,7 +674,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "下雨 n.雨"
+            "zh-CN": "下雨；雨"
           }
         },
         {
@@ -867,9 +867,9 @@
           }
         },
         {
-          "text": "young Jjng",
+          "text": "young",
           "is_bold": false,
-          "phonetic": "jəŋ jjng*",
+          "phonetic": "/jʌŋ/",
           "examples": [
             {
               "en": "Young girls like to play games.",
@@ -902,9 +902,9 @@
       "order": 5,
       "words": [
         {
-          "text": "wash u",
+          "text": "wash",
           "is_bold": false,
-          "phonetic": "wɑʃ ju",
+          "phonetic": "/wɒʃ/",
           "examples": [
             {
               "en": "Please wash your hands well.",
@@ -1072,7 +1072,7 @@
         {
           "text": "light",
           "is_bold": false,
-          "phonetic": "laɪt",
+          "phonetic": "/laɪt/",
           "examples": [
             {
               "en": "The light is very bright.",
@@ -1080,13 +1080,13 @@
             }
           ],
           "translations": {
-            "zh-CN": "灯：光 adj.轻的"
+            "zh-CN": "灯；光；轻的"
           }
         },
         {
-          "text": "move u",
+          "text": "move",
           "is_bold": false,
-          "phonetic": "muv ju",
+          "phonetic": "/muːv/",
           "examples": [
             {
               "en": "Can you move the chair?",
@@ -1094,7 +1094,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "移动：搬动"
+            "zh-CN": "移动；搬动"
           }
         },
         {
@@ -1112,9 +1112,9 @@
           }
         },
         {
-          "text": "foot feet",
+          "text": "foot",
           "is_bold": false,
-          "phonetic": "fʊt fit",
+          "phonetic": "/fʊt/",
           "examples": [
             {
               "en": "My foot hurts a little.",
@@ -1385,9 +1385,9 @@
           }
         },
         {
-          "text": "man men men",
+          "text": "man",
           "is_bold": false,
-          "phonetic": "mæn mɛn mɛn",
+          "phonetic": "/mæn/",
           "examples": [
             {
               "en": "The man eats an apple.",
@@ -1478,7 +1478,7 @@
         {
           "text": "again",
           "is_bold": false,
-          "phonetic": "əˈgɛn",
+          "phonetic": "/əˈɡen/",
           "examples": [
             {
               "en": "Say it again please now.",
@@ -1486,7 +1486,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "再一次：又一次200/zu:/n.动物园"
+            "zh-CN": "再一次；又一次"
           }
         },
         {
@@ -1553,9 +1553,9 @@
       "order": 8,
       "words": [
         {
-          "text": "catch caught",
+          "text": "catch",
           "is_bold": false,
-          "phonetic": "kæʧ kɔt",
+          "phonetic": "/kætʃ/",
           "examples": [
             {
               "en": "He caught the ball.",
@@ -1563,13 +1563,13 @@
             }
           ],
           "translations": {
-            "zh-CN": "捕捉：接住人民為育出饭社"
+            "zh-CN": "捕捉；接住"
           }
         },
         {
-          "text": "sell sold",
+          "text": "sell",
           "is_bold": false,
-          "phonetic": "sɛl soʊld",
+          "phonetic": "/sel/",
           "examples": [
             {
               "en": "They sold old toys.",
@@ -1577,7 +1577,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "出售"
+            "zh-CN": "出售；卖"
           }
         },
         {

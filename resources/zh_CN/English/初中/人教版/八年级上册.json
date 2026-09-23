@@ -2260,20 +2260,6 @@
           }
         },
         {
-          "text": "mm",
-          "is_bold": false,
-          "phonetic": "mm*",
-          "examples": [
-            {
-              "en": "The bug is three mm long.",
-              "zh": "这只虫子有三毫米长。"
-            }
-          ],
-          "translations": {
-            "zh-CN": "嗯（表示喜欢、同意等）"
-          }
-        },
-        {
           "text": "millimeter",
           "is_bold": false,
           "phonetic": "ˈmɪləˌmitər",
@@ -2839,8 +2825,8 @@
           "phonetic": "roʊz",
           "examples": [
             {
-              "en": "She wore a rose dress.",
-              "zh": "她穿了玫瑰裙。"
+              "en": "Rose is my best friend.",
+              "zh": "罗丝是我最好的朋友。"
             }
           ],
           "translations": {

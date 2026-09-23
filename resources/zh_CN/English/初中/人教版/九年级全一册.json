@@ -426,9 +426,9 @@
           }
         },
         {
-          "text": "atention",
+          "text": "attention",
           "is_bold": true,
-          "phonetic": "atention*",
+          "phonetic": "/əˈtenʃn/",
           "examples": [
             {
               "en": "Give attention to this book.",
@@ -895,13 +895,13 @@
           }
         },
         {
-          "text": "Graham lunar",
+          "text": "lunar",
           "is_bold": false,
-          "phonetic": "græm ˈlunər",
+          "phonetic": "/ˈluːnə(r)/",
           "examples": [
             {
-              "en": "We saw Graham lunar rocks.",
-              "zh": "我们看到了格雷厄姆的月球岩石。"
+              "en": "We saw lunar rocks.",
+              "zh": "我们看到了月球岩石。"
             }
           ],
           "translations": {
@@ -1035,9 +1035,9 @@
           }
         },
         {
-          "text": "botom",
+          "text": "bottom",
           "is_bold": true,
-          "phonetic": "botom*",
+          "phonetic": "/ˈbɒtəm/",
           "examples": [
             {
               "en": "The water is at the bottom.",
@@ -1144,20 +1144,6 @@
           ],
           "translations": {
             "zh-CN": "闻到；发出……气味"
-          }
-        },
-        {
-          "text": "smelled, smelled",
-          "is_bold": false,
-          "phonetic": "smɛld, smɛld",
-          "examples": [
-            {
-              "en": "The flower smelled sweet.",
-              "zh": "花闻起来很香甜。"
-            }
-          ],
-          "translations": {
-            "zh-CN": "闻到；发出……；气味气味；臭味"
           }
         },
         {
@@ -2493,15 +2479,15 @@
         {
           "text": "be proud of",
           "is_bold": false,
-          "phonetic": "bi praʊd əv",
+          "phonetic": "/biː praʊd əv/",
           "examples": [
             {
-              "en": "We be proud of our school.",
-              "zh": "我们为我们的学校感到自豪。"
+              "en": "We are proud of our school.",
+              "zh": "我们为我们的学校感到骄傲。"
             }
           ],
           "translations": {
-            "zh-CN": "为骄傲；感到自豪"
+            "zh-CN": "为……感到骄傲；为……感到自豪"
           }
         },
         {
@@ -2708,13 +2694,13 @@
           }
         },
         {
-          "text": "coton",
+          "text": "cotton",
           "is_bold": true,
-          "phonetic": "coton*",
+          "phonetic": "/ˈkɒtn/",
           "examples": [
             {
-              "en": "My shirt is made of coton.",
-              "zh": "我的衬衫是用棉做的。"
+              "en": "My shirt is made of cotton.",
+              "zh": "我的衬衫是棉制的。"
             }
           ],
           "translations": {
@@ -6054,9 +6040,9 @@
           }
         },
         {
-          "text": ", stuck) total",
+          "text": "total",
           "is_bold": true,
-          "phonetic": " stək) ˈtoʊtəl",
+          "phonetic": "/ˈtəʊtl/",
           "examples": [
             {
               "en": "We have a total of ten apples.",
@@ -6064,7 +6050,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "总数；合计；总的；全体的"
+            "zh-CN": "总数；合计；总的"
           }
         },
         {
@@ -7342,9 +7328,9 @@
           }
         },
         {
-          "text": "’d rather let ... down",
+          "text": "let ... down",
           "is_bold": false,
-          "phonetic": "’’d* ˈrəðər lɛt  daʊn",
+          "phonetic": "/let daʊn/",
           "examples": [
             {
               "en": "The movie did let us down.",
@@ -8770,9 +8756,9 @@
           }
         },
         {
-          "text": "botle",
+          "text": "bottle",
           "is_bold": true,
-          "phonetic": "botle*",
+          "phonetic": "/ˈbɒtl/",
           "examples": [
             {
               "en": "Drink water from the bottle.",
@@ -9101,20 +9087,6 @@
         {
           "text": "overcome",
           "is_bold": true,
-          "phonetic": "ˈoʊvərˌkəm",
-          "examples": [
-            {
-              "en": "She can overcome her fear easily.",
-              "zh": "她能很容易地克服她的恐惧。"
-            }
-          ],
-          "translations": {
-            "zh-CN": "克服；战胜"
-          }
-        },
-        {
-          "text": "overcome",
-          "is_bold": false,
           "phonetic": "ˈoʊvərˌkəm",
           "examples": [
             {
