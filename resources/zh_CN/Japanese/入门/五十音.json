@@ -11,7 +11,12 @@
           "is_bold": false,
           "phonetic": "a",
           "speech": "あ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "兄（あに）",
+              "zh": "哥哥"
+            }
+          ],
           "translations": {
             "zh-CN": "a"
           }
@@ -21,7 +26,12 @@
           "is_bold": false,
           "phonetic": "i",
           "speech": "い",
-          "examples": [],
+          "examples": [
+            {
+              "en": "一（いち）",
+              "zh": "一；一个"
+            }
+          ],
           "translations": {
             "zh-CN": "i"
           }
@@ -31,7 +41,12 @@
           "is_bold": false,
           "phonetic": "u",
           "speech": "う",
-          "examples": [],
+          "examples": [
+            {
+              "en": "歌（うた）",
+              "zh": "歌曲"
+            }
+          ],
           "translations": {
             "zh-CN": "u"
           }
@@ -41,7 +56,12 @@
           "is_bold": false,
           "phonetic": "e",
           "speech": "え",
-          "examples": [],
+          "examples": [
+            {
+              "en": "絵（え）",
+              "zh": "画；图画"
+            }
+          ],
           "translations": {
             "zh-CN": "e"
           }
@@ -51,7 +71,12 @@
           "is_bold": false,
           "phonetic": "o",
           "speech": "お",
-          "examples": [],
+          "examples": [
+            {
+              "en": "女（おんな）",
+              "zh": "女性；女人"
+            }
+          ],
           "translations": {
             "zh-CN": "o"
           }
@@ -61,7 +86,12 @@
           "is_bold": false,
           "phonetic": "ka",
           "speech": "か",
-          "examples": [],
+          "examples": [
+            {
+              "en": "傘（かさ）",
+              "zh": "伞"
+            }
+          ],
           "translations": {
             "zh-CN": "ka"
           }
@@ -71,7 +101,12 @@
           "is_bold": false,
           "phonetic": "ki",
           "speech": "き",
-          "examples": [],
+          "examples": [
+            {
+              "en": "木（き）",
+              "zh": "树"
+            }
+          ],
           "translations": {
             "zh-CN": "ki"
           }
@@ -81,7 +116,12 @@
           "is_bold": false,
           "phonetic": "ku",
           "speech": "く",
-          "examples": [],
+          "examples": [
+            {
+              "en": "口（くち）",
+              "zh": "嘴"
+            }
+          ],
           "translations": {
             "zh-CN": "ku"
           }
@@ -91,7 +131,12 @@
           "is_bold": false,
           "phonetic": "ke",
           "speech": "け",
-          "examples": [],
+          "examples": [
+            {
+              "en": "今朝（けさ）",
+              "zh": "今早"
+            }
+          ],
           "translations": {
             "zh-CN": "ke"
           }
@@ -101,7 +146,12 @@
           "is_bold": false,
           "phonetic": "ko",
           "speech": "こ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "声（こえ）",
+              "zh": "声音"
+            }
+          ],
           "translations": {
             "zh-CN": "ko"
           }
@@ -111,7 +161,12 @@
           "is_bold": false,
           "phonetic": "sa",
           "speech": "さ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "先（さき）",
+              "zh": "前面"
+            }
+          ],
           "translations": {
             "zh-CN": "sa"
           }
@@ -121,7 +176,12 @@
           "is_bold": false,
           "phonetic": "shi",
           "speech": "し",
-          "examples": [],
+          "examples": [
+            {
+              "en": "白（しろ）",
+              "zh": "白色"
+            }
+          ],
           "translations": {
             "zh-CN": "shi"
           }
@@ -131,7 +191,12 @@
           "is_bold": false,
           "phonetic": "su",
           "speech": "す",
-          "examples": [],
+          "examples": [
+            {
+              "en": "住む（すむ）",
+              "zh": "居住"
+            }
+          ],
           "translations": {
             "zh-CN": "su"
           }
@@ -141,7 +206,12 @@
           "is_bold": false,
           "phonetic": "se",
           "speech": "せ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "千（せん）",
+              "zh": "千；一千"
+            }
+          ],
           "translations": {
             "zh-CN": "se"
           }
@@ -151,7 +221,12 @@
           "is_bold": false,
           "phonetic": "so",
           "speech": "そ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "祖母（そぼ）",
+              "zh": "外婆"
+            }
+          ],
           "translations": {
             "zh-CN": "so"
           }
@@ -161,7 +236,12 @@
           "is_bold": false,
           "phonetic": "ta",
           "speech": "た",
-          "examples": [],
+          "examples": [
+            {
+              "en": "卵（たまご）",
+              "zh": "蛋"
+            }
+          ],
           "translations": {
             "zh-CN": "ta"
           }
@@ -171,7 +251,12 @@
           "is_bold": false,
           "phonetic": "chi",
           "speech": "ち",
-          "examples": [],
+          "examples": [
+            {
+              "en": "地図（ちず）",
+              "zh": "地图"
+            }
+          ],
           "translations": {
             "zh-CN": "chi"
           }
@@ -181,7 +266,12 @@
           "is_bold": false,
           "phonetic": "tsu",
           "speech": "つ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "机（つくえ）",
+              "zh": "桌子；书桌"
+            }
+          ],
           "translations": {
             "zh-CN": "tsu"
           }
@@ -191,7 +281,12 @@
           "is_bold": false,
           "phonetic": "te",
           "speech": "て",
-          "examples": [],
+          "examples": [
+            {
+              "en": "手（て）",
+              "zh": "手"
+            }
+          ],
           "translations": {
             "zh-CN": "te"
           }
@@ -201,7 +296,12 @@
           "is_bold": false,
           "phonetic": "to",
           "speech": "と",
-          "examples": [],
+          "examples": [
+            {
+              "en": "年（とし）",
+              "zh": "年；岁"
+            }
+          ],
           "translations": {
             "zh-CN": "to"
           }
@@ -211,7 +311,12 @@
           "is_bold": false,
           "phonetic": "na",
           "speech": "な",
-          "examples": [],
+          "examples": [
+            {
+              "en": "夏（なつ）",
+              "zh": "夏天"
+            }
+          ],
           "translations": {
             "zh-CN": "na"
           }
@@ -221,7 +326,12 @@
           "is_bold": false,
           "phonetic": "ni",
           "speech": "に",
-          "examples": [],
+          "examples": [
+            {
+              "en": "二（に）",
+              "zh": "数字二"
+            }
+          ],
           "translations": {
             "zh-CN": "ni"
           }
@@ -231,7 +341,12 @@
           "is_bold": false,
           "phonetic": "nu",
           "speech": "ぬ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "脱ぐ（ぬぐ）",
+              "zh": "脱下"
+            }
+          ],
           "translations": {
             "zh-CN": "nu"
           }
@@ -241,7 +356,12 @@
           "is_bold": false,
           "phonetic": "ne",
           "speech": "ね",
-          "examples": [],
+          "examples": [
+            {
+              "en": "猫（ねこ）",
+              "zh": "家猫"
+            }
+          ],
           "translations": {
             "zh-CN": "ne"
           }
@@ -251,7 +371,12 @@
           "is_bold": false,
           "phonetic": "no",
           "speech": "の",
-          "examples": [],
+          "examples": [
+            {
+              "en": "乗る（のる）",
+              "zh": "乘坐"
+            }
+          ],
           "translations": {
             "zh-CN": "no"
           }
@@ -261,7 +386,12 @@
           "is_bold": false,
           "phonetic": "ha",
           "speech": "は",
-          "examples": [],
+          "examples": [
+            {
+              "en": "歯（は）",
+              "zh": "牙齿"
+            }
+          ],
           "translations": {
             "zh-CN": "ha"
           }
@@ -271,7 +401,12 @@
           "is_bold": false,
           "phonetic": "hi",
           "speech": "ひ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "昼（ひる）",
+              "zh": "正午"
+            }
+          ],
           "translations": {
             "zh-CN": "hi"
           }
@@ -281,7 +416,12 @@
           "is_bold": false,
           "phonetic": "fu",
           "speech": "ふ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "冬（ふゆ）",
+              "zh": "冬季"
+            }
+          ],
           "translations": {
             "zh-CN": "fu"
           }
@@ -291,7 +431,12 @@
           "is_bold": false,
           "phonetic": "he",
           "speech": "へ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "辺（へん）",
+              "zh": "附近"
+            }
+          ],
           "translations": {
             "zh-CN": "he"
           }
@@ -301,7 +446,12 @@
           "is_bold": false,
           "phonetic": "ho",
           "speech": "ほ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "本（ほん）",
+              "zh": "书籍"
+            }
+          ],
           "translations": {
             "zh-CN": "ho"
           }
@@ -311,7 +461,12 @@
           "is_bold": false,
           "phonetic": "ma",
           "speech": "ま",
-          "examples": [],
+          "examples": [
+            {
+              "en": "町（まち）",
+              "zh": "城镇"
+            }
+          ],
           "translations": {
             "zh-CN": "ma"
           }
@@ -321,7 +476,12 @@
           "is_bold": false,
           "phonetic": "mi",
           "speech": "み",
-          "examples": [],
+          "examples": [
+            {
+              "en": "右（みぎ）",
+              "zh": "右边"
+            }
+          ],
           "translations": {
             "zh-CN": "mi"
           }
@@ -331,7 +491,12 @@
           "is_bold": false,
           "phonetic": "mu",
           "speech": "む",
-          "examples": [],
+          "examples": [
+            {
+              "en": "村（むら）",
+              "zh": "村庄"
+            }
+          ],
           "translations": {
             "zh-CN": "mu"
           }
@@ -341,7 +506,12 @@
           "is_bold": false,
           "phonetic": "me",
           "speech": "め",
-          "examples": [],
+          "examples": [
+            {
+              "en": "目（め）",
+              "zh": "眼睛"
+            }
+          ],
           "translations": {
             "zh-CN": "me"
           }
@@ -351,7 +521,12 @@
           "is_bold": false,
           "phonetic": "mo",
           "speech": "も",
-          "examples": [],
+          "examples": [
+            {
+              "en": "物（もの）",
+              "zh": "物体"
+            }
+          ],
           "translations": {
             "zh-CN": "mo"
           }
@@ -361,7 +536,12 @@
           "is_bold": false,
           "phonetic": "ya",
           "speech": "や",
-          "examples": [],
+          "examples": [
+            {
+              "en": "山（やま）",
+              "zh": "山峰"
+            }
+          ],
           "translations": {
             "zh-CN": "ya"
           }
@@ -371,7 +551,12 @@
           "is_bold": false,
           "phonetic": "yu",
           "speech": "ゆ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "雪（ゆき）",
+              "zh": "雪"
+            }
+          ],
           "translations": {
             "zh-CN": "yu"
           }
@@ -381,7 +566,12 @@
           "is_bold": false,
           "phonetic": "yo",
           "speech": "よ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "横（よこ）",
+              "zh": "旁边；横向"
+            }
+          ],
           "translations": {
             "zh-CN": "yo"
           }
@@ -391,7 +581,12 @@
           "is_bold": false,
           "phonetic": "ra",
           "speech": "ら",
-          "examples": [],
+          "examples": [
+            {
+              "en": "来週（らいしゅう）",
+              "zh": "下周"
+            }
+          ],
           "translations": {
             "zh-CN": "ra"
           }
@@ -401,7 +596,12 @@
           "is_bold": false,
           "phonetic": "ri",
           "speech": "り",
-          "examples": [],
+          "examples": [
+            {
+              "en": "料理（りょうり）",
+              "zh": "烹饪"
+            }
+          ],
           "translations": {
             "zh-CN": "ri"
           }
@@ -411,7 +611,12 @@
           "is_bold": false,
           "phonetic": "ru",
           "speech": "る",
-          "examples": [],
+          "examples": [
+            {
+              "en": "留守（るす）",
+              "zh": "不在家"
+            }
+          ],
           "translations": {
             "zh-CN": "ru"
           }
@@ -421,7 +626,12 @@
           "is_bold": false,
           "phonetic": "re",
           "speech": "れ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "零（れい）",
+              "zh": "零；零分"
+            }
+          ],
           "translations": {
             "zh-CN": "re"
           }
@@ -431,7 +641,12 @@
           "is_bold": false,
           "phonetic": "ro",
           "speech": "ろ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "廊下（ろうか）",
+              "zh": "走廊"
+            }
+          ],
           "translations": {
             "zh-CN": "ro"
           }
@@ -441,7 +656,12 @@
           "is_bold": false,
           "phonetic": "wa",
           "speech": "わ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "渡す（わたす）",
+              "zh": "递交"
+            }
+          ],
           "translations": {
             "zh-CN": "wa"
           }
@@ -451,7 +671,12 @@
           "is_bold": false,
           "phonetic": "o",
           "speech": "を",
-          "examples": [],
+          "examples": [
+            {
+              "en": "みずをのむ（水を飲む）",
+              "zh": "喝水（を 是宾格助词）"
+            }
+          ],
           "translations": {
             "zh-CN": "o"
           }
@@ -461,7 +686,12 @@
           "is_bold": false,
           "phonetic": "n",
           "speech": "ん",
-          "examples": [],
+          "examples": [
+            {
+              "en": "半（はん）",
+              "zh": "一半"
+            }
+          ],
           "translations": {
             "zh-CN": "n"
           }
@@ -471,7 +701,12 @@
           "is_bold": false,
           "phonetic": "ga",
           "speech": "が",
-          "examples": [],
+          "examples": [
+            {
+              "en": "外国（がいこく）",
+              "zh": "外国的"
+            }
+          ],
           "translations": {
             "zh-CN": "ga"
           }
@@ -481,7 +716,12 @@
           "is_bold": false,
           "phonetic": "gi",
           "speech": "ぎ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "銀行（ぎんこう）",
+              "zh": "银行"
+            }
+          ],
           "translations": {
             "zh-CN": "gi"
           }
@@ -491,7 +731,12 @@
           "is_bold": false,
           "phonetic": "gu",
           "speech": "ぐ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "具合（ぐあい）",
+              "zh": "状况"
+            }
+          ],
           "translations": {
             "zh-CN": "gu"
           }
@@ -501,7 +746,12 @@
           "is_bold": false,
           "phonetic": "ge",
           "speech": "げ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "元気（げんき）",
+              "zh": "有活力的"
+            }
+          ],
           "translations": {
             "zh-CN": "ge"
           }
@@ -511,7 +761,12 @@
           "is_bold": false,
           "phonetic": "go",
           "speech": "ご",
-          "examples": [],
+          "examples": [
+            {
+              "en": "五（ご）",
+              "zh": "五；五个"
+            }
+          ],
           "translations": {
             "zh-CN": "go"
           }
@@ -521,7 +776,12 @@
           "is_bold": false,
           "phonetic": "za",
           "speech": "ざ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "雑誌（ざっし）",
+              "zh": "杂志"
+            }
+          ],
           "translations": {
             "zh-CN": "za"
           }
@@ -531,7 +791,12 @@
           "is_bold": false,
           "phonetic": "ji",
           "speech": "じ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "時間（じかん）",
+              "zh": "时间"
+            }
+          ],
           "translations": {
             "zh-CN": "ji"
           }
@@ -541,7 +806,12 @@
           "is_bold": false,
           "phonetic": "zu",
           "speech": "ず",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ずっと",
+              "zh": "一直；始终"
+            }
+          ],
           "translations": {
             "zh-CN": "zu"
           }
@@ -551,7 +821,12 @@
           "is_bold": false,
           "phonetic": "ze",
           "speech": "ぜ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "全部（ぜんぶ）",
+              "zh": "全体"
+            }
+          ],
           "translations": {
             "zh-CN": "ze"
           }
@@ -561,7 +836,12 @@
           "is_bold": false,
           "phonetic": "zo",
           "speech": "ぞ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "象（ぞう）",
+              "zh": "大象"
+            }
+          ],
           "translations": {
             "zh-CN": "zo"
           }
@@ -571,7 +851,12 @@
           "is_bold": false,
           "phonetic": "da",
           "speech": "だ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "出す（だす）",
+              "zh": "拿出"
+            }
+          ],
           "translations": {
             "zh-CN": "da"
           }
@@ -581,7 +866,12 @@
           "is_bold": false,
           "phonetic": "ji",
           "speech": "ぢ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "縮む（ちぢむ）",
+              "zh": "缩小"
+            }
+          ],
           "translations": {
             "zh-CN": "ji"
           }
@@ -591,7 +881,12 @@
           "is_bold": false,
           "phonetic": "zu",
           "speech": "づ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "続く（つづく）",
+              "zh": "持续"
+            }
+          ],
           "translations": {
             "zh-CN": "zu"
           }
@@ -601,7 +896,12 @@
           "is_bold": false,
           "phonetic": "de",
           "speech": "で",
-          "examples": [],
+          "examples": [
+            {
+              "en": "出る（でる）",
+              "zh": "出去"
+            }
+          ],
           "translations": {
             "zh-CN": "de"
           }
@@ -611,7 +911,12 @@
           "is_bold": false,
           "phonetic": "do",
           "speech": "ど",
-          "examples": [],
+          "examples": [
+            {
+              "en": "動物（どうぶつ）",
+              "zh": "动物"
+            }
+          ],
           "translations": {
             "zh-CN": "do"
           }
@@ -621,7 +926,12 @@
           "is_bold": false,
           "phonetic": "ba",
           "speech": "ば",
-          "examples": [],
+          "examples": [
+            {
+              "en": "晩（ばん）",
+              "zh": "晚上"
+            }
+          ],
           "translations": {
             "zh-CN": "ba"
           }
@@ -631,7 +941,12 @@
           "is_bold": false,
           "phonetic": "bi",
           "speech": "び",
-          "examples": [],
+          "examples": [
+            {
+              "en": "病気（びょうき）",
+              "zh": "疾病"
+            }
+          ],
           "translations": {
             "zh-CN": "bi"
           }
@@ -641,7 +956,12 @@
           "is_bold": false,
           "phonetic": "bu",
           "speech": "ぶ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "豚肉（ぶたにく）",
+              "zh": "猪肉"
+            }
+          ],
           "translations": {
             "zh-CN": "bu"
           }
@@ -651,7 +971,12 @@
           "is_bold": false,
           "phonetic": "be",
           "speech": "べ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "便利（べんり）",
+              "zh": "方便；便利"
+            }
+          ],
           "translations": {
             "zh-CN": "be"
           }
@@ -661,7 +986,12 @@
           "is_bold": false,
           "phonetic": "bo",
           "speech": "ぼ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "帽子（ぼうし）",
+              "zh": "帽子"
+            }
+          ],
           "translations": {
             "zh-CN": "bo"
           }
@@ -671,7 +1001,12 @@
           "is_bold": false,
           "phonetic": "pa",
           "speech": "ぱ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "パン（ぱん）",
+              "zh": "面包"
+            }
+          ],
           "translations": {
             "zh-CN": "pa"
           }
@@ -681,7 +1016,12 @@
           "is_bold": false,
           "phonetic": "pi",
           "speech": "ぴ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ピアノ（ぴあの）",
+              "zh": "钢琴"
+            }
+          ],
           "translations": {
             "zh-CN": "pi"
           }
@@ -691,7 +1031,12 @@
           "is_bold": false,
           "phonetic": "pu",
           "speech": "ぷ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "切符（きっぷ）",
+              "zh": "车票"
+            }
+          ],
           "translations": {
             "zh-CN": "pu"
           }
@@ -701,7 +1046,12 @@
           "is_bold": false,
           "phonetic": "pe",
           "speech": "ぺ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ページ（ぺーじ）",
+              "zh": "页"
+            }
+          ],
           "translations": {
             "zh-CN": "pe"
           }
@@ -711,7 +1061,12 @@
           "is_bold": false,
           "phonetic": "po",
           "speech": "ぽ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "散歩（さんぽ）",
+              "zh": "散步"
+            }
+          ],
           "translations": {
             "zh-CN": "po"
           }
@@ -721,7 +1076,12 @@
           "is_bold": false,
           "phonetic": "kya",
           "speech": "きゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "客（きゃく）",
+              "zh": "客人"
+            }
+          ],
           "translations": {
             "zh-CN": "kya"
           }
@@ -731,7 +1091,12 @@
           "is_bold": false,
           "phonetic": "kyu",
           "speech": "きゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "急（きゅう）",
+              "zh": "紧急"
+            }
+          ],
           "translations": {
             "zh-CN": "kyu"
           }
@@ -741,7 +1106,12 @@
           "is_bold": false,
           "phonetic": "kyo",
           "speech": "きょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "去年（きょねん）",
+              "zh": "去年"
+            }
+          ],
           "translations": {
             "zh-CN": "kyo"
           }
@@ -751,7 +1121,12 @@
           "is_bold": false,
           "phonetic": "shya",
           "speech": "しゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "写真（しゃしん）",
+              "zh": "照片"
+            }
+          ],
           "translations": {
             "zh-CN": "shya"
           }
@@ -761,7 +1136,12 @@
           "is_bold": false,
           "phonetic": "shyu",
           "speech": "しゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "宿題（しゅくだい）",
+              "zh": "家庭作业"
+            }
+          ],
           "translations": {
             "zh-CN": "shyu"
           }
@@ -771,7 +1151,12 @@
           "is_bold": false,
           "phonetic": "shyo",
           "speech": "しょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "食堂（しょくどう）",
+              "zh": "餐厅"
+            }
+          ],
           "translations": {
             "zh-CN": "shyo"
           }
@@ -781,7 +1166,12 @@
           "is_bold": false,
           "phonetic": "chya",
           "speech": "ちゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "茶色（ちゃいろ）",
+              "zh": "棕色"
+            }
+          ],
           "translations": {
             "zh-CN": "chya"
           }
@@ -791,7 +1181,12 @@
           "is_bold": false,
           "phonetic": "chyu",
           "speech": "ちゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "注文（ちゅうもん）",
+              "zh": "点单"
+            }
+          ],
           "translations": {
             "zh-CN": "chyu"
           }
@@ -801,7 +1196,12 @@
           "is_bold": false,
           "phonetic": "chyo",
           "speech": "ちょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "著者（ちょしゃ）",
+              "zh": "作者"
+            }
+          ],
           "translations": {
             "zh-CN": "chyo"
           }
@@ -811,7 +1211,12 @@
           "is_bold": false,
           "phonetic": "nya",
           "speech": "にゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "にゃあ",
+              "zh": "喵（猫叫声）"
+            }
+          ],
           "translations": {
             "zh-CN": "nya"
           }
@@ -821,7 +1226,12 @@
           "is_bold": false,
           "phonetic": "nyu",
           "speech": "にゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "入学（にゅうがく）",
+              "zh": "入学"
+            }
+          ],
           "translations": {
             "zh-CN": "nyu"
           }
@@ -831,7 +1241,12 @@
           "is_bold": false,
           "phonetic": "nyo",
           "speech": "にょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "女房（にょうぼう）",
+              "zh": "妻子；老婆（口语）"
+            }
+          ],
           "translations": {
             "zh-CN": "nyo"
           }
@@ -841,7 +1256,12 @@
           "is_bold": false,
           "phonetic": "hya",
           "speech": "ひゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "百（ひゃく）",
+              "zh": "百；一百"
+            }
+          ],
           "translations": {
             "zh-CN": "hya"
           }
@@ -851,7 +1271,12 @@
           "is_bold": false,
           "phonetic": "hyu",
           "speech": "ひゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ヒューズ（ひゅーず）",
+              "zh": "保险丝"
+            }
+          ],
           "translations": {
             "zh-CN": "hyu"
           }
@@ -861,7 +1286,12 @@
           "is_bold": false,
           "phonetic": "hyo",
           "speech": "ひょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "表（ひょう）",
+              "zh": "表格；清单"
+            }
+          ],
           "translations": {
             "zh-CN": "hyo"
           }
@@ -871,7 +1301,12 @@
           "is_bold": false,
           "phonetic": "mya",
           "speech": "みゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "山脈（さんみゃく）",
+              "zh": "山脉"
+            }
+          ],
           "translations": {
             "zh-CN": "mya"
           }
@@ -881,7 +1316,12 @@
           "is_bold": false,
           "phonetic": "myu",
           "speech": "みゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ミュージック（みゅーじっく）",
+              "zh": "音乐"
+            }
+          ],
           "translations": {
             "zh-CN": "myu"
           }
@@ -891,7 +1331,12 @@
           "is_bold": false,
           "phonetic": "myo",
           "speech": "みょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "名字（みょうじ）",
+              "zh": "姓氏（日语中指姓）"
+            }
+          ],
           "translations": {
             "zh-CN": "myo"
           }
@@ -901,7 +1346,12 @@
           "is_bold": false,
           "phonetic": "rya",
           "speech": "りゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "略す（りゃくす）",
+              "zh": "省略；简称"
+            }
+          ],
           "translations": {
             "zh-CN": "rya"
           }
@@ -911,7 +1361,12 @@
           "is_bold": false,
           "phonetic": "ryu",
           "speech": "りゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "留学生（りゅうがくせい）",
+              "zh": "留学生"
+            }
+          ],
           "translations": {
             "zh-CN": "ryu"
           }
@@ -921,7 +1376,12 @@
           "is_bold": false,
           "phonetic": "ryo",
           "speech": "りょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "旅行（りょこう）",
+              "zh": "旅程"
+            }
+          ],
           "translations": {
             "zh-CN": "ryo"
           }
@@ -931,7 +1391,12 @@
           "is_bold": false,
           "phonetic": "gya",
           "speech": "ぎゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "逆（ぎゃく）",
+              "zh": "相反的"
+            }
+          ],
           "translations": {
             "zh-CN": "gya"
           }
@@ -941,7 +1406,12 @@
           "is_bold": false,
           "phonetic": "gyu",
           "speech": "ぎゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "牛肉（ぎゅうにく）",
+              "zh": "牛肉"
+            }
+          ],
           "translations": {
             "zh-CN": "gyu"
           }
@@ -951,7 +1421,12 @@
           "is_bold": false,
           "phonetic": "gyo",
           "speech": "ぎょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "行儀（ぎょうぎ）",
+              "zh": "礼仪"
+            }
+          ],
           "translations": {
             "zh-CN": "gyo"
           }
@@ -961,7 +1436,12 @@
           "is_bold": false,
           "phonetic": "jya",
           "speech": "じゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "神社（じんじゃ）",
+              "zh": "神社"
+            }
+          ],
           "translations": {
             "zh-CN": "jya"
           }
@@ -971,7 +1451,12 @@
           "is_bold": false,
           "phonetic": "jyu",
           "speech": "じゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "授業（じゅぎょう）",
+              "zh": "课程"
+            }
+          ],
           "translations": {
             "zh-CN": "jyu"
           }
@@ -981,7 +1466,12 @@
           "is_bold": false,
           "phonetic": "jyo",
           "speech": "じょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "女性（じょせい）",
+              "zh": "女人"
+            }
+          ],
           "translations": {
             "zh-CN": "jyo"
           }
@@ -991,7 +1481,12 @@
           "is_bold": false,
           "phonetic": "bya",
           "speech": "びゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "さんびゃく（三百）",
+              "zh": "三百"
+            }
+          ],
           "translations": {
             "zh-CN": "bya"
           }
@@ -1001,7 +1496,12 @@
           "is_bold": false,
           "phonetic": "byu",
           "speech": "びゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ビュッフェ（びゅっふぇ）",
+              "zh": "自助餐"
+            }
+          ],
           "translations": {
             "zh-CN": "byu"
           }
@@ -1011,7 +1511,12 @@
           "is_bold": false,
           "phonetic": "byo",
           "speech": "びょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "病院（びょういん）",
+              "zh": "医院"
+            }
+          ],
           "translations": {
             "zh-CN": "byo"
           }
@@ -1021,7 +1526,12 @@
           "is_bold": false,
           "phonetic": "pya",
           "speech": "ぴゃ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ろっぴゃく（六百）",
+              "zh": "六百"
+            }
+          ],
           "translations": {
             "zh-CN": "pya"
           }
@@ -1031,7 +1541,12 @@
           "is_bold": false,
           "phonetic": "pyu",
           "speech": "ぴゅ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "ピューマ（ぴゅーま）",
+              "zh": "美洲狮"
+            }
+          ],
           "translations": {
             "zh-CN": "pyu"
           }
@@ -1041,7 +1556,12 @@
           "is_bold": false,
           "phonetic": "pyo",
           "speech": "ぴょ",
-          "examples": [],
+          "examples": [
+            {
+              "en": "発表（はっぴょう）",
+              "zh": "发表"
+            }
+          ],
           "translations": {
             "zh-CN": "pyo"
           }

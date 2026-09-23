@@ -583,7 +583,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "电视（television 的缩写）"
           }
         },
         {
@@ -1634,20 +1634,6 @@
           ],
           "translations": {
             "zh-CN": "钱；财富"
-          }
-        },
-        {
-          "text": "Vocabulary from Primary School",
-          "is_bold": false,
-          "phonetic": "voʊˈkæbjəˌlɛri frəm ˈpraɪˌmɛri skul",
-          "examples": [
-            {
-              "en": "This is a primary school book.",
-              "zh": "这是一本小学书。"
-            }
-          ],
-          "translations": {
-            "zh-CN": ""
           }
         }
       ]

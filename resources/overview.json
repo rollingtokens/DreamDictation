@@ -301,35 +301,35 @@
                       "displayName": "N5 词汇",
                       "path": "zh_CN/Japanese/JLPT/N5.json",
                       "language": "ja-JP",
-                      "minimumAppVersion": "1.11"
+                      "minimumAppVersion": "1.10"
                     },
                     {
                       "id": "N4",
                       "displayName": "N4 词汇",
                       "path": "zh_CN/Japanese/JLPT/N4.json",
                       "language": "ja-JP",
-                      "minimumAppVersion": "1.11"
+                      "minimumAppVersion": "1.10"
                     },
                     {
                       "id": "N3",
                       "displayName": "N3 词汇",
                       "path": "zh_CN/Japanese/JLPT/N3.json",
                       "language": "ja-JP",
-                      "minimumAppVersion": "1.11"
+                      "minimumAppVersion": "1.10"
                     },
                     {
                       "id": "N2",
                       "displayName": "N2 词汇",
                       "path": "zh_CN/Japanese/JLPT/N2.json",
                       "language": "ja-JP",
-                      "minimumAppVersion": "1.11"
+                      "minimumAppVersion": "1.10"
                     },
                     {
                       "id": "N1",
                       "displayName": "N1 词汇",
                       "path": "zh_CN/Japanese/JLPT/N1.json",
                       "language": "ja-JP",
-                      "minimumAppVersion": "1.11"
+                      "minimumAppVersion": "1.10"
                     }
                   ]
                 }
@@ -347,7 +347,8 @@
                       "id": "五十音",
                       "displayName": "五十音图",
                       "path": "zh_CN/Japanese/入门/五十音.json",
-                      "language": "ja-JP"
+                      "language": "ja-JP",
+                      "minimumAppVersion": "1.10"
                     }
                   ]
                 }

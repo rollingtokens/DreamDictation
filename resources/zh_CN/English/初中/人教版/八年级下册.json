@@ -1719,17 +1719,17 @@
           }
         },
         {
-          "text": "badly worse",
+          "text": "badly",
           "is_bold": false,
-          "phonetic": "ˈbædli wərs",
+          "phonetic": "ˈbædli",
           "examples": [
             {
-              "en": "My score was badly worse than yours.",
-              "zh": "我的分数比你的差得多/糟得多。"
+              "en": "She was badly hurt in the accident.",
+              "zh": "她在事故中受了重伤。"
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "糟糕地；严重地（比较级 worse，最高级 worst）"
           }
         },
         {
@@ -2216,9 +2216,9 @@
           }
         },
         {
-          "text": "forgive forgave",
+          "text": "forgive",
           "is_bold": false,
-          "phonetic": "fərˈgɪv fərˈgeɪv",
+          "phonetic": "fərˈɡɪv",
           "examples": [
             {
               "en": "Please forgive my mistake.",
@@ -2226,7 +2226,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "原谅；宽恕（过去式 forgave，过去分词 forgiven）"
           }
         },
         {
@@ -2240,7 +2240,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "每人；人人"
           }
         },
         {
@@ -2562,7 +2562,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "道歉；谢罪"
           }
         },
         {
@@ -2916,17 +2916,17 @@
           }
         },
         {
-          "text": "ring t rang rung",
+          "text": "ring",
           "is_bold": false,
-          "phonetic": "rɪŋ ti ræŋ rəŋ",
+          "phonetic": "rɪŋ",
           "examples": [
             {
-              "en": "The bell rings ring t rang rung.",
-              "zh": "铃铛响了，叮当响。 (ring: 响/鸣叫)"
+              "en": "The bell rings at eight every morning.",
+              "zh": "铃每天早上八点响。"
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "铃声；响；打电话（过去式 rang，过去分词 rung）"
           }
         },
         {
@@ -4848,17 +4848,17 @@
           }
         },
         {
-          "text": "thank fully",
+          "text": "thankfully",
           "is_bold": false,
-          "phonetic": "θæŋk ˈfʊli",
+          "phonetic": "ˈθæŋkfəli",
           "examples": [
             {
-              "en": "She thanked him thankfully today.",
-              "zh": "她今天很感谢他。"
+              "en": "Thankfully, nobody was hurt.",
+              "zh": "幸好没有人受伤。"
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "感激地；幸亏；幸好"
           }
         },
         {
@@ -6055,7 +6055,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "首先；第一"
           }
         },
         {
@@ -6328,7 +6328,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "被宠坏的；娇惯的"
           }
         },
         {
@@ -6598,9 +6598,9 @@
           }
         },
         {
-          "text": "steal stole",
+          "text": "steal",
           "is_bold": false,
-          "phonetic": "stil stoʊl",
+          "phonetic": "stiːl",
           "examples": [
             {
               "en": "She stole my red pencil.",
@@ -6608,7 +6608,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "偷；窃取（过去式 stole，过去分词 stolen）"
           }
         },
         {
@@ -6762,7 +6762,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "推荐；建议"
           }
         },
         {
@@ -7004,9 +7004,9 @@
           }
         },
         {
-          "text": "Harry Potter and the",
+          "text": "Harry Potter and the Sorcerer's Stone",
           "is_bold": false,
-          "phonetic": "ˈhɛri ˈpɑtər ənd ðə",
+          "phonetic": "ˈhæri ˈpɒtər ænd ðə ˈsɔːrsərərz stoʊn",
           "examples": [
             {
               "en": "I like Harry Potter and the Sorcerer's Stone.",
@@ -7014,11 +7014,11 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "《哈利·波特与魔法石》"
           }
         },
         {
-          "text": "Stone",
+          "text": "stone",
           "is_bold": false,
           "phonetic": "stoʊn",
           "examples": [
@@ -7028,7 +7028,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "哈利 • 波特与魔法石》"
+            "zh-CN": "石头；石块"
           }
         },
         {
@@ -7099,20 +7099,6 @@
           ],
           "translations": {
             "zh-CN": "夏洛克•福尔摩斯"
-          }
-        },
-        {
-          "text": "The Romance of the",
-          "is_bold": false,
-          "phonetic": "ðə ˈroʊmæns əv ðə",
-          "examples": [
-            {
-              "en": "The romance of the city bloomed.",
-              "zh": "城市的浪漫盛开了。"
-            }
-          ],
-          "translations": {
-            "zh-CN": ""
           }
         },
         {
@@ -7256,23 +7242,23 @@
           }
         },
         {
-          "text": "The Wonderful Wizard",
+          "text": "The Wonderful Wizard of Oz",
           "is_bold": false,
-          "phonetic": "ðə ˈwəndərfəl ˈwɪzərd",
+          "phonetic": "ðə ˈwʌndərfəl ˈwɪzərd əv ɒz",
           "examples": [
             {
-              "en": "The Wonderful Wizard is very kind.",
-              "zh": "那个奇妙的巫师非常善良。 (Wonderful Wizard is kind)"
+              "en": "I read The Wonderful Wizard of Oz last week.",
+              "zh": "我上周读了《绿野仙踪》。"
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "《绿野仙踪》"
           }
         },
         {
           "text": "Oz",
           "is_bold": false,
-          "phonetic": "ɑz",
+          "phonetic": "ɒz",
           "examples": [
             {
               "en": "We went to Oz yesterday.",
@@ -7280,7 +7266,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "绿野仙踪》"
+            "zh-CN": "奥兹国（《绿野仙踪》中的国度）"
           }
         },
         {
@@ -7340,17 +7326,17 @@
           }
         },
         {
-          "text": "Frances Hodgson",
+          "text": "Frances Hodgson Burnett",
           "is_bold": false,
-          "phonetic": "ˈfrænsɪs ˈhɑʤsən",
+          "phonetic": "ˈfrænsɪs ˈhɒdʒsən bərˈnɛt",
           "examples": [
             {
-              "en": "Frances Hodgson likes to read books.",
-              "zh": "弗朗西斯·霍奇森喜欢看书。"
+              "en": "Frances Hodgson Burnett wrote The Secret Garden.",
+              "zh": "弗朗西斯·霍奇森·伯内特写了《秘密花园》。"
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "弗朗西斯·霍奇森·伯内特（《秘密花园》作者）"
           }
         },
         {
@@ -7364,7 +7350,7 @@
             }
           ],
           "translations": {
-            "zh-CN": "弗朗西斯•霍奇森•伯内特"
+            "zh-CN": "伯内特（姓氏，《秘密花园》作者的姓）"
           }
         },
         {
@@ -8071,7 +8057,7 @@
             }
           ],
           "translations": {
-            "zh-CN": ""
+            "zh-CN": "广告"
           }
         },
         {
@@ -8198,20 +8184,6 @@
           ],
           "translations": {
             "zh-CN": "菲律宾"
-          }
-        },
-        {
-          "text": "Vocabulary in Earh nit",
-          "is_bold": false,
-          "phonetic": "voʊˈkæbjəˌlɛri ɪn earh* nɪt",
-          "examples": [
-            {
-              "en": "The apple is a fruit in Earth night.",
-              "zh": "苹果是地球上的水果。"
-            }
-          ],
-          "translations": {
-            "zh-CN": ""
           }
         }
       ]
